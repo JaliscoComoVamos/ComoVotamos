@@ -1,10 +1,11 @@
 port:  5000
 markdown: kramdown
-name: "My Reps"
+name: "Jalisco Cómo Votamos 2018"
 url: http://findmyreps.datamade.us
 encoding: utf-8
-timezone: America/Chicago
-description: "Enter your address to find and contact your federal, state, county and local elected representatives"
-gems:
+timezone: America/Mexico_City
+lang: es-MX
+description: "Ingresa tu dirección para ubicar a los candidatos federales, estatales y locales en el estado de Jalisco, México."
+plugins:
   - jekyll-redirect-from
-google_api_key: AIzaSyAVQrWzBeHiKaOiNwkEyLkxDV8-jUbTmTw
+google_api_key: AIzaSyBDvX3ntDaPBMXuuV2Fj9ZjKGZGTfXzy4k

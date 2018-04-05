@@ -7,26 +7,32 @@ layout: default
 <div class="row">
     <div class='col-md-10 col-md-offset-1'>
         <div class="input-group input-group-lg col-sm-8 col-sm-offset-2">
-            <input type="text" class="form-control" placeholder="Enter your address to find who represents you" id="address" name="address" >
+            <input type="text" class="form-control" placeholder="Ingresa tu dirección" id="address" name="address" >
             <span class="input-group-btn">
-                <button class="btn btn-info" type="submit" id="address-search"><i class='fa fa-search'></i> <span class='hidden-xs hidden-sm'>Search</span></button>
-                <button class="btn btn-default" type="submit" id="find-me"><i class='fa fa-crosshairs'></i> <span class='hidden-xs hidden-sm'>Find me</span> </button>
+                <button class="btn btn-info" type="submit" id="address-search"><i class='fa fa-search'></i> <span class='hidden-xs hidden-sm'>Buscar</span></button>
+                <button class="btn btn-default" type="submit" id="find-me"><i class='fa fa-crosshairs'></i> <span class='hidden-xs hidden-sm'>Usar mi ubicación</span> </button>
             </span>
         </div>
         <div class='col-sm-8 col-sm-offset-2 filter_level'>
             <br /><p class='text-center'>
-                Show level of government:
+                Mostrar candidatos a:<br/> 
                 <label>
-                    <input type="checkbox" id="show_local_results" value="Local"> Local
+                    <input type="checkbox" id="show_alcalde_results" value="Alcalde"> Alcalde
                 </label>
                 <label>
-                    <input type="checkbox" id="show_county_results" value="County"> County
+                    <input type="checkbox" id="show_dl_results" value="Diputado Local"> Diputado Local
                 </label>
                 <label>
-                    <input type="checkbox" id="show_state_results" value="State"> State
+                    <input type="checkbox" id="show_df_results" value="Diputado Federal"> Diputado Federal
                 </label>
                 <label>
-                    <input type="checkbox" id="show_federal_results" value="Federal"> Federal
+                    <input type="checkbox" id="show_senador_results" value="Senador"> Senador
+                </label>
+                <label>
+                    <input type="checkbox" id="show_gobernador_results" value="Gobernador"> Gobernador
+                </label>
+                <label>
+                    <input type="checkbox" id="show_presidente_results" value="Presidente"> Presidente
                 </label>
             </p>
         </div>
@@ -37,8 +43,8 @@ layout: default
     <div class='col-md-10 col-md-offset-1'>
         <div id='no-response-container' class='text-center' style="display:none;">
             <h1><i class='fa fa-exclamation-triangle'></i> </h1>
-            <h3>No representatives found</h3>
-            <p>We couldn't find any representatives for that address. Please try again.</p>
+            <h3>No se encontraron candidatos.</h3>
+            <p>No pudimos encontrar ningún candidato para esa dirección. Verifica que la dirección ingresada esté dentro de Jalisco, México e intenta de nuevo.</p>
         </div>
         <div id='response-container' style="display:none;">
 
@@ -48,7 +54,7 @@ layout: default
             <br />
 
             <p class="lead text-center" id='results-nav'>
-                Levels of government<br />
+                Candidaturas<br />
                   <span id='local-nav' style='display: none;'>
                     <a id="local-name-nav" href="#local-name"></a>
                   </span>
@@ -156,7 +162,7 @@ layout: default
 <div class='row'>
     <div class='col-md-5 col-md-offset-2'>
         <br />
-        <h2>About</h2>
+        <h2>Acerca de</h2>
         <div class='about'>
             <p>This is a tool for looking up who your <a href='https://en.wikipedia.org/wiki/Representative_democracy' target='_blank'>elected representatives</a> are across the United States. Based on your address, we can find all the federal, state, county and local officials who represent you in government.</p>
 
@@ -168,7 +174,7 @@ layout: default
         </div>
     </div>
     <div class='col-md-3 hidden-xs hidden-sm'>
-        <img class='img-responsive' src='images/usa.png' title='The United States of America'  alt='The United States of America' />
+        <img class='img-responsive' src='images/jalisco.png' title='Jalisco'  alt='Jalisco' />
     </div>
 </div>
 
