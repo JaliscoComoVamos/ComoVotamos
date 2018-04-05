@@ -1,7 +1,5 @@
 # Jalisco Cómo Votamos
 
-https://jaliscocomovotamos.herokuapp.com/
-
 # My Reps
 
 My Reps helps you locate and contact your federal, state, county and local elected representatives. Based on [my-reps-pbp](https://github.com/datamade/my-reps-pbp) by [DataMade](https://datamade.us/) and [Participatory Budgeting Project](http://participatorybudgeting.org/). Powered by the [Google Civic Information API](https://developers.google.com/civic-information/).
