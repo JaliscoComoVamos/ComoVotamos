@@ -4,7 +4,7 @@ url:
 encoding: utf-8
 timezone: America/Mexico_City
 lang: es-MX
-description: "Ingresa tu dirección para ubicar a los candidatos federales, estatales y locales en el estado de Jalisco, México."
+description: "Conoce a los candidatos federales, estatales y locales en el estado de Jalisco, México."
 gems:
   - jekyll-redirect-from
-google_api_key: AIzaSyBDvX3ntDaPBMXuuV2Fj9ZjKGZGTfXzy4k
+google_api_key: AIzaSyCCHOtkHXgr5YvKnfLlXe9ZOFEmSQbVrQU

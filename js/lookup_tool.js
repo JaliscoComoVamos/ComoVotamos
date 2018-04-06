@@ -26,9 +26,12 @@ var social_link_lookup = {
     'GooglePlus': 'https://plus.google.com/'
 };
 
-var selected_state = '';
-var selected_county = '';
-var selected_local = '';
+var selected_alcalde = '';
+var selected_dl = '';
+var selected_df = '';
+var selected_senador = '';
+var selected_gobernador = '';
+var selected_presidente = '';
 var all_people = {};
 var pseudo_id = 1;
 
@@ -36,29 +39,41 @@ function addressSearch() {
 
     // configuration for showing representatives at different levels of government
 
-    var show_local   = false;
-    var show_county  = false;
-    var show_state   = false;
-    var show_federal = false;
+    var show_alcalde   = false;
+    var show_dl  = false;
+    var show_df   = false;
+    var show_senador = false;
+    var show_gobernador = false;
+    var show_presidente = false;
+
 
     var results_level_set = [];
     // set levels from checkboxes
-    if ($('#show_local_results').is(':checked')) {
-        show_local = true;
-        results_level_set.push('local');
+    if ($('#show_alcalde_results').is(':checked')) {
+        show_alcalde = true;
+        results_level_set.push('Alcalde');
     }
-    if ($('#show_county_results').is(':checked')) {
-        show_county = true;
-        results_level_set.push('county');
+    if ($('#show_dl_results').is(':checked')) {
+        show_dl = true;
+        results_level_set.push('Diputado Local');
     }
-    if ($('#show_state_results').is(':checked')) {
-        show_state = true;
-        results_level_set.push('state');
+    if ($('#show_df_results').is(':checked')) {
+        show_df = true;
+        results_level_set.push('Diputado Federal');
     }
-    if ($('#show_federal_results').is(':checked')) {
-        show_federal = true;
-        results_level_set.push('federal');
+    if ($('#show_senador_results').is(':checked')) {
+        show_senador = true;
+        results_level_set.push('Senador');
     }
+    if ($('#show_gobernador_results').is(':checked')) {
+        show_gobernador = true;
+        results_level_set.push('Gobernador');
+    }
+    if ($('#show_presidente_results').is(':checked')) {
+        show_presidente = true;
+        results_level_set.push('Presidente');
+    }
+
 
     $.address.parameter('results_level', results_level_set);
 
@@ -81,16 +96,22 @@ function addressSearch() {
 
         $('table tbody').empty();
 
-        selected_state = '';
-        selected_county = '';
-        selected_local = '';
+        selected_alcalde = '';
+        selected_dl = '';
+        selected_df = '';
+        selected_senador = '';
+        selected_gobernador = '';
+        selected_presidente = '';
         all_people = {};
         pseudo_id = 1;
 
-        var federal_people = [];
-        var state_people = [];
-        var county_people = [];
-        var local_people = [];
+        var alcalde_people = [];
+        var dl_people = [];
+        var df_people = [];
+        var senador_people = [];
+        var gobernador_people = [];
+        var presidente_people = [];
+
 
         // console.log(data);
         // console.log(divisions);
@@ -176,62 +197,102 @@ function addressSearch() {
 
             var template = new EJS({'text': $('#tableGuts').html()});
             
-            if (show_federal) {
-                $('#federal-container').show();
-                $('#fed-nav').show();
-                $('#federal-results tbody').append(template.render({people: federal_people}));
+            if (show_presidente) {
+                $('#presidente-container').show();
+                $('#presidente-nav').show();
+                $('#presidente-results tbody').append(template.render({people: presidente_people}));
             } else {
-                $('#federal-container').hide()
-                $('#fed-nav').hide();
+                $('#presidente-container').hide()
+                $('#presidente-nav').hide();
             }
 
-            if (show_state) {
-                $('#state-container').show();
-                $('#state-nav').show();
-                if (state_people.length == 0)
-                    $('#state-container').hide();
-                $('#state-results tbody').append(template.render({people: state_people}));
+            if (show_gobernador) {
+                $('#gobernador-container').show();
+                $('#gobernador-nav').show();
+                if (gobernador_people.length == 0)
+                    $('#gobernador-container').hide();
+                $('#gobernador-results tbody').append(template.render({people: gobernador_people}));
             } else {
-                $('#state-container').hide()
-                $('#state-nav').hide();
+                $('#gobernador-container').hide()
+                $('#gobernador-nav').hide();
             }                
 
-            if (show_county) {
-                if (county_people.length == 0) {
-                    $('#county-container').hide();
-                    if (selected_county == '')
-                        $('#county-container-not-found').hide();
+            if (show_alcalde) {
+                if (alcalde_people.length == 0) {
+                    $('#alcalde-container').hide();
+                    if (selected_alcalde == '')
+                        $('#alcalde-container-not-found').hide();
                     else
-                        $('#county-container-not-found').show();
+                        $('#alcalde-container-not-found').show();
                 }
                 else {
-                    $('#county-container').show();
-                    $('#county-container-not-found').hide();
+                    $('#alcalde-container').show();
+                    $('#alcalde-container-not-found').hide();
                 }
 
-                $('#county-results tbody').append(template.render({people: county_people}));
+                $('#alcalde-results tbody').append(template.render({people: alcalde_people}));
             } else {
-                $('#county-container').hide()
-                $('#county-nav').hide();
+                $('#alcalde-container').hide()
+                $('#alcalde-nav').hide();
             }  
 
-            if (show_local) {    
-                if (local_people.length == 0) {
-                    $('#local-container').hide();
-                    if (selected_local == '')
-                        $('#local-container-not-found').hide();
+            if (show_dl) {
+                if (dl_people.length == 0) {
+                    $('#dl-container').hide();
+                    if (selected_dl == '')
+                        $('#dl-container-not-found').hide();
                     else
-                        $('#local-container-not-found').show();
+                        $('#dl-container-not-found').show();
                 }
                 else {
-                    $('#local-container').show();
-                    $('#local-container-not-found').hide();
+                    $('#dl-container').show();
+                    $('#dl-container-not-found').hide();
                 }
-                $('#local-results tbody').append(template.render({people: local_people}));   
+
+                $('#dl-results tbody').append(template.render({people: dl_people}));
             } else {
-                $('#local-container').hide()
-                $('#local-nav').hide();
+                $('#dl-container').hide()
+                $('#dl-nav').hide();
             }
+
+            if (show_df) {
+                if (df_people.length == 0) {
+                    $('#df-container').hide();
+                    if (selected_df == '')
+                        $('#df-container-not-found').hide();
+                    else
+                        $('#df-container-not-found').show();
+                }
+                else {
+                    $('#df-container').show();
+                    $('#df-container-not-found').hide();
+                }
+
+                $('#df-results tbody').append(template.render({people: df_people}));
+            } else {
+                $('#df-container').hide()
+                $('#df-nav').hide();
+            }    
+
+            if (show_senador) {
+                if (senador_people.length == 0) {
+                    $('#senador-container').hide();
+                    if (selected_senador == '')
+                        $('#senador-container-not-found').hide();
+                    else
+                        $('#senador-container-not-found').show();
+                }
+                else {
+                    $('#senador-container').show();
+                    $('#senador-container-not-found').hide();
+                }
+
+                $('#senador-results tbody').append(template.render({people: senador_people}));
+            } else {
+                $('#senador-container').hide()
+                $('#senador-nav').hide();
+            }  
+
 
             $('#response-container').show();
             $("#no-response-container").hide();
@@ -272,41 +333,61 @@ function findMe() {
             });
 
         }, function error(msg) {
-            alert('Please enable your GPS position feature.');
+            alert('Permite que el sitio use tu ubicación.');
         }, {
             //maximumAge: 600000,
             //timeout: 5000,
             enableHighAccuracy: true
         });
     } else {
-        alert("Geolocation API is not supported in your browser.");
+        alert("La API de geolocalización no es compatible con tu navegador.");
     }
 };
 
 function setFoundDivisions(divisions){
     
     // reset the labels
-    $("#state-nav").hide();
-    $("#county-nav").hide();
-    $("#local-nav").hide();
+    $("#alcalde-nav").hide();
+    $("#dl-nav").hide();
+    $("#df-nav").hide();
+    $("#senador-nav").hide();
+    $("#gobernador-nav").hide();
+    $("#presidente-nav").hide();
 
     // console.log(divisions)
     $.each(divisions, function(division_id, division){
-        if (state_pattern.test(division_id)) {
-            selected_state = division.name;
-            $("[id^=state-name]").html(selected_state);
-            $("#state-nav").show();
+        if (alcalde_pattern.test(division_id)) {
+            selected_alcalde = division.name;
+            $("[id^=alcalde-name]").html(selected_alcalde);
+            $("#alcalde-nav").show();
         }
-        if (county_pattern.test(division_id)) {
-            selected_county = division.name;
-            $("[id^=county-name]").html(selected_county);
-            $("#county-nav").show();
+        if (dl_pattern.test(division_id)) {
+            selected_dl = division.name;
+            $("[id^=dl-name]").html(selected_dl);
+            $("#dl-nav").show();
         }
-        if (local_pattern.test(division_id) || district_pattern.test(division_id)) {
-            selected_local = division.name;
-            $("[id^=local-name]").html(selected_local);
-            $("#local-nav").show();
+        if (df_pattern.test(division_id)) {
+            selected_df = division.name;
+            $("[id^=df-name]").html(selected_df);
+            $("#df-nav").show();
         }
+        if (senador_pattern.test(division_id)) {
+            selected_senador = division.name;
+            $("[id^=senador-name]").html(selected_senador);
+            $("#senador-nav").show();
+        }
+        if (senador_pattern.test(division_id)) {
+            selected_senador = division.name;
+            $("[id^=senador-name]").html(selected_senador);
+            $("#senador-nav").show();
+        }
+        if (presidente_pattern.test(division_id)) {
+            selected_presidente = division.name;
+            $("[id^=presidente-name]").html(selected_presidente);
+            $("#presidente-nav").show();
+        }
+
+
     });
 }
 

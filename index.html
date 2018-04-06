@@ -17,22 +17,22 @@ layout: default
             <br /><p class='text-center'>
                 Mostrar candidatos a:<br/> 
                 <label>
-                    <input type="checkbox" id="show_alcalde_results" value="Alcalde"> Alcalde
+                    <input type="checkbox" id="show_alcalde_results" value="local"> Alcalde
                 </label>
                 <label>
-                    <input type="checkbox" id="show_dl_results" value="Diputado Local"> Diputado Local
+                    <input type="checkbox" id="show_dl_results" value="local"> Diputado Local
                 </label>
                 <label>
-                    <input type="checkbox" id="show_df_results" value="Diputado Federal"> Diputado Federal
+                    <input type="checkbox" id="show_df_results" value="local"> Diputado Federal
                 </label>
                 <label>
-                    <input type="checkbox" id="show_senador_results" value="Senador"> Senador
+                    <input type="checkbox" id="show_senador_results" value="local"> Senador
                 </label>
                 <label>
-                    <input type="checkbox" id="show_gobernador_results" value="Gobernador"> Gobernador
+                    <input type="checkbox" id="show_gobernador_results" value="state"> Gobernador
                 </label>
                 <label>
-                    <input type="checkbox" id="show_presidente_results" value="Presidente"> Presidente
+                    <input type="checkbox" id="show_presidente_results" value="federal"> Presidente
                 </label>
             </p>
         </div>
@@ -55,19 +55,25 @@ layout: default
 
             <p class="lead text-center" id='results-nav'>
                 Candidaturas<br />
-                  <span id='local-nav' style='display: none;'>
-                    <a id="local-name-nav" href="#local-name"></a>
+                  <span id='alcalde-nav' style='display: none;'>
+                    <a id="alcalde-name-nav" href="#local-name"></a>
                   </span>
-                  <span id='county-nav' style='display: none;'>
-                    <a id="county-name-nav" href="#county-name"></a>
+                  <span id='dl-nav' style='display: none;'>
+                    <a id="dl-name-nav" href="#dl-name"></a>
                   </span>
-                  <span id='state-nav' style='display: none;'>
-                    <a id="state-name-nav" href="#state-name"></a>
+                  <span id='df-nav' style='display: none;'>
+                    <a id="df-name-nav" href="#df-name"></a>
                   </span>
-                  <span id='fed-nav'>
-                    <a id="federal-name-nav" href="#federal-name">Federal</a></li>
+                  <span id='senador-nav'>
+                    <a id="senador-name-nav" href="#senador-name"></a></li>
                   </span>
-                  
+                  <span id='gobernador-nav'>
+                    <a id="gobernador-name-nav" href="#gobernador-name"></a></li>
+                  </span>
+                  <span id='presidente-nav'>
+                    <a id="presidente-name-nav" href="#presidente-name"></a></li>
+                  </span>
+
                 </ul>
             </p>
 
@@ -75,10 +81,10 @@ layout: default
 
             <p class='text-center'><small><em>Note: Data comes from the <a target='_blank' href='https://developers.google.com/civic-information/'>Google Civic Information API</a>, which does not have 100% coverage of all representatives.<br />If you notice an issue with the data, please <a target='_blank' href='https://docs.google.com/forms/d/e/1FAIpQLScFpFTOkTpm0YoerLLprY_ySS9PRXLsu27SM01hebHqkefW2Q/viewform'>report it to Google</a>.</em></small></p>
 
-            <div id='local-container'>
+            <div id='alcalde-container'>
                 <br />
-                <h3 class='text-center' id="local-name"></h3>
-                <table id="local-results" class="table table-striped table-responsive">
+                <h3 class='text-center' id="alcalde-name"></h3>
+                <table id="alcalde-results" class="table table-striped table-responsive">
                     <thead>
                         <tr>
                             <th></th>
@@ -93,8 +99,8 @@ layout: default
                     <tbody></tbody>
                 </table>
             </div>
-            <div id='local-container-not-found' style='display: none;' class='text-center'>
-                <h3 class='text-center' id="local-name-not-found"></h3>
+            <div id='alcalde-container-not-found' style='display: none;' class='text-center'>
+                <h3 class='text-center' id="alcalde-name-not-found"></h3>
                 <p>We couldn't find any representatives for this area</p>
             </div>
 
@@ -164,11 +170,9 @@ layout: default
         <br />
         <h2>Acerca de</h2>
         <div class='about'>
-            <p>This is a tool for looking up who your <a href='https://en.wikipedia.org/wiki/Representative_democracy' target='_blank'>elected representatives</a> are across the United States. Based on your address, we can find all the federal, state, county and local officials who represent you in government.</p>
+            <p>Esta es una herramienta para ubicar a los candidatos a Alcalde, Diputado Local, Diputado Federal, Senador, Gobernador y Presidente de la República para las elecciones de 2018 en el estado de Jalisco, México, basado en tu dirección registrada en INE.
 
-            <p>Knowing who these representatives are and contacting their offices directly is the most effective way to change how our government works.</p>
-
-            <p>Have an issue you care about? <strong>Find your rep and tell them!</strong></p>
+</p>
 
             <p><a href='/about.html'>More about this project &raquo;</a></p>
         </div>
@@ -335,13 +339,17 @@ layout: default
       
       // set levels of government checkboxes
       if (results_level.indexOf("local") >= 0)
-        $('#show_local_results').prop('checked', true);
-      if (results_level.indexOf("county")  >= 0)
-        $('#show_county_results').prop('checked', true);
-      if (results_level.indexOf("state")  >= 0)
-        $('#show_state_results').prop('checked', true);
-      if (results_level.indexOf("federal")  >= 0)
-        $('#show_federal_results').prop('checked', true);
+        $('#show_alcalde_results').prop('checked', true);
+      if (results_level.indexOf("local") >= 0)
+        $('#show_dl_results').prop('checked', true);
+      if (results_level.indexOf("local") >= 0)
+        $('#show_df_results').prop('checked', true);
+      if (results_level.indexOf("state") >= 0)
+        $('#show_senador_results').prop('checked', true);
+      if (results_level.indexOf("federal") >= 0)
+        $('#show_gobernador_results').prop('checked', true);
+      if (results_level.indexOf("federal") >= 0)
+        $('#show_presidente_results').prop('checked', true);
 
       $("#results-nav a").click(function(e) {
         e.preventDefault();
