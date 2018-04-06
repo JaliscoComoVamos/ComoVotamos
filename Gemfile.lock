@@ -216,6 +216,7 @@ DEPENDENCIES
   jekyll-redirect-from
   puma
   rails
+  rake
 
 RUBY VERSION
    ruby 2.4.2p198
