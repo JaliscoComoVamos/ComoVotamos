@@ -9,7 +9,7 @@ layout: default
         <div class="input-group input-group-lg col-sm-8 col-sm-offset-2">
             <input type="text" class="form-control" placeholder="Ingresa tu dirección" id="address" name="address" >
             <span class="input-group-btn">
-                <button class="btn btn-info" type="submit" id="address-search"><i class='fa fa-search'></i> <span class='hidden-xs hidden-sm'>Buscar</span></button>
+                <button class="btn btn-info" type="submit" id="address-search" onclick="codeAddress()"><i class='fa fa-search'></i> <span class='hidden-xs hidden-sm'>Buscar</span></button>
                 <button class="btn btn-default" type="submit" id="find-me"><i class='fa fa-crosshairs'></i> <span class='hidden-xs hidden-sm'>Usar mi ubicación</span> </button>
             </span>
         </div>
@@ -26,7 +26,7 @@ layout: default
                     <input type="checkbox" id="show_df_results" value="local"> Diputado Federal
                 </label>
                 <label>
-                    <input type="checkbox" id="show_senador_results" value="local"> Senador
+                    <input type="checkbox" id="show_senador_results" value="state"> Senador
                 </label>
                 <label>
                     <input type="checkbox" id="show_gobernador_results" value="state"> Gobernador
@@ -40,11 +40,29 @@ layout: default
     </div>
 </div>
 
-<!-- <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.min.js'></script>
-<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.css' type='text/css' /> -->
 
+<script src="js/new_lookup_tool.js"></script>
 <div id='map' style='width: 100%; height: 400px; margin:0 auto;' ></div>
 <script>
+
+    $(function() {
+
+      var autocomplete = new google.maps.places.Autocomplete(document.getElementById('address'), {types: ['address']});
+      
+      $('#find-me').click(function(){
+        findMe(); 
+        return false;
+      });
+      
+      $(":text").keydown(function(e){
+          var key =  e.keyCode ? e.keyCode : e.which;
+          if(key === 13) {
+              $('#address-search').click();
+              return false;
+          }
+      });
+    });
+
 mapboxgl.accessToken = 'pk.eyJ1IjoiZm9zc3ZpY2siLCJhIjoiY2l1dHpvZjMyMDF5NTJ5b2U4dml3OXl4NSJ9.nfzJubKqRYD5mfehv_qMxg';
 var map = new mapboxgl.Map({
     container: 'map',
@@ -55,17 +73,7 @@ var map = new mapboxgl.Map({
 
 map.addControl(new mapboxgl.NavigationControl());
 
-// add markers to map
-
-var marker = new mapboxgl.Marker()
-  .setLngLat([latitude, longitude])
-  .addTo(map);
-
 </script>
-
-
-
-
 
 
 <div class="row">
@@ -213,203 +221,8 @@ var marker = new mapboxgl.Marker()
     </div>
 </div>
 
-<!-- Modal -->
-<div class="modal fade" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="contactModalLabel">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="contactModalLabel"></h4>
-      </div>
-      <div class="modal-body" id='modalContent'>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal"><i class='fa fa-times'></i> Close</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<!-- <script id="tableGuts" type="text/EJS">
-    <% $.each(people, function(i, info){ %>
-        <tr>
-            <td>
-                <% if (info.person.photoUrl) { %>
-                    <img class="img-rounded headshot" src="<%= info.person.photoUrl %>" alt="<%= info.person.name %>" title="<%= info.person.name %>" />
-                <% } else { %>
-                    <img class="img-rounded headshot" src="/images/blank-person.jpg" alt="<%= info.person.name %>" title="<%= info.person.name %>" />
-                <% } %>
-            </td>
-            <td>
-                <%= info.person.name %> <%= formatParty(info.person.party) %>
-                <span class='visible-xs-block visible-sm-block'><%= info.office.name %></span>
-            </td>
-            <td class='hidden-xs hidden-sm'><%= info.office.name %></td>
-            <td class='hidden-xs'>
-                <% if (info.address) { %>
-                    <% $.each(info.address, function(i, addr){ %>
-                        <p>
-                        <%= toTitleCase(addr.line1) %><br />
-                        <% if (addr.line2) { %>
-                            <%= toTitleCase(addr.line2) %><br />
-                        <% } %>
-                        <% if (addr.line3) { %>
-                            <%= toTitleCase(addr.line3) %><br />
-                        <% } %>
-                        <%= toTitleCase(addr.city) %>, <%= addr.state.toUpperCase() %> <%= addr.zip %>
-                        </p>
-                    <% }) %>
-                <% } %>
-            </td>
-            <td>
-                <% if (info.channels || info.urls){ %>
-                    <span class='hidden-xs hidden-sm'>
-                        <% if (info.channels){ %>
-                        <% $.each(info.channels, function(i, channel){ %>
-                            <a href="<%= channel.link %>" target="_blank"><i class="fa fa-fw fa-<%= channel.icon %>"> </i></a>
-                        <% }) %>
-                        <% } %>
-                        <% if (info.urls){ %>
-                            <% $.each(info.urls, function(i, url){ %>
-                                <a href="<%= url %>" target="_blank"><i class="fa fa-fw fa-globe"> </i></a>
-                            <% }) %>
-                        <% } %>
-                    </span>
-                    <span class='visible-xs-inline visible-sm-inline'>
-                        <% if (info.channels){ %>
-                        <% $.each(info.channels, function(i, channel){ %>
-                            <a href="<%= channel.link %>" target="_blank"><i class="fa fa-fw fa-<%= channel.icon %>"> </i></a>
-                        <% }) %>
-                        <% } %>
-                        <% if (info.urls){ %>
-                            <% $.each(info.urls, function(i, url){ %>
-                                <a href="<%= url %>" target="_blank"><i class="fa fa-fw fa-globe"> </i></a>
-                            <% }) %>
-                        <% } %>
-                    </span>
-                <% } %>
-            </td>
-            <% if (info.phones || info.emails){ %>
-                <td class='nowrap'>
-                    <button type="button" class="btn btn-default btn-contact" data-toggle="modal" data-id="<%= info.pseudo_id %>">
-                        Contact <i class='fa fa-chevron-right'></i>
-                    </button>
-                </td>
-            <% } else { %>
-                <td></td>
-            <% } %>
-        </tr>
-    <% }) %>
-</script>
-
-<script id="modalGuts" type="text/EJS">
-    
-    <div class='row'>
-        <div class='col-xs-4'>
-            <% if (info.person.photoUrl) { %>
-                <img class="img-rounded img-responsive" src="<%= info.person.photoUrl %>" alt="<%= info.person.name %>" title="<%= info.person.name %>" />
-            <% } else { %>
-                <img class="img-rounded img-responsive" src="/images/blank-person.jpg" alt="<%= info.person.name %>" title="<%= info.person.name %>" />
-            <% } %>
-            <br />
-            <strong><%= info.person.name %> <%= formatParty(info.person.party) %></strong><br />
-            <%= info.office.name %><br />
-            <%= info.jurisdiction %>
-
-        </div>
-        <div class='col-xs-8'>
-
-            <!- Add your contact instructions here! -->
-
-<!--             <p><strong>Contact <%= info.person.name %></strong></p>
-            <hr />
-            <% if (info.phones){ %>
-                <% $.each(info.phones, function(i, phone){ %>
-                    <% if ((i + 1) < info.phones.length){ %>
-                        <i class='fa fa-fw fa-phone'></i> <%= phone %><br />
-                    <% } else { %>
-                        <i class='fa fa-fw fa-phone'></i> <%= phone %>
-                    <% } %>
-                <% }) %>
-                <br />
-            <% } %>
-
-            <% if (info.emails){ %>
-                <% $.each(info.emails, function(i, email){ %>
-                    <% if ((i + 1) < info.emails.length){ %>
-                        <i class='fa fa-fw fa-envelope'></i> <a href='mailto:<%= email %>'><%= email %></a><br />
-                    <% } else { %>
-                        <i class='fa fa-fw fa-envelope'></i> <a href='mailto:<%= email %>'><%= email %></a>
-                    <% } %>
-                <% }) %>
-            <% } %>
-        </div>
-    </div>
-</script> --> 
-
-<script src="js/new_lookup_tool.js"></script>
-<script type='text/javascript'>
-  //<![CDATA[
-
-    $(function() {
-
-      var autocomplete = new google.maps.places.Autocomplete(document.getElementById('address'), {types: ['address']});
-
-      $("#address").val(convertToPlainString($.address.parameter('address')));
-      if ($("#address").val())
-        addressSearch();
-      
-      $('#address-search').click(function(){
-        addressSearch();
-      });
-
-      var latitude = $.address.parameter('latitude');
-      var longitude = $.address.parameter('longitude');
-
-      // var results_level = $.address.parameter('results_level');
-      // if (results_level == undefined)
-      //   results_level = ['local', 'county', 'state', 'federal'];
-      
 
 
 
-      // // set levels of government checkboxes
-      // if (results_level.indexOf("local") >= 0)
-      //   $('#show_alcalde_results').prop('checked', true);
-      // if (results_level.indexOf("local") >= 0)
-      //   $('#show_dl_results').prop('checked', true);
-      // if (results_level.indexOf("local") >= 0)
-      //   $('#show_df_results').prop('checked', true);
-      // if (results_level.indexOf("state") >= 0)
-      //   $('#show_senador_results').prop('checked', true);
-      // if (results_level.indexOf("federal") >= 0)
-      //   $('#show_gobernador_results').prop('checked', true);
-      // if (results_level.indexOf("federal") >= 0)
-      //   $('#show_presidente_results').prop('checked', true);
-
-      $("#results-nav a").click(function(e) {
-        e.preventDefault();
-        var scroll_to = $($("#" + e.target.id).attr('href'));
-        $('html, body').animate({
-            scrollTop: scroll_to.offset().top
-        }, 1000);
-      });
-      
-      $('#find-me').click(function(){
-        findMe(); 
-        return false;
-      });
-      
-      $(":text").keydown(function(e){
-          var key =  e.keyCode ? e.keyCode : e.which;
-          if(key === 13) {
-              $('#address-search').click();
-              return false;
-          }
-      });
-    });
-  //]]>
-</script>
 
 
