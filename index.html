@@ -39,6 +39,35 @@ layout: default
         <br />
     </div>
 </div>
+
+<!-- <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.min.js'></script>
+<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.css' type='text/css' /> -->
+
+<div id='map' style='width: 100%; height: 400px; margin:0 auto;' ></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiZm9zc3ZpY2siLCJhIjoiY2l1dHpvZjMyMDF5NTJ5b2U4dml3OXl4NSJ9.nfzJubKqRYD5mfehv_qMxg';
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/fossvick/cjfrrbe7k6dkf2rqxi4ctqcnr',
+    center: [-103.346497, 20.676242], // starting position
+    zoom: 7,
+});
+
+map.addControl(new mapboxgl.NavigationControl());
+
+// add markers to map
+
+var marker = new mapboxgl.Marker()
+  .setLngLat([latitude, longitude])
+  .addTo(map);
+
+</script>
+
+
+
+
+
+
 <div class="row">
     <div class='col-md-10 col-md-offset-1'>
         <div id='no-response-container' class='text-center' style="display:none;">
@@ -164,10 +193,12 @@ layout: default
         </div>
     </div>
 </div>
+<br />
+<br />
 
 <div class='row'>
     <div class='col-md-5 col-md-offset-2'>
-        <br />
+        <br /><br />
         <h2>Acerca de</h2>
         <div class='about'>
             <p>Esta es una herramienta para ubicar a los candidatos a Alcalde, Diputado Local, Diputado Federal, Senador, Gobernador y Presidente de la República para las elecciones de 2018 en el estado de Jalisco, México, basado en tu dirección registrada en INE.
@@ -200,7 +231,7 @@ layout: default
 </div>
 
 
-<script id="tableGuts" type="text/EJS">
+<!-- <script id="tableGuts" type="text/EJS">
     <% $.each(people, function(i, info){ %>
         <tr>
             <td>
@@ -289,9 +320,9 @@ layout: default
         </div>
         <div class='col-xs-8'>
 
-            <!-- Add your contact instructions here! -->
+            <!- Add your contact instructions here! -->
 
-            <p><strong>Contact <%= info.person.name %></strong></p>
+<!--             <p><strong>Contact <%= info.person.name %></strong></p>
             <hr />
             <% if (info.phones){ %>
                 <% $.each(info.phones, function(i, phone){ %>
@@ -315,9 +346,9 @@ layout: default
             <% } %>
         </div>
     </div>
-</script>
+</script> --> 
 
-<script src="js/lookup_tool.js"></script>
+<script src="js/new_lookup_tool.js"></script>
 <script type='text/javascript'>
   //<![CDATA[
 
@@ -333,23 +364,29 @@ layout: default
         addressSearch();
       });
 
-      var results_level = $.address.parameter('results_level');
-      if (results_level == undefined)
-        results_level = ['local', 'county', 'state', 'federal'];
+      var latitude = $.address.parameter('latitude');
+      var longitude = $.address.parameter('longitude');
+
+      // var results_level = $.address.parameter('results_level');
+      // if (results_level == undefined)
+      //   results_level = ['local', 'county', 'state', 'federal'];
       
-      // set levels of government checkboxes
-      if (results_level.indexOf("local") >= 0)
-        $('#show_alcalde_results').prop('checked', true);
-      if (results_level.indexOf("local") >= 0)
-        $('#show_dl_results').prop('checked', true);
-      if (results_level.indexOf("local") >= 0)
-        $('#show_df_results').prop('checked', true);
-      if (results_level.indexOf("state") >= 0)
-        $('#show_senador_results').prop('checked', true);
-      if (results_level.indexOf("federal") >= 0)
-        $('#show_gobernador_results').prop('checked', true);
-      if (results_level.indexOf("federal") >= 0)
-        $('#show_presidente_results').prop('checked', true);
+
+
+
+      // // set levels of government checkboxes
+      // if (results_level.indexOf("local") >= 0)
+      //   $('#show_alcalde_results').prop('checked', true);
+      // if (results_level.indexOf("local") >= 0)
+      //   $('#show_dl_results').prop('checked', true);
+      // if (results_level.indexOf("local") >= 0)
+      //   $('#show_df_results').prop('checked', true);
+      // if (results_level.indexOf("state") >= 0)
+      //   $('#show_senador_results').prop('checked', true);
+      // if (results_level.indexOf("federal") >= 0)
+      //   $('#show_gobernador_results').prop('checked', true);
+      // if (results_level.indexOf("federal") >= 0)
+      //   $('#show_presidente_results').prop('checked', true);
 
       $("#results-nav a").click(function(e) {
         e.preventDefault();
@@ -374,3 +411,5 @@ layout: default
     });
   //]]>
 </script>
+
+

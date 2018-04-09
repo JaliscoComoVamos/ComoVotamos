@@ -111,7 +111,10 @@ function addressSearch() {
         var senador_people = [];
         var gobernador_people = [];
         var presidente_people = [];
-
+        var federal_people = [];
+        var state_people = [];
+        var local_people = [];
+        var county_people = [];
 
         // console.log(data);
         // console.log(divisions);
@@ -356,35 +359,20 @@ function setFoundDivisions(divisions){
 
     // console.log(divisions)
     $.each(divisions, function(division_id, division){
-        if (alcalde_pattern.test(division_id)) {
-            selected_alcalde = division.name;
-            $("[id^=alcalde-name]").html(selected_alcalde);
-            $("#alcalde-nav").show();
+        if (state_pattern.test(division_id)) {
+            selected_state = division.name;
+            $("[id^=state-name]").html(selected_state);
+            $("#state-nav").show();
         }
-        if (dl_pattern.test(division_id)) {
-            selected_dl = division.name;
-            $("[id^=dl-name]").html(selected_dl);
-            $("#dl-nav").show();
+        if (county_pattern.test(division_id)) {
+            selected_county = division.name;
+            $("[id^=county-name]").html(selected_county);
+            $("#county-nav").show();
         }
-        if (df_pattern.test(division_id)) {
-            selected_df = division.name;
-            $("[id^=df-name]").html(selected_df);
-            $("#df-nav").show();
-        }
-        if (senador_pattern.test(division_id)) {
-            selected_senador = division.name;
-            $("[id^=senador-name]").html(selected_senador);
-            $("#senador-nav").show();
-        }
-        if (senador_pattern.test(division_id)) {
-            selected_senador = division.name;
-            $("[id^=senador-name]").html(selected_senador);
-            $("#senador-nav").show();
-        }
-        if (presidente_pattern.test(division_id)) {
-            selected_presidente = division.name;
-            $("[id^=presidente-name]").html(selected_presidente);
-            $("#presidente-nav").show();
+        if (local_pattern.test(division_id) || district_pattern.test(division_id)) {
+            selected_local = division.name;
+            $("[id^=local-name]").html(selected_local);
+            $("#local-nav").show();
         }
 
 

@@ -5,6 +5,6 @@ encoding: utf-8
 timezone: America/Mexico_City
 lang: es-MX
 description: "Conoce a los candidatos federales, estatales y locales en el estado de Jalisco, México."
-gems:
+plugins:
   - jekyll-redirect-from
 google_api_key: AIzaSyCCHOtkHXgr5YvKnfLlXe9ZOFEmSQbVrQU
