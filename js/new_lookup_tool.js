@@ -55,13 +55,21 @@ function display( long_lat ){
         .setLngLat([long_lat[1],long_lat[0]])
         .addTo(map);
         map.flyTo({center: [long_lat[1],long_lat[0]], zoom: 14, speed: 10});
-    addressSearch()
+    showResults()
 }
 
 
-function addressSearch() {
+function showResults() {
 
     // configuration for showing candidates at different levels of government
+
+    if (marker === undefined || marker === null) {
+        $('#no-response-container').show();
+        $("#response-container").hide();
+    } else {
+        $('#no-response-container').hide();
+        $("#response-container").show();
+    }
 
     var show_alcalde = false;
     var show_dl = false;
@@ -70,53 +78,120 @@ function addressSearch() {
     var show_gobernador = false;
     var show_presidente = false;
 
-    $("#response-container").show();
-
-
     var results_level_set = [];
     // set levels from checkboxes
     if ($('#show_alcalde_results').is(':checked')) {
         show_alcalde = true;
-        results_level_set.push('Alcalde');
+        results_level_set.push('alcalde');
     }
     if ($('#show_dl_results').is(':checked')) {
         show_dl = true;
-        results_level_set.push('Diputado Local');
+        results_level_set.push('diputado local');
     }
     if ($('#show_df_results').is(':checked')) {
         show_df = true;
-        results_level_set.push('Diputado Federal');
+        results_level_set.push('diputado federal');
     }
     if ($('#show_senador_results').is(':checked')) {
         show_senador = true;
-        results_level_set.push('Senador');
+        results_level_set.push('senador');
     }
     if ($('#show_gobernador_results').is(':checked')) {
         show_gobernador = true;
-        results_level_set.push('Gobernador');
+        results_level_set.push('gobernador');
     }
     if ($('#show_presidente_results').is(':checked')) {
         show_presidente = true;
-        results_level_set.push('Presidente');
+        results_level_set.push('presidente');
+        $.getJSON( "lista_candidatos.json", function( data ) {
+              var info = {};
+              for (i = 0; i < data.length; i++) { 
+                    if (data[i].Candidatura === "Presidente") {
+                        info.person = data[i].Nombre;
+                        info.party = data[i].Partido;
+                        presidente_people.push(info); 
+                        console.log(info)
+                        console.log(presidente_people)
+                    }
+                }  
+             
+        });
     }
 
+    $('table tbody').empty();
 
-        $('table tbody').empty();
+    selected_alcalde = '';
+    selected_dl = '';
+    selected_df = '';
+    selected_senador = '';
+    selected_gobernador = '';
+    selected_presidente = '';
+    all_people = {};
+    pseudo_id = 1;
 
-        selected_alcalde = '';
-        selected_dl = '';
-        selected_df = '';
-        selected_senador = '';
-        selected_gobernador = '';
-        selected_presidente = '';
-        all_people = {};
-        pseudo_id = 1;
+    var alcalde_people = [];
+    var dl_people = [];
+    var df_people = [];
+    var senador_people = [];
+    var gobernador_people = [];
+    var presidente_people = [];
 
-        var alcalde_people = [];
-        var dl_people = [];
-        var df_people = [];
-        var senador_people = [];
-        var gobernador_people = [];
-        var presidente_people = [];
-    
+    var template = new EJS({'text': $('#tableGuts').html()});
+
+    if (show_alcalde) {
+        $('#alcalde-container').show();
+        $('#alcalde-nav').show();
+        if (show_alcalde.length == 0)
+                    $('#alcalde-container').hide();
+        $('#alcalde-results tbody').append(template.render({people: alcalde_people}));
+    } else {
+        $('#alcalde-container').hide()
+        $('#alcalde-nav').hide();
+    }
+
+    if (show_dl) {
+        $('#dl-container').show();
+        $('#dl-nav').show();
+        $('#dl-results tbody').append(template.render({people: dl_people}));
+    } else {
+        $('#dl-container').hide()
+        $('#dl-nav').hide();
+    }
+
+    if (show_df) {
+        $('#df-container').show();
+        $('#df-nav').show();
+        $('#df-results tbody').append(template.render({people: df_people}));
+    } else {
+        $('#df-container').hide()
+        $('#df-nav').hide();
+    }
+
+    if (show_senador) {
+        $('#senador-container').show();
+        $('#senador-nav').show();
+        $('#senador-results tbody').append(template.render({people: senador_people}));
+    } else {
+        $('#senador-container').hide()
+        $('#senador-nav').hide();
+    }
+
+    if (show_gobernador) {
+        $('#gobernador-container').show();
+        $('#gobernador-nav').show();
+        $('#gobernador-results tbody').append(template.render({people: gobernador_people}));
+    } else {
+        $('#gobernador-container').hide()
+        $('#gobernador-nav').hide();
+    }
+
+    if (show_presidente) {
+        $('#presidente-container').show();
+        $('#presidente-nav').show();
+        $('#presidente-results tbody').append(template.render({people: presidente_people}));
+    } else {
+        $('#presidente-container').hide()
+        $('#presidente-nav').hide();
+    }
+
 };

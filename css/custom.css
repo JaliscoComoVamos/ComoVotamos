@@ -28,7 +28,7 @@ h2 {
 
 h3 {
   color:#fcfcfc;
-  background: #444444;
+  background: #3d626b;
   padding: 6px;
 }
 
@@ -103,3 +103,6 @@ hr{
     margin:0 auto;
 }
 
+li:not(:last-child) {
+    margin-bottom:5px;
+}
