@@ -50,7 +50,6 @@ layout: default
 
 <div class="row">
     <div class='col-md-10 col-md-offset-1'>
-        
         <div id='no-response-container' class='text-center' style="display:none;">
             <h2><i class='fa fa-exclamation-triangle' style="color:#EA4233"></i> </h2>
             <h2 style="color:#EA4233">No se encontraron candidatos.</h2>
@@ -58,30 +57,26 @@ layout: default
         </div>
 
         <div id='response-container' style="display:none;">
-
-            <div class='text-center' id='address-image'></div>
-
             <br />
-
             <p class="lead text-center" id='results-nav' style="color:#3d626b; font-size: 20px">
                 <b>Candidaturas</b><br />
-                  <span id='alcalde-nav' style='display: none;'>
+                  <span id='alcalde-nav'>
                     <a id="alcalde-name-nav" href="#local-name"></a>
                   </span>
-                  <span id='dl-nav' style='display: none;'>
+                  <span id='dl-nav'>
                     <a id="dl-name-nav" href="#dl-name"></a>
                   </span>
-                  <span id='df-nav' style='display: none;'>
+                  <span id='df-nav'>
                     <a id="df-name-nav" href="#df-name"></a>
                   </span>
                   <span id='senador-nav'>
                     <a id="senador-name-nav" href="#senador-name"></a></li>
                   </span>
                   <span id='gobernador-nav'>
-                    <a id="gobernador-name-nav" href="#gobernador-name"></a></li>
-                  </span>
+                    <a id="gobernador-name-nav" href="#gobernador-name">Gobernador de Jalisco</a></li>
+                  &nbsp;&nbsp;&nbsp;&nbsp;|</span>
                   <span id='presidente-nav'>
-                    <a id="presidente-name-nav" href="#presidente-name"></a></li>
+                    <a id="presidente-name-nav" href="#presidente-name">Presidente de la República</a></li>
                   </span>
 
                 </ul>
@@ -93,7 +88,7 @@ layout: default
                 <p>No pudimos encontrar ningún candidato para esa dirección.</p>
             </div>
 
-            <div id='alcalde-container' style="display:none;">
+            <div id='alcalde-container'>
                 <br />
                 <h3 class='text-center' id="alcalde-name">Presidente Municipal de __</h3>
                 <table id="alcalde-results" class="table table-striped table-responsive">
@@ -118,7 +113,7 @@ layout: default
                 <p>No pudimos encontrar ningún candidato para esa dirección.</p>
             </div>
 
-            <div id='dl-container' style="display:none;">
+            <div id='dl-container'>
                 <br />
                 <h3 class='text-center' id="dl-name">Diputado Local por el Distrito Local __</h3>
                 <table id="dl-results" class="table table-striped table-responsive">
@@ -143,7 +138,7 @@ layout: default
                 <p>No pudimos encontrar ningún candidato para esa dirección.</p>
             </div>
 
-            <div id='df-container' style="display:none;">
+            <div id='df-container'>
                 <br />
                 <h3 class='text-center' id="df-name">Diputado Federal por el Distrito Federal __ de Jalisco</h3>
                 <table id="df-results" class="table table-striped table-responsive">
@@ -167,7 +162,7 @@ layout: default
                 <p>No pudimos encontrar ningún candidato para esa dirección.</p>
             </div>
 
-            <div id='senador-container' style="display:none;">
+            <div id='senador-container'>
                 <br />
                 <h3 class='text-center' id="senador-name">Senadores de la República por Jalisco</h3>
                 <table id="senador-results" class="table table-striped table-responsive">
@@ -189,7 +184,7 @@ layout: default
                 <p>No pudimos encontrar ningún candidato para esa dirección.</p>
             </div>
 
-            <div id='gobernador-container' style="display:none;">
+            <div id='gobernador-container'>
                 <br />
                 <h3 class='text-center' id="gobernador-name">Gobernador de Jalisco</h3>
                 <table id="gobernador-results" class="table table-striped table-responsive">
@@ -207,7 +202,7 @@ layout: default
             </div>
 
             <br/>
-            <div id='presidente-container' style="display:none;">
+            <div id='presidente-container'>
                 <h3 id='presidente-name' class='text-center'>Presidente de la República</h3>
                 <table id="presidente-results" class="table table-striped table-responsive">
                     <thead>
@@ -225,7 +220,6 @@ layout: default
         </div>
     </div>
 </div>
-<div id="presidente_show" class='col-md-offset-2'><p><br /></p></div>
 <div><p><br /></p></div>
 
 <hr />
@@ -250,26 +244,7 @@ layout: default
 <br /><br />
 
 
-<script id="tableGuts" type="text/EJS">
-    <% $.each(people, function(i, info){ %>
-        <tr>
-            <td>
-                <%= info.name %>
-            </td>
-
-            <td class='hidden-xs'>
-                <% if (info.party) { %>
-                    <%= info.party %>
-                <% } %>
-            </td>
-            <td>
-            </td>
-        </tr>
-    <% }) %>
-</script>
-
 <script>
-
     $(function() {
 
       var autocomplete = new google.maps.places.Autocomplete(document.getElementById('address'), {types: ['address']});
@@ -287,9 +262,7 @@ layout: default
           }
       });
 
-      var results_level = $.address.parameter('results_level');
-      if (results_level == undefined)
-        results_level = ['alcalde', 'dl', 'df', 'senador', 'gobernador', 'presidente'];
+      results_level = ['alcalde', 'dl', 'df', 'senador', 'gobernador', 'presidente'];
       
       // set levels of government checkboxes
       if (results_level.indexOf("alcalde") >= 0)
@@ -305,7 +278,6 @@ layout: default
       if (results_level.indexOf("presidente")  >= 0)
         $('#show_presidente_results').prop('checked', true);
 
-
       $("#results-nav a").click(function(e) {
         e.preventDefault();
         var scroll_to = $($("#" + e.target.id).attr('href'));
@@ -313,8 +285,7 @@ layout: default
             scrollTop: scroll_to.offset().top
         }, 1000);
       });
-
-    });
+});
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiZm9zc3ZpY2siLCJhIjoiY2l1dHpvZjMyMDF5NTJ5b2U4dml3OXl4NSJ9.nfzJubKqRYD5mfehv_qMxg';
 var map = new mapboxgl.Map({
@@ -323,25 +294,28 @@ var map = new mapboxgl.Map({
     center: [-103.346497, 20.676242], // starting position
     zoom: 7,
 });
-
 map.addControl(new mapboxgl.NavigationControl());
-
 </script>
 
+
+<!-- Add gubernatorial candidates -->
 <script type="text/javascript">
-
 $.getJSON( "lista_candidatos.json", function( data ) {
-  var items = [];
-
+ var items = [];
  for (i = 0; i < data.length; i++) { 
-        if (data[i].Candidatura === "Presidente") items.push("<li><b>" + data[i].Nombre + "</b> (" + data[i].Partido + ") </li>")};
-
-  document.getElementById("presidente_show").innerHTML = "<br/><br/>" + items.join( "<br/>" )
+        if (data[i].Candidatura === "Gobernador") items.push("<tr><td></td><td>" + data[i].Nombre + "</td><td>" + data[i].Partido + "</td><td></td></tr>")};
+    $('#gobernador-results').find('tbody').append(items)
 });
-
 </script>
 
-
-
+<!-- Add presidential candidates -->
+<script type="text/javascript">
+$.getJSON( "lista_candidatos.json", function( data ) {
+ var items = [];
+ for (i = 0; i < data.length; i++) { 
+        if (data[i].Candidatura === "Presidente") items.push("<tr><td></td><td>" + data[i].Nombre + "</td><td>" + data[i].Partido + "</td><td></td></tr>")};
+    $('#presidente-results').find('tbody').append(items)
+});
+</script>
 
 
