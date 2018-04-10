@@ -13,7 +13,7 @@ function codeAddress() {
         display( loc ); 
 
       } else {
-        alert("Geocode was not successful for the following reason: " + status);
+        alert("La geocodificación no tuvo éxito por la siguiente razón: " + status);
       }
     });
 }
@@ -69,6 +69,8 @@ function addressSearch() {
     var show_senador = false;
     var show_gobernador = false;
     var show_presidente = false;
+
+    $("#response-container").show();
 
 
     var results_level_set = [];

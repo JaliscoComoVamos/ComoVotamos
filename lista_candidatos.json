@@ -1,1175 +1,1467 @@
 [
   {
     "Candidatura": "Presidente",
-    "Nombre": "Ricardo Anaya Cortés (PAN, MC, PRD)"
-  },
-  
-  {
-    "Candidatura": "Presidente",
-    "Nombre": "Andrés Manuel López Obrador (MORENA, PES, PT)"
+    "Nombre": "Ricardo Anaya Cortés",
+    "Partido": "PAN, MC, PRD"
   },
   {
     "Candidatura": "Presidente",
-    "Nombre": "Margarita Zavala Gómez del Campo (INDEPENDIENTE)"
+    "Nombre": "Andrés Manuel López Obrador",
+    "Partido": "MORENA, PES, PT"
   },
   {
     "Candidatura": "Presidente",
-    "Nombre": "José Antonio Meade Kuribreña (PRI, PVEM, PANAL)"
+    "Nombre": "Margarita Zavala Gómez del Campo",
+    "Partido": "Independiente"
+  },
+  {
+    "Candidatura": "Presidente",
+    "Nombre": "José Antonio Meade Kuribreña",
+    "Partido": "PRI, PVEM, PANAL"
   },
   {
     "Candidatura": "Gobernador",
-    "Nombre": "Miguel Ángel Martínez Espinosa (PAN)"
+    "Nombre": "Miguel Ángel Martínez Espinosa",
+    "Partido": "PAN"
   },
   {
     "Candidatura": "Gobernador",
-    "Nombre": "Miguel Castro Reynoso (PRI)"
+    "Nombre": "Miguel Castro Reynoso",
+    "Partido": "PRI"
   },
   {
     "Candidatura": "Gobernador",
-    "Nombre": "Carlos Manuel Orozco Santillán (PRD)"
+    "Nombre": "Carlos Manuel Orozco Santillán",
+    "Partido": "PRD"
   },
   {
     "Candidatura": "Gobernador",
-    "Nombre": "Salvador Cosío Gaona (PVEM)"
+    "Nombre": "Salvador Cosío Gaona",
+    "Partido": "PVEM"
   },
   {
     "Candidatura": "Gobernador",
-    "Nombre": "Enrique Alfaro Ramírez (MC)"
+    "Nombre": "Enrique Alfaro Ramírez",
+    "Partido": "MC"
   },
   {
     "Candidatura": "Gobernador",
-    "Nombre": "Martha Rosa Araiza Soltero (PANAL)"
+    "Nombre": "Martha Rosa Araiza Soltero",
+    "Partido": "PANAL"
   },
   {
     "Candidatura": "Gobernador",
-    "Nombre": "Carlos Lomelí Bolaños (MORENA, PES)"
+    "Nombre": "Carlos Lomelí Bolaños",
+    "Partido": "MORENA, PES"
   },
   {
     "Candidatura": "Senador",
-    "Nombre": "José Pedro Kumamoto Aguilar, Juana Adelfa Delgado Quintana (INDEPENDIENTES)"
+    "Nombre": "José Pedro Kumamoto Aguilar y Juana Adelfa Delgado Quintana",
+    "Partido": "Independiente"
   },
   {
     "Candidatura": "Senador",
-    "Nombre": "José Clemente Castaleda Hoeflich, Verónica Delgadillo García (MC, PAN, PRD)"
+    "Nombre": "José Clemente Castaleda Hoeflich y Verónica Delgadillo García",
+    "Partido": "MC, PAN, PRD"
   },
   {
     "Candidatura": "Senador",
-    "Nombre": "Hugo Contreras Rodríguez, Rocío Corona Nakamura (PRI)"
+    "Nombre": "Hugo Contreras Rodríguez y Rocío Corona Nakamura",
+    "Partido": "PRI"
   },
   {
     "Candidatura": "Senador",
-    "Nombre": "María Antonieta Cárdenas Mariscal, Antonio Pérez Garibay (PVEM)"
+    "Nombre": "María Antonieta Cárdenas Mariscal y Antonio Pérez Garibay",
+    "Partido": "PVEM"
   },
   {
     "Candidatura": "Senador",
-    "Nombre": "Arturo Alberto Jheman Zetina, Leonor Ceballos González"
+    "Nombre": "Arturo Alberto Jheman Zetina y Leonor Ceballos González",
+    "Partido": ""
   },
   {
     "Candidatura": "Senador",
-    "Nombre": "Sandra Beatriz González Pérez, Ramón Ernesto Gallardo López"
+    "Nombre": "Sandra Beatriz González Pérez y Ramón Ernesto Gallardo López",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Guadalajara",
-    "Nombre": "Miguel Zárate Hernández"
+    "Nombre": "Miguel Zárate Hernández",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Guadalajara",
-    "Nombre": "Jesús Eduardo Almaguer Ramírez"
+    "Nombre": "Jesús Eduardo Almaguer Ramírez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Guadalajara",
-    "Nombre": "Valeria Guadalupe Ávila Gutiérrez"
+    "Nombre": "Valeria Guadalupe Ávila Gutiérrez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Guadalajara",
-    "Nombre": "Aurelio Martínez Flores"
+    "Nombre": "Aurelio Martínez Flores",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Guadalajara",
-    "Nombre": "Ismael del Toro Castro"
+    "Nombre": "Ismael del Toro Castro",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Guadalajara",
-    "Nombre": "Rodolfo Armando Casanova Valle"
+    "Nombre": "Rodolfo Armando Casanova Valle",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Guadalajara",
-    "Nombre": "Claudia Delgadillo González"
+    "Nombre": "Claudia Delgadillo González",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapopan",
-    "Nombre": "José Antonio de la Torre Bravo"
+    "Nombre": "José Antonio de la Torre Bravo",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapopan",
-    "Nombre": "Abel Octavio Salgado Peña"
+    "Nombre": "Abel Octavio Salgado Peña",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapopan",
-    "Nombre": "Jaime Prieto Pérez"
+    "Nombre": "Jaime Prieto Pérez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapopan",
-    "Nombre": "Mario Alejandro Cárdenas Ochoa"
+    "Nombre": "Mario Alejandro Cárdenas Ochoa",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapopan",
-    "Nombre": "Jesús Pablo Lemus Navarro"
+    "Nombre": "Jesús Pablo Lemus Navarro",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapopan",
-    "Nombre": "Jorge Leal Ramírez"
+    "Nombre": "Jorge Leal Ramírez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapopan",
-    "Nombre": "José Oscar Ávila Poblano"
+    "Nombre": "José Oscar Ávila Poblano",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapopan",
-    "Nombre": "Alejandro Gutiérrez Carrillo"
+    "Nombre": "Alejandro Gutiérrez Carrillo",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapopan",
-    "Nombre": "José Hiram Torres Salcedo"
+    "Nombre": "José Hiram Torres Salcedo",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tlajomulco",
-    "Nombre": "Salvador Gómez de Dios"
+    "Nombre": "Salvador Gómez de Dios",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tlajomulco",
-    "Nombre": "Antonio Sánchez Flores"
+    "Nombre": "Antonio Sánchez Flores",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tlajomulco",
-    "Nombre": "Tania Edith Morales Rodríguez"
+    "Nombre": "Tania Edith Morales Rodríguez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tlajomulco",
-    "Nombre": "Luz Elena Gómez Orozco"
+    "Nombre": "Luz Elena Gómez Orozco",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tlajomulco",
-    "Nombre": "Salvador Zamora Zamora"
+    "Nombre": "Salvador Zamora Zamora",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tlajomulco",
-    "Nombre": "Héctor Armando Villegas Rodríguez"
+    "Nombre": "Héctor Armando Villegas Rodríguez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tlajomulco",
-    "Nombre": "Juan Carlos Bustamante Barragán"
+    "Nombre": "Juan Carlos Bustamante Barragán",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tlajomulco",
-    "Nombre": "Miguel Ángel León Corrales"
+    "Nombre": "Miguel Ángel León Corrales",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tlaquepaque",
-    "Nombre": "Alfredo Barba Mariscal"
+    "Nombre": "Alfredo Barba Mariscal",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tlaquepaque",
-    "Nombre": "Daniela Elizabeth Chávez Estrada"
+    "Nombre": "Daniela Elizabeth Chávez Estrada",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tlaquepaque",
-    "Nombre": "Hugo Emmanuel Mercado López"
+    "Nombre": "Hugo Emmanuel Mercado López",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tlaquepaque",
-    "Nombre": "José Bañales Castro"
+    "Nombre": "José Bañales Castro",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tlaquepaque",
-    "Nombre": "Gustavo de la Torre Navarro"
+    "Nombre": "Gustavo de la Torre Navarro",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tlaquepaque",
-    "Nombre": "Alberto Alfaro García"
+    "Nombre": "Alberto Alfaro García",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tlaquepaque",
-    "Nombre": "Alberto Maldonado Chavarín"
+    "Nombre": "Alberto Maldonado Chavarín",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tonalá",
-    "Nombre": "Edgar Oswaldo Bañales Orozco"
+    "Nombre": "Edgar Oswaldo Bañales Orozco",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tonalá",
-    "Nombre": "Celia Guadalupe Serrano Villagómez"
+    "Nombre": "Celia Guadalupe Serrano Villagómez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tonalá",
-    "Nombre": "Juan Manuel Pérez Suárez"
+    "Nombre": "Juan Manuel Pérez Suárez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tonalá",
-    "Nombre": "Catarino Orea Velázquez"
+    "Nombre": "Catarino Orea Velázquez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde El Salto",
-    "Nombre": "Joel González Diaz"
+    "Nombre": "Joel González Diaz",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde El Salto",
-    "Nombre": "Norma Alicia Cruz Hernández"
+    "Nombre": "Norma Alicia Cruz Hernández",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde El Salto",
-    "Nombre": "Mario Eduardo Moreno Álvarez"
+    "Nombre": "Mario Eduardo Moreno Álvarez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde El Salto",
-    "Nombre": "Gabriel Pérez Pérez"
+    "Nombre": "Gabriel Pérez Pérez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Ixtlahuacán de los Membrillos",
-    "Nombre": "Eduardo Cervantes Aguilar"
+    "Nombre": "Eduardo Cervantes Aguilar",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Ixtlahuacán de los Membrillos",
-    "Nombre": "Marín Uriel Gomar Santibañez"
+    "Nombre": "Marín Uriel Gomar Santibañez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Ixtlahuacán de los Membrillos",
-    "Nombre": "María Fernanda Lozano Cisneros"
+    "Nombre": "María Fernanda Lozano Cisneros",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Ixtlahuacán de los Membrillos",
-    "Nombre": "José Mateo Ramírez Neri"
+    "Nombre": "José Mateo Ramírez Neri",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapotlanejo",
-    "Nombre": "Susana Álvarez Serrato"
+    "Nombre": "Susana Álvarez Serrato",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapotlanejo",
-    "Nombre": "Rubén Ramírez Ramírez"
+    "Nombre": "Rubén Ramírez Ramírez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapotlanejo",
-    "Nombre": "María Guadalupe González Rivera"
+    "Nombre": "María Guadalupe González Rivera",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapotlanejo",
-    "Nombre": "Àngel Alberto Mayoral Pérez"
+    "Nombre": "Àngel Alberto Mayoral Pérez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapotlanejo",
-    "Nombre": "Héctor Álvarez Contreras"
+    "Nombre": "Héctor Álvarez Contreras",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapotlanejo",
-    "Nombre": "Alfredo Camarena Pérez"
+    "Nombre": "Alfredo Camarena Pérez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Juanacatlán",
-    "Nombre": "Francisco de la Cerda Suárez"
+    "Nombre": "Francisco de la Cerda Suárez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Juanacatlán",
-    "Nombre": "Alexis Mabel Chávez Dueñas"
+    "Nombre": "Alexis Mabel Chávez Dueñas",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Juanacatlán",
-    "Nombre": "Francisca Ortiz Hernández"
+    "Nombre": "Francisca Ortiz Hernández",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Juanacatlán",
-    "Nombre": "J. Jesús Cortés Moreno"
+    "Nombre": "J. Jesús Cortés Moreno",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Juanacatlán",
-    "Nombre": "Adriana Cortés González"
+    "Nombre": "Adriana Cortés González",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Juanacatlán",
-    "Nombre": "Rebeca Mariscal Hidalgo"
+    "Nombre": "Rebeca Mariscal Hidalgo",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Juanacatlán",
-    "Nombre": "Flor Cecilia Torres Rocha"
+    "Nombre": "Flor Cecilia Torres Rocha",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tepatitlan",
-    "Nombre": "Rigoberto González Gutiérrez"
+    "Nombre": "Rigoberto González Gutiérrez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tepatitlan",
-    "Nombre": "María Concepción Franco Lucio"
+    "Nombre": "María Concepción Franco Lucio",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tepatitlan",
-    "Nombre": "Alejandra González Jiménez"
+    "Nombre": "Alejandra González Jiménez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tepatitlan",
-    "Nombre": "José Antonio Becerra González"
+    "Nombre": "José Antonio Becerra González",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tepatitlan",
-    "Nombre": "María Elena de Anda Gutiérrez"
+    "Nombre": "María Elena de Anda Gutiérrez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tepatitlan",
-    "Nombre": "M. Elena Telles Barajas"
+    "Nombre": "M. Elena Telles Barajas",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tepatitlan",
-    "Nombre": "María del Carmen Gallegos de la Mora"
+    "Nombre": "María del Carmen Gallegos de la Mora",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Tepatitlan",
-    "Nombre": "Paola Adriana González Dávalos"
+    "Nombre": "Paola Adriana González Dávalos",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Puerto Vallarta",
-    "Nombre": "Saúl López Orozco"
+    "Nombre": "Saúl López Orozco",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Puerto Vallarta",
-    "Nombre": "Luis Roberto González Gutiérrez"
+    "Nombre": "Luis Roberto González Gutiérrez",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Puerto Vallarta",
-    "Nombre": "Hernán Carmona Muñiz"
+    "Nombre": "Hernán Carmona Muñiz",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Puerto Vallarta",
-    "Nombre": "Enrique Gerardo Gou Boy"
+    "Nombre": "Enrique Gerardo Gou Boy",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Puerto Vallarta",
-    "Nombre": "Arturo Dávalos Peña"
+    "Nombre": "Arturo Dávalos Peña",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Puerto Vallarta",
-    "Nombre": "Heriberto Sánchez Ruiz"
+    "Nombre": "Heriberto Sánchez Ruiz",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Puerto Vallarta",
-    "Nombre": "Francisco José Martínez Gil"
+    "Nombre": "Francisco José Martínez Gil",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Puerto Vallarta",
-    "Nombre": "Luis Alberto Alcaraz López"
+    "Nombre": "Luis Alberto Alcaraz López",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Puerto Vallarta",
-    "Nombre": "Máximo Martínez Aguirre"
+    "Nombre": "Máximo Martínez Aguirre",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Puerto Vallarta",
-    "Nombre": "Luis Fernando Sánchez Robles"
+    "Nombre": "Luis Fernando Sánchez Robles",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Puerto Vallarta",
-    "Nombre": "María Laurel Carrillo Ventura"
+    "Nombre": "María Laurel Carrillo Ventura",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapotlán el Grande",
-    "Nombre": "Noé Saul Ramos García"
+    "Nombre": "Noé Saul Ramos García",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapotlán el Grande",
-    "Nombre": "Alejandro Elizondo Verduzco"
+    "Nombre": "Alejandro Elizondo Verduzco",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapotlán el Grande",
-    "Nombre": "Cecilia Guadalupe Ramos de la Torre"
+    "Nombre": "Cecilia Guadalupe Ramos de la Torre",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapotlán el Grande",
-    "Nombre": "Frania Daniela Lara Galindo"
+    "Nombre": "Frania Daniela Lara Galindo",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapotlán el Grande",
-    "Nombre": "José Romero Mercado"
+    "Nombre": "José Romero Mercado",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapotlán el Grande",
-    "Nombre": "J. Jesús Guerrero Zúñiga"
+    "Nombre": "J. Jesús Guerrero Zúñiga",
+    "Partido": ""
   },
   {
     "Candidatura": "Alcalde Zapotlán el Grande",
-    "Nombre": "Alejandro Barragán Sánchez"
+    "Nombre": "Alejandro Barragán Sánchez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
-    "Nombre": "Jorge Eduardo González Arana"
+    "Nombre": "Jorge Eduardo González Arana",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
-    "Nombre": "Rosa Angélica Ascencio González"
+    "Nombre": "Rosa Angélica Ascencio González",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
-    "Nombre": "Rosa Margarita López Orozco"
+    "Nombre": "Rosa Margarita López Orozco",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
-    "Nombre": "María de los Ángeles Barajas Gaytán"
+    "Nombre": "María de los Ángeles Barajas Gaytán",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
-    "Nombre": "Jorge Mercado Limón"
+    "Nombre": "Jorge Mercado Limón",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
-    "Nombre": "Mara Nadiezhda Robles Villaseñor"
+    "Nombre": "Mara Nadiezhda Robles Villaseñor",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
-    "Nombre": "Zulma Julissa Ocegueda Salazar"
+    "Nombre": "Zulma Julissa Ocegueda Salazar",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
-    "Nombre": "Julio Manuel Barba Gómez"
+    "Nombre": "Julio Manuel Barba Gómez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
-    "Nombre": "Vanessa del Carmen Aguirre Carrillo"
+    "Nombre": "Vanessa del Carmen Aguirre Carrillo",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
-    "Nombre": "Laura Valeria Guzmán Vázquez"
+    "Nombre": "Laura Valeria Guzmán Vázquez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
-    "Nombre": "Adriana Isabel Rodrìguez Larios"
+    "Nombre": "Adriana Isabel Rodrìguez Larios",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
-    "Nombre": "Luis Roberto Preciado Zavala"
+    "Nombre": "Luis Roberto Preciado Zavala",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
-    "Nombre": "Fernando Sánchez Díaz"
+    "Nombre": "Fernando Sánchez Díaz",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
-    "Nombre": "José de Jesús Martínez Esparza"
+    "Nombre": "José de Jesús Martínez Esparza",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
-    "Nombre": "Gerardo Hernández Amezcua"
+    "Nombre": "Gerardo Hernández Amezcua",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
-    "Nombre": "Blanca Olivia Vargas Mendoza"
+    "Nombre": "Blanca Olivia Vargas Mendoza",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
-    "Nombre": "Luz María Velasco Robles"
+    "Nombre": "Luz María Velasco Robles",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
-    "Nombre": "María Violeta Becerra Osoria"
+    "Nombre": "María Violeta Becerra Osoria",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
-    "Nombre": "María Magdalena Urbina Martínez"
+    "Nombre": "María Magdalena Urbina Martínez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
-    "Nombre": "José Manuel Galindo Nolasco"
+    "Nombre": "José Manuel Galindo Nolasco",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
-    "Nombre": "Luis Ernesto Munguía González"
+    "Nombre": "Luis Ernesto Munguía González",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
-    "Nombre": "Cecilia Bañuelos Rubio"
+    "Nombre": "Cecilia Bañuelos Rubio",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
-    "Nombre": "Susana Gabriela Velasco González"
+    "Nombre": "Susana Gabriela Velasco González",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
-    "Nombre": "Bruno Blancas Mercado"
+    "Nombre": "Bruno Blancas Mercado",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
-    "Nombre": "Irma Verónica González Orozco"
+    "Nombre": "Irma Verónica González Orozco",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
-    "Nombre": "Xavier Marconi Quintero Villanueva"
+    "Nombre": "Xavier Marconi Quintero Villanueva",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
-    "Nombre": "Zahida Ivonne Ramírez Salcedo"
+    "Nombre": "Zahida Ivonne Ramírez Salcedo",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
-    "Nombre": "Sergio Martín Arceo García"
+    "Nombre": "Sergio Martín Arceo García",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
-    "Nombre": "Mirza Flores Gómez"
+    "Nombre": "Mirza Flores Gómez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
-    "Nombre": "Olivia Irasema Bonilla López"
+    "Nombre": "Olivia Irasema Bonilla López",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
-    "Nombre": "Alejandra Vargas Ochoa"
+    "Nombre": "Alejandra Vargas Ochoa",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
-    "Nombre": "Ana Gabriela González González"
+    "Nombre": "Ana Gabriela González González",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
-    "Nombre": "Karla Azucena Díaz López"
+    "Nombre": "Karla Azucena Díaz López",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
-    "Nombre": "Roberto Amador Cárdenas Blake"
+    "Nombre": "Roberto Amador Cárdenas Blake",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
-    "Nombre": "María Luisa Hernández Plascencia"
+    "Nombre": "María Luisa Hernández Plascencia",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
-    "Nombre": "Ismael Arteaga Pajarito"
+    "Nombre": "Ismael Arteaga Pajarito",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
-    "Nombre": "Rosa Alba Ramírez Nachis"
+    "Nombre": "Rosa Alba Ramírez Nachis",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
-    "Nombre": "Diana Carolina Zavala Barajas"
+    "Nombre": "Diana Carolina Zavala Barajas",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
-    "Nombre": "Luis Angel Morales Hernández"
+    "Nombre": "Luis Angel Morales Hernández",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
-    "Nombre": "María Ester López Chávez"
+    "Nombre": "María Ester López Chávez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
-    "Nombre": "Ignacio Mestas Gallardo"
+    "Nombre": "Ignacio Mestas Gallardo",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
-    "Nombre": "Blanca Estela Gutiérrez Viera"
+    "Nombre": "Blanca Estela Gutiérrez Viera",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
-    "Nombre": "Nelly García Vallejo"
+    "Nombre": "Nelly García Vallejo",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
-    "Nombre": "Susana de la Rosa Hernández"
+    "Nombre": "Susana de la Rosa Hernández",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
-    "Nombre": "Abigail Orozco Morales"
+    "Nombre": "Abigail Orozco Morales",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
-    "Nombre": "Catalina Aguilera Arizaga"
+    "Nombre": "Catalina Aguilera Arizaga",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
-    "Nombre": "María de Jesús Macías Robles"
+    "Nombre": "María de Jesús Macías Robles",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
-    "Nombre": "José Felipe Ascensio Sánchez"
+    "Nombre": "José Felipe Ascensio Sánchez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
-    "Nombre": "Óscar Nicolás García Lomelí"
+    "Nombre": "Óscar Nicolás García Lomelí",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
-    "Nombre": "Mariana Fernández Ramírez"
+    "Nombre": "Mariana Fernández Ramírez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
-    "Nombre": "Madeleine Garza Estrada"
+    "Nombre": "Madeleine Garza Estrada",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
-    "Nombre": "Jorge Álvarez Vázquez"
+    "Nombre": "Jorge Álvarez Vázquez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
-    "Nombre": "Susana Ochoa Chavira"
+    "Nombre": "Susana Ochoa Chavira",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
-    "Nombre": "Aquiles López González"
+    "Nombre": "Aquiles López González",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
-    "Nombre": "José Manuel Muñoz Castellanos"
+    "Nombre": "José Manuel Muñoz Castellanos",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
-    "Nombre": "Arturo Peña Quiñones"
+    "Nombre": "Arturo Peña Quiñones",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
-    "Nombre": "José Saavedra Terán"
+    "Nombre": "José Saavedra Terán",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
-    "Nombre": "Erika Natalia Juárez Miranda"
+    "Nombre": "Erika Natalia Juárez Miranda",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
-    "Nombre": "José González Jiménez"
+    "Nombre": "José González Jiménez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
-    "Nombre": "Jonadab Martínez García"
+    "Nombre": "Jonadab Martínez García",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
-    "Nombre": "Jair Gilberto Valdez López"
+    "Nombre": "Jair Gilberto Valdez López",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
-    "Nombre": "Joel Cortés Serrano"
+    "Nombre": "Joel Cortés Serrano",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
-    "Nombre": "Carlos Alberto Rivas Tejeda"
+    "Nombre": "Carlos Alberto Rivas Tejeda",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
-    "Nombre": "María de Lourdes Anguiano Ramírez"
+    "Nombre": "María de Lourdes Anguiano Ramírez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
-    "Nombre": "Elizabeth Magañón Mena"
+    "Nombre": "Elizabeth Magañón Mena",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
-    "Nombre": "Rodrigo Frangie Menéndez"
+    "Nombre": "Rodrigo Frangie Menéndez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
-    "Nombre": "José Chávez García"
+    "Nombre": "José Chávez García",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
-    "Nombre": "Rosalva Chávez Chávez"
+    "Nombre": "Rosalva Chávez Chávez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
-    "Nombre": "Liliana Guadalupe Morones Vargas"
+    "Nombre": "Liliana Guadalupe Morones Vargas",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
-    "Nombre": "Karla del Carmen de Anda Carrazco"
+    "Nombre": "Karla del Carmen de Anda Carrazco",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
-    "Nombre": "Edgar Alejandro Flores Olea"
+    "Nombre": "Edgar Alejandro Flores Olea",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
-    "Nombre": "Paola Flores Trujillo"
+    "Nombre": "Paola Flores Trujillo",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
-    "Nombre": "José Arturo Gleason Espíndola"
+    "Nombre": "José Arturo Gleason Espíndola",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
-    "Nombre": "Benito Manuel Villagómez Rodríguez"
+    "Nombre": "Benito Manuel Villagómez Rodríguez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
-    "Nombre": "María del Carmen Flores Vázquez"
+    "Nombre": "María del Carmen Flores Vázquez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
-    "Nombre": "María de los Ángeles Arredondo Torres"
+    "Nombre": "María de los Ángeles Arredondo Torres",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
-    "Nombre": "Gerardo León de la Cruz"
+    "Nombre": "Gerardo León de la Cruz",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
-    "Nombre": "Gabriel Hernández Pérez"
+    "Nombre": "Gabriel Hernández Pérez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
-    "Nombre": "Priscilla Franco Barba"
+    "Nombre": "Priscilla Franco Barba",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
-    "Nombre": "Brenda Concepción Cesar Rodríguez"
+    "Nombre": "Brenda Concepción Cesar Rodríguez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
-    "Nombre": "José Bernardo Masini Aguilera"
+    "Nombre": "José Bernardo Masini Aguilera",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
-    "Nombre": "Otoniel Varas de Valdez González"
+    "Nombre": "Otoniel Varas de Valdez González",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
-    "Nombre": "Adriana Leticia Hernández Castillón"
+    "Nombre": "Adriana Leticia Hernández Castillón",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
-    "Nombre": "María del Rosario Velázquez Hernández"
+    "Nombre": "María del Rosario Velázquez Hernández",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
-    "Nombre": "Luis Armando Córdova Diaz"
+    "Nombre": "Luis Armando Córdova Diaz",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
-    "Nombre": "Jessica Cisneros Martínez"
+    "Nombre": "Jessica Cisneros Martínez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
-    "Nombre": "Alfredo Fierros González"
+    "Nombre": "Alfredo Fierros González",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
-    "Nombre": "Marcela Guadalupe Aceves Sánchez"
+    "Nombre": "Marcela Guadalupe Aceves Sánchez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
-    "Nombre": "José Antonio Jiménez Orozco"
+    "Nombre": "José Antonio Jiménez Orozco",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
-    "Nombre": "Alejandra Margarita Rentería Casillas"
+    "Nombre": "Alejandra Margarita Rentería Casillas",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
-    "Nombre": "José Tomás Figueroa Padilla"
+    "Nombre": "José Tomás Figueroa Padilla",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
-    "Nombre": "Erika Elizabeth Ramírez Pérez"
+    "Nombre": "Erika Elizabeth Ramírez Pérez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
-    "Nombre": "Yadira Guadalupe Loza Barragán"
+    "Nombre": "Yadira Guadalupe Loza Barragán",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
-    "Nombre": "Francisco Javier Díaz Ochoa"
+    "Nombre": "Francisco Javier Díaz Ochoa",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
-    "Nombre": "José Luis Orozco Sánchez Aldana"
+    "Nombre": "José Luis Orozco Sánchez Aldana",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
-    "Nombre": "Ricardo Preciado Cortés"
+    "Nombre": "Ricardo Preciado Cortés",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
-    "Nombre": "Andrés Sánchez Sánchez"
+    "Nombre": "Andrés Sánchez Sánchez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
-    "Nombre": "Oswaldo Ramos López"
+    "Nombre": "Oswaldo Ramos López",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
-    "Nombre": "José Guadalupe Omar Ledezma Delgado"
+    "Nombre": "José Guadalupe Omar Ledezma Delgado",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
-    "Nombre": "María Silvia López Campechano"
+    "Nombre": "María Silvia López Campechano",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
-    "Nombre": "Verónica Acosta Cervantes"
+    "Nombre": "Verónica Acosta Cervantes",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
-    "Nombre": "Venecia Castañeda Rodríguez"
+    "Nombre": "Venecia Castañeda Rodríguez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
-    "Nombre": "José Díaz Castañeda"
+    "Nombre": "José Díaz Castañeda",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
-    "Nombre": "Aimèe Esmeralda Castillo Flores"
+    "Nombre": "Aimèe Esmeralda Castillo Flores",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
-    "Nombre": "Daniel Robles de León"
+    "Nombre": "Daniel Robles de León",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
-    "Nombre": "Aurora del Socorro Velasco Camberos"
+    "Nombre": "Aurora del Socorro Velasco Camberos",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
-    "Nombre": "Arnoldo Licea González"
+    "Nombre": "Arnoldo Licea González",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
-    "Nombre": "Guadalupe Romo Romo"
+    "Nombre": "Guadalupe Romo Romo",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
-    "Nombre": "Miguel Hernandez Anaya"
+    "Nombre": "Miguel Hernandez Anaya",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
-    "Nombre": "Marcela Ávila Díaz"
+    "Nombre": "Marcela Ávila Díaz",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
-    "Nombre": "Naul Esteban Domínguez Guerra"
+    "Nombre": "Naul Esteban Domínguez Guerra",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
-    "Nombre": "Luis Tarcicio Ramírez Gutiérrez"
+    "Nombre": "Luis Tarcicio Ramírez Gutiérrez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
-    "Nombre": "Salvador Arellano Guzmán"
+    "Nombre": "Salvador Arellano Guzmán",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
-    "Nombre": "Kenia Rosaura Morones Meza"
+    "Nombre": "Kenia Rosaura Morones Meza",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
-    "Nombre": "Mariana Rivera González"
+    "Nombre": "Mariana Rivera González",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
-    "Nombre": "Mario Alberto Rodríguez Carrillo"
+    "Nombre": "Mario Alberto Rodríguez Carrillo",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
-    "Nombre": "Alejandra Margarita Giadans Valenzuela"
+    "Nombre": "Alejandra Margarita Giadans Valenzuela",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
-    "Nombre": "Cesar Ignacio Abarca Gutiérrez"
+    "Nombre": "Cesar Ignacio Abarca Gutiérrez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
-    "Nombre": "Karla Montserrat García García"
+    "Nombre": "Karla Montserrat García García",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
-    "Nombre": "Laura Adanely Caro Romero"
+    "Nombre": "Laura Adanely Caro Romero",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
-    "Nombre": "Ramón Demetrio Guerrero Martínez"
+    "Nombre": "Ramón Demetrio Guerrero Martínez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
-    "Nombre": "Lorena del Socorro Jiménez Andrade"
+    "Nombre": "Lorena del Socorro Jiménez Andrade",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
-    "Nombre": "Juan Carlos García"
+    "Nombre": "Juan Carlos García",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
-    "Nombre": "Edgar Israel Martínez Rubí"
+    "Nombre": "Edgar Israel Martínez Rubí",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
-    "Nombre": "Viridiano Guadalupe González Gutiérrez"
+    "Nombre": "Viridiano Guadalupe González Gutiérrez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
-    "Nombre": "Fabiola Raquel Guadalupe Loya Hernández"
+    "Nombre": "Fabiola Raquel Guadalupe Loya Hernández",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
-    "Nombre": "Ruth Amelia Chávez Parra"
+    "Nombre": "Ruth Amelia Chávez Parra",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
-    "Nombre": "Nicolás Maestro Landeros"
+    "Nombre": "Nicolás Maestro Landeros",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
-    "Nombre": "Delfino Corona Arana"
+    "Nombre": "Delfino Corona Arana",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
-    "Nombre": "Julio Cesar Ibarra Mendoza"
+    "Nombre": "Julio Cesar Ibarra Mendoza",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
-    "Nombre": "Juan Carlos Villarreal Salazar"
+    "Nombre": "Juan Carlos Villarreal Salazar",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
-    "Nombre": "María Elizabeth Flores Vázquez"
+    "Nombre": "María Elizabeth Flores Vázquez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
-    "Nombre": "Pablo Montaño"
+    "Nombre": "Pablo Montaño",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
-    "Nombre": "Abril Alcalá Padilla"
+    "Nombre": "Abril Alcalá Padilla",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
-    "Nombre": "Ximena Ruiz Uribe"
+    "Nombre": "Ximena Ruiz Uribe",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
-    "Nombre": "Javier Barbosa González"
+    "Nombre": "Javier Barbosa González",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
-    "Nombre": "Alfonso Ponce Varela"
+    "Nombre": "Alfonso Ponce Varela",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
-    "Nombre": "Rocío del Carmen Macías Gómez"
+    "Nombre": "Rocío del Carmen Macías Gómez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
-    "Nombre": "Victoria Anahí Olguin Rojas"
+    "Nombre": "Victoria Anahí Olguin Rojas",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
-    "Nombre": "Addair Miranda Mendoza"
+    "Nombre": "Addair Miranda Mendoza",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
-    "Nombre": "Martha Alicia Mendoza Melendrez"
+    "Nombre": "Martha Alicia Mendoza Melendrez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
-    "Nombre": "Carmen Julia Prudencio González"
+    "Nombre": "Carmen Julia Prudencio González",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
-    "Nombre": "Demetrio Almeda Hernández"
+    "Nombre": "Demetrio Almeda Hernández",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
-    "Nombre": "Rodrigo Cornejo"
+    "Nombre": "Rodrigo Cornejo",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
-    "Nombre": "Mariana Sophia Marquez Laureano"
+    "Nombre": "Mariana Sophia Marquez Laureano",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
-    "Nombre": "José Luis Ortíz Vargas"
+    "Nombre": "José Luis Ortíz Vargas",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
-    "Nombre": "Karla Amelia de la Vega Pérez"
+    "Nombre": "Karla Amelia de la Vega Pérez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
-    "Nombre": "Geraldina Isabel Herrera Vega"
+    "Nombre": "Geraldina Isabel Herrera Vega",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
-    "Nombre": "Carla Patricia Hernández González"
+    "Nombre": "Carla Patricia Hernández González",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
-    "Nombre": "Norma Elizabeth Chávez Arias"
+    "Nombre": "Norma Elizabeth Chávez Arias",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
-    "Nombre": "Erika Gabriela Pérez López"
+    "Nombre": "Erika Gabriela Pérez López",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
-    "Nombre": "Elena Berenice Castillo Santillán"
+    "Nombre": "Elena Berenice Castillo Santillán",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
-    "Nombre": "Kehila Abigail Kú Escalante"
+    "Nombre": "Kehila Abigail Kú Escalante",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
-    "Nombre": "Ana Sofía Martínez Sánchez"
+    "Nombre": "Ana Sofía Martínez Sánchez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
-    "Nombre": "Luis Alberto Muñoz Rodríguez"
+    "Nombre": "Luis Alberto Muñoz Rodríguez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
-    "Nombre": "Alina Pérez González"
+    "Nombre": "Alina Pérez González",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
-    "Nombre": "Xóchitl Livier Reynoso Zamora"
+    "Nombre": "Xóchitl Livier Reynoso Zamora",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
-    "Nombre": "Alis Lizette Alanis Cervantes"
+    "Nombre": "Alis Lizette Alanis Cervantes",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
-    "Nombre": "Adriana Gabriela Medina Ortiz"
+    "Nombre": "Adriana Gabriela Medina Ortiz",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
-    "Nombre": "Miriam Josefina Cano Silva"
+    "Nombre": "Miriam Josefina Cano Silva",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
-    "Nombre": "Alberto Vale"
+    "Nombre": "Alberto Vale",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
-    "Nombre": "María Silvia López Campechano"
+    "Nombre": "María Silvia López Campechano",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
-    "Nombre": "Karla Torres Cervantes"
+    "Nombre": "Karla Torres Cervantes",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
-    "Nombre": "Antonio Román Valdez"
+    "Nombre": "Antonio Román Valdez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
-    "Nombre": "Francisco Javier Rincón Farias"
+    "Nombre": "Francisco Javier Rincón Farias",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
-    "Nombre": "Lourdes Celenia Contreras González"
+    "Nombre": "Lourdes Celenia Contreras González",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
-    "Nombre": "Alejandro López Ibarra"
+    "Nombre": "Alejandro López Ibarra",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
-    "Nombre": "Saúl Muñoz Ortiz"
+    "Nombre": "Saúl Muñoz Ortiz",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
-    "Nombre": "Sergio Javier Otal Lobo"
+    "Nombre": "Sergio Javier Otal Lobo",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
-    "Nombre": "Sergio Arturo González Iñiguez"
+    "Nombre": "Sergio Arturo González Iñiguez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
-    "Nombre": "Eligio Barajas Valencia"
+    "Nombre": "Eligio Barajas Valencia",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
-    "Nombre": "Juan Francisco Ramírez Salcido"
+    "Nombre": "Juan Francisco Ramírez Salcido",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
-    "Nombre": "Francisco Javier Mosqueda Manzo"
+    "Nombre": "Francisco Javier Mosqueda Manzo",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
-    "Nombre": "Abraham Isaac Cisneros Aguirre"
+    "Nombre": "Abraham Isaac Cisneros Aguirre",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
-    "Nombre": "Cynthia Valdovinos Sánchez"
+    "Nombre": "Cynthia Valdovinos Sánchez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
-    "Nombre": "Gabriela Oyuki Santiago Gutiérrez"
+    "Nombre": "Gabriela Oyuki Santiago Gutiérrez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
-    "Nombre": "Ofelia Barajas Palomar"
+    "Nombre": "Ofelia Barajas Palomar",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
-    "Nombre": "Marisol Acevedo Ortega"
+    "Nombre": "Marisol Acevedo Ortega",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
-    "Nombre": "Laura Imelda Pérez Segura"
+    "Nombre": "Laura Imelda Pérez Segura",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
-    "Nombre": "Sergio Miguel Martin Castellanos"
+    "Nombre": "Sergio Miguel Martin Castellanos",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
-    "Nombre": "María Eugenia Atilano Taylor"
+    "Nombre": "María Eugenia Atilano Taylor",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
-    "Nombre": "Daniel Ramírez Hernández"
+    "Nombre": "Daniel Ramírez Hernández",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
-    "Nombre": "Juan Martín Espinoza Cárdenas"
+    "Nombre": "Juan Martín Espinoza Cárdenas",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
-    "Nombre": "Luis Fernando Pérez Rivera"
+    "Nombre": "Luis Fernando Pérez Rivera",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
-    "Nombre": "Salvador Barajas del Toro"
+    "Nombre": "Salvador Barajas del Toro",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
-    "Nombre": "Victoria Esparza Sánchez"
+    "Nombre": "Victoria Esparza Sánchez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
-    "Nombre": "Norma Patricia Serratos Sánchez"
+    "Nombre": "Norma Patricia Serratos Sánchez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
-    "Nombre": "Alberto Esquer Gutiérrez"
+    "Nombre": "Alberto Esquer Gutiérrez",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
-    "Nombre": "Clara Cárdenas Galván"
+    "Nombre": "Clara Cárdenas Galván",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
-    "Nombre": "Jorge Arana Arana"
+    "Nombre": "Jorge Arana Arana",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
-    "Nombre": "Karla Patricia Fonseca Veliz"
+    "Nombre": "Karla Patricia Fonseca Veliz",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
-    "Nombre": "Luis Fernando Quintero Damián"
+    "Nombre": "Luis Fernando Quintero Damián",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
-    "Nombre": "Ana Priscila González García"
+    "Nombre": "Ana Priscila González García",
+    "Partido": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
-    "Nombre": "Cuahtémoc Peña Cortés"
+    "Nombre": "Cuahtémoc Peña Cortés",
+    "Partido": ""
   }
 ]
