@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,400italic,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,400italic,700);
 
 body {
     font-size: 16px;
-    font-family: 'Open Sans', 'Arial', sans-serif;
+    font-family: 'Lato','Open Sans', 'Arial', sans-serif;
 }
 
 h1, h2, h3, h4, h5 {
@@ -93,7 +94,7 @@ h3 {
 }
 
 hr{
-    width:85%;
+    width:86%;
     margin:0 auto;
 }
 

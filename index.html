@@ -13,9 +13,9 @@ layout: default
                 <button class="btn btn-default" type="submit" id="find-me"><i class='fa fa-crosshairs'></i> <span class='hidden-xs hidden-sm'>Usar mi ubicación</span> </button>
             </span>
         </div>
-        <div class='col-sm-8 col-sm-offset-2 filter_level'>
+        <div class='filter_level' style='width: 86%; margin:0 auto;'>
             <br /><p class='text-center'>
-                Mostrar candidatos a:<br/> 
+                <b>Mostrar candidatos a:</b><br />
                 <label>
                     <input type="checkbox" id="show_alcalde_results" value="alcalde" checked="checked"> Alcalde
                 </label>
@@ -36,17 +36,16 @@ layout: default
                 </label>
             </p>
         </div>
-        <br />
     </div>
 </div>
 
 
 <script src="js/new_lookup_tool.js"></script>
-<div id='map' style='width: 85%; height: 450px; margin:0 auto;' ></div>
+<div id='map' style='width: 86%; height: 425px; margin:0 auto;' ></div>
 
-
-<div id="presidente_show" class='col-md-5 col-md-offset-2'></div>
-
+<div><br /><p class='text-center'>
+    Esta ubicación pertenece al municipio de __ y el Distrito Federal y Local de Jalisco número __.
+</p></div>
 
 
 <div class="row">
@@ -111,6 +110,8 @@ layout: default
                     </thead>
                     <tbody></tbody>
                 </table>
+                <div class='text-center'><a href="javascript:void(0)">
+                Conoce las funciones de un presidente municipal.</a></div>
             </div>
 
             <div id='dl-container-not-found' style='display: none;' class='text-center'>
@@ -133,6 +134,8 @@ layout: default
                     </thead>
                     <tbody></tbody>
                 </table>
+                <div class='text-center'><a href="javascript:void(0)">
+                Conoce las funciones de un diputado local.</a></div>
             </div>
 
 
@@ -156,6 +159,8 @@ layout: default
                     </thead>
                     <tbody></tbody>
                 </table>
+                <div class='text-center'><a href="javascript:void(0)">
+                Conoce las funciones de un diputado federal.</a></div>
             </div>
 
             <div id='senador-container-not-found' style='display: none;' class='text-center'>
@@ -221,11 +226,10 @@ layout: default
         </div>
     </div>
 </div>
-<br />
-<br />
+<div id="presidente_show" class='col-md-offset-2'><p><br /></p></div>
+<div><p><br /></p></div>
 
 <hr />
-
 <div class='row'>
     <div class='col-md-5 col-md-offset-2'>
         <br /><br />
