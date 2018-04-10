@@ -114,7 +114,6 @@ function showResults() {
                         console.log(presidente_people)
                     }
                 }  
-             
         });
     }
 
