@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Bitter:400,400italic,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,400italic,700);
+@import url(https://fonts.googleapis.com/css?family=Fira Sans:400,400italic,700);
 
 body {
     font-size: 16px;
@@ -7,18 +7,23 @@ body {
 }
 
 h1, h2, h3, h4, h5 {
-    font-family: 'Bitter', serif;
+    font-family: 'Fira Sans', 'Lato', 'Open Sans', 'Arial', sans-serif;
     font-weight: bold;
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 60px;
     padding-bottom: 10px;
+    font-style: italic;
 }
 
 h1 a, h1 a:hover {
-    color: #444444;
+    color: #2A4147;
     text-decoration: none;
+}
+
+h2 {
+    color: #ED7567;
 }
 
 h3 {
@@ -32,7 +37,7 @@ h3 {
 }
 
 .about {
-    font-size: 90%;
+    font-size: 100%;
 }
 
 /* center the nav pills */
