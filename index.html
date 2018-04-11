@@ -303,96 +303,75 @@ var map = new mapboxgl.Map({
 });
 map.addControl(new mapboxgl.NavigationControl());
 
+// load geojson data once base map has loaded
+
 map.on('load', function() {
-    $.getJSON("archivos_mapa/distritos_jalisco.geojson",
-        function(data) {
-            data.features.forEach((distrito, index) => {
-                map.addSource(distrito.properties.DISTRITO.toString(), {
-                    type: 'geojson',
-                    data: distrito
-                });
-                map.addLayer({
-                    'id': distrito.properties.DISTRITO.toString(),
-                    'type': 'fill',
-                    'source': distrito.properties.DISTRITO.toString(),
-                    'paint': {'fill-color': '#fff', 'fill-opacity': 0}
-                });
+    $.getJSON( "http://jaliscocomovotamos.netlify.com/archivos_mapa/distritos_jalisco.geojson", function( data ) {
+        data.features.forEach((distrito, index) => {
+            map.addSource(distrito.properties.Name, {
+                type: 'geojson',
+                data: distrito
             });
+            // map layer needs an id, type, the source and a style
+            console.log(distrito.properties.Name);
+            map.addLayer({
+                'id': distrito.properties.Name,
+                'type': 'fill',
+                'source': distrito.properties.Name,
+                'paint': {
+                    'fill-color': colors[Math.floor(Math.random() * colors.length)],
+                    'fill-outline-color': '#fff',
+                    'fill-opacity': 0.4
+                }
+            });
+        })
+        // add interactivity to see a popup with info about a district
+        map.on('click', 'distritos-jalisco-6avwqp', function(e) {
+            let popup = new mapboxgl.Popup().setLngLat(e.lngLat).setHTML("Perteneces al " + e.features[
+                0].properties.Name).addTo(map);
         });
- });
-
-            // add interactivity to see a popup with info about a district
-
-        // map.on('mouseenter', 'distritos-guadalajara', function() {
-        //  // Change the cursor style as a UI indicator.
-    //      map.getCanvas().style.cursor = 'pointer';
-        // })
-    //
-        // map.on('mouseleave', 'distritos-guadalajara', function() {
-        //  // Change the cursor style back as a UI indicator.
-        //  map.getCanvas().style.cursor = '';
-        // });
-
-map.on('click', 'distritos-jalisco-6avwqp', function(e) {
-
-            let popup = new mapboxgl.Popup()
-                .setLngLat(e.lngLat)
-                .setHTML("Perteneces al " + e.features[0].properties.DISTRITO.toString())
-                .addTo(map);
-        });
-
         map.on('mouseenter', 'distritos-jalisco-6avwqp', function() {
             // Change the cursor style as a UI indicator.
             map.getCanvas().style.cursor = 'pointer';
         })
-
         map.on('mouseleave', 'distritos-jalisco-6avwqp', function() {
             // Change the cursor style back as a UI indicator.
             map.getCanvas().style.cursor = '';
         });
-
-
-        // let geocoder = new MapboxGeocoder({
-        //     accessToken: mapboxgl.accessToken
-        // });
-        // map.addControl(geocoder);
-
+        // add mapbox geocoder to look up an address!
+        let geocoder = new MapboxGeocoder({
+            accessToken: mapboxgl.accessToken
+        });
         // create an empty array to keep track of popups
         let popups = [];
-
         // listen to 'result' event to see which address and coordinate is searched
-        map.on('result', function(res) {
-
+        geocoder.on('result', function(res) {
             // if there's already a city council popup, erase it!
             if (popups.length > 0) {
                 console.log(popups);
-
                 //remove all the popups from the map if they already exist
                 popups.forEach(function(popup) {
                     popup.remove();
                 });
             }
             console.log(res.result);
-
             // put lat / lon into a turf point (just for a shorter variable name)
             let pt = turf.point(res.result.geometry.coordinates);
             // console.log(pt);
-
             //iterate through multipolygons to see which one point is inside
-            data.features.forEach( function(feature) {
+            data.features.forEach(function(feature) {
                 // turf.inside is a method to check whether a point is inside a polygon
                 if (turf.inside(pt, feature)) {
-
-                    let councilInfo = new mapboxgl.Popup()
-                        .setLngLat(pt.geometry.coordinates)
-                        .setHTML("Perteneces al" + feature.properties.DISTRITO.toString())
-                        .addTo(map);
-            map.setPaintProperty(feature.properties.DISTRITO.toString(), 'fill-opacity', 1);
-                      popups.push(councilInfo);
-
+                    let councilInfo = new mapboxgl.Popup().setLngLat(pt.geometry.coordinates).setHTML(
+                        "Perteneces al" + feature.properties.Name).addTo(map);
+                    map.setPaintProperty(feature.properties.Name, 'fill-opacity', 1);
+                    popups.push(councilInfo);
+                    zoom: 9.09;
                 }
             })
         });
+    });
+});
    
 
 
@@ -403,8 +382,6 @@ map.on('click', 'distritos-jalisco-6avwqp', function(e) {
     //      .addTo(map);
     //      console.log(e.features[0].properties.DISTRITO)
     // });
-
-
 
 
 //     $.getJSON( "archivos_mapa/distritos_jalisco.geojson", function(data) {
@@ -420,7 +397,6 @@ map.on('click', 'distritos-jalisco-6avwqp', function(e) {
 //             console.log(distrito_id)
 //         };           
 // });
-
 
 
       //       (distrito, index) =>{
