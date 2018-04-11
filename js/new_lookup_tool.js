@@ -56,7 +56,25 @@ function display(long_lat) {
     }
     marker = new mapboxgl.Marker()
         .setLngLat([long_lat[1], long_lat[0]])
-        .addTo(map);
+        .addTo(map)
+
+
+    
+
+
+    // var all_features = map.queryRenderedFeatures(long_lat,
+    // {layers: ['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20']}
+    // );
+    // for (i = 0; i < all_features.length; i++) { if (all_features[i]) 
+    //     {var distrito_num = all_features[i]}}
+//     map.on('load', function(e) {
+//                 // .setLngLat(e.lngLat)
+//                 var distrito_num = e.features[0].properties.DISTRITO.toString()
+    
+    // document.getElementById("mi_distrito").innerHTML = distrito_num;
+    // console.log(distrito_num);
+// });
+
     map.flyTo({
         center: [long_lat[1], long_lat[0]],
         zoom: 14,
@@ -184,10 +202,11 @@ function showResults() {
         // $('#alcalde-results tbody').append(template.render({
         //     people: alcalde_people
         // }));
-    } else {
-        $('#alcalde-container').hide()
-        $('#alcalde-nav').hide();
-    }
+    } 
+    // else {
+    //     $('#alcalde-container').hide()
+    //     $('#alcalde-nav').hide();
+    // }
 
     if (show_dl) {
         $('#dl-container').show();
@@ -195,10 +214,11 @@ function showResults() {
         // $('#dl-results tbody').append(template.render({
         //     people: dl_people
         // }));
-    } else {
-        $('#dl-container').hide()
-        $('#dl-nav').hide();
-    }
+    } 
+    // else {
+    //     $('#dl-container').hide()
+    //     $('#dl-nav').hide();
+    // }
 
     if (show_df) {
         $('#df-container').show();
@@ -206,10 +226,11 @@ function showResults() {
         // $('#df-results tbody').append(template.render({
         //     people: df_people
         // }));
-    } else {
-        $('#df-container').hide()
-        $('#df-nav').hide();
-    }
+    } 
+    // else {
+    //     $('#df-container').hide()
+    //     $('#df-nav').hide();
+    // }
 
     if (show_senador) {
         $('#senador-container').show();
@@ -217,10 +238,11 @@ function showResults() {
         // $('#senador-results tbody').append(template.render({
         //     people: senador_people
         // }));
-    } else {
-        $('#senador-container').hide()
-        $('#senador-nav').hide();
-    }
+    } 
+    // else {
+    //     $('#senador-container').hide()
+    //     $('#senador-nav').hide();
+    // }
 
     if (show_gobernador) {
         $('#gobernador-container').show();
@@ -228,10 +250,11 @@ function showResults() {
         // $('#gobernador-results tbody').append(template.render({
         //     people: gobernador_people
         // }));
-    } else {
-        $('#gobernador-container').hide()
-        $('#gobernador-nav').hide();
-    }
+    } 
+    // else {
+    //     $('#gobernador-container').hide()
+    //     $('#gobernador-nav').hide();
+    // }
 
     if (show_presidente) {
         $('#presidente-container').show();
@@ -239,10 +262,11 @@ function showResults() {
         // $('#presidente-results tbody').append(template.render({
         //     people: presidente_people
         // }));
-    } else {
-        $('#presidente-container').hide()
-        $('#presidente-nav').hide();
-    }
+    } 
+    // else {
+    //     $('#presidente-container').hide()
+    //     $('#presidente-nav').hide();
+    // }
 
     if (marker === undefined || marker === null) {
         $('#no-response-container').show();
