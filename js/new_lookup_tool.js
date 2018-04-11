@@ -203,10 +203,10 @@ function showResults() {
         //     people: alcalde_people
         // }));
     } 
-    // else {
-    //     $('#alcalde-container').hide()
-    //     $('#alcalde-nav').hide();
-    // }
+    else {
+        $('#alcalde-container').hide()
+        $('#alcalde-nav').hide();
+    }
 
     if (show_dl) {
         $('#dl-container').show();
@@ -215,10 +215,10 @@ function showResults() {
         //     people: dl_people
         // }));
     } 
-    // else {
-    //     $('#dl-container').hide()
-    //     $('#dl-nav').hide();
-    // }
+    else {
+        $('#dl-container').hide()
+        $('#dl-nav').hide();
+    }
 
     if (show_df) {
         $('#df-container').show();
@@ -227,10 +227,10 @@ function showResults() {
         //     people: df_people
         // }));
     } 
-    // else {
-    //     $('#df-container').hide()
-    //     $('#df-nav').hide();
-    // }
+    else {
+        $('#df-container').hide()
+        $('#df-nav').hide();
+    }
 
     if (show_senador) {
         $('#senador-container').show();
@@ -239,10 +239,10 @@ function showResults() {
         //     people: senador_people
         // }));
     } 
-    // else {
-    //     $('#senador-container').hide()
-    //     $('#senador-nav').hide();
-    // }
+    else {
+        $('#senador-container').hide()
+        $('#senador-nav').hide();
+    }
 
     if (show_gobernador) {
         $('#gobernador-container').show();
@@ -251,10 +251,10 @@ function showResults() {
         //     people: gobernador_people
         // }));
     } 
-    // else {
-    //     $('#gobernador-container').hide()
-    //     $('#gobernador-nav').hide();
-    // }
+    else {
+        $('#gobernador-container').hide()
+        $('#gobernador-nav').hide();
+    }
 
     if (show_presidente) {
         $('#presidente-container').show();
@@ -263,10 +263,10 @@ function showResults() {
         //     people: presidente_people
         // }));
     } 
-    // else {
-    //     $('#presidente-container').hide()
-    //     $('#presidente-nav').hide();
-    // }
+    else {
+        $('#presidente-container').hide()
+        $('#presidente-nav').hide();
+    }
 
     if (marker === undefined || marker === null) {
         $('#no-response-container').show();
