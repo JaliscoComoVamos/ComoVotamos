@@ -50,37 +50,37 @@ function findMe() {
     }
 }
 
-function display(long_lat) {
+function display(loc) {
     if (marker) {
         marker.remove();
     }
     marker = new mapboxgl.Marker()
-        .setLngLat([long_lat[1], long_lat[0]])
+        .setLngLat([loc[1], loc[0]])
         .addTo(map)
 
-
-    
-
-
-    // var all_features = map.queryRenderedFeatures(long_lat,
-    // {layers: ['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20']}
-    // );
-    // for (i = 0; i < all_features.length; i++) { if (all_features[i]) 
-    //     {var distrito_num = all_features[i]}}
-//     map.on('load', function(e) {
-//                 // .setLngLat(e.lngLat)
-//                 var distrito_num = e.features[0].properties.DISTRITO.toString()
-    
-    // document.getElementById("mi_distrito").innerHTML = distrito_num;
-    // console.log(distrito_num);
-// });
-
     map.flyTo({
-        center: [long_lat[1], long_lat[0]],
+        center: [loc[1], loc[0]],
         zoom: 14,
         speed: 10
     });
-    showResults()
+    showResults();
+
+    for (i = 0; i < 20; i++) { 
+        map.on('click', 'Distrito ' + i, function(e) {
+                mi_distrito = i
+                console.log(mi_distrito)
+        });
+    }
+
+
+    // map.on('click', 'Distrito 2', function(e) {
+    //             var mi_distrito = 2
+    //             console.log(mi_distrito)
+    //     });
+
+    // map.fire({ lngLat: [loc[1], loc[0]]});
+    // document.getElementById("mi_distrito").innerHTML = mi_distrito;
+
 }
 
 var selected_alcalde = '';
@@ -268,13 +268,13 @@ function showResults() {
         $('#presidente-nav').hide();
     }
 
-    if (marker === undefined || marker === null) {
-        $('#no-response-container').show();
-        $("#response-container").hide();
-    } else {
+    // if (marker === undefined || marker === null) {
+    //     $('#no-response-container').show();
+    //     $("#response-container").hide();
+    // } else {
         $('#no-response-container').hide();
         $("#response-container").show();
-    }
+    // }
 
     // hook up modal stuff
     // var modal_template = new EJS({'text': $('#modalGuts').html()});
