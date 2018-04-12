@@ -344,38 +344,15 @@ map.on('load', function() {
                 $('#no-response-container').hide();
                 $("#response-container").show();
             });
+            map.on('mouseenter', 'Distrito ' + i, function() {
+                // Change the cursor style as a UI indicator.
+                map.getCanvas().style.cursor = 'pointer';
+            })     
+            map.on('mouseleave', 'Distrito' + i, function() {
+                // Change the cursor style back as a UI indicator.
+                map.getCanvas().style.cursor = '';
+            });
         }
-
-
-
-
-
-        // map.on('click', 'Distrito 1', function(e) {
-        //     let popup = new mapboxgl.Popup().setLngLat(e.lngLat).setHTML("Perteneces al " + e.features[
-        //         0].properties.Name).addTo(map);
-        //         var my_district = 'Distrito 1';
-        //         console.log(my_district);
-        // });
-        // map.on('mouseenter', 'Distrito 1', function() {
-        //     // Change the cursor style as a UI indicator.
-        //     map.getCanvas().style.cursor = 'pointer';
-        // })
-        // map.on('mouseleave', 'Distrito 1', function() {
-        //     // Change the cursor style back as a UI indicator.
-        //     map.getCanvas().style.cursor = '';
-        // });
-        // map.on('click', 'Distrito 2', function(e) {
-        //     let popup = new mapboxgl.Popup().setLngLat(e.lngLat).setHTML("Perteneces al " + e.features[
-        //         0].properties.Name).addTo(map);
-        // });
-        // map.on('mouseenter', 'Distrito 2', function() {
-        //     // Change the cursor style as a UI indicator.
-        //     map.getCanvas().style.cursor = 'pointer';
-        // })
-        // map.on('mouseleave', 'Distrito 2', function() {
-        //     // Change the cursor style back as a UI indicator.
-        //     map.getCanvas().style.cursor = '';
-        // });
 
         // // add mapbox geocoder to look up an address!
         // let geocoder = new MapboxGeocoder({
