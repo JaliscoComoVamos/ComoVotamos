@@ -1,22 +1,22 @@
+
 function getCandidates() {
     // <!-- Add Alcaldes -->
-    $.getJSON("lista_candidatos.json", function(data) {
+   $.getJSON("/lista_candidatos.json", function(data) {
         $("#alcalde-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
-            if (data[i].Candidatura.includes("Alcalde")) items.push("<tr><td></td><td>" + data[i].Nombre +
-                " (" + data[i].Candidatura.slice(8, ) + ")</td><td>" + data[i].Partido +
+            if (data[i].Candidatura === mi_municipio) items.push("<tr><td></td><td>" + data[i].Nombre +
+                " (" + data[i].Candidatura + ")</td><td>" + data[i].Partido +
                 "</td><td></td></tr>")
         };
         $('#alcalde-results').find('tbody').append(items)
     });
     // <!-- Add Diputados Locales -->
-    var mi_distrito2 = parseInt($("#mi_distrito_placeholder_2").text().replace(/\*/gmi, ""), 10)
     $.getJSON("lista_candidatos.json", function(data) {
         $("#dl-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
-            if (data[i].Candidatura.includes("Diputado Local DTTO. " + mi_distrito2 + " ")) items.push(
+            if (data[i].Candidatura.includes("Diputado Local DTTO. " + mi_distrito + " ")) items.push(
                 "<tr><td></td><td>" + data[i].Nombre + " (Distrito " + data[i].Candidatura.replace(/\D/g, '') +
                 ")</td><td>" + data[i].Partido + "</td><td></td></tr>")
         };
@@ -27,7 +27,7 @@ function getCandidates() {
         $("#df-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
-            if (data[i].Candidatura === "Diputado Federal DTTO. " + mi_distrito2) items.push(
+            if (data[i].Candidatura === "Diputado Federal DTTO. " + mi_distrito) items.push(
                 "<tr><td></td><td>" + data[i].Nombre + " (Distrito " + data[i].Candidatura.replace(/\D/g, '') +
                 ")</td><td>" + data[i].Partido + "</td><td></td></tr>")
         };
@@ -63,6 +63,7 @@ function getCandidates() {
         };
         $('#presidente-results').find('tbody').append(items)
     });
+    showResults();
 }
 
 var selected_alcalde = '';
@@ -182,7 +183,7 @@ function showResults() {
         $('#presidente-nav').hide();
     }
 
-          $('#no-response-container').hide();
-        $("#response-container").show();
+    $('#no-response-container').hide();
+    $("#response-container").show();
    
 };
