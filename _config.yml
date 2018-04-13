@@ -7,4 +7,3 @@ lang: es-MX
 description: "Conoce a los candidatos federales, estatales y locales en el estado de Jalisco, México."
 plugins_dir:
   - jekyll-redirect-from
-google_api_key: AIzaSyDa8cn_6w-QE4rqZLOVEjF7qJIxBL_SJ38
