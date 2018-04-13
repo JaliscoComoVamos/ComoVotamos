@@ -51,7 +51,7 @@ layout: default
 
 
 
-<div id='map' style='width: 86%; height: 425px; margin:0 auto;' ></div>
+<div id='map' style='width: 86%; height: 450px; margin:0 auto;' ></div>
 
 
 <div class="row">
@@ -294,145 +294,155 @@ var colors = ["#911eb4", "#46f0f0", "#f032e6", "#d2f53c", "#fabebe",
 "#aaffc3", "#808000", "#ffd8b1", "#3cb44b", "#808080",
 "#e6194b", "#fffac8", "#ffe119", "#0082c8", "#f58231",];
 
+// create an empty array to keep track of popups
+var popups = [];
+
 map.on('load', function() {
-            d3.json('archivos_mapa/distritos_jalisco.geojson', function(data) {
-                        let geocoder2 = new MapboxGeocoder({
-                                accessToken: mapboxgl.accessToken, country: 'mx', language: 'es'
-                            });
-                        map.addControl(geocoder2);
-                        map.addControl(new mapboxgl.NavigationControl());
-
-
-                        data.features.forEach((distrito, index) => {
-                            map.addSource(distrito.properties.Name, {
-                                type: 'geojson',
-                                data: distrito
-                            });
-                            // map layer needs an id, type, the source and a style
-                            map.addLayer({
-                                'id': distrito.properties.Name,
-                                'type': 'fill',
-                                'source': distrito.properties.Name,
-                                'paint': {
-                                    'fill-color': colors[index],
-                                    'fill-opacity': 0.35
-                                }
-                            });
-                            
-                            // create an empty array to keep track of popups
-                            let popups = [];
-                            // listen to 'result' event to see which address and coordinate is searched
-                            geocoder2.on('result', function(res) {
-                                $('#no-response-container').hide();
-                                $("#response-container").show();
-                                if (popups.length > 0) {
-                                    //remove all the popups from the map if they already exist
-                                    popups.forEach(function(popup) {
-                                        popup.remove();
-                                    });
-                                }
-                                // put lat / lon into a turf point (just for a shorter variable name)
-                                let pt = turf.point(res.result.geometry.coordinates);
-                                //iterate through multipolygons to see which one point is inside
-                                data.features.forEach(function(feature) {
-                                    // turf.inside is a method to check whether a point is inside a polygon
-                                    if (turf.inside(pt, feature)) {
-                                        let searchedPopup = new mapboxgl.Popup().setLngLat(pt.geometry.coordinates).setHTML(
-                                            "<br\><b>" + feature.properties.Name + "</b>").addTo(map);
-                                        popups.push(searchedPopup);
-                                        map.flyTo({
-                                            center: pt.geometry.coordinates,
-                                            zoom: 13.5,
-                                            speed: 10
-                                        });
-                                        mi_distrito = feature.properties.Name.slice().replace(/\D/g,'');
-                                        document.getElementById("mi_distrito_placeholder").innerHTML = mi_distrito;
-                                        document.getElementById("mi_distrito_placeholder_2").innerHTML = mi_distrito;
-                                        getCandidates()
-                                    }
-                                })
-                            })
-                        });
+    d3.json('archivos_mapa/distritos_jalisco.geojson', function(data) {
+        let geocoder2 = new MapboxGeocoder({
+            accessToken: mapboxgl.accessToken,
+            country: 'mx',
+            language: 'es',
+            placeholder: 'Buscar'
+        });
+        map.addControl(geocoder2);
+        map.addControl(new mapboxgl.NavigationControl());
+        data.features.forEach((distrito, index) => {
+            map.addSource(distrito.properties.Name, {
+                type: 'geojson',
+                data: distrito
             });
+            // map layer needs an id, type, the source and a style
+            map.addLayer({
+                'id': distrito.properties.Name,
+                'type': 'fill',
+                'source': distrito.properties.Name,
+                'paint': {
+                    'fill-color': colors[index],
+                    'fill-opacity': 0.35
+                }
+            });
+            // listen to 'result' event to see which address and coordinate is searched
+            geocoder2.on('result', function(res) {
+                $('#no-response-container').hide();
+                $("#response-container").show();
+                if (popups.length > 0) {
+                    //remove all the popups from the map if they already exist
+                    popups.forEach(function(popup) {
+                        popup.remove();
+                    });
+                }
+                // put lat / lon into a turf point (just for a shorter variable name)
+                let pt = turf.point(res.result.geometry.coordinates);
+                //iterate through multipolygons to see which one point is inside
+                data.features.forEach(function(feature) {
+                    // turf.inside is a method to check whether a point is inside a polygon
+                    if (turf.inside(pt, feature)) {
+                        let searchedPopup = new mapboxgl.Popup().setLngLat(pt.geometry.coordinates).setHTML(
+                            "<br\><b>" + feature.properties.Name + "</b>").addTo(map);
+                        popups.push(searchedPopup);
+                        map.flyTo({
+                            center: pt.geometry.coordinates,
+                            zoom: 13.5,
+                            speed: 10
+                        });
+                        mi_distrito = feature.properties.Name.slice().replace(/\D/g, '');
+                        document.getElementById("mi_distrito_placeholder").innerHTML = mi_distrito;
+                        document.getElementById("mi_distrito_placeholder_2").innerHTML = mi_distrito;
+                        getCandidates()
+                    }
+                })
+            })
+        });
+    });
 });
-for (i = 0; i < 21; i++) { 
-            (function (i) {
-                map.on('click', 'Distrito ' + i, function(e) {
-                    mi_distrito = e.features[0].properties.Name.slice().replace(/\D/g,'');
-                    let popup = new mapboxgl.Popup().setLngLat(e.lngLat).setHTML("<br\><b>" + e.features[0].properties.Name + "</b>").addTo(map);
-                    $('#no-response-container').hide();
-                    $("#response-container").show();
-                    document.getElementById("mi_distrito_placeholder").innerHTML = mi_distrito;
-                    document.getElementById("mi_distrito_placeholder_2").innerHTML = mi_distrito;
-                    getCandidates()
-                });
-
-                map.on('mouseenter', 'Distrito ' + i, function() {
-                    // Change the cursor style as a UI indicator.
-                    map.getCanvas().style.cursor = 'pointer';
-                });     
-                map.on('mouseleave', 'Distrito' + i, function() {
-                    // Change the cursor style back as a UI indicator.
-                    map.getCanvas().style.cursor = '';
-                });
-        })(i);
+for (i = 0; i < 21; i++) {
+    (function(i) {
+        map.on('click', 'Distrito ' + i, function(e) {
+            mi_distrito = e.features[0].properties.Name.slice().replace(/\D/g, '');
+            let clickedPopup = new mapboxgl.Popup().setLngLat(e.lngLat).setHTML("<br\><b>" + e.features[0].properties
+                .Name + "</b>").addTo(map);
+            popups.push(clickedPopup);
+            $('#no-response-container').hide();
+            $("#response-container").show();
+            document.getElementById("mi_distrito_placeholder").innerHTML = mi_distrito;
+            document.getElementById("mi_distrito_placeholder_2").innerHTML = mi_distrito;
+            getCandidates()
+        });
+        map.on('mouseenter', 'Distrito ' + i, function() {
+            // Change the cursor style as a UI indicator.
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', 'Distrito' + i, function() {
+            // Change the cursor style back as a UI indicator.
+            map.getCanvas().style.cursor = '';
+        });
+    })(i);
 }
-
-
-
 
 function getCandidates() {
     // <!-- Add Alcaldes -->
-    $.getJSON( "lista_candidatos.json", function( data ) {
-     var items = [];
-     for (i = 0; i < data.length; i++) { 
-            if (data[i].Candidatura.includes("Alcalde")) items.push("<tr><td></td><td>" + data[i].Nombre + " (" + data[i].Candidatura.slice(8,) + ")</td><td>" + data[i].Partido + "</td><td></td></tr>")};
+    $.getJSON("lista_candidatos.json", function(data) {
+        $("#alcalde-results tbody tr").remove();
+        var items = [];
+        for (i = 0; i < data.length; i++) {
+            if (data[i].Candidatura.includes("Alcalde")) items.push("<tr><td></td><td>" + data[i].Nombre +
+                " (" + data[i].Candidatura.slice(8, ) + ")</td><td>" + data[i].Partido +
+                "</td><td></td></tr>")
+        };
         $('#alcalde-results').find('tbody').append(items)
     });
-
     // <!-- Add Diputados Locales -->
-
-    // var mi_distrito2 = document.getElementById('mi_distrito_placeholder').innerHTML;
     var mi_distrito2 = parseInt($("#mi_distrito_placeholder_2").text().replace(/\*/gmi, ""), 10)
-
-    $.getJSON( "lista_candidatos.json", function( data ) {
-     $("#dl-results body").remove(); 
-     var items = [];
-     for (i = 0; i < data.length; i++) { 
-            if (data[i].Candidatura.includes("Diputado Local DTTO. " + mi_distrito2 + " ")) items.push("<tr><td></td><td>" + data[i].Nombre + " (Distrito " + data[i].Candidatura.replace(/\D/g,'') + ")</td><td>" + data[i].Partido + "</td><td></td></tr>")};
+    $.getJSON("lista_candidatos.json", function(data) {
+        $("#dl-results tbody tr").remove();
+        var items = [];
+        for (i = 0; i < data.length; i++) {
+            if (data[i].Candidatura.includes("Diputado Local DTTO. " + mi_distrito2 + " ")) items.push(
+                "<tr><td></td><td>" + data[i].Nombre + " (Distrito " + data[i].Candidatura.replace(/\D/g, '') +
+                ")</td><td>" + data[i].Partido + "</td><td></td></tr>")
+        };
         $('#dl-results').find('tbody').append(items)
     });
-
     // <!-- Add Diputados Federales -->
-    $("#df-results body").remove(); 
-    $.getJSON( "lista_candidatos.json", function( data ) {
-     var items = [];
-     for (i = 0; i < data.length; i++) { 
-            if (data[i].Candidatura === "Diputado Federal DTTO. " + mi_distrito2) items.push("<tr><td></td><td>" + data[i].Nombre + " (Distrito " + data[i].Candidatura.replace(/\D/g,'') + ")</td><td>" + data[i].Partido + "</td><td></td></tr>")};
+    $.getJSON("lista_candidatos.json", function(data) {
+        $("#df-results tbody tr").remove();
+        var items = [];
+        for (i = 0; i < data.length; i++) {
+            if (data[i].Candidatura === "Diputado Federal DTTO. " + mi_distrito2) items.push(
+                "<tr><td></td><td>" + data[i].Nombre + " (Distrito " + data[i].Candidatura.replace(/\D/g, '') +
+                ")</td><td>" + data[i].Partido + "</td><td></td></tr>")
+        };
         $('#df-results').find('tbody').append(items)
     });
-
     // <!-- Add candidates for the senate -->
-    $.getJSON( "lista_candidatos.json", function( data ) {
-     var items = [];
-     for (i = 0; i < data.length; i++) { 
-            if (data[i].Candidatura === "Senador") items.push("<tr><td></td><td>" + data[i].Nombre + "</td><td>" + data[i].Partido + "</td><td></td></tr>")};
+    $("#senador-results tbody tr").remove();
+    $.getJSON("lista_candidatos.json", function(data) {
+        var items = [];
+        for (i = 0; i < data.length; i++) {
+            if (data[i].Candidatura === "Senador") items.push("<tr><td></td><td>" + data[i].Nombre +
+                "</td><td>" + data[i].Partido + "</td><td></td></tr>")
+        };
         $('#senador-results').find('tbody').append(items)
     });
-
     // <!-- Add gubernatorial candidates -->
-    $.getJSON( "lista_candidatos.json", function( data ) {
-     var items = [];
-     for (i = 0; i < data.length; i++) { 
-            if (data[i].Candidatura === "Gobernador") items.push("<tr><td></td><td>" + data[i].Nombre + "</td><td>" + data[i].Partido + "</td><td></td></tr>")};
+    $("#gobernador-results tbody tr").remove();
+    $.getJSON("lista_candidatos.json", function(data) {
+        var items = [];
+        for (i = 0; i < data.length; i++) {
+            if (data[i].Candidatura === "Gobernador") items.push("<tr><td></td><td>" + data[i].Nombre +
+                "</td><td>" + data[i].Partido + "</td><td></td></tr>")
+        };
         $('#gobernador-results').find('tbody').append(items)
     });
-
     // <!-- Add presidential candidates -->
-    $.getJSON( "lista_candidatos.json", function( data ) {
-     var items = [];
-     for (i = 0; i < data.length; i++) { 
-            if (data[i].Candidatura === "Presidente") items.push("<tr><td></td><td>" + data[i].Nombre + "</td><td>" + data[i].Partido + "</td><td></td></tr>")};
+    $("#presidente-results tbody tr").remove();
+    $.getJSON("lista_candidatos.json", function(data) {
+        var items = [];
+        for (i = 0; i < data.length; i++) {
+            if (data[i].Candidatura === "Presidente") items.push("<tr><td></td><td>" + data[i].Nombre +
+                "</td><td>" + data[i].Partido + "</td><td></td></tr>")
+        };
         $('#presidente-results').find('tbody').append(items)
     });
 }
