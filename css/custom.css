@@ -36,6 +36,14 @@ h3 {
     white-space: nowrap;
 }
 
+th {
+    min-width: 150px;
+}
+
+th:first-child {
+    min-width: 3px;
+}
+
 .about {
     font-size: 100%;
 }
