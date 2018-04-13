@@ -66,23 +66,8 @@ function getCandidates() {
     showResults();
 }
 
-var selected_alcalde = '';
-var selected_dl = '';
-var selected_df = '';
-var selected_senador = '';
-var selected_gobernador = '';
-var selected_presidente = '';
-var all_people = {};
-var pseudo_id = 1;
 
 function showResults() {
-
-    var alcalde_people = [];
-    var dl_people = [];
-    var df_people = [];
-    var senador_people = [];
-    var gobernador_people = [];
-    var presidente_people = [];
 
     var show_alcalde = false;
     var show_dl = false;
@@ -120,14 +105,6 @@ function showResults() {
         results_level_set.push('presidente');
     }
 
-    selected_alcalde = '';
-    selected_dl = '';
-    selected_df = '';
-    selected_senador = '';
-    selected_gobernador = '';
-    selected_presidente = 'México';
-    all_people = {};
-    pseudo_id = 1;
 
     if (show_alcalde) {
         $('#alcalde-container').show();
