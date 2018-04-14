@@ -1,16 +1,16 @@
 # Jalisco Cómo Votamos
 
-[https://jaliscocomovotamos.netlify.com/](https://jaliscocomovotamos.netlify.com/)
+[http://jaliscocomovamos.org/votamos](http://jaliscocomovamos.org/votamos)
+
+La siguiente información proviene del proyecto original sobre el que se basó Jalisco Cómo Votamos, no corresponde necesariamente a este nuevo proyecto. Pronto este repositorio se actualizará como un proyecto independiente para que más personas puedan participar o expandir este proyecto a otras partes de México.
+
+
 
 # My Reps
 
 My Reps helps you locate and contact your federal, state, county and local elected representatives. Based on [my-reps-pbp](https://github.com/datamade/my-reps-pbp) by [DataMade](https://datamade.us/) and [Participatory Budgeting Project](http://participatorybudgeting.org/). Powered by the [Google Civic Information API](https://developers.google.com/civic-information/).
 
 For more, read our launch blog post: "[We find your reps so you don't have to](https://datamade.us/blog/we-find-your-reps-so-you-dont-have-to)".
-
-## Demo site: [myreps.datamade.us](http://myreps.datamade.us)
-
-![My Reps](https://datamade.us/images/blog/2016-07-26-we-find-your-reps-so-you-dont-have-to/img1.jpg)
 
 ## Organizers: reuse our code!
 
