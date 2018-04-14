@@ -1,13 +1,3 @@
-// Reload to top of page
-$(document).ready(function(){
-    $('html, body').scrollTop(0);
-    $(window).on('load', function() {
-    setTimeout(function(){
-        $('html, body').scrollTop(0);
-    }, 0);
- });
-});
-
 function getCandidates() {
     // <!-- Add Alcaldes -->
    $.getJSON("/lista_candidatos.json", function(data) {
@@ -25,7 +15,8 @@ function getCandidates() {
         $("#dl-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
-            if (data[i].Candidatura.includes("Diputado Local DTTO. " + mi_distrito + " ")) items.push(
+            var regex = new RegExp( "Diputado Local DTTO. " + mi_distrito + '\\b');
+            if (data[i].Candidatura.match(regex)) items.push(
                 "<tr><td></td><td>" + data[i].Nombre + " (Distrito " + data[i].Candidatura.replace(/\D/g, '') +
                 ")</td><td>" + data[i].Partido + "</td><td></td></tr>")
         };

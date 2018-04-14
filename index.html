@@ -215,6 +215,11 @@ layout: default
 
 <script type="text/javascript">
 
+// Reload to top of page
+$(window).on('beforeunload', function(){
+    $(window).scrollTop(0);
+});
+
 // List municipios
 var all_municipios = [];
 $.getJSON("lista_municipios.json", function(data) {
