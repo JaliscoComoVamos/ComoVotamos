@@ -68,7 +68,7 @@
   {
     "Candidatura": "Gobernador",
     "Nombre": "Carlos Lomelí Bolaños",
-    "Partido": "MORENA, PES",
+    "Partido": "MORENA, PES, PT",
     "Enlaces": ""
   },
   {
@@ -109,98 +109,104 @@
   },
   {
     "Candidatura": "Guadalajara",
+    "Nombre": "Francisco Ramón Meza Rosales",
+    "Partido": "Independiente",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Guadalajara",
     "Nombre": "Miguel Zárate Hernández",
-    "Partido": "",
+    "Partido": "PAN",
     "Enlaces": ""
   },
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Jesús Eduardo Almaguer Ramírez",
-    "Partido": "",
+    "Partido": "PRI",
     "Enlaces": ""
   },
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Valeria Guadalupe Ávila Gutiérrez",
-    "Partido": "",
+    "Partido": "PRD",
     "Enlaces": ""
   },
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Aurelio Martínez Flores",
-    "Partido": "",
+    "Partido": "PVEM",
     "Enlaces": ""
   },
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Ismael del Toro Castro",
-    "Partido": "",
+    "Partido": "MC",
     "Enlaces": ""
   },
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Rodolfo Armando Casanova Valle",
-    "Partido": "",
+    "Partido": "Independiente",
     "Enlaces": ""
   },
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Claudia Delgadillo González",
-    "Partido": "",
+    "Partido": "MORENA, PES, PT",
     "Enlaces": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "José Antonio de la Torre Bravo",
-    "Partido": "",
+    "Partido": "PAN",
     "Enlaces": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "Abel Octavio Salgado Peña",
-    "Partido": "",
+    "Partido": "PRI",
     "Enlaces": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "Jaime Prieto Pérez",
-    "Partido": "",
+    "Partido": "PRD",
     "Enlaces": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "Mario Alejandro Cárdenas Ochoa",
-    "Partido": "",
+    "Partido": "PVEM",
     "Enlaces": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "Jesús Pablo Lemus Navarro",
-    "Partido": "",
+    "Partido": "MC",
     "Enlaces": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "Jorge Leal Ramírez",
-    "Partido": "",
+    "Partido": "PANAL",
     "Enlaces": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "José Oscar Ávila Poblano",
-    "Partido": "",
+    "Partido": "Independiente",
     "Enlaces": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "Alejandro Gutiérrez Carrillo",
-    "Partido": "",
+    "Partido": "Independiente",
     "Enlaces": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "José Hiram Torres Salcedo",
-    "Partido": "",
+    "Partido": "MORENA, PES, PT",
     "Enlaces": ""
   },
   {
@@ -596,6 +602,78 @@
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "Alejandro Barragán Sánchez",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 1",
+    "Nombre": "Rafael Aguirre Carrillo",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 1",
+    "Nombre": "Gustaco Macías Zambrano",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 1",
+    "Nombre": "Leoncio Guzmán González",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 1",
+    "Nombre": "Antonio López Orozco",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 1",
+    "Nombre": "Luis Manuel Velez Orozco",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 2",
+    "Nombre": "Hugo Zamora de Anda",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 2",
+    "Nombre": "Nora Leticia Hernández Esqueda",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 2",
+    "Nombre": "José de Jesús Hurtado Torres",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 2",
+    "Nombre": "Gustavo Pedroza Romo",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 2",
+    "Nombre": "Saúl Martin Gómez",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 2",
+    "Nombre": "Luz del Carmen García Gómez",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 2",
+    "Nombre": "Carlos Alberto Gallardo Hernández",
     "Partido": "",
     "Enlaces": ""
   },
@@ -1044,56 +1122,86 @@
     "Enlaces": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
+    "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "María del Carmen Flores Vázquez",
     "Partido": "",
     "Enlaces": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
+    "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "María de los Ángeles Arredondo Torres",
     "Partido": "",
     "Enlaces": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
+    "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Gerardo León de la Cruz",
     "Partido": "",
     "Enlaces": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
+    "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Gabriel Hernández Pérez",
     "Partido": "",
     "Enlaces": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
+    "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Priscilla Franco Barba",
     "Partido": "",
     "Enlaces": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
+    "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Brenda Concepción Cesar Rodríguez",
     "Partido": "",
     "Enlaces": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
+    "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "José Bernardo Masini Aguilera",
     "Partido": "",
     "Enlaces": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
+    "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Otoniel Varas de Valdez González",
     "Partido": "",
     "Enlaces": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO 14 (Guadalajara)",
+    "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Adriana Leticia Hernández Castillón",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 15",
+    "Nombre": "Juan Diego Alcaraz Curiel",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 15",
+    "Nombre": "Carlos Eduardo Sánchez Carrillo",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 15",
+    "Nombre": "Imelda Serratos Madrigal",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 15",
+    "Nombre": "Juan Carlos Montes Jhonston",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 15",
+    "Nombre": "Clarissa Godínez Castellanos",
     "Partido": "",
     "Enlaces": ""
   },
@@ -1160,6 +1268,42 @@
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "Francisco Javier Díaz Ochoa",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 18",
+    "Nombre": "Teresa Daniela Ramírez Gamiño",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 18",
+    "Nombre": "Mónica Martínez Velasco",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 18",
+    "Nombre": "Irma de Anda Licea",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 18",
+    "Nombre": "Jessica Karina Hernández Velasco",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 18",
+    "Nombre": "J. Jesús Zúñiga Mendoza",
+    "Partido": "",
+    "Enlaces": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 18",
+    "Nombre": "Aaarón Flores Arias",
     "Partido": "",
     "Enlaces": ""
   },

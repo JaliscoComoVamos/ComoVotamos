@@ -2,229 +2,217 @@
 layout: default
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-    <script charset='utf-8' src='//d3js.org/d3.v4.min.js'></script>
-    <script charset='utf-8' src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
-    <script src=
-    'https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.1.1/mapbox-gl-geocoder.min.js'>
-    </script>
-    <script src="js/new_lookup_tool.js"></script>
-    <title></title>
-</head>
-<body>
-    <form>
-        <input id="mi_distrito_placeholder_2" onchange="getCandidates()" type="hidden">
-        <input id="mi_municipio_placeholder_2" onchange="getCandidates()" type="hidden">
-    </form>
-    <div class="container-fluid text-center">
-        <p class='lead'>Conoce a tus candidatos en las Elecciones de 2018 en el estado de Jalisco,
-        México.</p>
+<script charset='utf-8' src='//d3js.org/d3.v4.min.js'></script>
+<script charset='utf-8' src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+<script src=
+'https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.1.1/mapbox-gl-geocoder.min.js'>
+</script>
+<script src="js/new_lookup_tool.js"></script>
+
+<form>
+    <input id="mi_distrito_placeholder_2" onchange="getCandidates()" type="hidden">
+    <input id="mi_municipio_placeholder_2" onchange="getCandidates()" type="hidden">
+</form>
+
+<div class="row" style="width: 100%; margin:0 auto;">
+    <div style="font-size: 26px; width: 100%; margin:0 auto">
+        <h2><p class='text-center' style="color:#3F626B; background: #fbe3e0; padding: 6px">Ingresa tu dirección o haz clic en el mapa para ver a qué distrito federal y local perteneces.<br></p></h2>
     </div>
-    <div class="row">
-        <div style="color:#3E66B0; font-size: 26px">
-            <br>
-            <p class='text-center'><b>Ingresa tu dirección o haz clic en el mapa para ver a qué distrito
-            federal y local perteneces.&nbsp;<br></b></p>
-        </div>
-        <div class='filter_level' style='width: 86%; margin:0 auto;'>
-            <br>
-            <p class='text-center'><b>Mostrar candidatos a:</b><br>
-            <label><input checked="checked" id="show_alcalde_results" onchange="showResults()" type="checkbox" value="alcalde">
-            Alcalde</label> 
-            <label><input checked="checked" id="show_dl_results" onchange="showResults()"
-            type="checkbox" value="dl"> Diputado Local</label> 
-            <label><input checked="checked" id=
-            "show_df_results" onchange="showResults()" type="checkbox" value="df"> Diputado Federal</label>
-            <label><input checked="checked" id="show_senador_results" onchange="showResults()" type=
-            "checkbox" value="senador"> Senador</label> 
-            <label><input checked="checked" id=
-            "show_gobernador_results" onchange="showResults()" type="checkbox" value="gobernador">
-            Gobernador</label> 
-            <label><input checked="checked" id="show_presidente_results" onchange=
-            "showResults()" type="checkbox" value="presidente"> Presidente</label></p>
-        </div>
+    <div class='filter_level' style='width: 86%; margin:0 auto;'>
+        <br>
+        <p class='text-center' style="font-size: 20px"><b>Mostrar candidatos a:</b><br>
+        <label><input checked="checked" id="show_alcalde_results" onchange="showResults()" type="checkbox" value="alcalde">
+        Alcalde</label> 
+        <label><input checked="checked" id="show_dl_results" onchange="showResults()"
+        type="checkbox" value="dl"> Diputado Local</label> 
+        <label><input checked="checked" id=
+        "show_df_results" onchange="showResults()" type="checkbox" value="df"> Diputado Federal</label>
+        <label><input checked="checked" id="show_senador_results" onchange="showResults()" type=
+        "checkbox" value="senador"> Senador</label> 
+        <label><input checked="checked" id=
+        "show_gobernador_results" onchange="showResults()" type="checkbox" value="gobernador">
+        Gobernador</label> 
+        <label><input checked="checked" id="show_presidente_results" onchange=
+        "showResults()" type="checkbox" value="presidente"> Presidente</label></p>
     </div>
-    <div id='map' style='width: 86%; height: 450px; margin:0 auto;'></div>
-    <div class="row">
-        <div class='col-md-10 col-md-offset-1'>
-            <div class='text-center' id='no-response-container' style="display:none;">
-                <h2><i class='fa fa-exclamation-triangle' style="color:#EA4233"></i></h2>
-                <h2 style="color:#EA4233">No se encontraron candidatos.</h2>
-                <p>No pudimos encontrar ningún candidato para esa dirección. Verifica que la dirección
-                ingresada esté dentro de Jalisco, México e intenta de nuevo.</p>
+</div>
+<div id='map' style='width: 86%; height: 450px; margin:0 auto;'></div>
+<div class="row" style='width: 82%; margin:0 auto;'>
+    <div class='col-md-10 col-md-offset-1'>
+        <div class='text-center' id='no-response-container' style="display:none;">
+            <h2><i class='fa fa-exclamation-triangle' style="color:#EA4233"></i></h2>
+            <h2 style="color:#EA4233">No se encontraron candidatos.</h2>
+            <p>No pudimos encontrar ningún candidato para esa dirección. Verifica que la dirección
+            ingresada esté dentro de Jalisco, México e intenta de nuevo.</p>
+        </div>
+        <div id='response-container' style="display:none;">
+            <div style="color:#3F626B; font-size: 18px">
+                <br>
+                <p class='text-center'><b>Esta ubicación pertenece al Distrito Federal y Local de Jalisco
+                número <span id="mi_distrito_placeholder"></span> y el municipio de 
+                <span id="mi_municipio_placeholder">__</span>.<br>
+                <br></b></p>
             </div>
-            <div id='response-container' style="display:none;">
-                <div style="color:#3E66B0; font-size: 18px">
-                    <br>
-                    <p class='text-center'><b>Esta ubicación pertenece al Distrito Federal y Local de Jalisco
-                    número <span id="mi_distrito_placeholder"></span> y el municipio de 
-                    <span id="mi_municipio_placeholder">__</span>.<br>
-                    <br></b></p>
+            <p class="lead text-center" id='results-nav' style="color:#3d626b; font-size: 19px">
+            <b>Candidaturas</b><br>
+            <span id='alcalde-nav' style="display:none;"><a href="#alcalde-name" id=
+            "alcalde-name-nav">Presidente Municipal</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span> <span id=
+            'dl-nav'><a href="#dl-name" id="dl-name-nav">Diputado Local</a>
+            &nbsp;&nbsp;&nbsp;&nbsp;|</span> <span id='df-nav'><a href="#df-name" id="df-name-nav">Diputado
+            Federal</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span> <span id='senador-nav'><a href="#senador-name" id=
+            "senador-name-nav">Senadores de la República por Jalisco</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span>
+            <span id='gobernador-nav'><a href="#gobernador-name" id="gobernador-name-nav">Gobernador de
+            Jalisco</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span> <span id='presidente-nav'><a href=
+            "#presidente-name" id="presidente-name-nav">Presidente de la República</a></span></p>
+            <div class='text-center' id='alcalde-container-not-found' style='display: none;'>
+                <h3 class='text-center' id="alcalde-name-not-found"></h3>
+                <p>No pudimos encontrar ningún candidato para esa dirección.</p>
+            </div>
+            <div id='alcalde-container'>
+                <br>
+                <h3 class='text-center' id="alcalde-name">Presidente Municipal</h3>
+                <table class="table table-striped table-responsive" id="alcalde-results">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th><i class='fa fa-user'></i> Candidato</th>
+                            <th><i class='fa fa-certificate'></i> Partido</th>
+                            <th><i class='fa fa-external-link'></i> Enlaces</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+                <div class='text-center'>
+                    <a href="/informacion.html#alcalde">Conoce las funciones de un presidente municipal.</a>
                 </div>
-                <p class="lead text-center" id='results-nav' style="color:#3d626b; font-size: 19px">
-                <b>Candidaturas</b><br>
-                <span id='alcalde-nav' style="display:none;"><a href="#alcalde-name" id=
-                "alcalde-name-nav">Presidente Municipal</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span> <span id=
-                'dl-nav'><a href="#dl-name" id="dl-name-nav">Diputado Local</a>
-                &nbsp;&nbsp;&nbsp;&nbsp;|</span> <span id='df-nav'><a href="#df-name" id="df-name-nav">Diputado
-                Federal</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span> <span id='senador-nav'><a href="#senador-name" id=
-                "senador-name-nav">Senadores de la República por Jalisco</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span>
-                <span id='gobernador-nav'><a href="#gobernador-name" id="gobernador-name-nav">Gobernador de
-                Jalisco</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span> <span id='presidente-nav'><a href=
-                "#presidente-name" id="presidente-name-nav">Presidente de la República</a></span></p>
-                <div class='text-center' id='alcalde-container-not-found' style='display: none;'>
-                    <h3 class='text-center' id="alcalde-name-not-found"></h3>
-                    <p>No pudimos encontrar ningún candidato para esa dirección.</p>
+            </div>
+            <div class='text-center' id='dl-container-not-found' style='display: none;'>
+                <h3 class='text-center' id="dl-name-not-found"></h3>
+                <p>No pudimos encontrar ningún candidato para esa dirección.</p>
+            </div>
+            <div id='dl-container'>
+                <br>
+                <h3 class='text-center' id="dl-name">Diputado Local</h3>
+                <table class="table table-striped table-responsive" id="dl-results">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th><i class='fa fa-user'></i> Candidato</th>
+                            <th><i class='fa fa-certificate'></i> Partido</th>
+                            <th><i class='fa fa-external-link'></i> Enlaces</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+                <div class='text-center'>
+                    <a href="/informacion.html#diputado-local">Conoce las funciones de un diputado local.</a>
                 </div>
-                <div id='alcalde-container'>
-                    <br>
-                    <h3 class='text-center' id="alcalde-name">Presidente Municipal</h3>
-                    <table class="table table-striped table-responsive" id="alcalde-results">
-                        <thead>
-                            <tr>
-                                <th></th>
-                                <th><i class='fa fa-user'></i> Candidato</th>
-                                <th><i class='fa fa-certificate'></i> Partido</th>
-                                <th><i class='fa fa-external-link'></i> Enlaces</th>
-                            </tr>
-                        </thead>
-                        <tbody></tbody>
-                    </table>
-                    <div class='text-center'>
-                        <a href="/informacion.html#alcalde">Conoce las funciones de un presidente municipal.</a>
-                    </div>
+            </div>
+            <div class='text-center' id='df-container-not-found' style='display: none;'>
+                <h3 class='text-center' id="df-name-not-found"></h3>
+                <p>No pudimos encontrar ningún candidato para esa dirección.</p>
+            </div>
+            <div id='df-container'>
+                <br>
+                <h3 class='text-center' id="df-name">Diputado Federal</h3>
+                <table class="table table-striped table-responsive" id="df-results">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th><i class='fa fa-user'></i> Candidato</th>
+                            <th><i class='fa fa-certificate'></i> Partido</th>
+                            <th><i class='fa fa-external-link'></i> Enlaces</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+                <div class='text-center'>
+                    <a href="/informacion.html#diputado-federal">Conoce las funciones de un diputado federal.</a>
                 </div>
-                <div class='text-center' id='dl-container-not-found' style='display: none;'>
-                    <h3 class='text-center' id="dl-name-not-found"></h3>
-                    <p>No pudimos encontrar ningún candidato para esa dirección.</p>
-                </div>
-                <div id='dl-container'>
-                    <br>
-                    <h3 class='text-center' id="dl-name">Diputado Local</h3>
-                    <table class="table table-striped table-responsive" id="dl-results">
-                        <thead>
-                            <tr>
-                                <th></th>
-                                <th><i class='fa fa-user'></i> Candidato</th>
-                                <th><i class='fa fa-certificate'></i> Partido</th>
-                                <th><i class='fa fa-external-link'></i> Enlaces</th>
-                            </tr>
-                        </thead>
-                        <tbody></tbody>
-                    </table>
-                    <div class='text-center'>
-                        <a href="/informacion.html#diputado-local">Conoce las funciones de un diputado local.</a>
-                    </div>
-                </div>
-                <div class='text-center' id='df-container-not-found' style='display: none;'>
-                    <h3 class='text-center' id="df-name-not-found"></h3>
-                    <p>No pudimos encontrar ningún candidato para esa dirección.</p>
-                </div>
-                <div id='df-container'>
-                    <br>
-                    <h3 class='text-center' id="df-name">Diputado Federal</h3>
-                    <table class="table table-striped table-responsive" id="df-results">
-                        <thead>
-                            <tr>
-                                <th></th>
-                                <th><i class='fa fa-user'></i> Candidato</th>
-                                <th><i class='fa fa-certificate'></i> Partido</th>
-                                <th><i class='fa fa-external-link'></i> Enlaces</th>
-                            </tr>
-                        </thead>
-                        <tbody></tbody>
-                    </table>
-                    <div class='text-center'>
-                        <a href="/informacion.html#diputado-federal">Conoce las funciones de un diputado federal.</a>
-                    </div>
-                </div>
-                <div class='text-center' id='senador-container-not-found' style='display: none;'>
-                    <h3 class='text-center' id="senador-name-not-found"></h3>
-                    <p>No pudimos encontrar ningún candidato para esa dirección.</p>
-                </div>
-                <div id='senador-container'>
-                    <br>
-                    <h3 class='text-center' id="senador-name">Senadores de la República por Jalisco</h3>
-                    <table class="table table-striped table-responsive" id="senador-results">
-                        <thead>
-                            <tr>
-                                <th></th>
-                                <th><i class='fa fa-user'></i> Candidato</th>
-                                <th><i class='fa fa-certificate'></i> Partido</th>
-                                <th><i class='fa fa-external-link'></i> Enlaces</th>
-                            </tr>
-                        </thead>
-                        <tbody></tbody>
-                    </table>
-                </div>
-                <div class='text-center' id='gobernador-container-not-found' style='display: none;'>
-                    <h3 class='text-center' id="gobernador-name-not-found"></h3>
-                    <p>No pudimos encontrar ningún candidato para esa dirección.</p>
-                </div>
-                <div id='gobernador-container'>
-                    <br>
-                    <h3 class='text-center' id="gobernador-name">Gobernador de Jalisco</h3>
-                    <table class="table table-striped table-responsive" id="gobernador-results">
-                        <thead>
-                            <tr>
-                                <th></th>
-                                <th><i class='fa fa-user'></i> Candidato</th>
-                                <th><i class='fa fa-certificate'></i> Partido</th>
-                                <th><i class='fa fa-external-link'></i> Enlaces</th>
-                            </tr>
-                        </thead>
-                        <tbody></tbody>
-                    </table>
-                </div><br>
-                <div id='presidente-container'>
-                    <h3 class='text-center' id='presidente-name'>Presidente de la República</h3>
-                    <table class="table table-striped table-responsive" id="presidente-results">
-                        <thead>
-                            <tr>
-                                <th></th>
-                                <th><i class='fa fa-user'></i> Candidato</th>
-                                <th><i class='fa fa-certificate'></i> Partido</th>
-                                <th><i class='fa fa-external-link'></i> Enlaces</th>
-                            </tr>
-                        </thead>
-                        <tbody></tbody>
-                    </table>
-                </div>
+            </div>
+            <div class='text-center' id='senador-container-not-found' style='display: none;'>
+                <h3 class='text-center' id="senador-name-not-found"></h3>
+                <p>No pudimos encontrar ningún candidato para esa dirección.</p>
+            </div>
+            <div id='senador-container'>
+                <br>
+                <h3 class='text-center' id="senador-name">Senadores de la República por Jalisco</h3>
+                <table class="table table-striped table-responsive" id="senador-results">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th><i class='fa fa-user'></i> Candidato</th>
+                            <th><i class='fa fa-certificate'></i> Partido</th>
+                            <th><i class='fa fa-external-link'></i> Enlaces</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+            <div class='text-center' id='gobernador-container-not-found' style='display: none;'>
+                <h3 class='text-center' id="gobernador-name-not-found"></h3>
+                <p>No pudimos encontrar ningún candidato para esa dirección.</p>
+            </div>
+            <div id='gobernador-container'>
+                <br>
+                <h3 class='text-center' id="gobernador-name">Gobernador de Jalisco</h3>
+                <table class="table table-striped table-responsive" id="gobernador-results">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th><i class='fa fa-user'></i> Candidato</th>
+                            <th><i class='fa fa-certificate'></i> Partido</th>
+                            <th><i class='fa fa-external-link'></i> Enlaces</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div><br>
+            <div id='presidente-container'>
+                <h3 class='text-center' id='presidente-name'>Presidente de la República</h3>
+                <table class="table table-striped table-responsive" id="presidente-results">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th><i class='fa fa-user'></i> Candidato</th>
+                            <th><i class='fa fa-certificate'></i> Partido</th>
+                            <th><i class='fa fa-external-link'></i> Enlaces</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
             </div>
         </div>
     </div>
-    <div>
-        <p><br></p>
-    </div>
-    <hr>
-    <div class='row'>
-        <div class='col-md-5 col-md-offset-2'>
-            <br>
-            <h2>Acerca de</h2>
-            <div class='about'>
-                <p>Ésta es una herramienta para ubicar a las y los candidatos a Alcalde, Diputado Local, Diputado
-                Federal, Senador, Gobernador y Presidente de la República para las elecciones de 2018 en el
-                estado de Jalisco, México, basado en tu dirección registrada en INE.</p>
-                <p><small>Si encuentas algún error, <a href="javascript:void(0)">avísanos por favor</a> para
-                que podamos actualizar nuestra base de datos y mejorar esta herramienta.</small></p>
-                <p style="font-size: 20px"><b><a href="/informacion.html">Más información para
-                votantes</a></b></p><br> 
-                <i class='fa fa-exclamation-triangle text-center' style="color:#EA4233"></i>
-                <span style="color:#EA4233;">Para el aprovechamiento óptimo de la plataforma
-                estamos ajustado los últimos detalles, por favor siga pendiente de Jalisco Cómo Votamos.
-                </span>
-            </div>
-        </div><br>
-        <div class='col-md-3 hidden-xs hidden-sm'><img alt='Jalisco' class='img-responsive' src=
-        'images/jalisco2.png' style='height: 275px;' title='Jalisco'></div>
+</div>
+<div>
+    <p><br></p>
+</div>
+<hr>
+<div class='row'>
+    <div class='col-md-5 col-md-offset-2'>
+        <br>
+        <h2>Acerca de</h2>
+        <div class='about'>
+            <p>Ésta es una herramienta para ubicar a las y los candidatos a Alcalde, Diputado Local, Diputado
+            Federal, Senador, Gobernador y Presidente de la República para las elecciones de 2018 en el
+            estado de Jalisco, México, basado en tu dirección registrada en INE.</p>
+            <p><small>Si encuentas algún error, <a href="javascript:void(0)">avísanos por favor</a> para
+            que podamos actualizar nuestra base de datos y mejorar esta herramienta.</small></p>
+            <p style="font-size: 20px"><b><a href="/informacion.html">Más información para
+            votantes</a></b></p><br> 
+            <i class='fa fa-exclamation-triangle text-center' style="color:#3E66B0"></i>
+            <span style="color:#3E66B0;">Para el aprovechamiento óptimo de la plataforma
+            estamos ajustado los últimos detalles, por favor siga pendiente de Jalisco Cómo Votamos.
+            </span>
+        </div>
     </div><br>
-    <hr>
-    <br>
-    <br>
-</body>
-</html>
+    <div class='col-md-3 hidden-xs hidden-sm'><img alt='Jalisco' class='img-responsive' src=
+    'images/jalisco.png' style='height: 275px;' title='Jalisco'></div>
+</div><br>
+<hr>
+<br>
+<br>
 
 
 <script type="text/javascript">
@@ -280,7 +268,6 @@ var colors = ["#911eb4", "#46f0f0", "#f032e6", "#d2f53c", "#fabebe",
 
 // create an empty array to keep track of popups
 var popups = [];
-
 
 map.on('load', function() {
     d3.json('archivos_mapa/municipios_y_distritos_jalisco.geojson', function(data) {

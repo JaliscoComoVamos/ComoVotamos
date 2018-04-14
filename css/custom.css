@@ -1,24 +1,39 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,400italic,700);
 @import url(https://fonts.googleapis.com/css?family=Fira Sans:400,400italic,700);
 
+@font-face {
+    font-family: 'Komika Title Kaps';
+    src: url('/fonts/KomikaTitle-Kaps.eot');
+    src: url('/fonts/KomikaTitle-Kaps.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/KomikaTitle-Kaps.ttf') format('truetype'),
+        url('/fonts/KomikaTitle-Kaps.woff2') format('woff2'),
+        url('/fonts/KomikaTitle-Kaps.woff') format('woff'),
+        url('/fonts/KomikaTitle-Kaps.svg#KomikaTitle-Kaps') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
     font-size: 16px;
     font-family: 'Lato','Open Sans', 'Arial', sans-serif;
 }
 
-h1, h2, h3, h4, h5 {
+h2, h3, h4, h5 {
     font-family: 'Fira Sans', 'Lato', 'Open Sans', 'Arial', sans-serif;
     font-weight: bold;
 }
 
+
 h1 {
-    font-size: 60px;
+    font-size: 90px;
     padding-bottom: 10px;
-    font-style: italic;
+    font-family: 'Komika Title Kaps', 'Fira Sans', 'Lato', 'Open Sans', 'Arial', sans-serif;
+    letter-spacing: 2.5px;
+    font-weight: normal;
 }
 
 h1 a, h1 a:hover {
-    color: #3d626b;
+    color: #ED7567;
     text-decoration: none;
 }
 
@@ -65,6 +80,10 @@ th:first-child {
     display: inline
 }
 
+.nav-pills li:first-child {
+    padding-right: 20px;
+}
+
 .headshot {
     max-width: 50px;
 }
@@ -98,14 +117,6 @@ th:first-child {
     padding-right: 20px;
 }
 
-.marker {
-  background-image: url('images/map-marker-icon.png');
-  background-size: cover;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-}
-
 hr{
     width:86%;
     margin:0 auto;
@@ -114,3 +125,28 @@ hr{
 li:not(:last-child) {
     margin-bottom:8px;
 }
+
+.nav-pills {
+    margin-top:10px;
+    padding-right:15px;
+    float: right;
+}
+
+.feature {
+  text-align: center;
+  background: #2A4147; 
+  margin:0 auto;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.table-striped tr > *:nth-child(1) { width:1%; }
+.table-striped tr > *:nth-child(2) { width:63%; }
+.table-striped tr > *:nth-child(3) { width:18%; }
+.table-striped tr > *:nth-child(3) { width:18%; }
+
+.table-striped tbody tr:nth-child(odd) {background: #E8E5DB}

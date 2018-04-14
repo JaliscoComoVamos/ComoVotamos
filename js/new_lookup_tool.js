@@ -1,3 +1,12 @@
+// Reload to top of page
+$(document).ready(function(){
+    $('html, body').scrollTop(0);
+    $(window).on('load', function() {
+    setTimeout(function(){
+        $('html, body').scrollTop(0);
+    }, 0);
+ });
+});
 
 function getCandidates() {
     // <!-- Add Alcaldes -->
@@ -75,8 +84,6 @@ function showResults() {
     var show_senador = false;
     var show_gobernador = false;
     var show_presidente = false;
-
-    var offices = {'office': ['alcalde', 'dl', 'df', 'senador', 'gobernador', 'presidente'],};
 
     var results_level_set = [];
     // set levels from checkboxes
