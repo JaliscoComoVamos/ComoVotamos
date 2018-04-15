@@ -3,13 +3,14 @@ layout: default
 title: Jalisco Cómo Votamos 2018
 description: Información para votar
 ---
+
 <div class='row'>
-  <div class='col-md-3 col-md-offset-1' style="margin: 0.15 auto">
-    <br/><br/>
-    <div class='well well-xs'>
+  <br>
+  <div class='col-md-3'>
+    <div class='well well-xs sidebar' id="sidebar">
       <h3>Información para votar</h3>
       <ul class='list-unstyled'>
-        <li><a href='#que-es'>¿Qué es Jalisco Cómo Votamos?</a></li>
+        <li><a href='#que-es' class="active">¿Qué es Jalisco Cómo Votamos?</a></li>
         <li><a href='#ofertodromo'>¿Cuáles son las propuestas de cada candidato?</a></li>
         <li><a href='#fechas-importantes'>Fechas importantes</a></li>
         <li><a href='#alcalde'>¿Qué hace un presidente municipal?</a></li>
@@ -22,13 +23,12 @@ description: Información para votar
         <li><a href='#somos'>Quiénes somos</a></li>
         <li><a href='#reportar'>Reportar información incorrecta o faltante</a></li>
         <li><a href='#codigo-abierto'>Código abierto</a></li>
-        
       </ul>
     </div>
   </div>
-  <div class='col-sm-7'>
-    <br/>
-    <br/>
+
+
+  <div class='col-sm-7 informacion'>
 
     <h2 id="que-es">¿Qué es Jalisco Cómo Votamos?</h2>
 
@@ -156,4 +156,21 @@ description: Información para votar
 $(window).on('beforeunload', function(){
     $(window).scrollTop(0);
 });
+
+
+// window.onscroll = function() {myFunction()};
+
+// var sidebar = document.getElementById("sidebar");
+// var sticky = sidebar.offsetTop;
+
+// function myFunction() {
+//   if (window.pageYOffset - 250 >= sticky) {
+//     sidebar.classList.add("sticky")
+//   } else {
+//     sidebar.classList.remove("sticky");
+//   }
+// }
+
+
+
 </script>

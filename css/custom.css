@@ -59,10 +59,6 @@ th:first-child {
     min-width: 3px;
 }
 
-.about {
-    font-size: 100%;
-}
-
 /* center the nav pills */
 .centered-pills {
     text-align: center
@@ -182,3 +178,41 @@ input[type=submit]:hover {
 .required {
   color: #EA4233;
 }
+
+/*#sidebar {
+    width: 300px;
+  overflow: hidden;
+  margin-left: 20px
+  position: relative
+  z-index: 1;
+  left: 0
+  overflow-x: hidden;
+}
+
+#sidebar a {
+  display: block;
+}*/
+
+/*#sidebar a.active {
+  background-color: #ED7567;
+  color: #fcfcfc;
+}*/
+
+/*.informacion {
+    margin-left: 350px;
+    margin-top: 0;
+    padding-top: 0;
+    position: relative
+    display: inline-block;
+}
+
+.sticky {
+ .sidebar;
+  position: fixed;
+  top: 20px;
+
+}
+
+.sticky + .informacion {
+  padding-top: 60px;
+}*/
