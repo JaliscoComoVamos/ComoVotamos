@@ -25,7 +25,7 @@ h2, h3, h4, h5 {
 
 
 h1 {
-    font-size: 90px;
+    font-size: 80px;
     padding-bottom: 10px;
     font-family: 'Komika Title Kaps', 'Fira Sans', 'Lato', 'Open Sans', 'Arial', sans-serif;
     letter-spacing: 2.5px;
@@ -150,3 +150,35 @@ li:not(:last-child) {
 .table-striped tr > *:nth-child(3) { width:18%; }
 
 .table-striped tbody tr:nth-child(odd) {background: #E8E5DB}
+
+
+input[type=text],
+input[type=email],
+textarea, select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 20%;
+    background-color: #ED7567;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #EA4233;
+}
+
+.required {
+  color: #EA4233;
+}

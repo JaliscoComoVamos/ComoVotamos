@@ -4,6 +4,7 @@ url: https://jaliscocomovotamos.netlify.com
 encoding: utf-8
 timezone: America/Mexico_City
 lang: es-MX
-description: "Conoce a los candidatos federales, estatales y locales en el estado de Jalisco, México."
+description: "Conoce a las y los candidatos federales, estatales y locales en el estado de Jalisco, México."
 plugins_dir:
   - jekyll-redirect-from
+email: "vicki.foss@gmail.com"

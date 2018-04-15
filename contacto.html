@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<br><h2 style="text-align: center">Contacto</h2>
+
+<div style="width: 60%; position: relative; margin-left: auto; margin-right: auto;">
+Se puede utilizar este formulario para informarnos si has encontrado algún error en nuestros datos, o si tienes alguna duda, sugerencia o comentario. Gracias.
+<br>
+
+    <br><form class="contact-form" action="" method="POST">
+        <labelb class="labelb" for="name" style="color:#333333; font-size: 18px">Nombre: </labelb><br>
+        <input class="input" id="name" type="text" name="Nombre" value="" placeholder="Tu nombre" style="color:#555555"/>
+        <br/>
+
+        <labelb class="labelb" for="_replyto" style="color:#333333; font-size: 18px">Correo: </labelb><br>
+        <input class="input" id="_replyto" type="email" name="Correo" value="" placeholder="email@website.com" style="color:#555555" />
+        
+        <br/>
+        <labelb class="labelb" for="message" style="color:#333333; font-size: 18px">Mensaje: <span class="required">*</span></labelb><br>
+        <textarea class="textarea" id="message" name="Mensaje" placeholder="Tu mensaje" required="required" style="color:#555555"></textarea>
+        <br/>
+
+        <input class="button" type="submit" value="Enviar" style="width: 10em"/>
+        <br/>
+                <small class="small"><span class="required">*</span> indica un campo requerido</small>
+
+                <input type="text" name="_gotcha" style="display:none">
+                <input type="hidden" name="_subject" value="Mensaje de http://jaliscocomovamos.org/votamos">
+                <input type="hidden" name="_next" value="/gracias.html/" />
+                <input type="hidden" name="_language" value="es" />
+                <input type="hidden" name="_format" value="plain" />
+    </form><br><br><br><br>
+</div>
+<script>
+    var email = "{{ site.email | split: "" | reverse | join: "" }}";
+    var unraveledEmail = email.split("").reverse().join("");
+    var form = document.querySelector(".contact-form");
+        form.setAttribute("action", "https://formspree.io/" + unraveledEmail);
+</script>
+<noscript>Para contactarnos por medio de este formulario, por favor activa JavaScript en tu navegador.</noscript>
