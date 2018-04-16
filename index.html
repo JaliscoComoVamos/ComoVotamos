@@ -10,8 +10,8 @@ layout: default
 <script src="js/new_lookup_tool.js"></script>
 
 <form>
-    <input id="mi_distrito_placeholder_2" onchange="getCandidates()" type="hidden">
-    <input id="mi_municipio_placeholder_2" onchange="getCandidates()" type="hidden">
+    <input id="mi_distrito_placeholder_2" onchange="getCandidates(); showResults()" type="hidden">
+    <input id="mi_municipio_placeholder_2" onchange="getCandidates(); showResults()" type="hidden">
 </form>
 
 <div class="row" style="width: 100%; margin:0 auto;">
@@ -20,7 +20,7 @@ layout: default
     </div>
     <div class='filter_level' style='width: 86%; margin:0 auto;'>
         <br>
-        <p class='text-center' style="font-size: 20px"><b>Mostrar candidatos a:</b><br>
+        <p class='text-center' style="font-size: 20px; color: #555"><b>Mostrar candidatos a:</b><br>
         <label><input checked="checked" id="show_alcalde_results" onchange="showResults()" type="checkbox" value="alcalde">
         Alcalde</label> 
         <label><input checked="checked" id="show_dl_results" onchange="showResults()"
@@ -46,10 +46,8 @@ layout: default
             ingresada esté dentro de Jalisco, México e intenta de nuevo.</p>
         </div>
         <div id='response-container' style="display:none;">
-            <div style="color:#3F626B; font-size: 18px">
-                <br>
-                <p class='text-center'><b>Esta ubicación pertenece al Distrito Federal y Local de Jalisco
-                número <span id="mi_distrito_placeholder"></span> y el municipio de 
+            <div style="color:#3F626B; font-size: 18px;">
+                <p class='text-center'><br><b>Esta ubicación pertenece al Distrito Electoral Federal y Local de Jalisco número <span id="mi_distrito_placeholder">__</span> y el municipio de 
                 <span id="mi_municipio_placeholder">__</span>.<br>
                 <br></b></p>
             </div>
@@ -64,9 +62,11 @@ layout: default
             <span id='gobernador-nav'><a href="#gobernador-name" id="gobernador-name-nav">Gobernador de
             Jalisco</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span> <span id='presidente-nav'><a href=
             "#presidente-name" id="presidente-name-nav">Presidente de la República</a></span></p>
-            <div class='text-center' id='alcalde-container-not-found' style='display: none;'>
-                <h3 class='text-center' id="alcalde-name-not-found"></h3>
-                <p>No pudimos encontrar ningún candidato para esa dirección.</p>
+            <div class='text-center' id='alcalde-container-not-found' style='display: none;'><br>
+                <h3 class='text-center' id="alcalde-name-not-found">Presidente Municipal</h3>
+                <p><b>No encontramos ningún candidato a presidente municipal para esta ubicación.</b> </p><p style="text-align: left" class="small">
+                    Actualmente tenemos la lista completa de candidatos a presidente municipal en Autlán de Navarro, El Salto, Guadalajara, Ixtlahuacán de los Membrillos, La Barca, Lagos de Moreno, Puerto Vallarta, Tepatitlán de Morelos, Tequila, Tlajomulco, Tlaquepaque, Tonalá, Zapopan, Zapotlanejo y Zapotlán el Grande.</p> <p class="small" style="text-align: left">Si deseas que agreguemos información para otro municipio, <a href="/contacto.html">envíanos una solicitud</a> y haremos todo lo posible para actualizar nuestra base de datos. Igual, si tu dirección pertenece a uno de los municipios mencionados, nos ayudaría si <a href="/contacto.html">nos avisaras del error</a> para arreglarlo. ¡Gracias!</p> 
+                </p>
             </div>
             <div id='alcalde-container'>
                 <br>
@@ -76,7 +76,7 @@ layout: default
                         <tr>
                             <th><i class='fa fa-user'></i> Candidato</th>
                             <th><i class='fa fa-certificate'></i> Partido</th>
-                            <th><i class='fa fa-external-link'></i> Enlaces</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" width="15px"> Enlaces</th>
                         </tr>
                     </thead>
                     <tbody></tbody>
@@ -97,7 +97,7 @@ layout: default
                         <tr>
                             <th><i class='fa fa-user'></i> Candidato</th>
                             <th><i class='fa fa-certificate'></i> Partido</th>
-                            <th><i class='fa fa-external-link'></i> Enlaces</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" width="15px"> Enlaces</th>
                         </tr>
                     </thead>
                     <tbody></tbody>
@@ -118,7 +118,7 @@ layout: default
                         <tr>
                             <th><i class='fa fa-user'></i> Candidato</th>
                             <th><i class='fa fa-certificate'></i> Partido</th>
-                            <th><i class='fa fa-external-link'></i> Enlaces</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" width="15px"> Enlaces</th>
                         </tr>
                     </thead>
                     <tbody></tbody>
@@ -139,7 +139,7 @@ layout: default
                         <tr>
                             <th><i class='fa fa-user'></i> Candidato</th>
                             <th><i class='fa fa-certificate'></i> Partido</th>
-                            <th><i class='fa fa-external-link'></i> Enlaces</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" width="15px"> Enlaces</th>
                         </tr>
                     </thead>
                     <tbody></tbody>
@@ -160,7 +160,7 @@ layout: default
                         <tr>
                             <th><i class='fa fa-user'></i> Candidato</th>
                             <th><i class='fa fa-certificate'></i> Partido</th>
-                            <th><i class='fa fa-external-link'></i> Enlaces</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" width="15px"> Enlaces</th>
                         </tr>
                     </thead>
                     <tbody></tbody>
@@ -176,7 +176,7 @@ layout: default
                         <tr>
                             <th><i class='fa fa-user'></i> Candidato</th>
                             <th><i class='fa fa-certificate'></i> Partido</th>
-                            <th><i class='fa fa-external-link'></i> Enlaces</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" width="15px"> Enlaces</th>
                         </tr>
                     </thead>
                     <tbody></tbody>
@@ -354,6 +354,12 @@ map.on('click', 'jalisco', function (e) {
         .setLngLat(e.lngLat)
         .setHTML("<br>" + e.features.map(function(feature) { return feature.properties.Name; }).join('<br>'))
         .addTo(map);
+    if (popups.length > 0) {
+        //remove all the popups from the map if they already exist
+        popups.forEach(function(popup) {
+            popup.remove();
+        });
+    }
     popups.push(clickedPopup);
     mi_distrito = e.features.map(function(feature) { return feature.properties.Name; })[1].slice().replace(/\D/g, '');
     mi_municipio = e.features.map(function(feature) { return feature.properties.Name; })[0].slice();

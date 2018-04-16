@@ -51,13 +51,6 @@ h3 {
     white-space: nowrap;
 }
 
-th {
-    min-width: 150px;
-}
-
-th:first-child {
-    min-width: 3px;
-}
 
 /* center the nav pills */
 .centered-pills {
@@ -140,11 +133,11 @@ li:not(:last-child) {
     padding: 0;
 }
 
-.table-striped tr > *:nth-child(1) { width:60%; }
-.table-striped tr > *:nth-child(2) { width:24%; }
+.table-striped tr > *:nth-child(1) { width:60%; color: #333333; }
+.table-striped tr > *:nth-child(2) { width:24%; color: #333333; }
 .table-striped tr > *:nth-child(3) { width:16%; }
 
-.table-striped tbody tr:nth-child(odd) {background: #E8E5DB}
+.table-striped tbody tr:nth-child(odd) {background: #dbdbdb}
 
 
 input[type=text],

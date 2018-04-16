@@ -8,7 +8,14 @@ function getCandidates() {
                 " </b>(" + data[i].Candidatura + ")</td><td>" + data[i].Partido +
                 "</td><td></td></tr>")
         };
-        $('#alcalde-results').find('tbody').append(items)
+        if (items.length == 0) { 
+            $('#alcalde-container-not-found').show();
+            $('#alcalde-container').hide();
+        }
+        else { 
+            $('#alcalde-container-not-found').hide();
+            $('#alcalde-container').show();
+            $('#alcalde-results').find('tbody').append(items) };
     });
     // <!-- Add Diputados Locales -->
     $.getJSON("lista_candidatos.json", function(data) {
@@ -38,7 +45,8 @@ function getCandidates() {
         $("#senador-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
-            if (data[i].Candidatura === "Senador") items.push("<tr><td><b>" + data[i].Nombre.split(' y ').join("</b> y <b>") +
+            if (data[i].Candidatura === "Senador") items.push("<tr><td><b>" 
+                + data[i].Nombre.split(' y ').join("</b><span style='color: #555'> y </span><b>") +
                 "</b></td><td>" + data[i].Partido + "</td><td></td></tr>")
         };
         $('#senador-results').find('tbody').append(items)
@@ -63,11 +71,11 @@ function getCandidates() {
                     + "</td><td>" + data[i].Partido + "</td><td>";
                 if (data[i].url || 0 !== data[i].url.length)  {
                     tableguts = tableguts + "<a href='" + data[i].url 
-                    + "' target='_blank'><i class='fa fa-fw fa-globe'></i></a> "
+                    + "' target='_blank'><i class='fas fa-globe'></i></a>&nbsp;&nbsp;"
                 };
                 if (data[i].twitter || 0 !== data[i].twitter.length) {
-                    tableguts = tableguts + " <a href='" + data[i].twitter 
-                    + "' target='_blank'><i class='fa fa-fw fa-twitter'></i></a>"
+                    tableguts = tableguts + "<a href='" + data[i].twitter 
+                    + "' target='_blank'><i class='fab fa-twitter'></i></a>"
                 };
                 items.push(tableguts + "</td></tr>");
             };
@@ -87,41 +95,33 @@ function showResults() {
     var show_gobernador = false;
     var show_presidente = false;
 
-    var results_level_set = [];
     // set levels from checkboxes
     if ($('#show_alcalde_results').is(':checked')) {
         show_alcalde = true;
-        results_level_set.push('alcalde');
     }
     if ($('#show_dl_results').is(':checked')) {
         show_dl = true;
-        results_level_set.push('diputado local');
     }
     if ($('#show_df_results').is(':checked')) {
         show_df = true;
-        results_level_set.push('diputado federal');
     }
     if ($('#show_senador_results').is(':checked')) {
         show_senador = true;
-        results_level_set.push('senador');
     }
     if ($('#show_gobernador_results').is(':checked')) {
         show_gobernador = true;
-        results_level_set.push('gobernador');
     }
     if ($('#show_presidente_results').is(':checked')) {
         show_presidente = true;
-        results_level_set.push('presidente');
     }
 
-
     if (show_alcalde) {
-        $('#alcalde-container').show();
         $('#alcalde-nav').show();
     } 
     else {
         $('#alcalde-container').hide()
         $('#alcalde-nav').hide();
+        $('#alcalde-container-not-found').hide();
     }
 
     if (show_dl) {
