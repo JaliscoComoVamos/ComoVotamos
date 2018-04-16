@@ -4,8 +4,8 @@ function getCandidates() {
         $("#alcalde-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
-            if (data[i].Candidatura === mi_municipio) items.push("<tr><td>" + data[i].Nombre +
-                " (" + data[i].Candidatura + ")</td><td>" + data[i].Partido +
+            if (data[i].Candidatura === mi_municipio) items.push("<tr><td><b>" + data[i].Nombre +
+                " </b>(" + data[i].Candidatura + ")</td><td>" + data[i].Partido +
                 "</td><td></td></tr>")
         };
         $('#alcalde-results').find('tbody').append(items)
@@ -17,8 +17,8 @@ function getCandidates() {
         for (i = 0; i < data.length; i++) {
             var regex = new RegExp( "Diputado Local DTTO. " + mi_distrito + '\\b');
             if (data[i].Candidatura.match(regex)) items.push(
-                "<tr><td></td><td>" + data[i].Nombre + " (Distrito " + data[i].Candidatura.replace(/\D/g, '') +
-                ")</td><td>" + data[i].Partido + "</td></tr>")
+                "<tr><td><b>" + data[i].Nombre + "</b> (Distrito " + data[i].Candidatura.replace(/\D/g, '') +
+                ")</td><td>" + data[i].Partido + "</td><td></td></tr>")
         };
         $('#dl-results').find('tbody').append(items)
     });
@@ -28,8 +28,8 @@ function getCandidates() {
         var items = [];
         for (i = 0; i < data.length; i++) {
             if (data[i].Candidatura === "Diputado Federal DTTO. " + mi_distrito) items.push(
-                "<tr><td></td><td>" + data[i].Nombre + " (Distrito " + data[i].Candidatura.replace(/\D/g, '') +
-                ")</td><td>" + data[i].Partido + "</td></tr>")
+                "<tr><td><b>" + data[i].Nombre + "</b> (Distrito " + data[i].Candidatura.replace(/\D/g, '') +
+                ")</td><td>" + data[i].Partido + "</td><td></td></tr>")
         };
         $('#df-results').find('tbody').append(items)
     });
@@ -38,8 +38,8 @@ function getCandidates() {
         $("#senador-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
-            if (data[i].Candidatura === "Senador") items.push("<tr><td>" + data[i].Nombre +
-                "</td><td>" + data[i].Partido + "</td><td></td></tr>")
+            if (data[i].Candidatura === "Senador") items.push("<tr><td><b>" + data[i].Nombre.split(' y ').join("</b> y <b>") +
+                "</b></td><td>" + data[i].Partido + "</td><td></td></tr>")
         };
         $('#senador-results').find('tbody').append(items)
     });
@@ -48,8 +48,8 @@ function getCandidates() {
         $("#gobernador-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
-            if (data[i].Candidatura === "Gobernador") items.push("<tr><td>" + data[i].Nombre +
-                "</td><td>" + data[i].Partido + "</td><td></td></tr>")
+            if (data[i].Candidatura === "Gobernador") items.push("<tr><td><b>" + data[i].Nombre +
+                "</b></td><td>" + data[i].Partido + "</td><td></td></tr>")
         };
         $('#gobernador-results').find('tbody').append(items)
     });
@@ -59,7 +59,7 @@ function getCandidates() {
         var items = [];
         for (i = 0; i < data.length; i++) {
             if (data[i].Candidatura === "Presidente") {
-                var tableguts = "<tr><td>" + data[i].Nombre 
+                var tableguts = "<tr><td><b>" + data[i].Nombre 
                     + "</td><td>" + data[i].Partido + "</td><td>";
                 if (data[i].url || 0 !== data[i].url.length)  {
                     tableguts = tableguts + "<a href='" + data[i].url 
