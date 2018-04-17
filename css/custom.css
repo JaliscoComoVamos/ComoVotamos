@@ -25,7 +25,6 @@ h2, h3, h4, h5 {
 
 
 h1 {
-    font-size: 80px;
     padding-bottom: 10px;
     font-family: 'Komika Title Kaps', 'Fira Sans', 'Lato', 'Open Sans', 'Arial', sans-serif;
     letter-spacing: 2.5px;
@@ -161,29 +160,11 @@ input[type=submit]:hover {
     padding: 5px;
 }
 
+.candidate-list { 
+    style='width: 82%; margin:0 auto;};
+
 .well {position: fixed; width: 315px; padding-top: 0; top-margin: 0;}
 .informacion {padding-left: 35px; margin-left: 0px; margin-right: 70px}
-
-@media only screen and (max-width: 1200px) {
-  .informacion {margin-left: 55px; margin-right: 10px}
-}
-
-@media only screen and (max-width: 992px) {
-  .well {position: relative; width: 95%; margin: 0 0 0 0; };
-  .informacion {padding-left: 10px; margin-left: 10px; margin-right: 10px; padding-right: 0px;
-    width: 85%; position: relative};
-  .informacionwrapper {width: 100%;};
-}
-
-@media only screen and (max-width: 700px) {
-  .informacion {width: 95%; margin-left: 0;}
-
-}
-
-@media only screen and (max-height: 800px) {
-  .well {position: relative;}
-}
-
 
 .long {
   /* These are technically the same, but use both */
@@ -201,6 +182,24 @@ input[type=submit]:hover {
   -moz-hyphens: auto;
   -webkit-hyphens: auto;
   hyphens: auto;
-
 }
 
+@media only screen and (max-width: 1200px) {
+  .informacion {margin-left: 55px; margin-right: 10px};
+}
+
+@media only screen and (max-width: 992px) {
+  .well {position: relative; width: 95%; margin: 0 0 0 0; };
+  .informacion {padding-left: 10px; margin-left: 10px; margin-right: 10px; padding-right: 0px;
+     width: 85%; position: relative};
+  .informacionwrapper {width: 100%;};
+  .candidate-list {width:100%; margin: 0 auto;};
+}
+
+@media only screen and (max-width: 700px) {
+  .informacion {width: 95%; margin-left: 0;};
+}
+
+@media only screen and (max-height: 800px) {
+  .well {position: relative;};
+}

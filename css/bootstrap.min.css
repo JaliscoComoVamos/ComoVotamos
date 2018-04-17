@@ -427,32 +427,36 @@ hr {  margin-top: 18px;
  overflow: visible;
  clip: auto }
 [role="button"] {  cursor: pointer }
-h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
- font-weight: 300;
- line-height: 1.1;
- color: #444444 }
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {  
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    line-height: 1.1;
+    color: #444444 }
 h1 small,h2 small,h3 small,h4 small,h5 small,h6 small,.h1 small,.h2 small,.h3 small,.h4 small,.h5 small,.h6 small,h1 .small,h2 .small,h3 .small,h4 .small,h5 .small,h6 .small,.h1 .small,.h2 .small,.h3 .small,.h4 .small,.h5 .small,.h6 .small {  font-weight: normal;
  line-height: 1;
  color: #808080 }
 h1,.h1,h2,.h2,h3,.h3 {  margin-top: 18px;
- margin-bottom: 9px }
+ margin-bottom: 3px }
 h1 small,.h1 small,h2 small,.h2 small,h3 small,.h3 small,h1 .small,.h1 .small,h2 .small,.h2 .small,h3 .small,.h3 .small {  font-size: 65% }
 h4,.h4,h5,.h5,h6,.h6 {  margin-top: 9px;
  margin-bottom: 9px }
 h4 small,.h4 small,h5 small,.h5 small,h6 small,.h6 small,h4 .small,.h4 .small,h5 .small,.h5 .small,h6 .small,.h6 .small {  font-size: 75% }
-h1,.h1 {  font-size: 33px }
-h2,.h2 {  font-size: 27px }
+h1,.h1 {  font-size: 78px }
+h2,.h2 {  font-size: 26px }
 h3,.h3 {  font-size: 23px }
 h4,.h4 {  font-size: 17px }
 h5,.h5 {  font-size: 13px }
 h6,.h6 {  font-size: 12px }
+.top-nav-buttons {font-size: 17px};
 p {  margin: 0 0 9px }
-.lead {  margin-bottom: 18px;
- font-size: 14px;
- font-weight: 300;
- line-height: 1.4 }
-@media (min-width: 768px) {  .lead {  font-size: 19.5px }
- }
+.lead { margin-bottom: 18px;
+     font-size: 20px;
+     font-weight: 300;
+     line-height: 1.4 }
+@media (min-width: 768px) { 
+    .lead { font-size: 26px }; 
+    .top-nav-buttons {font-size: 20px};
+ };
 small,.small {  font-size: 92% }
 mark,.mark {  background-color: #fcf8e3;
  padding: .2em }
@@ -894,7 +898,7 @@ table td[class*="col-"],table th[class*="col-"] {  position: static;
 .table-responsive>.table-bordered>tbody>tr: last-child>td,
 .table-responsive>.table-bordered>tfoot>tr: last-child>td {  border-bottom: 0 }
  }
- 
+
 fieldset {  padding: 0;
  margin: 0;
  border: 0;
@@ -2021,7 +2025,7 @@ a.badge:hover,a.badge:focus {  color: #ffffff;
  padding-bottom: 48px }
 .container .jumbotron,.container-fluid .jumbotron {  padding-left: 60px;
  padding-right: 60px }
-.jumbotron h1,.jumbotron .h1 {  font-size: 59px }
+.jumbotron h1,.jumbotron .h1 {  font-size: 80px }
  }
 .thumbnail {  display: block;
  padding: 4px;

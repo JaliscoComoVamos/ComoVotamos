@@ -15,11 +15,10 @@ layout: default
 </form>
 
 <div class="row" style="width: 100%; margin:0 auto;">
-    <div style="font-size: 26px; width: 100%; margin:0 auto">
+    <div style="width: 100%; margin:0 auto">
         <h2><p class='text-center' style="color:#3F626B; background: #fbe3e0; padding: 6px">Ingresa tu dirección o haz clic en el mapa para conocer a las y los candidatos por los que te tocará votar.<br></p></h2>
     </div>
     <div class='filter_level' style='width: 86%; margin:0 auto;'>
-        <br>
         <p class='text-center' style="font-size: 20px; color: #555"><b>Mostrar candidatos a:</b><br>
         <label><input checked="checked" id="show_alcalde_results" onchange="showResults()" type="checkbox" value="alcalde">
         Alcalde</label> 
@@ -37,7 +36,7 @@ layout: default
     </div>
 </div>
 <div id='map' style='width: 86%; height: 450px; margin:0 auto;'></div>
-<div class="row" style='width: 82%; margin:0 auto;'>
+<div class="row candidate-list">
     <div class='col-md-10 col-md-offset-1'>
         <div class='text-center' id='no-response-container' style="display:none;">
             <h2><i class='fa fa-exclamation-triangle' style="color:#EA4233"></i></h2>
