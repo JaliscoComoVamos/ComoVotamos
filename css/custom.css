@@ -32,14 +32,11 @@ h3 {
   padding: 6px;
 }
 
-.table > thead > tr > th { 
-    white-space: nowrap;
+.table-responsive>.table>tbody>tr>td, .table>tbody>tr>td {
+    white-space: normal;
+    overflow-wrap: break-word;
+    vertical-align: middle;
 }
-
-.table > tbody > tr { 
-    vertical-align: middle
-}
-
 
 /* center the nav pills */
 .centered-pills {
@@ -169,6 +166,24 @@ input[type=submit]:hover {
 
 .well {position: fixed; width: 315px; padding-top: 0; top-margin: 0;}
 .informacion {padding-left: 35px; margin-left: 0px; margin-right: 70px}
+
+.long {
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
 
 @media only screen and (max-width: 1200px) {
   .informacion {margin-left: 55px; margin-right: 10px}
