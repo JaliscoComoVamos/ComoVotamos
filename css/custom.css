@@ -161,7 +161,7 @@ input[type=submit]:hover {
 }
 
 .candidate-list { 
-    style='width: 82%; margin:0 auto;};
+    width: 82%; margin:0 auto;};
 
 .well {position: fixed; width: 315px; padding-top: 0; top-margin: 0;}
 .informacion {padding-left: 35px; margin-left: 0px; margin-right: 70px}
