@@ -47,11 +47,6 @@ h3 {
   padding: 6px;
 }
 
-.table > thead > tr > th { 
-    white-space: nowrap;
-}
-
-
 /* center the nav pills */
 .centered-pills {
     text-align: center
@@ -79,18 +74,6 @@ h3 {
 
 .nowrap {
     white-space: nowrap;
-}
-
-.label-dem {
-    color: #0294C7;
-}
-
-.label-rep {
-    color: #D1220E;
-}
-
-.label-ind {
-    color: #418B07;
 }
 
 #contactModal {
@@ -199,5 +182,25 @@ input[type=submit]:hover {
 
 @media only screen and (max-height: 800px) {
   .well {position: relative;}
+}
+
+
+.long {
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+
 }
 

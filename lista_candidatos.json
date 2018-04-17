@@ -16,7 +16,7 @@
   {
     "Candidatura": "Presidente",
     "Nombre": "Margarita Zavala Gómez del Campo",
-    "Partido": "Independiente",
+    "Partido": "INDEPENDIENTE",
     "url": "http://www.margaritazavala.com/",
     "twitter": "https://twitter.com/Mzavalagc"
   },
@@ -30,7 +30,7 @@
   {
     "Candidatura": "Presidente",
     "Nombre": "Jaime Heliodoro Rodríguez Calderón",
-    "Partido": "Independiente",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "https://twitter.com/JaimeRdzNL"
   },
@@ -86,7 +86,7 @@
   {
     "Candidatura": "Senador",
     "Nombre": "José Pedro Kumamoto Aguilar y Juana Adelfa Delgado Quintana",
-    "Partido": "Independiente",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
@@ -128,7 +128,7 @@
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Francisco Ramón Meza Rosales",
-    "Partido": "Independiente",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
@@ -170,7 +170,7 @@
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Rodolfo Armando Casanova Valle",
-    "Partido": "Independiente",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
@@ -226,14 +226,14 @@
   {
     "Candidatura": "Zapopan",
     "Nombre": "José Oscar Ávila Poblano",
-    "Partido": "Independiente",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "Alejandro Gutiérrez Carrillo",
-    "Partido": "Independiente",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
@@ -484,7 +484,7 @@
   },
   {
     "Candidatura": "Zapotlanejo",
-    "Nombre": "Àngel Alberto Mayoral Pérez",
+    "Nombre": "Ángel Alberto Mayoral Pérez",
     "Partido": "PVEM",
     "url": "",
     "twitter": ""
@@ -730,7 +730,7 @@
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "J. Jesús Guerrero Zúñiga",
-    "Partido": "MC PRD (POSIBLE CAMBIO)",
+    "Partido": "MC, PRD (POSIBLE CAMBIO)",
     "url": "",
     "twitter": ""
   },
@@ -1311,546 +1311,651 @@
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Ignacio Mestas Gallardo",
-    "Partido": "",
+    "Partido": "PRI",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Blanca Estela Gutiérrez Viera",
-    "Partido": "",
+    "Partido": "PVEM",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Nelly García Vallejo",
-    "Partido": "",
+    "Partido": "PANAL",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Susana de la Rosa Hernández",
-    "Partido": "",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Abigail Orozco Morales",
-    "Partido": "",
+    "Partido": "MORENA, PES, PT",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
+    "Nombre": "Edgar Josué León del Toro",
+    "Partido": "INDEPENDIENTE",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
+    "Nombre": "Hiram Esaú Ramírez Castellón",
+    "Partido": "INDEPENDIENTE",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
+    "Nombre": "Héctor Alejandro Hermosillo González",
+    "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "Catalina Aguilera Arizaga",
-    "Partido": "",
+    "Partido": "PRI",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "María de Jesús Macías Robles",
-    "Partido": "",
+    "Partido": "PVEM",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "José Felipe Ascensio Sánchez",
-    "Partido": "",
+    "Partido": "PANAL",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "Óscar Nicolás García Lomelí",
-    "Partido": "",
+    "Partido": "MORENA, PES, PT",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
+    "Nombre": "Miriam Berenice Rivera Rodríguez",
+    "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Mariana Fernández Ramírez",
-    "Partido": "",
+    "Partido": "PRI",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Madeleine Garza Estrada",
-    "Partido": "",
+    "Partido": "PVEM",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Jorge Álvarez Vázquez",
-    "Partido": "",
+    "Partido": "PANAL",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Susana Ochoa Chavira",
-    "Partido": "",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Aquiles López González",
-    "Partido": "",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "José Manuel Muñoz Castellanos",
-    "Partido": "",
+    "Partido": "MORENA, PES, PT",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
+    "Nombre": "Guillermo Gustavo Gallego Neri",
+    "Partido": "INDEPENDIENTE",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
+    "Nombre": "Adelian Brigitte Hernández Siordia",
+    "Partido": "INDEPENDIENTE",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
+    "Nombre": "Esteban Estrada Ramírez",
+    "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Arturo Peña Quiñones",
-    "Partido": "",
+    "Partido": "PAN",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "José Saavedra Terán",
-    "Partido": "",
+    "Partido": "PRI",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Erika Natalia Juárez Miranda",
-    "Partido": "",
+    "Partido": "PRD",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "José González Jiménez",
-    "Partido": "",
+    "Partido": "PVEM",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Jonadab Martínez García",
-    "Partido": "",
+    "Partido": "MC",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Jair Gilberto Valdez López",
-    "Partido": "",
+    "Partido": "PANAL",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Joel Cortés Serrano",
-    "Partido": "",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Carlos Alberto Rivas Tejeda",
-    "Partido": "",
+    "Partido": "MORENA, PES, PT",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
+    "Nombre": "Marcos Ramón Gómez Ortega",
+    "Partido": "INDEPENDIENTE",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
+    "Nombre": "Waldo Getsemani Ibarra Reyna",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "María de Lourdes Anguiano Ramírez",
-    "Partido": "",
+    "Partido": "PRI",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "Elizabeth Magañón Mena",
-    "Partido": "",
+    "Partido": "PVEM",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "Rodrigo Frangie Menéndez",
-    "Partido": "",
+    "Partido": "PANAL",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "José Chávez García",
-    "Partido": "",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
-    "Nombre": "Rosalva Chávez Chávez",
-    "Partido": "",
+    "Nombre": "Rosalba Chávez Chávez",
+    "Partido": "MORENA, PES, PT",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
+    "Nombre": "Gerardo Quirino Velázquez Chávez",
+    "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Liliana Guadalupe Morones Vargas",
-    "Partido": "",
+    "Partido": "PRI",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Karla del Carmen de Anda Carrazco",
-    "Partido": "",
+    "Partido": "PVEM",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Edgar Alejandro Flores Olea",
-    "Partido": "",
+    "Partido": "PANAL",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Paola Flores Trujillo",
-    "Partido": "",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "José Arturo Gleason Espíndola",
-    "Partido": "",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Benito Manuel Villagómez Rodríguez",
-    "Partido": "",
+    "Partido": "MORENA, PES, PT",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
+    "Nombre": "Christian Alfredo Nava Mena",
+    "Partido": "INDEPENDIENTE",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
+    "Nombre": "Adenawer González Fierros",
+    "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "María del Carmen Flores Vázquez",
-    "Partido": "",
+    "Partido": "PAN",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "María de los Ángeles Arredondo Torres",
-    "Partido": "",
+    "Partido": "PRI",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Gerardo León de la Cruz",
-    "Partido": "",
+    "Partido": "PRD",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Gabriel Hernández Pérez",
-    "Partido": "",
+    "Partido": "PVEM",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Priscilla Franco Barba",
-    "Partido": "",
+    "Partido": "MC",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Brenda Concepción Cesar Rodríguez",
-    "Partido": "",
+    "Partido": "PANAL",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "José Bernardo Masini Aguilera",
-    "Partido": "",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Otoniel Varas de Valdez González",
-    "Partido": "",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Adriana Leticia Hernández Castillón",
-    "Partido": "",
+    "Partido": "MORENA, PES, PT",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
+    "Nombre": "Carlos Minjarez Alcalá",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Juan Diego Alcaraz Curiel",
-    "Partido": "",
+    "Partido": "PANAL",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Carlos Eduardo Sánchez Carrillo",
-    "Partido": "",
+    "Partido": "PAN",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Imelda Serratos Madrigal",
-    "Partido": "",
+    "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Juan Carlos Montes Jhonston",
-    "Partido": "",
+    "Partido": "PRI",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Clarissa Godínez Castellanos",
-    "Partido": "",
+    "Partido": "PVEM",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "María del Rosario Velázquez Hernández",
-    "Partido": "",
+    "Partido": "PAN",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "Luis Armando Córdova Diaz",
-    "Partido": "",
+    "Partido": "PRI",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "Jessica Cisneros Martínez",
-    "Partido": "",
+    "Partido": "PRD",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "Alfredo Fierros González",
-    "Partido": "",
+    "Partido": "PVEM",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "Marcela Guadalupe Aceves Sánchez",
-    "Partido": "",
+    "Partido": "MC",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "José Antonio Jiménez Orozco",
-    "Partido": "",
+    "Partido": "PANAL",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "Alejandra Margarita Rentería Casillas",
-    "Partido": "",
+    "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "José Tomás Figueroa Padilla",
-    "Partido": "",
+    "Partido": "PRI",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "Erika Elizabeth Ramírez Pérez",
-    "Partido": "",
+    "Partido": "PVEM",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "Yadira Guadalupe Loza Barragán",
-    "Partido": "",
+    "Partido": "PANAL",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "Francisco Javier Díaz Ochoa",
-    "Partido": "",
+    "Partido": "MORENA, PES, PT",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
+    "Nombre": "J. Jesús Cabrera Jiménez",
+    "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Teresa Daniela Ramírez Gamiño",
-    "Partido": "",
+    "Partido": "MORENA",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Mónica Martínez Velasco",
-    "Partido": "",
+    "Partido": "PANAL",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Irma de Anda Licea",
-    "Partido": "",
+    "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Jessica Karina Hernández Velasco",
-    "Partido": "",
+    "Partido": "PES",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "J. Jesús Zúñiga Mendoza",
-    "Partido": "",
+    "Partido": "PRI",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Aarón Flores Arias",
-    "Partido": "",
+    "Partido": "PT",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 18",
+    "Nombre": "Dulce Verónica Andalón Gómez",
+    "Partido": "PVEM",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "José Luis Orozco Sánchez Aldana",
-    "Partido": "",
+    "Partido": "PRI",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "Ricardo Preciado Cortés",
-    "Partido": "",
+    "Partido": "PVEM",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "Andrés Sánchez Sánchez",
-    "Partido": "",
+    "Partido": "PANAL",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "Oswaldo Ramos López",
-    "Partido": "",
+    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
-    "Nombre": "José Guadalupe Omar Ledezma Delgado",
-    "Partido": "",
+    "Nombre": "José Guadalupe Homar Ledezma Delgado",
+    "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
-    "Nombre": "María Silvia López Campechano",
-    "Partido": "",
+    "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
+    "Nombre": "Ma. Elizabeth Alcaraz Virgen",
+    "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Verónica Acosta Cervantes",
-    "Partido": "",
+    "Partido": "PAN",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Venecia Castañeda Rodríguez",
-    "Partido": "",
+    "Partido": "PRI",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "José Díaz Castañeda",
-    "Partido": "",
+    "Partido": "PRD",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Aimèe Esmeralda Castillo Flores",
-    "Partido": "",
+    "Partido": "PVEM",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Daniel Robles de León",
-    "Partido": "",
+    "Partido": "MC",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Aurora del Socorro Velasco Camberos",
-    "Partido": "",
+    "Partido": "PANAL",
     "url": "",
     "twitter": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Arnoldo Licea González",
-    "Partido": "",
+    "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": ""
   },
@@ -2550,55 +2655,6 @@
   {
     "Candidatura": "Diputado Federal DTTO. 19",
     "Nombre": "Norma Patricia Serratos Sánchez",
-    "Partido": "",
-    "url": "",
-    "twitter": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 19",
-    "Nombre": "Alberto Esquer Gutiérrez",
-    "Partido": "",
-    "url": "",
-    "twitter": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 19",
-    "Nombre": "Clara Cárdenas Galván",
-    "Partido": "",
-    "url": "",
-    "twitter": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 20",
-    "Nombre": "Jorge Arana Arana",
-    "Partido": "",
-    "url": "",
-    "twitter": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 20",
-    "Nombre": "Karla Patricia Fonseca Veliz",
-    "Partido": "",
-    "url": "",
-    "twitter": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 20",
-    "Nombre": "Luis Fernando Quintero Damián",
-    "Partido": "",
-    "url": "",
-    "twitter": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 20",
-    "Nombre": "Ana Priscila González García",
-    "Partido": "",
-    "url": "",
-    "twitter": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 20",
-    "Nombre": "Cuahtémoc Peña Cortés",
     "Partido": "",
     "url": "",
     "twitter": ""
