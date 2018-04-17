@@ -16,7 +16,7 @@ layout: default
 
 <div class="row" style="width: 100%; margin:0 auto;">
     <div style="width: 100%; margin:0 auto">
-        <h2><p class='text-center' style="color:#3F626B; background: #fbe3e0; padding: 6px">Ingresa tu dirección o haz clic en el mapa para conocer a las y los candidatos por los que te tocará votar.<br></p></h2>
+        <h2 class='text-center' style="color:#3F626B; background: #fbe3e0; padding: 6px">Ingresa tu dirección o haz clic en el mapa para conocer a las y los candidatos por los que te tocará votar.<br></h2>
     </div>
     <div class='filter_level' style='width: 86%; margin:0 auto;'>
         <p class='text-center' style="font-size: 20px; color: #555"><b>Mostrar candidatos a:</b><br>
@@ -65,7 +65,6 @@ layout: default
                 <h3 class='text-center' id="alcalde-name-not-found">Presidente Municipal</h3>
                 <p><b>No encontramos ningún candidato a presidente municipal para esta ubicación.</b> </p><p style="text-align: left" class="small">
                     Actualmente tenemos la lista completa de candidatos a presidente municipal en Autlán, El Salto, Guadalajara, Ixtlahuacán de los Membrillos, La Barca, Lagos de Moreno, Puerto Vallarta, Tepatitlán, Tequila, Tlajomulco, Tlaquepaque, Tonalá, Zapopan, Zapotlanejo y Zapotlán el Grande.</p> <p class="small" style="text-align: left">Si deseas que agreguemos información para otro municipio, <a href="/contacto.html">envíanos una solicitud</a> y haremos todo lo posible para actualizar nuestra base de datos. Igual, si tu dirección pertenece a uno de los municipios mencionados, nos ayudaría si <a href="/contacto.html">nos avisaras del error</a> para arreglarlo. ¡Gracias!</p> 
-                </p>
             </div>
             <div id='alcalde-container'>
                 <br>
@@ -75,7 +74,7 @@ layout: default
                         <tr>
                             <th><i class='fa fa-user'></i> Candidato</th>
                             <th><i class='fa fa-certificate'></i> Partido</th>
-                            <th><img src="fonts/external-link.svg" alt="external-link" width="15px"> Enlaces</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" width=15px> Enlaces</th>
                         </tr>
                     </thead>
                     <tbody></tbody>
@@ -96,7 +95,7 @@ layout: default
                         <tr>
                             <th><i class='fa fa-user'></i> Candidato</th>
                             <th><i class='fa fa-certificate'></i> Partido</th>
-                            <th><img src="fonts/external-link.svg" alt="external-link" width="15px"> Enlaces</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" width=15px> Enlaces</th>
                         </tr>
                     </thead>
                     <tbody></tbody>
@@ -117,7 +116,7 @@ layout: default
                         <tr>
                             <th><i class='fa fa-user'></i> Candidato</th>
                             <th><i class='fa fa-certificate'></i> Partido</th>
-                            <th><img src="fonts/external-link.svg" alt="external-link" width="15px"> Enlaces</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" width=15px> Enlaces</th>
                         </tr>
                     </thead>
                     <tbody></tbody>
@@ -138,7 +137,7 @@ layout: default
                         <tr>
                             <th><i class='fa fa-user'></i> Candidato</th>
                             <th><i class='fa fa-certificate'></i> Partido</th>
-                            <th><img src="fonts/external-link.svg" alt="external-link" width="15px"> Enlaces</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" width=15px> Enlaces</th>
                         </tr>
                     </thead>
                     <tbody></tbody>
@@ -159,7 +158,7 @@ layout: default
                         <tr>
                             <th><i class='fa fa-user'></i> Candidato</th>
                             <th><i class='fa fa-certificate'></i> Partido</th>
-                            <th><img src="fonts/external-link.svg" alt="external-link" width="15px"> Enlaces</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" width=15px> Enlaces</th>
                         </tr>
                     </thead>
                     <tbody></tbody>
@@ -175,7 +174,7 @@ layout: default
                         <tr>
                             <th><i class='fa fa-user'></i> Candidato</th>
                             <th><i class='fa fa-certificate'></i> Partido</th>
-                            <th><img src="fonts/external-link.svg" alt="external-link" width="15px"> Enlaces</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" width=15px> Enlaces</th>
                         </tr>
                     </thead>
                     <tbody></tbody>
@@ -201,16 +200,16 @@ layout: default
             sobre este proyecto y el proceso electoral &raquo;</a></p><br> 
             
         </div>
-    </div><br>
-    <div class='col-md-3 hidden-xs hidden-sm'><img alt='Jalisco' class='img-responsive' src=
-    'images/jalisco.png' style='height: 300px;' title='Jalisco'></div>
+    </div><br><br>
+    <div class='col-md-3 hidden-xs hidden-sm'><img alt='Jalisco' src=
+    'images/jalisco.png' style='height: 300px; width: 329px;' title='Jalisco'></div>
 </div><br>
 <hr>
 <br>
 <br>
 
 
-<script type="text/javascript">
+<script>
 
 // Reload to top of page
 $(window).on('beforeunload', function(){
@@ -223,7 +222,7 @@ $.getJSON("lista_municipios.json", function(data) {
         for (i = 0; i < data.length; i++) {
             all_municipios.push(data[i].Name)
         };
-    });
+});
 
 $(function() {
       results_level = ['alclade', 'dl', 'df', 'senador', 'gobernador', 'presidente'];

@@ -183,5 +183,5 @@ function showResults() {
 
     $('#no-response-container').hide();
     $("#response-container").show();
-   
 };
+
