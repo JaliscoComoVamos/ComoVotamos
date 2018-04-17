@@ -171,63 +171,33 @@ input[type=submit]:hover {
   color: #EA4233;
 }
 
-
-/*.sidebar {
-  width: 300px;
-  overflow: hidden;
-  margin-left: 20px;
-  position: fixed;
-  z-index: 1;
-  float: right;
-  overflow-x: hidden;
-  margin-right: -320px;
+.active{
+    display: block;
+    color: white;
+    background-color: #3F626B;
+    padding: 5px;
 }
 
-.sidebar a {
-  display: block;
+.well {position: fixed; width: 315px; padding-top: 0; top-margin: 0;}
+.informacion {padding-left: 35px; margin-left: 0px; margin-right: 70px}
+
+@media only screen and (max-width: 1200px) {
+  .informacion {margin-left: 55px; margin-right: 10px}
 }
 
-.sidebar a.active {
-  background-color: #ED7567;
-  color: #fcfcfc;
+@media only screen and (max-width: 992px) {
+  .well {position: relative; width: 95%; margin: 0 0 0 0; };
+  .informacion {padding-left: 10px; margin-left: 10px; margin-right: 10px; padding-right: 0px;
+    width: 85%; position: relative};
+  .informacionwrapper {width: 100%;};
 }
 
-.informacion {
-    margin-left: 350px;
-    margin-top: 0;
-    padding-top: 0;
-    overflow: auto;
-}
-
-@media only screen and (max-width: 800px) {
-  .informacionwrapper {
-    display:table; width:90%; 
-    margin: 20px auto;
-  }
-  .informacion {
-    display:table-footer-group; 
-    margin: 0 auto;
-  }
-  .sidebar {
-    display:table-header-group; 
-    float: none;
-    position: relative;
-    margin: 0 auto;
-    width: 100%;
-    padding: 0;
-    margin-right: 0;
-  }
-}*/
-
-
-/*
-.sticky {
- .sidebar;
-  position: fixed;
-  top: 20px;
+@media only screen and (max-width: 700px) {
+  .informacion {width: 95%; margin-left: 0;}
 
 }
 
-.sticky + .informacion {
-  padding-top: 60px;
-}*/
+@media only screen and (max-height: 800px) {
+  .well {position: relative;}
+}
+

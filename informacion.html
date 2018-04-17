@@ -5,10 +5,8 @@ description: Información para votar
 ---
 
 <div class='row informacionwrapper'>
-  <br>
   <div class='col-md-3'>
-    <div class='well well-xs sidebar' id="sidebar">
-      <h3>Información para votar</h3>
+    <div class='well well-xs sidebar' id="sidebar"><br>
       <ul class='list-unstyled'>
         <li><a href='#que-es' class="active">¿Qué es Jalisco Cómo Votamos?</a></li>
         <li><a href='#ofertodromo'>¿Cuáles son las propuestas de cada candidato?</a></li>
@@ -122,15 +120,20 @@ description: Información para votar
 
   <h2 id="referencias">Referencias</h2>
 
-    <p style="margin-top: 15px; padding-left: 22px">Fuentes de los archivos shape que se delinean las regiones:</p>
+  <p style="margin-top: 15px; padding-left: 22px"><b>Fuentes del listado de candidatos:</b></p>
+
+    <ul ><li>Candidaturas locales y del estado (gobernador de Jalisco, diputados locales y presidentes municipales): <a href="http://www.iepcjalisco.org.mx/proceso-electoral-2018/candidaturas">IEPC</a></li>
+
+<li>Candidaturas federales (presidente de la república, diputados federales y senadores): <a href="http://portalanterior.ine.mx/archivos2/portal/PartidosPoliticos/PartidosCandidatosySusCampanias/Candidatos/">INE</a></li></ul>
+
+
+    <p style="margin-top: 15px; padding-left: 22px"><b>Fuentes de los archivos shape que se delinean las regiones:</b></p>
 
     <ul ><li>Distrito federales INE: <a href="https://cartografia.ife.org.mx/sige7/?distritacion=federal">https://cartografia.ife.org.mx/sige7/?distritacion=federal</a></li>
 
 <li>Distritos locales INE: <a href="https://cartografia.ife.org.mx/sige7/?distritacion=local">https://cartografia.ife.org.mx/sige7/?distritacion=local</a></li>
 </li>
-<li>Municipios: <a href="https://datos.jalisco.gob.mx/dataset/mapa-general-de-jalisco-limite-municipal-2012">https://datos.jalisco.gob.mx/dataset/mapa-general-de-jalisco-limite-municipal-2012</a></li>
-
-<li>Estados: <a href="https://datos.jalisco.gob.mx/dataset/mapa-general-de-jalisco-limite-estatal">https://datos.jalisco.gob.mx/dataset/mapa-general-de-jalisco-limite-estatal</a></li></ul><br>
+<li>Municipios: <a href="https://datos.jalisco.gob.mx/dataset/mapa-general-de-jalisco-limite-municipal-2012">https://datos.jalisco.gob.mx/dataset/mapa-general-de-jalisco-limite-municipal-2012</a></li></ul>
     
 
 <h2 id="somos">Quiénes somos</h2>
@@ -146,7 +149,7 @@ description: Información para votar
 
     <p style="margin-top: 15px; padding-left: 22px"><span style="font-family:'Fira Sans', 'Lato', 'Open Sans', 'Arial', sans-serif; font-weight: bold; font-style: italic;">Jalisco Cómo Votamos</span> es un proyecto de código abierto que proviene de la herramienta "<a href="http://myreps.datamade.us/">My Reps</a>" construida por <a href="https://datamade.us/">DataMade</a> y el <a href="https://www.participatorybudgeting.org/">Participatory Budgeting Project</a>. Si deseas contribuir a este proyecto o reutilizarlo, <a href="https://github.com/JaliscoComoVamos/JaliscoComoVotamos/">puedes hacerlo</a>.</p>
     <br/>
-       <br/>
+       <br/><br/><br/><br/>
   </div>
 </div>
 
@@ -157,20 +160,44 @@ $(window).on('beforeunload', function(){
     $(window).scrollTop(0);
 });
 
-
-// window.onscroll = function() {myFunction()};
-
-// var sidebar = document.getElementById("sidebar");
-// var sticky = sidebar.offsetTop;
-
-// function myFunction() {
-//   if (window.pageYOffset - 250 >= sticky) {
-//     sidebar.classList.add("sticky")
-//   } else {
-//     sidebar.classList.remove("sticky");
-//   }
-// }
-
+if ($(window).width() > 992) {
+  $(document).ready(function(){
+    // $sections includes all of the container divs that relate to menu items.
+    var $sections = $('h2');
+    
+    // The user scrolls
+    $(window).scroll(function(){
+      
+      // currentScroll is the number of pixels the window has been scrolled
+      var currentScroll = $(this).scrollTop();
+      
+      // $currentSection is somewhere to place the section we must be looking at
+      var $currentSection
+      
+      // We check the position of each of the divs compared to the windows scroll positon
+      $sections.each(function(){
+        // divPosition is the position down the page in px of the current section we are testing      
+        var divPosition = $(this).offset().top;
+        
+        // If the divPosition is less the the currentScroll position the div we are testing has moved above the window edge.
+        // the -50 is so that it includes the div 50px before the div leave the top of the window.
+        if( divPosition - 50 < currentScroll ){
+          // We have either read the section or are currently reading the section so we'll call it our current section
+          $currentSection = $(this);
+          
+          // If the next div has also been read or we are currently reading it we will overwrite this value again. This will leave us with the LAST div that passed.
+        }   
+        // This is the bit of code that uses the currentSection as its source of ID
+        var id = $currentSection.attr('id');
+       $('a').removeClass('active');
+       $("[href=#"+id+"]").addClass('active');
+        
+      })
+    });
+  });
+} else {
+  $("a").removeClass('active');
+}
 
 
 </script>
