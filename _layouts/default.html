@@ -16,6 +16,15 @@
     {% endif %}
     <meta content="{{ site.name }}" name='author' />
 
+    <!-- Load CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/custom.css">
+
+    <!-- Load fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Sans">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
+
     <!-- Facebook metadata -->
     <meta content="{{ site.name }}" property="og:site_name">
     {% if page.title %}
@@ -77,9 +86,7 @@
     {% else %}
       <meta name="twitter:image:src" content="{{ site.url }}/images/usa.png">
     {% endif %}
-      <link href="css/bootstrap.min.css" rel="stylesheet">
 
-      <link rel="stylesheet" href="css/custom.css">
 
       <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
       <script>

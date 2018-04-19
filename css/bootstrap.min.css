@@ -1,10 +1,6 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
 /*! * bootswatch v3.3.6 * Homepage: http: //bootswatch.com * Copyright 2012-2016 Thomas Park * Licensed under MIT * Based on Bootstrap*/
 /*! * Bootstrap v3.3.6 (http: //getbootstrap.com) * Copyright 2011-2015 Twitter, Inc. * Licensed under MIT (https: //github.com/twbs/bootstrap/blob/master/LICENSE) */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
-@import url(https://fonts.googleapis.com/css?family=Lato:400,400italic,700);
-@import url(https://fonts.googleapis.com/css?family=Fira Sans:400,400italic,700);
-
 @font-face {
     font-family: 'Komika Title Kaps';
     src: url('/fonts/KomikaTitle-Kaps.eot');
@@ -16,6 +12,10 @@
     font-weight: normal;
     font-style: normal;
 }
+@import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700");
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans:400,400italic,700");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+
 html {  font-family: sans-serif;
  -ms-text-size-adjust: 100%;
  -webkit-text-size-adjust: 100% }
