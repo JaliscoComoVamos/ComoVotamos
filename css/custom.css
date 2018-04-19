@@ -201,6 +201,6 @@ input[type=submit]:hover {
 
 }
 
-@media only screen and (max-height: 800px) {
+@media only screen and (max-height: 750px) {
   .well {position: relative;}
 }

@@ -1,16 +1,20 @@
 # Jalisco Cómo Votamos
 
-[http://jaliscocomovamos.org/votamos](http://jaliscocomovamos.org/votamos)
+Repositorio para el sitio web [http://jaliscocomovamos.org/votamos](http://jaliscocomovamos.org/votamos)
 
-La siguiente información proviene del proyecto original sobre el que se basó Jalisco Cómo Votamos, no corresponde necesariamente a este nuevo proyecto. Pronto este repositorio se actualizará como un proyecto independiente para que más personas puedan participar o expandir este proyecto a otras partes de México.
+## Agradecimientos
 
+<b>Jalisco Cómo Votamos</b> fue construido usando el código de la herramienta [My Reps](https://github.com/datamade/my-reps) como base primaria. Además, adaptamos [un script de Genevieve Hoffman](https://github.com/veev/DataArtFall2017/tree/master/section-3/turfjs-example) para crear el mapa responsivo, y agradecemos mucho su contribución al proyecto.</p>
 
+## Información
+La siguiente información proviene del proyecto original sobre el que se basó <b>Jalisco Cómo Votamos</b>, y no corresponde necesariamente a este nuevo proyecto. Pronto este repositorio se actualizará como un proyecto independiente para que más personas puedan participar o expandir este proyecto a otras partes de México.
+
+<br><br><br><br><br>
 
 # My Reps
 
-My Reps helps you locate and contact your federal, state, county and local elected representatives. Based on [my-reps-pbp](https://github.com/datamade/my-reps-pbp) by [DataMade](https://datamade.us/) and [Participatory Budgeting Project](http://participatorybudgeting.org/). Powered by the [Google Civic Information API](https://developers.google.com/civic-information/).
+My Reps helps you locate and contact your federal, state, county and local elected representatives. Based on [my-reps-pbp](https://github.com/datamade/my-reps-pbp) by [DataMade](https://datamade.us/) and [Participatory Budgeting Project](http://participatorybudgeting.org/)
 
-For more, read our launch blog post: "[We find your reps so you don't have to](https://datamade.us/blog/we-find-your-reps-so-you-dont-have-to)".
 
 ## Organizers: reuse our code!
 
@@ -52,52 +56,7 @@ google_api_key: YOUR API KEY GOES HERE
 
 #### 4. Modify the `index.html` and `/js/lookup_tool.js` files as needed
 
-Some examples of things you can do:
 
-**Customize the messaging**
-
-First, create a new tagline in the `_layouts/default.html` page.
-
-```html
-<div class='text-center'>
-    <h1><a href='index.html'>My Reps</a></h1>
-    <!-- Update this tagline! -->
-    <p class='lead'>Enter your address to <strong>find and contact</strong> your federal, state, county and local elected representatives</p>
-</div>
-```
-
-Then, add text to the top of the `index.html` page.
-
-```html
----
-layout: default
----
-
-<p class='text-center'>This is my call to action. Let's do something about it!</p>
-
-<div class="row">
-...
-
-```
-
-**Change the instructions in the 'contact' popup for each representative**
-
-You can change the text that displays when you click the 'Contact' button next to each representative. Go to the `modalGuts` section in `index.html` and look for 'Add your contact instructions here!'.
-
-Note that we're using [EJS templates](http://www.embeddedjs.com/) for this part, so mind the template tags.
-
-**Limit your results to specific levels of government (local, county, state & federal)**
-
-In `js/lookup_tool.js` you can toggle if you want to show federal, state, county and local government representatives.
-
-```javascript
-
-var show_federal = true; //change this to false to hide federal results
-var show_state   = true;
-var show_county  = true;
-var show_local   = true;
-
-```
 
 #### 5. Run it
 
@@ -120,23 +79,7 @@ Then navigate to http://your-github-username.github.io/my-reps/
 
 Read more on working with [GitHub pages projects](https://help.github.com/articles/user-organization-and-project-pages/#project-pages).
 
-#### 7. Add it as an iframe on your site (optional)
 
-Want to embed your nifty table on your website? You can use an [iframe](http://www.w3schools.com/tags/tag_iframe.asp). Once you've deployed your table (above in step 5) you can link to it in an iframe right in your HTML.
-
-Here's an example:
-
-```html
-<iframe style="border-style: none;" src="https://datamade.github.io/my-reps/" height="950" width="600"></iframe>
-```
-
-If you need professional assistance, contact DataMade at info@datamade.us
-
-## Reporting outdated or missing information
-
-Information on elected officials comes from the [Google Civic Information API](https://developers.google.com/civic-information/), which aggregates data across the United States on elected officials in federal, state, county and local government offices.
-
-Sometimes data is outdated or missing. If you notice an issue with the data, please [report it to Google](https://docs.google.com/forms/d/e/1FAIpQLScFpFTOkTpm0YoerLLprY_ySS9PRXLsu27SM01hebHqkefW2Q/viewform).
 
 ## Web dependencies
 
@@ -147,7 +90,7 @@ We used the following open source tools:
 * [Jekyll](http://jekyllrb.com/docs/installation/) - Static website framework
 * [Bootstrap](http://getbootstrap.com/) - Responsive HTML, CSS and Javascript framework
 * [jQuery Address](https://github.com/asual/jquery-address) - javascript library creating RESTful URLs
-* [Google Civic Information API](https://developers.google.com/civic-information/) - API for looking up elected representatives in the USA
+
 
 ## Team
 
