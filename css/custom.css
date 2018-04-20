@@ -30,6 +30,7 @@ h3 {
   color:#fcfcfc;
   background: #3F626B;
   padding: 6px;
+  font-weight: bold;
 }
 
 .table-responsive>.table>tbody>tr>td, .table>tbody>tr>td {
