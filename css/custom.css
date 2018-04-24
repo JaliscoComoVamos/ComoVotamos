@@ -68,18 +68,6 @@ h3 {
     white-space: nowrap;
 }
 
-.label-dem {
-    color: #0294C7;
-}
-
-.label-rep {
-    color: #D1220E;
-}
-
-.label-ind {
-    color: #418B07;
-}
-
 #contactModal {
     font-size: 0.9em;
 }
@@ -119,6 +107,11 @@ li:not(:last-child) {
     margin: 0 auto;
     padding: 0;
 }
+
+#footer {
+  color: #fcfcfc;
+}
+
 
 .table-striped tr > *:nth-child(1) { width:60%; color: #333333; }
 .table-striped tr > *:nth-child(2) { width:24%; color: #333333; }

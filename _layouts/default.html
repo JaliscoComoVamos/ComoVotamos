@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang='es-MX'>
+<html lang='es-MX' style="height: 100%">
   <head>
     <title>
       {% if page.title %}
@@ -131,9 +131,9 @@
     <meta name="theme-color" content="#ffffff">
   </head>
 
-
-  <body> 
-    <div class='main-content'>
+ 
+  <body style="height: 100%"> <div style="min-height: 100%; position: relative; margin: 0 auto -80px;">
+    <div class='main-content' style="height: 100%">
       <div class="container-fluid">
         <div class="feature">
 
@@ -159,16 +159,19 @@
           {{content}}
       </div>
     </div>
-    <div class='clearfix'></div>
-    <div class="container-fluid">
+    <div class='clearfix' ></div>
+    <div class="container-fluid"  style="background: #2A4147; bottom:0; position: absolute; min-height: 80px">
       <div class="row" id="footer">
         <div class='col-md-10 col-md-offset-1'>
-          <p class='text-center small'>
-          <a href="http://jaliscocomovamos.org" >
-            <img class='center' src='images/jcv.png' title='Jalisco Cómo Vamos' alt='Jalisco Cómo Vamos' /></a>
-          </p><br/><br/>
+          <p class='text-center small' style="padding-top: 10px">© 2018 Jalisco Cómo Vamos, Observatorio Ciudadano de Calidad de Vida</p>
+            <p class='text-center'><span style="font-size: 18px">
+              <a href="http://jaliscocomovamos.org" target='_blank'> <i class='fas fa-globe'></i> </a> &nbsp;&nbsp; 
+              <a href='https://twitter.com/jaliscomovamos' target='_blank'><i class='fab fa-twitter'></i></a> &nbsp;&nbsp; 
+              <a href='https://www.facebook.com/jaliscomovamos' target='_blank'><i class='fab fa-facebook'></i></a> &nbsp;&nbsp; 
+              <a href='https://www.instagram.com/jaliscomovamos/' target='_blank'><i class='fab fa-instagram'></i></a> &nbsp;&nbsp; 
+              <a href='https://github.com/JaliscoComoVamos/' target='_blank'><i class='fab fa-github'></i></a> &nbsp;&nbsp;| &nbsp;&nbsp;</span><span class='small'><a href="/contacto.html">Contacto</a></span></p>
         </div>
       </div>
     </div>
-  </body>
+  </div></body>
 </html>

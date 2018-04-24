@@ -1,3 +1,4 @@
+port: 5000
 markdown: kramdown
 name: "Jalisco Cómo Votamos 2018"
 url: https://jaliscocomovotamos.netlify.com
