@@ -90,6 +90,7 @@ Luego, abre tu navegador web y ve a [http://localhost:5000](http://localhost:500
 - En el archivo `index.html`, sustituir el `mapboxgl.accessToken` con el tuyo. Igual con el mapbox style (`style: 'mapbox://styles...'`). Si no tienes una cuenta de Mapbox, primero [crea una cuenta gratuita](https://www.mapbox.com/).
 - Editar los archivos `_config.yml` y `_layouts/default.html`.
 - Si deseas agregar otras áreas de búsqueda en el mapa, puede ser útil examinar y seguir la estructura del archivo `archivos_mapa/municipios_y_distritos_jalisco.geojson`.
+- Reemplezar los favicons. Puedes usar la herramienta gratuita [Favicon Generator](https://realfavicongenerator.net/).
 
 
 ### 7. Publicar tu sitio 
@@ -108,16 +109,16 @@ El sitio web está construido con las siguientes herramientas:
 - [Netlify](https://www.netlify.com/) - hosting gratuito para proyectos de código abierto
 
 
-## Agradecimientos
-
-<b>Jalisco Cómo Votamos</b> fue construido usando el código de la herramienta [My Reps](https://github.com/datamade/my-reps) como base primaria. Además, adaptamos [un script de Genevieve Hoffman](https://github.com/veev/DataArtFall2017/tree/master/section-3/turfjs-example) para crear el mapa responsivo, y agradecemos mucho su contribución al proyecto.</p>
-
-
 ## Equipo
 
 - Vicki Foss - desarrollo, contenido
 - Fabiola Garibaldi - contenido
 - Felipe Rodríguez - contenido
+
+
+## Agradecimientos
+
+<b>Jalisco Cómo Votamos</b> fue construido usando el código de la herramienta [My Reps](https://github.com/datamade/my-reps) como base primaria. Además, adaptamos [un script de Genevieve Hoffman](https://github.com/veev/DataArtFall2017/tree/master/section-3/turfjs-example) para crear el mapa responsivo, y agradecemos mucho su contribución al proyecto.</p>
 
 
 ## Copyright

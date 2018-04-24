@@ -230,7 +230,7 @@ window.onload=function() {
 
 // List municipios
 var all_municipios = [];
-$.getJSON("lista_municipios.json", function(data) {
+$.getJSON("data/lista_municipios.json", function(data) {
         for (i = 0; i < data.length; i++) {
             all_municipios.push(data[i].Name)
         };

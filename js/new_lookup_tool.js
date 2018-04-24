@@ -1,6 +1,6 @@
 function getCandidates() {
+    $.getJSON("data/lista_candidatos.json", function(data) {
     // <!-- Add Alcaldes -->
-   $.getJSON("/lista_candidatos.json", function(data) {
         $("#alcalde-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
@@ -16,9 +16,8 @@ function getCandidates() {
             $('#alcalde-container-not-found').hide();
             $('#alcalde-container').show();
             $('#alcalde-results').find('tbody').append(items) };
-    });
+
     // <!-- Add Diputados Locales -->
-    $.getJSON("lista_candidatos.json", function(data) {
         $("#dl-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
@@ -28,9 +27,8 @@ function getCandidates() {
                 ")</td><td class='long'>" + data[i].Partido + "</td><td></td></tr>")
         };
         $('#dl-results').find('tbody').append(items)
-    });
+
     // <!-- Add Diputados Federales -->
-    $.getJSON("lista_candidatos.json", function(data) {
         $("#df-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
@@ -39,9 +37,8 @@ function getCandidates() {
                 ")</td><td class='long'>" + data[i].Partido + "</td><td></td></tr>")
         };
         $('#df-results').find('tbody').append(items)
-    });
+
     // <!-- Add candidates for the senate -->
-    $.getJSON("lista_candidatos.json", function(data) {
         $("#senador-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
@@ -50,9 +47,8 @@ function getCandidates() {
                 "</b></td><td class='long'>" + data[i].Partido + "</td><td></td></tr>")
         };
         $('#senador-results').find('tbody').append(items)
-    });
+
     // <!-- Add gubernatorial candidates -->
-    $.getJSON("lista_candidatos.json", function(data) {
         $("#gobernador-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
@@ -71,10 +67,8 @@ function getCandidates() {
             };
         };
         $('#gobernador-results').find('tbody').append(items)
-    });
 
     // <!-- Add presidential candidates -->
-    $.getJSON("lista_candidatos.json", function(data) {
         $("#presidente-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
