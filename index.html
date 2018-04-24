@@ -4,12 +4,12 @@ layout: default
 
 <!-- Mapbox, etc. -->
 <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
-<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
-  <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.min.js'></script>
-<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.css' type='text/css' />
+<link rel="preload" href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' as="style" onload="this.rel='stylesheet'"/>
+<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.min.js'></script>
+<link rel="preload" href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.css' as="style" onload="this.rel='stylesheet'"/>
 <script src='//d3js.org/d3.v4.min.js'></script>
-<script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
-<script src='https://api.mapbox.com/mapbox.js/plugins/turf/v3.0.11/turf.min.js'></script>
+<script defer src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+<script defer src='https://api.mapbox.com/mapbox.js/plugins/turf/v3.0.11/turf.min.js'></script>
 
 <script defer src="js/new_lookup_tool.js"></script>
 
