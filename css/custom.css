@@ -219,14 +219,14 @@ h1{
   }
 }
 
-@media all and (max-width: 959px) and (min-width: 600px) {
+@media all and (max-width: 959px) and (min-width: 500px) {
 h1{
     font-size: 8vw;
   }
 }
 
-@media all and (max-width: 599px) and (min-width: 50px) {
+@media all and (max-width: 499px) {
 h1{
-    font-size: 12vw;
+    font-size: 14vw;
   }
 }
