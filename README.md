@@ -104,7 +104,7 @@ El sitio web está construido con las siguientes herramientas:
 - [Jekyll](http://jekyllrb.com/docs/installation/) - un generador para sitios web estáticos (código abierto)
 - [Bootstrap](http://getbootstrap.com/) - conjunto de herramientas para diseño responsivo de sitios web (código abierto)
 - [jQuery Address](https://github.com/asual/jquery-address) - biblioteca de JavaScript (código abierto)
-- [Mapbox](https://www.mapbox.com/) - proveedor de mapas y herramientas cartogáficas en línea, y que usa datos abiertos de [OpenStreetMap](http://www.openstreetmap.org/)
+- [Mapbox](https://www.mapbox.com/) - proveedor de mapas y herramientas cartogáficas en línea, usa datos abiertos de [OpenStreetMap](http://www.openstreetmap.org/)
 - [Netlify](https://www.netlify.com/) - hosting gratuito para proyectos de código abierto
 
 
@@ -115,7 +115,7 @@ El sitio web está construido con las siguientes herramientas:
 
 ## Equipo
 
-- Vicki Foss - desarrolladora, contenido
+- Vicki Foss - desarrollo, contenido
 - Fabiola Garibaldi - contenido
 - Felipe Rodríguez - contenido
 
