@@ -9,7 +9,7 @@ Repositorio para el sitio web [http://jaliscocomovamos.org/votamos](http://jalis
 ## Como contribuir
 
 ¡Las contribuciones a este proyecto son bienvenidas!
-- Si deseas participar con agregando o mejorando algún aspecto específico puedes hacer un _fork_ del repositorio, implementar los cambios (véase a continuación la información sobre la instalación de las dependencias necesarias) y enviar un _pull request_. Si tienes la intención de hacerlo, te recomendamos que te pongas en contacto con nosotros primero para avisarnos de tus planes.
+- Si deseas participar agregando o mejorando algún aspecto específico, puedes hacer un _fork_ del repositorio, implementar los cambios (véase a continuación la información sobre la instalación de las dependencias necesarias) y enviar un _pull request_. Si tienes la intención de hacerlo, te recomendamos que te pongas en contacto con nosotros primero para avisarnos de tus planes.
 - También puedes contribuir al informar de algún error o al hacer sugerencias, ya sea mediante la [creación de un _issue_ en GitHub](https://github.com/JaliscoComoVamos/ComoVotamos/issues) o [enviándonos un mensaje directo](https://jaliscocomovotamos.netlify.com/contacto.html).
 
 
