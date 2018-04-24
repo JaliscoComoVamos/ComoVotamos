@@ -29,7 +29,7 @@ a:active,a:hover {  outline: 0 }
 abbr[title] {  border-bottom: 1px dotted }
 b,strong {  font-weight: bold }
 dfn {  font-style: italic }
-h1 {  font-size: 2em; margin: 0.67em 0 }
+h1 {  margin: 0.67em 0 }
 mark {  background: #ff0;
  color: #000 }
 small {  font-size: 80% }
@@ -452,7 +452,7 @@ h1 small,.h1 small,h2 small,.h2 small,h3 small,.h3 small,h1 .small,.h1 .small,h2
 h4,.h4,h5,.h5,h6,.h6 {  margin-top: 9px;
  margin-bottom: 9px }
 h4 small,.h4 small,h5 small,.h5 small,h6 small,.h6 small,h4 .small,.h4 .small,h5 .small,.h5 .small,h6 .small,.h6 .small {  font-size: 75% }
-h1,.h1 {  font-size: 33px }
+/*h1,.h1 {  font-size: 33px }*/
 h2,.h2 {  font-size: 27px }
 h3,.h3 {  font-size: 23px }
 h4,.h4 {  font-size: 17px }

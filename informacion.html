@@ -5,8 +5,8 @@ description: Información para votar
 ---
 
 <div class='row informacionwrapper'>
-  <div class='col-md-3'>
-    <div class='well well-xs sidebar' id="sidebar"><br>
+  <div class='col-md-3 sidebar'>
+    <div class='well well-xs'><br>
       <ul class='list-unstyled'>
         <li><a href='#que-es' class="active">¿Qué es Jalisco Cómo Votamos?</a></li>
         <li><a href='#ofertodromo'>¿Cuáles son las propuestas de cada candidato?</a></li>
@@ -161,51 +161,54 @@ description: Información para votar
   </div>
 </div>
 
-<script>
 
+<script>
 // Reload to top of page
 $(window).on('beforeunload', function(){
     $(window).scrollTop(0);
 });
 
-if ($(window).width() > 992) {
-  $(document).ready(function(){
+// Highlight active section in sidebar menu
+function setMenu(){
+  if ($(window).width() > 991 && $(window).height() > 674 ) {
     // $sections includes all of the container divs that relate to menu items.
     var $sections = $('h2');
-    
     // The user scrolls
     $(window).scroll(function(){
-      
       // currentScroll is the number of pixels the window has been scrolled
       var currentScroll = $(this).scrollTop();
-      
       // $currentSection is somewhere to place the section we must be looking at
       var $currentSection
-      
       // We check the position of each of the divs compared to the windows scroll positon
       $sections.each(function(){
         // divPosition is the position down the page in px of the current section we are testing      
         var divPosition = $(this).offset().top;
-        
         // If the divPosition is less the the currentScroll position the div we are testing has moved above the window edge.
         // the -50 is so that it includes the div 50px before the div leave the top of the window.
         if( divPosition - 170 < currentScroll ){
           // We have either read the section or are currently reading the section so we'll call it our current section
           $currentSection = $(this);
-          
           // If the next div has also been read or we are currently reading it we will overwrite this value again. This will leave us with the LAST div that passed.
         }   
         // This is the bit of code that uses the currentSection as its source of ID
         var id = $currentSection.attr('id');
        $('a').removeClass('active');
        $("[href=#"+id+"]").addClass('active');
-        
       })
     });
-  });
-} else {
-  $("a").removeClass('active');
-}
+  } else {
+      $("a").removeClass('active');
+  }
+};
 
+$(document).ready(setMenu());
+
+$(window).on("resize", function(event){
+    var w = $(this).width();
+    var h = $(this).height();
+    if(w > 991 && h > 674) { 
+      setMenu() 
+    }
+ })
 
 </script>

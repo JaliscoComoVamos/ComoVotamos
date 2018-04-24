@@ -10,7 +10,7 @@ h2, h3, h4, h5 {
 
 
 h1 {
-    font-size: 80px;
+    /*font-size: 80px;*/
     padding-bottom: 10px;
     font-family: 'Komika Title Kaps', 'Lato', 'Open Sans', 'Arial', sans-serif;
     letter-spacing: 2.5px;
@@ -158,8 +158,19 @@ input[type=submit]:hover {
     padding: 5px;
 }
 
-.well {position: fixed; width: 315px; padding-top: 0; top-margin: 0;}
+.sidebar {
+  width: 315px; 
+  padding-top: 0; 
+  top-margin: 0;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 10px;
+}
+
+.well { padding-top: 0 }
+
 .informacion {padding-left: 35px; margin-left: 0px; margin-right: 70px}
+
 
 .long {
   /* These are technically the same, but use both */
@@ -184,17 +195,34 @@ input[type=submit]:hover {
 }
 
 @media only screen and (max-width: 992px) {
-  .well {position: relative; width: 95%; margin: 0 0 0 0; };
+  .sidebar {position: relative; width: 95%; margin: 0 0 0 0; top:'';};
   .informacion {padding-left: 10px; margin-left: 10px; margin-right: 10px; padding-right: 0px;
     width: 85%; position: relative};
   .informacionwrapper {width: 100%;};
 }
 
 @media only screen and (max-width: 700px) {
-  .informacion {width: 95%; margin-left: 0;}
-
+  .informacion {width: 95%; margin-left: 0;};
 }
 
-@media only screen and (max-height: 750px) {
-  .well {position: relative;}
+@media only screen and (max-height: 675px) {
+  .sidebar {position: relative; top:'';};
+}
+
+@media all and (min-width: 960px) {
+h1{
+    font-size: 85px;
+  }
+}
+
+@media all and (max-width: 959px) and (min-width: 600px) {
+h1{
+    font-size: 8vw;
+  }
+}
+
+@media all and (max-width: 599px) and (min-width: 50px) {
+h1{
+    font-size: 12vw;
+  }
 }
