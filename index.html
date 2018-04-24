@@ -213,9 +213,12 @@ layout: default
 <script>
 
 // Reload to top of page
-$(window).on('beforeunload', function(){
-    $(window).scrollTop(0);
-});
+// Reload to top of page
+window.onload=function() {
+  setTimeout(function() {
+    window.scrollTo(0, 0);
+  }, 0);
+};
 
 // List municipios
 var all_municipios = [];

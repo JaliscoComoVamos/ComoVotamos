@@ -164,9 +164,11 @@ description: Información para votar
 
 <script>
 // Reload to top of page
-$(window).on('beforeunload', function(){
-    $(window).scrollTop(0);
-});
+window.onload=function() {
+  setTimeout(function() {
+    window.scrollTo(0, 0);
+  }, 0);
+};
 
 // Highlight active section in sidebar menu
 function setMenu(){
