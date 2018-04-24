@@ -2,7 +2,17 @@
 layout: default
 ---
 
-<script src="js/new_lookup_tool.js"></script>
+<!-- Mapbox, etc. -->
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
+  <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.min.js'></script>
+<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.css' type='text/css' />
+<script src='//d3js.org/d3.v4.min.js'></script>
+<script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+<script src='https://api.mapbox.com/mapbox.js/plugins/turf/v3.0.11/turf.min.js'></script>
+
+<script defer src="js/new_lookup_tool.js"></script>
+
 
 <form>
     <input id="mi_distrito_placeholder_2" onchange="getCandidates(); showResults()" type="hidden">
@@ -211,8 +221,6 @@ layout: default
 
 
 <script>
-
-// Reload to top of page
 // Reload to top of page
 window.onload=function() {
   setTimeout(function() {
