@@ -2,10 +2,10 @@
 <html lang='es-MX' style="height: 100%">
   <head>
     <title>
-      {% if page.title %}
-        {{page.title}} -
-      {% endif %}
       {{site.name}}
+      {% if page.title %}
+        - {{page.title}} 
+      {% endif %}
     </title>
     <meta charset='utf-8' />
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,7 +26,7 @@
     <!-- Facebook metadata -->
     <meta content="{{ site.name }}" property="og:site_name">
     {% if page.title %}
-      <meta content="{{ page.title }} - {{ site.name }}" property="og:title">
+      <meta content="{{ site.name }} - {{ page.title }}" property="og:title">
     {% else %}
       <meta content="{{ site.name }}" property="og:title">
     {% endif %}
@@ -133,6 +133,18 @@
     ga('send', 'pageview');
     </script>
     <!-- End Google Analytics -->
+
+    <!-- Map page only -->
+    {% if page.map_page %}
+      <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.js'></script>
+      <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.css' rel="stylesheet"/>
+      <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.min.js'></script>
+      <link href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.css' rel="stylesheet"/>
+      <script src='//d3js.org/d3.v4.min.js'></script>
+      <script defer src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+      <script defer src='https://api.mapbox.com/mapbox.js/plugins/turf/v3.0.11/turf.min.js'></script>
+      <script defer src="js/new_lookup_tool.js"></script>
+    {% endif %}
 
   </head>
 

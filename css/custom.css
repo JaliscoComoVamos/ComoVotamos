@@ -1,6 +1,19 @@
 body {
     font-size: 16px;
     font-family: 'Lato', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+}
+
+.lead{
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
 }
 
 input::-moz-focus-inner { 
@@ -223,19 +236,20 @@ input[type=submit]:hover {
 }
 
 @media all and (min-width: 960px) {
-h1{
-    font-size: 85px;
-  }
+h1{ font-size: 85px;}
+h2{ font-size: 27px;}
+.lead2{ font-size: 19px;}
 }
 
 @media all and (max-width: 959px) and (min-width: 500px) {
-h1{
-    font-size: 8vw;
-  }
+h1{ font-size: 8vw; }
+h2{ font-size: 3vw; }
+.lead2{ font-size: 17px;}
 }
 
 @media all and (max-width: 499px) {
-h1{
-    font-size: 14vw;
-  }
+h1{ font-size: 14vw; }
+h2{ font-size: 6vw; }
+.lead2{ font-size: 15px;}
 }
+
