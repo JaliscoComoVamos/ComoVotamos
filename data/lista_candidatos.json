@@ -127,13 +127,6 @@
   },
   {
     "Candidatura": "Guadalajara",
-    "Nombre": "Francisco Ramón Meza Rosales",
-    "Partido": "INDEPENDIENTE",
-    "url": "",
-    "twitter": ""
-  },
-  {
-    "Candidatura": "Guadalajara",
     "Nombre": "Miguel Zárate Hernández",
     "Partido": "PAN",
     "url": "",
@@ -164,13 +157,6 @@
     "Candidatura": "Guadalajara",
     "Nombre": "Ismael del Toro Castro",
     "Partido": "MC",
-    "url": "",
-    "twitter": ""
-  },
-  {
-    "Candidatura": "Guadalajara",
-    "Nombre": "Rodolfo Armando Casanova Valle",
-    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
@@ -220,20 +206,6 @@
     "Candidatura": "Zapopan",
     "Nombre": "Jorge Leal Ramírez",
     "Partido": "PANAL",
-    "url": "",
-    "twitter": ""
-  },
-  {
-    "Candidatura": "Zapopan",
-    "Nombre": "José Oscar Ávila Poblano",
-    "Partido": "INDEPENDIENTE",
-    "url": "",
-    "twitter": ""
-  },
-  {
-    "Candidatura": "Zapopan",
-    "Nombre": "Alejandro Gutiérrez Carrillo",
-    "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
   },
@@ -610,13 +582,6 @@
   },
   {
     "Candidatura": "Puerto Vallarta",
-    "Nombre": "Francisco Romero García",
-    "Partido": "INDEPENDIENTE",
-    "url": "",
-    "twitter": ""
-  },
-  {
-    "Candidatura": "Puerto Vallarta",
     "Nombre": "Saúl López Orozco",
     "Partido": "PAN",
     "url": "",
@@ -674,13 +639,6 @@
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Máximo Martínez Aguirre",
-    "Partido": "INDEPENDIENTE",
-    "url": "",
-    "twitter": ""
-  },
-  {
-    "Candidatura": "Puerto Vallarta",
-    "Nombre": "Luis Fernando Sánchez Robles",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
@@ -920,6 +878,55 @@
     "Candidatura": "Autlán de Navarro",
     "Nombre": "Víctor Manuel Pérez Cabrera",
     "Partido": "INDEPENDIENTE",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Chapala",
+    "Nombre": "Juan Diego Castro Morales",
+    "Partido": "INDEPENDIENTE",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Chapala",
+    "Nombre": "Esperanza Mejía Carvajal",
+    "Partido": "PANAL",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Chapala",
+    "Nombre": "Alejandro de Jesús Aguirre Curiel",
+    "Partido": "PAN",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Chapala",
+    "Nombre": "Gerardo Degollado González",
+    "Partido": "MORENA, PES, PT",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Chapala",
+    "Nombre": "Moisés Alejandro Anaya Aguilar",
+    "Partido": "PRD, MC",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Chapala",
+    "Nombre": "Javier Degollado González",
+    "Partido": "PRI",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Chapala",
+    "Nombre": "María Guadalupe Cárdenas Cárdenas",
+    "Partido": "PVEM",
     "url": "",
     "twitter": ""
   },
@@ -1450,7 +1457,7 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
-    "Nombre": "Adelian Brigitte Hernández Siordia",
+    "Nombre": "Adelina Brigitte Hernández Siordia",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": ""
@@ -2656,6 +2663,34 @@
     "Candidatura": "Diputado Federal DTTO. 20",
     "Nombre": "Jorge Arana Arana",
     "Partido": "PRI",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 20",
+    "Nombre": "Karla Patricia Fonseca Veliz",
+    "Partido": "PVEM",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 20",
+    "Nombre": "Luis Fernando Quintero Damián",
+    "Partido": "PANAL",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 20",
+    "Nombre": "Ana Priscila González García",
+    "Partido": "PAN, PRD, MC",
+    "url": "",
+    "twitter": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 20",
+    "Nombre": "Cuahtémoc Peña Cortés",
+    "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": ""
   }

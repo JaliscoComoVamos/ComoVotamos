@@ -386,7 +386,7 @@ h2,h3 {  page-break-after: avoid }
  box-sizing: border-box }
 html {  font-size: 10px;
  -webkit-tap-highlight-color: rgba(0,0,0,0) }
-body {  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+body {  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
  font-size: 13px;
  line-height: 1.42857143;
  color: #777777;
@@ -438,7 +438,7 @@ hr {  margin-top: 18px;
  overflow: visible;
  clip: auto }
 [role="button"] {  cursor: pointer }
-h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
  font-weight: 300;
  line-height: 1.1;
  color: #444444 }
@@ -2428,7 +2428,7 @@ button.close {  padding: 0;
 .tooltip {  position: absolute;
  z-index: 1070;
  display: block;
- font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+ font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
  font-style: normal;
  font-weight: normal;
  letter-spacing: normal;
@@ -2514,7 +2514,7 @@ button.close {  padding: 0;
  display: none;
  max-width: 276px;
  padding: 1px;
- font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+ font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
  font-style: normal;
  font-weight: normal;
  letter-spacing: normal;
@@ -2822,7 +2822,7 @@ th.visible-print,td.visible-print {  display: table-cell !important }
  }
 .navbar-inverse .badge {  background-color: #fff;
  color: #599C66 }
-.btn {  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif }
+.btn {  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif }
 .btn-default,.btn-default:hover {  background-image: -webkit-linear-gradient(#4f5151, #474949 6%, #3f4141);
  background-image: -o-linear-gradient(#4f5151, #474949 6%, #3f4141);
  background-image: -webkit-gradient(linear, left top, left bottom, from(#4f5151), color-stop(6%, #474949), to(#3f4141));

@@ -7,12 +7,19 @@ layout: default
 <link rel="preload" href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' as="style" onload="this.rel='stylesheet'"/>
 <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.min.js'></script>
 <link rel="preload" href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.css' as="style" onload="this.rel='stylesheet'"/>
-<script src='//d3js.org/d3.v4.min.js'></script>
+<script>
+  $.ajax({
+    type: "GET",
+    url: "//d3js.org/d3.v4.min.js",
+    success: function(){},
+    dataType: "script",
+    cache: true
+  });
+</script>
 <script defer src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
 <script defer src='https://api.mapbox.com/mapbox.js/plugins/turf/v3.0.11/turf.min.js'></script>
 
 <script defer src="js/new_lookup_tool.js"></script>
-
 
 <form>
     <input id="mi_distrito_placeholder_2" onchange="getCandidates(); showResults()" type="hidden">
@@ -69,7 +76,7 @@ layout: default
             <div class='text-center' id='alcalde-container-not-found' style='display: none;'><br>
                 <h3 class='text-center' id="alcalde-name-not-found">Presidente Municipal</h3>
                 <p><b>No encontramos ningún candidato a presidente municipal para esta ubicación.</b> </p><p style="text-align: left" class="small">
-                    Actualmente tenemos la lista completa de candidatos a presidente municipal en Autlán, El Salto, Guadalajara, Ixtlahuacán de los Membrillos, La Barca, Lagos de Moreno, Puerto Vallarta, Tepatitlán, Tequila, Tlajomulco, Tlaquepaque, Tonalá, Zapopan, Zapotlanejo y Zapotlán el Grande.</p> <p class="small" style="text-align: left">Si deseas que agreguemos información para otro municipio, <a href="/contacto.html">envíanos una solicitud</a> y haremos todo lo posible para actualizar nuestra base de datos. Igual, si tu dirección pertenece a uno de los municipios mencionados, nos ayudaría si <a href="/contacto.html">nos avisaras del error</a> para arreglarlo. ¡Gracias!</p> 
+                    Actualmente tenemos la lista completa de candidatos a presidente municipal en Autlán, Chapala, El Salto, Guadalajara, Ixtlahuacán de los Membrillos, La Barca, Lagos de Moreno, Puerto Vallarta, Tepatitlán, Tequila, Tlajomulco, Tlaquepaque, Tonalá, Zapopan, Zapotlanejo y Zapotlán el Grande.</p> <p class="small" style="text-align: left">Si deseas que agreguemos información para otro municipio, <a href="/contacto.html">envíanos una solicitud</a> y haremos todo lo posible para actualizar nuestra base de datos. Igual, si tu dirección pertenece a uno de los municipios mencionados, nos ayudaría si <a href="/contacto.html">nos avisaras del error</a> para arreglarlo. ¡Gracias!</p> 
             </div>
             <div id='alcalde-container'>
                 <br>
