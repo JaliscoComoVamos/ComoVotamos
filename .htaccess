@@ -2,7 +2,7 @@
 Header set Cache-Control "max-age=3604800"
 </FilesMatch>
 
-ErrorDocument 404 /404.html
+ErrorDocument 404 /404
 
 ## Rewrite rules
 <IfModule mod_rewrite.c>
@@ -11,10 +11,11 @@ ErrorDocument 404 /404.html
     RewriteEngine on
     
     RewriteBase /
-    
-    RewriteCond %{REQUEST_FILENAME} !-d
+
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteCond %{REQUEST_FILENAME} -f
+    RewriteRule ^(.*)\.html/$ /$1 [R] 
     RewriteRule ^(.*)\.html$ /$1 [L,R=302] 
-    RewriteRule ^(.*)\.html/$ /$1 [L,R=302] 
     RewriteRule ^(.*)/$ /$1 [L,R] [L,QSA,R=302]
 
 </IfModule>
