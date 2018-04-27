@@ -11,7 +11,12 @@ map_page: true
 <div class="row" style="width: 100%; margin:0 auto;">
         <h2 class='text-center' style="color:#3F626B; background: #fbe3e0; padding: 6px">Ingresa tu dirección o haz clic en el mapa para conocer a las y los candidatos por los que te tocará votar.<br></h2><br>
 </div>
+
 <div id='map' style='width: 86%; height: 450px; margin:0 auto;'></div>
+<div class='text-center' id='map-error' 
+    style='width: 70%; margin:0 auto; font-size: 20px; display: none; background: #F9D333; color: #000000'>
+   <br><b>ERROR: ¡No se puede mostrar el mapa! Parece que tu navegador o tu tarjeta gráfica no es compatible con <a href="https://www.khronos.org/webgl/" style="color: #0000FF">WebGL</a>. Descubre cómo arreglarlo <a href="http://get.webgl.org/" style="color: #0000FF">aquí</a>.</b><br>&nbsp;
+</div>
 <div class="row candidate-list">
     <div class='col-md-10 col-md-offset-1'>
         <div class='text-center' id='no-response-container' style="display:none;">
@@ -254,20 +259,26 @@ $(function() {
       });
 });
 
-mapboxgl.accessToken = 'pk.eyJ1IjoiZm9zc3ZpY2siLCJhIjoiY2l1dHpvZjMyMDF5NTJ5b2U4dml3OXl4NSJ9.nfzJubKqRYD5mfehv_qMxg';
-var map = new mapboxgl.Map({
-    container: 'map',
-    style: 'mapbox://styles/fossvick/cjfrrbe7k6dkf2rqxi4ctqcnr',
-    center: [-103.346497, 20.676242], // starting position
-    zoom: 7,
-});
-map.getCanvas().style.cursor = 'pointer';
+
+// Check that WebGL was able to load, if not, throw error
+try { 
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZm9zc3ZpY2siLCJhIjoiY2l1dHpvZjMyMDF5NTJ5b2U4dml3OXl4NSJ9.nfzJubKqRYD5mfehv_qMxg';
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/fossvick/cjfrrbe7k6dkf2rqxi4ctqcnr',
+        center: [-103.346497, 20.676242], // starting position
+        zoom: 7,
+    });
+    map.getCanvas().style.cursor = 'pointer';
+} catch(err) {
+        $('#map').hide();
+        $('#map-error').show();
+}
 
 var colors = ["#911eb4", "#46f0f0", "#f032e6", "#d2f53c", "#fabebe",
 "#008080", "#e6beff", "#aa6e28", "#000080", "#800000",
 "#aaffc3", "#808000", "#ffd8b1", "#3cb44b", "#808080",
 "#e6194b", "#fffac8", "#ffe119", "#0082c8", "#f58231",];
-
 
 // create an empty array to keep track of popups
 var popups = [];
@@ -378,6 +389,15 @@ map.on('click', 'jalisco', function (e) {
     $('#no-response-container').hide();
     $("#response-container").show();
     getCandidates();
+});
+
+map.on('mouseenter', 'jalisco', function() {
+    // Change the cursor style as a UI indicator.
+    map.getCanvas().style.cursor = 'pointer';
+})
+map.on('mouseleave', 'jalisco', function() {
+    // Change the cursor style back as a UI indicator.
+    map.getCanvas().style.cursor = '';
 });
 
 
