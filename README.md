@@ -106,6 +106,7 @@ El sitio web está construido con las siguientes herramientas:
 - [Bootstrap](http://getbootstrap.com/) - conjunto de herramientas para diseño responsivo de sitios web (código abierto)
 - [jQuery Address](https://github.com/asual/jquery-address) - biblioteca de JavaScript (código abierto)
 - [Mapbox](https://www.mapbox.com/) - proveedor de mapas y herramientas cartogáficas en línea, usa datos abiertos de [OpenStreetMap](http://www.openstreetmap.org/)
+    - Mapbox requiere que esté activado y funcionando [WebGL](https://get.webgl.org/)
 - [Netlify](https://www.netlify.com/) - hosting gratuito para proyectos de código abierto
 
 
