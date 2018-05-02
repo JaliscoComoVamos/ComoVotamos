@@ -4,9 +4,15 @@ function getCandidates() {
         $("#alcalde-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
-            if (data[i].Candidatura === mi_municipio) items.push("<tr><td><b>" + data[i].Nombre +
-                " </b></td><td class='long'>" + data[i].Partido +
-                "</td><td></td></tr>")
+            if (data[i].Candidatura === mi_municipio) {
+                var tableguts = "<tr><td><b>" + data[i].Nombre +
+                    "</b></td><td class='long'>" + data[i].Partido + "</td><td>";
+                if (data[i].facebook || 0 !== data[i].facebook.length) {
+                    tableguts = tableguts + "<a href='" + data[i].facebook 
+                    + "' target='_blank'><i class='fab fa-facebook'></i></a>"
+                };
+                items.push(tableguts + "</td></tr>");
+            }
         };
         if (items.length == 0) { 
             $('#alcalde-container-not-found').show();
@@ -26,7 +32,7 @@ function getCandidates() {
                 "<tr><td><b>" + data[i].Nombre + "</b></td><td class='long'>" + 
                 data[i].Partido + "</td><td></td></tr>")
         };
-        $('#dl-results').find('tbody').append(items)
+        $('#dl-results').find('tbody').append(items);
 
     // <!-- Add Diputados Federales -->
         $("#df-results tbody tr").remove();
@@ -36,17 +42,27 @@ function getCandidates() {
                 "<tr><td><b>" + data[i].Nombre + "</b></td><td class='long'>" + 
                 data[i].Partido + "</td><td></td></tr>")
         };
-        $('#df-results').find('tbody').append(items)
+        $('#df-results').find('tbody').append(items);
 
     // <!-- Add candidates for the senate -->
         $("#senador-results tbody tr").remove();
         var items = [];
         for (i = 0; i < data.length; i++) {
-            if (data[i].Candidatura === "Senador") items.push("<tr><td><b>" 
-                + data[i].Nombre.split(' y ').join("</b><span style='color: #555'> y </span><b>") +
-                "</b></td><td class='long'>" + data[i].Partido + "</td><td></td></tr>")
+            if (data[i].Candidatura === "Senador") {
+                var tableguts = "<tr><td><b>" +
+                    data[i].Nombre.split(' y ').join("</b><span style='color: #555'> y </span><b>") +
+                    "</b></td><td class='long'>" + data[i].Partido + "</td><td class='long'>";
+                if (data[i].facebook_senadores || 0 !== data[i].facebook_senadores.length) {
+                    var info = data[i].facebook_senadores.split(',');
+                    tableguts = tableguts + info[0] + ": <a href='" + info[1] + 
+                        "' target='_blank'><i class='fab fa-facebook'></i></a><br>" + 
+                        info[2] + ": <a href='" + info[3] + 
+                        "' target='_blank'><i class='fab fa-facebook'></i></a>";
+                };
+                items.push(tableguts + "</td></tr>");
+            }
         };
-        $('#senador-results').find('tbody').append(items)
+        $('#senador-results').find('tbody').append(items);
 
     // <!-- Add gubernatorial candidates -->
         $("#gobernador-results tbody tr").remove();
@@ -66,7 +82,7 @@ function getCandidates() {
                 items.push(tableguts + "</td></tr>");
             };
         };
-        $('#gobernador-results').find('tbody').append(items)
+        $('#gobernador-results').find('tbody').append(items);
 
     // <!-- Add presidential candidates -->
         $("#presidente-results tbody tr").remove();
@@ -81,7 +97,11 @@ function getCandidates() {
                 };
                 if (data[i].twitter || 0 !== data[i].twitter.length) {
                     tableguts = tableguts + "<a href='" + data[i].twitter 
-                    + "' target='_blank'><i class='fab fa-twitter'></i></a>"
+                    + "' target='_blank'><i class='fab fa-twitter'></i></a>&nbsp;&nbsp;"
+                };
+                if (data[i].facebook || 0 !== data[i].facebook.length) {
+                    tableguts = tableguts + "<a href='" + data[i].facebook 
+                    + "' target='_blank'><i class='fab fa-facebook'></i></a>"
                 };
                 items.push(tableguts + "</td></tr>");
             };

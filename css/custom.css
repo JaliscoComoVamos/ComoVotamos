@@ -139,9 +139,9 @@ li:not(:last-child) {
 }
 
 
-.table-striped tr > *:nth-child(1) { width:60%; color: #333333; }
-.table-striped tr > *:nth-child(2) { width:24%; color: #333333; }
-.table-striped tr > *:nth-child(3) { width:16%; }
+.table-striped tr > *:nth-child(1) { width:50%; color: #333333; }
+.table-striped tr > *:nth-child(2) { width:20%; color: #333333; }
+.table-striped tr > *:nth-child(3) { width:30%; color: #333333; }
 
 .table-striped tbody tr:nth-child(odd) {background: #dbdbdb}
 

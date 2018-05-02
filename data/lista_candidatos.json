@@ -4,2694 +4,3509 @@
     "Nombre": "Ricardo Anaya Cortés",
     "Partido": "PAN, MC, PRD",
     "url": "https://ricardoanaya.com.mx/",
-    "twitter": "https://twitter.com/RicardoAnayaC"
+    "twitter": "https://twitter.com/RicardoAnayaC",
+    "facebook": "https://www.facebook.com/RicardoAnayaC/",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Presidente",
     "Nombre": "Andrés Manuel López Obrador",
     "Partido": "MORENA, PES, PT",
     "url": "https://lopezobrador.org.mx/",
-    "twitter": "https://twitter.com/lopezobrador_"
+    "twitter": "https://twitter.com/lopezobrador_",
+    "facebook": "https://www.facebook.com/lopezobrador.org.mx/",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Presidente",
     "Nombre": "Margarita Zavala Gómez del Campo",
     "Partido": "INDEPENDIENTE",
     "url": "http://www.margaritazavala.com/",
-    "twitter": "https://twitter.com/Mzavalagc"
+    "twitter": "https://twitter.com/Mzavalagc",
+    "facebook": "https://www.facebook.com/MargaritaZavalaMX/",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Presidente",
     "Nombre": "José Antonio Meade Kuribreña",
     "Partido": "PRI, PVEM, PANAL",
     "url": "http://meade18.com/",
-    "twitter": "https://twitter.com/JoseAMeadeK"
+    "twitter": "https://twitter.com/JoseAMeadeK",
+    "facebook": "https://www.facebook.com/JoseAMeadeK/",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Presidente",
     "Nombre": "Jaime Heliodoro Rodríguez Calderón",
     "Partido": "INDEPENDIENTE",
     "url": "http://www.jaimerodriguez.mx/",
-    "twitter": "https://twitter.com/JaimeRdzNL"
+    "twitter": "https://twitter.com/JaimeRdzNL",
+    "facebook": "https://www.facebook.com/JaimeRodriguezElBronco/",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Gobernador",
     "Nombre": "Miguel Ángel Martínez Espinosa",
     "Partido": "PAN",
     "url": "",
-    "twitter": "https://twitter.com/MiguelAngelME_"
+    "twitter": "https://twitter.com/MiguelAngelME_",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Gobernador",
     "Nombre": "Miguel Castro Reynoso",
     "Partido": "PRI",
     "url": "",
-    "twitter": "https://twitter.com/micasrey"
+    "twitter": "https://twitter.com/micasrey",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Gobernador",
     "Nombre": "Carlos Manuel Orozco Santillán",
     "Partido": "PRD",
     "url": "",
-    "twitter": "https://twitter.com/carlosorozcosa"
+    "twitter": "https://twitter.com/carlosorozcosa",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Gobernador",
     "Nombre": "Salvador Cosío Gaona",
     "Partido": "PVEM",
     "url": "",
-    "twitter": "https://twitter.com/salvadorcosio1"
+    "twitter": "https://twitter.com/salvadorcosio1",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Gobernador",
     "Nombre": "Enrique Alfaro Ramírez",
     "Partido": "MC",
     "url": "",
-    "twitter": "https://twitter.com/EnriqueAlfaroR"
+    "twitter": "https://twitter.com/EnriqueAlfaroR",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Gobernador",
     "Nombre": "Martha Rosa Araiza Soltero",
     "Partido": "PANAL",
     "url": "",
-    "twitter": "https://twitter.com/MarthaRosa2018"
+    "twitter": "https://twitter.com/MarthaRosa2018",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Gobernador",
     "Nombre": "Carlos Lomelí Bolaños",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": "https://twitter.com/DrCarlosLomeli"
+    "twitter": "https://twitter.com/DrCarlosLomeli",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Senador",
     "Nombre": "José Pedro Kumamoto Aguilar y Juana Adelfa Delgado Quintana",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": "Kumamoto, https://www.facebook.com/PedroKumamoto/, Delgado, https://www.facebook.com/JuanitaDelgadoQ/"
   },
   {
     "Candidatura": "Senador",
-    "Nombre": "José Clemente Castaleda Hoeflich y Verónica Delgadillo García",
+    "Nombre": "José Clemente Castañeda Hoeflich y Verónica Delgadillo García",
     "Partido": "MC, PAN, PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": "Castañeda, https://www.facebook.com/clementech/, Delgadillo, https://www.facebook.com/VeroDelgadilloG/"
   },
   {
     "Candidatura": "Senador",
     "Nombre": "Hugo Contreras Rodríguez y Rocío Corona Nakamura",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": "Contreras, https://www.facebook.com/hugo.contreraszepeda/, Corona, https://www.facebook.com/RocioCoronaNkm/"
   },
   {
     "Candidatura": "Senador",
-    "Nombre": "María Antonieta Cárdenas Mariscal y Antonio Pérez Garibay",
+    "Nombre": "María Antonia Cárdenas Mariscal y Antonio Pérez Garibay",
     "Partido": "MORENA",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": "Cárdenas, https://www.facebook.com/dipantonia/, Pérez, https://www.facebook.com/APerezGaribay/"
   },
   {
     "Candidatura": "Senador",
     "Nombre": "Arturo Alberto Jheman Zetina y Leonor Ceballos González",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": "Jheman, https://www.facebook.com/Arturo-Jheman-Verde-407519359671430/, Ceballos, https://www.facebook.com/LeonorCeballosG/"
   },
   {
     "Candidatura": "Senador",
     "Nombre": "Sandra Beatriz González Pérez y Ramón Ernesto Gallardo López",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": "González, https://www.facebook.com/SandraGonzalezSenadora/, Gallardo, https://www.facebook.com/ramongallardosenador/"
   },
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Miguel Zárate Hernández",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "https://www.facebook.com/MiguelZarateH/",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Jesús Eduardo Almaguer Ramírez",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "https://www.facebook.com/EduardoAlmaguerr/",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Valeria Guadalupe Ávila Gutiérrez",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "https://www.facebook.com/Valeria-Avila-1004154903095438/",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Aurelio Martínez Flores",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "https://www.facebook.com/AurelioMartinezGDL/",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Ismael del Toro Castro",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "https://www.facebook.com/deltoroismael/",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Claudia Delgadillo González",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "https://www.facebook.com/ClaudiaDelgadilloGlz/",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "José Antonio de la Torre Bravo",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "Abel Octavio Salgado Peña",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "Jaime Prieto Pérez",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "Mario Alejandro Cárdenas Ochoa",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "Jesús Pablo Lemus Navarro",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "Jorge Leal Ramírez",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapopan",
     "Nombre": "José Hiram Torres Salcedo",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Salvador Gómez de Dios",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Antonio Sánchez Flores",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Tania Edith Morales Rodríguez",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Luz Elena Gómez Orozco",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Salvador Zamora Zamora",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Héctor Armando Villegas Rodríguez",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Juan Carlos Bustamante Barragán",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Miguel Ángel León Corrales",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "Alfredo Barba Mariscal",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "María Elena Limón García",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "Daniela Elizabeth Chávez Estrada",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "Hugo Emmanuel Mercado López",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "José Bañales Castro",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "Gustavo de la Torre Navarro",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "Alberto Alfaro García",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "Alberto Maldonado Chavarín",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tonalá",
     "Nombre": "Edgar Oswaldo Bañales Orozco",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tonalá",
     "Nombre": "Celia Guadalupe Serrano Villagómez",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tonalá",
     "Nombre": "Juan Manuel Pérez Suárez",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tonalá",
     "Nombre": "Juan Antonio González Mora",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tonalá",
     "Nombre": "Catarino Orea Velázquez",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "El Salto",
     "Nombre": "Joel González Diaz",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "El Salto",
     "Nombre": "Ricardo Zaid Santillán Cortés",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "El Salto",
     "Nombre": "Norma Alicia Cruz Hernández",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "El Salto",
     "Nombre": "Mario Eduardo Moreno Álvarez",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "El Salto",
     "Nombre": "Gabriel Pérez Pérez",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
     "Nombre": "Otilia Diaz Enciso",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
     "Nombre": "Eduardo Cervantes Aguilar",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
     "Nombre": "Marín Uriel Gomar Santibañez",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
     "Nombre": "María Fernanda Lozano Cisneros",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
     "Nombre": "José Mateo Ramírez Neri",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapotlanejo",
     "Nombre": "Susana Álvarez Serrato",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapotlanejo",
     "Nombre": "Rubén Ramírez Ramírez",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapotlanejo",
     "Nombre": "María Guadalupe González Rivera",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapotlanejo",
     "Nombre": "Ángel Alberto Mayoral Pérez",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapotlanejo",
     "Nombre": "Héctor Álvarez Contreras",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapotlanejo",
     "Nombre": "Alfredo Camarena Pérez",
     "Partido": "MORENA, PES,PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Juanacatlán",
     "Nombre": "Francisco de la Cerda Suárez",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Juanacatlán",
     "Nombre": "Alexis Mabel Chávez Dueñas",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Juanacatlán",
     "Nombre": "Francisca Ortiz Hernández",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Juanacatlán",
     "Nombre": "J. Jesús Cortés Moreno",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Juanacatlán",
     "Nombre": "Adriana Cortés González",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Juanacatlán",
     "Nombre": "Rebeca Mariscal Hidalgo",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Juanacatlán",
     "Nombre": "Flor Cecilia Torres Rocha",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "Rigoberto González Gutiérrez",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "María Concepción Franco Lucio",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "Alejandra González Jiménez",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "José Antonio Becerra González",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "María Elena de Anda Gutiérrez",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "M. Elena Telles Barajas",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "María del Carmen Gallegos de la Mora",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "Paola Adriana González Dávalos",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Saúl López Orozco",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Luis Roberto González Gutiérrez",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Hernán Carmona Muñiz",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Enrique Gerardo Gou Boy",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Arturo Dávalos Peña",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Heriberto Sánchez Ruiz",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Francisco José Martínez Gil",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Luis Alberto Alcaraz López",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Máximo Martínez Aguirre",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "María Laurel Carrillo Ventura",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "Noé Saul Ramos García",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "Alejandro Elizondo Verduzco",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "Cecilia Guadalupe Ramos de la Torre",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "Frania Daniela Lara Galindo",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "José Romero Mercado",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "J. Jesús Guerrero Zúñiga",
     "Partido": "MC, PRD (POSIBLE CAMBIO)",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "Alejandro Barragán Sánchez",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tequila",
     "Nombre": "Gustavo Castañeda González",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tequila",
     "Nombre": "Martín Ibarra Aguilera",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tequila",
     "Nombre": "José Alfonso Magallanes Rubio",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tequila",
     "Nombre": "José Miguel Marín Sánchez",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tequila",
     "Nombre": "Armando González Castañeda",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tequila",
     "Nombre": "Alan Marcos Mata Covarrubias",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Tequila",
     "Nombre": "Ramiro Pérez Martínez",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
     "Nombre": "José Luis González González",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
     "Nombre": "Joel Razura Preciado",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
     "Nombre": "Alejandra Vázquez Ortiz",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
     "Nombre": "Tecutli José Guadalupe Gómez Villalobos",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
     "Nombre": "Luis Gerardo Sánchez Sánchez",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
     "Nombre": "Hugo René Ruiz Esparza Hermosillo",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
     "Nombre": "Dora Alicia Sánchez Barragán",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "La Barca",
     "Nombre": "José Nicolás Cerda Pacheco",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "La Barca",
     "Nombre": "Agustín Valle Olmos",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "La Barca",
     "Nombre": "Benjamín Villanueva Soto",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "La Barca",
     "Nombre": "Enrique Rojas Román",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "La Barca",
     "Nombre": "Nicolás Mosqueda Vásquez",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "La Barca",
     "Nombre": "Luis Eduardo Rodríguez Muñiz",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
     "Nombre": "Luis Alberto Miranda Zúñiga",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
     "Nombre": "J. Nicolás Ayala del Real",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
     "Nombre": "Miguel Ángel Iñiguez Brambila",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
     "Nombre": "Gustavo Salvador Robles Martínez",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
     "Nombre": "Carolina Rincón Naranjo",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
     "Nombre": "Víctor Manuel Pérez Cabrera",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Chapala",
     "Nombre": "Juan Diego Castro Morales",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Chapala",
     "Nombre": "Esperanza Mejía Carvajal",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Chapala",
     "Nombre": "Alejandro de Jesús Aguirre Curiel",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Chapala",
     "Nombre": "Gerardo Degollado González",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Chapala",
     "Nombre": "Moisés Alejandro Anaya Aguilar",
     "Partido": "PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Chapala",
     "Nombre": "Javier Degollado González",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Chapala",
     "Nombre": "María Guadalupe Cárdenas Cárdenas",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Unión de Tula",
+    "Nombre": "Verónica Rincón Villafaña",
+    "Partido": "PANAL",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Unión de Tula",
+    "Nombre": "Gala del Carmen Lepe Galván",
+    "Partido": "PAN, PRD, MC",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Unión de Tula",
+    "Nombre": "Eduardo Noriega Villegas",
+    "Partido": "MORENA, PES, PT",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Unión de Tula",
+    "Nombre": "César Alonso Tostado González",
+    "Partido": "PRI",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Unión de Tula",
+    "Nombre": "Jessica Dennise Cervantes Mosqueda",
+    "Partido": "PVEM",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
     "Nombre": "Rafael Aguirre Carrillo",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
     "Nombre": "Gustaco Macías Zambrano",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
     "Nombre": "Leoncio Guzmán González",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
     "Nombre": "Antonio López Orozco",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
     "Nombre": "Luis Manuel Velez Orozco",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "Hugo Zamora de Anda",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "Nora Leticia Hernández Esqueda",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "José de Jesús Hurtado Torres",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "Gustavo Pedroza Romo",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "Saúl Martin Gómez",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "Luz del Carmen García Gómez",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "Carlos Alberto Gallardo Hernández",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Jorge Eduardo González Arana",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Rosa Angélica Ascencio González",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Rosa Margarita López Orozco",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "María de los Ángeles Barajas Gaytán",
     "Partido": "PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Jorge Mercado Limón",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Mara Nadiezhda Robles Villaseñor",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Zulma Julissa Ocegueda Salazar",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Julio Manuel Barba Gómez",
     "Partido": "MORENA",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Vanessa del Carmen Aguirre Carrillo",
     "Partido": "PES",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Edgar Enrique Velázquez González",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Laura Valeria Guzmán Vázquez",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Adriana Isabel Rodrìguez Larios",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Luis Roberto Preciado Zavala",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Fernando Sánchez Díaz",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "José de Jesús Martínez Esparza",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Gerardo Hernández Amezcua",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Blanca Olivia Vargas Mendoza",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "Luz María Velasco Robles",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "María Violeta Becerra Osoria",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "María Magdalena Urbina Martínez",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "José Manuel Galindo Nolasco",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "Luis Ernesto Munguía González",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "Cecilia Bañuelos Rubio",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "Susana Gabriela Velasco González",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "Manuel Palomera Uribe",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "Bruno Blancas Mercado",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Irma Verónica González Orozco",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Xavier Marconi Quintero Villanueva",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Zahida Ivonne Ramírez Salcedo",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Sergio Martín Arceo García",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Mirza Flores Gómez",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Olivia Irasema Bonilla López",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Alejandra Vargas Ochoa",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Ana Gabriela González González",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Karla Azucena Díaz López",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "Maria Silvia López Campechano",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "Roberto Amador Cárdenas Blake",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "María Luisa Hernández Plascencia",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "Ismael Arteaga Pajarito",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "Rosa Alba Ramírez Nachis",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "Diana Carolina Zavala Barajas",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "Luis Angel Morales Hernández",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "María Ester López Chávez",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Ignacio Mestas Gallardo",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Blanca Estela Gutiérrez Viera",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Nelly García Vallejo",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Susana de la Rosa Hernández",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Abigail Orozco Morales",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Edgar Josué León del Toro",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Hiram Esaú Ramírez Castellón",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Héctor Alejandro Hermosillo González",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "Catalina Aguilera Arizaga",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "María de Jesús Macías Robles",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "José Felipe Ascensio Sánchez",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "Óscar Nicolás García Lomelí",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "Miriam Berenice Rivera Rodríguez",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Mariana Fernández Ramírez",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Madeleine Garza Estrada",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Jorge Álvarez Vázquez",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Susana Ochoa Chavira",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Aquiles López González",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "José Manuel Muñoz Castellanos",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Guillermo Gustavo Gallego Neri",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Adelina Brigitte Hernández Siordia",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Esteban Estrada Ramírez",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Arturo Peña Quiñones",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "José Saavedra Terán",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Erika Natalia Juárez Miranda",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "José González Jiménez",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Jonadab Martínez García",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Jair Gilberto Valdez López",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Joel Cortés Serrano",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Carlos Alberto Rivas Tejeda",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Marcos Ramón Gómez Ortega",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Waldo Getsemani Ibarra Reyna",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "María de Lourdes Anguiano Ramírez",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "Elizabeth Magañón Mena",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "Rodrigo Frangie Menéndez",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "José Chávez García",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "Rosalba Chávez Chávez",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "Gerardo Quirino Velázquez Chávez",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Liliana Guadalupe Morones Vargas",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Karla del Carmen de Anda Carrazco",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Edgar Alejandro Flores Olea",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Paola Flores Trujillo",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "José Arturo Gleason Espíndola",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Benito Manuel Villagómez Rodríguez",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Christian Alfredo Nava Mena",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Adenawer González Fierros",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "María del Carmen Flores Vázquez",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "María de los Ángeles Arredondo Torres",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Gerardo León de la Cruz",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Gabriel Hernández Pérez",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Priscilla Franco Barba",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Brenda Concepción Cesar Rodríguez",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "José Bernardo Masini Aguilera",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Otoniel Varas de Valdez González",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Adriana Leticia Hernández Castillón",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Carlos Minjarez Alcalá",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Juan Diego Alcaraz Curiel",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Carlos Eduardo Sánchez Carrillo",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Imelda Serratos Madrigal",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Juan Carlos Montes Jhonston",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Clarissa Godínez Castellanos",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "María del Rosario Velázquez Hernández",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "Luis Armando Córdova Diaz",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "Jessica Cisneros Martínez",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "Alfredo Fierros González",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "Marcela Guadalupe Aceves Sánchez",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "José Antonio Jiménez Orozco",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "Alejandra Margarita Rentería Casillas",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "José Tomás Figueroa Padilla",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "Erika Elizabeth Ramírez Pérez",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "Yadira Guadalupe Loza Barragán",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "Francisco Javier Díaz Ochoa",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "J. Jesús Cabrera Jiménez",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Teresa Daniela Ramírez Gamiño",
     "Partido": "MORENA",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Mónica Martínez Velasco",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Irma de Anda Licea",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Jessica Karina Hernández Velasco",
     "Partido": "PES",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "J. Jesús Zúñiga Mendoza",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Aarón Flores Arias",
     "Partido": "PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Dulce Verónica Andalón Gómez",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "José Luis Orozco Sánchez Aldana",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "Ricardo Preciado Cortés",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "Andrés Sánchez Sánchez",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "Oswaldo Ramos López",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "José Guadalupe Homar Ledezma Delgado",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "Ma. Elizabeth Alcaraz Virgen",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Verónica Acosta Cervantes",
     "Partido": "PAN",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Venecia Castañeda Rodríguez",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "José Díaz Castañeda",
     "Partido": "PRD",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Aimèe Esmeralda Castillo Flores",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Daniel Robles de León",
     "Partido": "MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Aurora del Socorro Velasco Camberos",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Arnoldo Licea González",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 1",
     "Nombre": "Lucía Aguilar Carrillo",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 1",
     "Nombre": "José Guadalupe Nuñez Rodríguez",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 1",
     "Nombre": "Dolores Edith Sierra Romero",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 1",
     "Nombre": "Eduardo Ron Ramos",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 1",
     "Nombre": "Mitsuo Jonathan Ixcoatl Hernández Delgado",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 2",
     "Nombre": "Juan Alberto Márquez de Anda",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 2",
     "Nombre": "María de los Ángeles Pérez Alba",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 2",
     "Nombre": "José Pulido Diaz",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 2",
     "Nombre": "Martha Estela Romo Cuéllar",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 2",
     "Nombre": "Luis Fernando Torres Martín",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
     "Nombre": "Guadalupe Romo Romo",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
     "Nombre": "Miguel Hernandez Anaya",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
     "Nombre": "Marcela Ávila Díaz",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
     "Nombre": "Naul Esteban Domínguez Guerra",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
     "Nombre": "Luis Tarcicio Ramírez Gutiérrez",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
     "Nombre": "Salvador Arellano Guzmán",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
     "Nombre": "Kenia Rosaura Morones Meza",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
     "Nombre": "Mariana Rivera González",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
     "Nombre": "Mario Alberto Rodríguez Carrillo",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
     "Nombre": "Alejandra Margarita Giadans Valenzuela",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
     "Nombre": "Cesar Ignacio Abarca Gutiérrez",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
     "Nombre": "Karla Montserrat García García",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
     "Nombre": "Laura Adanely Caro Romero",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
     "Nombre": "Ramón Demetrio Guerrero Martínez",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
     "Nombre": "Lorena del Socorro Jiménez Andrade",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
     "Nombre": "Juan Carlos García",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
     "Nombre": "Edgar Israel Martínez Rubí",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
     "Nombre": "Viridiano Guadalupe González Gutiérrez",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
     "Nombre": "Fabiola Raquel Guadalupe Loya Hernández",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
     "Nombre": "Ruth Amelia Chávez Parra",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
     "Nombre": "Nicolás Maestro Landeros",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
     "Nombre": "Delfino Corona Arana",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
     "Nombre": "Julio Cesar Ibarra Mendoza",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
     "Nombre": "Juan Carlos Villarreal Salazar",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
     "Nombre": "María Elizabeth Flores Vázquez",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
     "Nombre": "Pablo Ricardo Montaño Beckman",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
     "Nombre": "Abril Alcalá Padilla",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
     "Nombre": "Ximena Ruiz Uribe",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
     "Nombre": "Javier Barbosa González",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
     "Nombre": "Alfonso Ponce Varela",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
     "Nombre": "Rocío del Carmen Macías Gómez",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
     "Nombre": "Victoria Anahí Olguin Rojas",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
     "Nombre": "Addair Miranda Mendoza",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
     "Nombre": "Martha Alicia Mendoza Melendrez",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
     "Nombre": "Carmen Julia Prudencio González",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
     "Nombre": "Demetrio Almeda Hernández",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
     "Nombre": "Rodrigo Cerda Cornejo",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
     "Nombre": "Mariana Sophia Marquez Laureano",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
     "Nombre": "José Luis Ortíz Vargas",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
     "Nombre": "Karla Amelia de la Vega Pérez",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
     "Nombre": "Geraldina Isabel Herrera Vega",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
     "Nombre": "Carla Patricia Hernández González",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
     "Nombre": "Norma Elizabeth Chávez Arias",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
     "Nombre": "Erika Gabriela Pérez López",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
     "Nombre": "Elena Berenice Castillo Santillán",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
     "Nombre": "Kehila Abigail Kú Escalante",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
     "Nombre": "Ana Sofía Martínez Sánchez",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
     "Nombre": "Alina Pérez González",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
     "Nombre": "Xóchitl Livier Reynoso Zamora",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
     "Nombre": "Alis Lizette Alanis Cervantes",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
     "Nombre": "Adriana Gabriela Medina Ortiz",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
     "Nombre": "Miriam Josefina Cano Silva",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Alberto Valencia Bañuelos",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Karla Torres Cervantes",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Antonio Román Valdez",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Francisco Javier Rincón Farias",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Lourdes Celenia Contreras González",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Alejandro López Ibarra",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
     "Nombre": "Sergio Javier Otal Lobo",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
     "Nombre": "Sergio Arturo González Iñiguez",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
     "Nombre": "Eligio Barajas Valencia",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
     "Nombre": "Juan Francisco Ramírez Salcido",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
     "Nombre": "Francisco Javier Mosqueda Manzo",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 15",
     "Nombre": "María del Refugio Ruiz Moreno",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 15",
     "Nombre": "Ana Yeli García Aguirre",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 15",
     "Nombre": "Alicia Escoto Sierra",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 15",
     "Nombre": "Absalón García Ochoa",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 15",
     "Nombre": "Francisco Segoviano Trujillo",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
     "Nombre": "Anibal Gómez Marquina",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
     "Nombre": "Cynthia Valdovinos Sánchez",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
     "Nombre": "Gabriela Oyuki Santiago Gutiérrez",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
     "Nombre": "Ofelia Barajas Palomar",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
     "Nombre": "Marisol Acevedo Ortega",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
     "Nombre": "Laura Imelda Pérez Segura",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
     "Nombre": "Sergio Miguel Martin Castellanos",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
     "Nombre": "María Eugenia Atilano Taylor",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
     "Nombre": "Daniel Ramírez Hernández",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
     "Nombre": "Juan Martín Espinoza Cárdenas",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
     "Nombre": "Luis Fernando Pérez Rivera",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 18",
     "Nombre": "Fabricio Israel Corona Vizcarra",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 18",
     "Nombre": "Manuel de Jesús Padilla Plascencia",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 18",
     "Nombre": "José Alejandro Jiménez Montes",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 18",
     "Nombre": "Mónica Almeida López",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 18",
     "Nombre": "Marco Tulio Rosas Romero",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
     "Nombre": "Salvador Barajas del Toro",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
     "Nombre": "Victoria Esparza Sánchez",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
     "Nombre": "Norma Patricia Serratos Sánchez",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
     "Nombre": "Alberto Esquer Gutiérrez",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
     "Nombre": "Clara Cárdenas Galván",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
     "Nombre": "Jorge Arana Arana",
     "Partido": "PRI",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
     "Nombre": "Karla Patricia Fonseca Veliz",
     "Partido": "PVEM",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
     "Nombre": "Luis Fernando Quintero Damián",
     "Partido": "PANAL",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
     "Nombre": "Ana Priscila González García",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
     "Nombre": "Cuahtémoc Peña Cortés",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": ""
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
   }
 ]
