@@ -166,7 +166,7 @@
     "Nombre": "Miguel Zárate Hernández",
     "Partido": "PAN",
     "url": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/MiguelZarateH",
     "facebook": "https://www.facebook.com/MiguelZarateH/",
     "facebook_senadores": ""
   },
@@ -175,7 +175,7 @@
     "Nombre": "Jesús Eduardo Almaguer Ramírez",
     "Partido": "PRI",
     "url": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/ealmaguerr",
     "facebook": "https://www.facebook.com/EduardoAlmaguerr/",
     "facebook_senadores": ""
   },
@@ -202,8 +202,17 @@
     "Nombre": "Ismael del Toro Castro",
     "Partido": "MC",
     "url": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/DelToroIsmael",
     "facebook": "https://www.facebook.com/deltoroismael/",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Guadalajara",
+    "Nombre": "Rodolfo Armando Casanova Valle",
+    "Partido": "PANAL",
+    "url": "",
+    "twitter": "https://twitter.com/casanovagdl2018",
+    "facebook": "",
     "facebook_senadores": ""
   },
   {
@@ -211,7 +220,7 @@
     "Nombre": "Claudia Delgadillo González",
     "Partido": "MORENA, PES, PT",
     "url": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/ClauDelgadillo1",
     "facebook": "https://www.facebook.com/ClaudiaDelgadilloGlz/",
     "facebook_senadores": ""
   },
@@ -220,7 +229,7 @@
     "Nombre": "José Antonio de la Torre Bravo",
     "Partido": "PAN",
     "url": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/joseadelatorre",
     "facebook": "",
     "facebook_senadores": ""
   },
@@ -230,7 +239,7 @@
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/AbelSalgadoP/",
     "facebook_senadores": ""
   },
   {
@@ -239,7 +248,7 @@
     "Partido": "PRD",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/JaimePrietoMeLateMas/",
     "facebook_senadores": ""
   },
   {
@@ -248,7 +257,7 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/acardenaszapopan/",
     "facebook_senadores": ""
   },
   {
@@ -257,7 +266,7 @@
     "Partido": "MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/PabloLemusN/",
     "facebook_senadores": ""
   },
   {
@@ -266,7 +275,7 @@
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/JorgeLealMex/",
     "facebook_senadores": ""
   },
   {
@@ -275,7 +284,7 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/HiramTorresS/",
     "facebook_senadores": ""
   },
   {
@@ -284,7 +293,7 @@
     "Partido": "PAN",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/SALVADORGDEDIOS/",
     "facebook_senadores": ""
   },
   {
@@ -293,16 +302,16 @@
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/tonosancheztlajo/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
-    "Nombre": "Tania Edith Morales Rodríguez",
+    "Nombre": "Thania Edith Morales Rodríguez",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Thania.E.Morales/",
     "facebook_senadores": ""
   },
   {
@@ -311,7 +320,7 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/LuzElenaGomezTlajo/",
     "facebook_senadores": ""
   },
   {
@@ -320,7 +329,7 @@
     "Partido": "MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/SalvadorZamoraZ/",
     "facebook_senadores": ""
   },
   {
@@ -329,7 +338,7 @@
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Armando-Villegas-193633744695394/",
     "facebook_senadores": ""
   },
   {
@@ -338,7 +347,7 @@
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/carlosbustamanteoficial/",
     "facebook_senadores": ""
   },
   {
@@ -347,7 +356,7 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/MiguelALeonC/",
     "facebook_senadores": ""
   },
   {
@@ -434,7 +443,7 @@
   {
     "Candidatura": "Tonalá",
     "Nombre": "Celia Guadalupe Serrano Villagómez",
-    "Partido": "INDEPENDIENTE",
+    "Partido": "PVEM",
     "url": "",
     "twitter": "",
     "facebook": "",
@@ -469,7 +478,7 @@
   },
   {
     "Candidatura": "El Salto",
-    "Nombre": "Joel González Diaz",
+    "Nombre": "Joel González Díaz",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -514,7 +523,7 @@
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
-    "Nombre": "Otilia Diaz Enciso",
+    "Nombre": "Otilia Díaz Enciso",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -838,7 +847,7 @@
   },
   {
     "Candidatura": "Zapotlán el Grande",
-    "Nombre": "Noé Saul Ramos García",
+    "Nombre": "Noé Saúl Ramos García",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -884,7 +893,7 @@
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "J. Jesús Guerrero Zúñiga",
-    "Partido": "MC, PRD (POSIBLE CAMBIO)",
+    "Partido": "MC",
     "url": "",
     "twitter": "",
     "facebook": "",
@@ -1252,7 +1261,7 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
-    "Nombre": "Gustaco Macías Zambrano",
+    "Nombre": "Gustavo Macías Zambrano",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -1450,7 +1459,7 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
-    "Nombre": "Adriana Isabel Rodrìguez Larios",
+    "Nombre": "Adriana Isabel Rodríguez Larios",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1666,7 +1675,7 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
-    "Nombre": "Maria Silvia López Campechano",
+    "Nombre": "María Silvia López Campechano",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -1720,7 +1729,7 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
-    "Nombre": "Luis Angel Morales Hernández",
+    "Nombre": "Luis Ángel Morales Hernández",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1828,7 +1837,7 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
-    "Nombre": "José Felipe Ascensio Sánchez",
+    "Nombre": "José Felipe Ascencio Sánchez",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2296,7 +2305,7 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
-    "Nombre": "Luis Armando Córdova Diaz",
+    "Nombre": "Luis Armando Córdova Díaz",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2539,7 +2548,7 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
-    "Nombre": "Aimèe Esmeralda Castillo Flores",
+    "Nombre": "Aimée Esmeralda Castillo Flores",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2584,7 +2593,7 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 1",
-    "Nombre": "José Guadalupe Nuñez Rodríguez",
+    "Nombre": "José Guadalupe Núñez Rodríguez",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2638,7 +2647,7 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 2",
-    "Nombre": "José Pulido Diaz",
+    "Nombre": "José Pulido Díaz",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2674,7 +2683,7 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
-    "Nombre": "Miguel Hernandez Anaya",
+    "Nombre": "Miguel Hernández Anaya",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2998,7 +3007,7 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
-    "Nombre": "Mariana Sophia Marquez Laureano",
+    "Nombre": "Mariana Sophia Márquez Laureano",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -3007,7 +3016,7 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
-    "Nombre": "José Luis Ortíz Vargas",
+    "Nombre": "José Luis Ortiz Vargas",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -3502,7 +3511,7 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
-    "Nombre": "Cuahtémoc Peña Cortés",
+    "Nombre": "Cuauhtémoc Peña Cortés",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",

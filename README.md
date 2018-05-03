@@ -17,7 +17,7 @@ Repositorio para el sitio web [http://jaliscocomovamos.org/votamos](http://jalis
 
 Te invitamos a usar este código como punto de partida para tu propio proyecto. Usa los siguientes pasos para comenzar.
 
-### 1. Haz un _fork_ de este repositorio para copiarlo a tu cuenta de GitHub
+### 1. Hacer un _fork_ de este repositorio para copiarlo a tu cuenta de GitHub
 
 Haz clic en el botón "Fork" en la esquina superior derecha de esta página para crear una copia de este repositorio en tu cuenta de GitHub.
 

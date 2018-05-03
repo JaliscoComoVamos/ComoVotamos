@@ -7,6 +7,10 @@ function getCandidates() {
             if (data[i].Candidatura === mi_municipio) {
                 var tableguts = "<tr><td><b>" + data[i].Nombre +
                     "</b></td><td class='long'>" + data[i].Partido + "</td><td>";
+                if (data[i].twitter || 0 !== data[i].twitter.length) {
+                    tableguts = tableguts + "<a href='" + data[i].twitter 
+                    + "' target='_blank'><i class='fab fa-twitter'></i></a>&nbsp;&nbsp;"
+                };
                 if (data[i].facebook || 0 !== data[i].facebook.length) {
                     tableguts = tableguts + "<a href='" + data[i].facebook 
                     + "' target='_blank'><i class='fab fa-facebook'></i></a>"
