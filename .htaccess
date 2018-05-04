@@ -14,8 +14,9 @@ ErrorDocument 404 /404
 
     RewriteCond %{REQUEST_FILENAME} -d
     RewriteCond %{REQUEST_FILENAME} -f
+    RewriteRule ^(.*)/$ /$1 
     RewriteRule ^(.*)\.html/$ /$1 [R] 
-    RewriteRule ^(.*)\.html$ /$1 [L,R=302] 
-    RewriteRule ^(.*)/$ /$1 [L,R] [L,QSA,R=302]
+    RewriteRule ^(.*)\.html$ /$1 [R]
+    RewriteRule ^(.*)/$ /$1 [L, R=302]
 
 </IfModule>
