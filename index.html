@@ -15,7 +15,7 @@ map_page: true
 <div class='text-center' style='width: 86%; margin:0 auto;'>Para esta elección se homologaron los distritos federales y locales, por lo que recomendamos que revises cuál te corresponde.<br>(La base de la homologación fueron los distritos federales.) <br>&nbsp;
 </div>
 
-<div id='map' style='width: 86%; height: 450px; margin:0 auto;'></div>
+<div id='map'></div>
 <div class='text-center' id='map-error' 
     style='width: 70%; margin:0 auto; font-size: 20px; display: none; background: #F9D333; color: #000000'>
    <br><b>ERROR: ¡No se puede mostrar el mapa! Parece que tu navegador o tu tarjeta gráfica no es compatible con <a href="https://www.khronos.org/webgl/" style="color: #0000FF">WebGL</a>. Descubre cómo arreglarlo <a href="http://get.webgl.org/" style="color: #0000FF">aquí</a>.</b><br>&nbsp;
@@ -272,7 +272,6 @@ try {
         center: [-103.346497, 20.676242], // starting position
         zoom: 7,
     });
-    map.getCanvas().style.cursor = 'pointer';
 } catch(err) {
         $('#map').hide();
         $('#map-error').show();
