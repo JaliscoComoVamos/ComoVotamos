@@ -2,6 +2,7 @@
   {
     "Candidatura": "Presidente",
     "Nombre": "Ricardo Anaya Cortés",
+    "Nombre_corto": "",
     "Partido": "PAN, MC, PRD",
     "url": "https://ricardoanaya.com.mx/",
     "twitter": "https://twitter.com/RicardoAnayaC",
@@ -11,6 +12,7 @@
   {
     "Candidatura": "Presidente",
     "Nombre": "Andrés Manuel López Obrador",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "https://lopezobrador.org.mx/",
     "twitter": "https://twitter.com/lopezobrador_",
@@ -20,6 +22,7 @@
   {
     "Candidatura": "Presidente",
     "Nombre": "Margarita Zavala Gómez del Campo",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "http://www.margaritazavala.com/",
     "twitter": "https://twitter.com/Mzavalagc",
@@ -29,6 +32,7 @@
   {
     "Candidatura": "Presidente",
     "Nombre": "José Antonio Meade Kuribreña",
+    "Nombre_corto": "",
     "Partido": "PRI, PVEM, PANAL",
     "url": "http://meade18.com/",
     "twitter": "https://twitter.com/JoseAMeadeK",
@@ -38,6 +42,7 @@
   {
     "Candidatura": "Presidente",
     "Nombre": "Jaime Heliodoro Rodríguez Calderón",
+    "Nombre_corto": "\"El Bronco\"",
     "Partido": "INDEPENDIENTE",
     "url": "http://www.jaimerodriguez.mx/",
     "twitter": "https://twitter.com/JaimeRdzNL",
@@ -47,69 +52,77 @@
   {
     "Candidatura": "Gobernador",
     "Nombre": "Miguel Ángel Martínez Espinosa",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "https://twitter.com/MiguelAngelME_",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Miguel.Mtz.Espinosa/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Gobernador",
     "Nombre": "Miguel Castro Reynoso",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "https://twitter.com/micasrey",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/miguelcastroreynoso/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Gobernador",
     "Nombre": "Carlos Manuel Orozco Santillán",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "https://twitter.com/carlosorozcosa",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/CarlosOrozcoSa/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Gobernador",
     "Nombre": "Salvador Cosío Gaona",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "https://twitter.com/salvadorcosio1",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/SalvadorCosio/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Gobernador",
     "Nombre": "Enrique Alfaro Ramírez",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "https://twitter.com/EnriqueAlfaroR",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/EnriqueAlfaroR/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Gobernador",
     "Nombre": "Martha Rosa Araiza Soltero",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "https://twitter.com/MarthaRosa2018",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/MarthaRosa2018/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Gobernador",
     "Nombre": "Carlos Lomelí Bolaños",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "https://twitter.com/DrCarlosLomeli",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/DrCarlosLomeli/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Senador",
     "Nombre": "José Pedro Kumamoto Aguilar y Juana Adelfa Delgado Quintana",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -119,6 +132,7 @@
   {
     "Candidatura": "Senador",
     "Nombre": "José Clemente Castañeda Hoeflich y Verónica Delgadillo García",
+    "Nombre_corto": "",
     "Partido": "MC, PAN, PRD",
     "url": "",
     "twitter": "",
@@ -128,6 +142,7 @@
   {
     "Candidatura": "Senador",
     "Nombre": "Hugo Contreras Rodríguez y Rocío Corona Nakamura",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -137,6 +152,7 @@
   {
     "Candidatura": "Senador",
     "Nombre": "María Antonia Cárdenas Mariscal y Antonio Pérez Garibay",
+    "Nombre_corto": "",
     "Partido": "MORENA",
     "url": "",
     "twitter": "",
@@ -146,6 +162,7 @@
   {
     "Candidatura": "Senador",
     "Nombre": "Arturo Alberto Jheman Zetina y Leonor Ceballos González",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -155,6 +172,7 @@
   {
     "Candidatura": "Senador",
     "Nombre": "Sandra Beatriz González Pérez y Ramón Ernesto Gallardo López",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -164,6 +182,7 @@
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Miguel Zárate Hernández",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "https://twitter.com/MiguelZarateH",
@@ -173,6 +192,7 @@
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Jesús Eduardo Almaguer Ramírez",
+    "Nombre_corto": "Eduardo Almaguer",
     "Partido": "PRI",
     "url": "",
     "twitter": "https://twitter.com/ealmaguerr",
@@ -182,6 +202,7 @@
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Valeria Guadalupe Ávila Gutiérrez",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -191,6 +212,7 @@
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Aurelio Martínez Flores",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -200,6 +222,7 @@
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Ismael del Toro Castro",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "https://twitter.com/DelToroIsmael",
@@ -209,6 +232,7 @@
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Rodolfo Armando Casanova Valle",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "https://twitter.com/casanovagdl2018",
@@ -218,6 +242,7 @@
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Claudia Delgadillo González",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "https://twitter.com/ClauDelgadillo1",
@@ -227,6 +252,7 @@
   {
     "Candidatura": "Zapopan",
     "Nombre": "José Antonio de la Torre Bravo",
+    "Nombre_corto": "Pepe Toño de la Torre",
     "Partido": "PAN",
     "url": "",
     "twitter": "https://twitter.com/joseadelatorre",
@@ -236,6 +262,7 @@
   {
     "Candidatura": "Zapopan",
     "Nombre": "Abel Octavio Salgado Peña",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "https://twitter.com/AbelSalgadoP",
@@ -245,6 +272,7 @@
   {
     "Candidatura": "Zapopan",
     "Nombre": "Jaime Prieto Pérez",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "https://twitter.com/MTROJAIMEPRIETO",
@@ -254,6 +282,7 @@
   {
     "Candidatura": "Zapopan",
     "Nombre": "Mario Alejandro Cárdenas Ochoa",
+    "Nombre_corto": "Alejandro Cárdenas",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -263,6 +292,7 @@
   {
     "Candidatura": "Zapopan",
     "Nombre": "Jesús Pablo Lemus Navarro",
+    "Nombre_corto": "Pablo Lemus",
     "Partido": "MC",
     "url": "",
     "twitter": "https://twitter.com/PabloLemusN",
@@ -272,6 +302,7 @@
   {
     "Candidatura": "Zapopan",
     "Nombre": "Jorge Leal Ramírez",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "https://twitter.com/JorgeLealMex",
@@ -281,6 +312,7 @@
   {
     "Candidatura": "Zapopan",
     "Nombre": "José Hiram Torres Salcedo",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "https://twitter.com/hiramtorres",
@@ -290,6 +322,7 @@
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Salvador Gómez de Dios",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -299,6 +332,7 @@
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Antonio Sánchez Flores",
+    "Nombre_corto": "Toño Sánchez",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -308,6 +342,7 @@
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Thania Edith Morales Rodríguez",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -317,6 +352,7 @@
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Luz Elena Gómez Orozco",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -326,6 +362,7 @@
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Salvador Zamora Zamora",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -335,6 +372,7 @@
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Héctor Armando Villegas Rodríguez",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -344,6 +382,7 @@
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Juan Carlos Bustamante Barragán",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -353,6 +392,7 @@
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Miguel Ángel León Corrales",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -362,78 +402,87 @@
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "Alfredo Barba Mariscal",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/AlfredoBarbaM/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "María Elena Limón García",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/mariaelenalimon/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "Daniela Elizabeth Chávez Estrada",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/DaniChavezE/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "Hugo Emmanuel Mercado López",
+    "Nombre_corto": "Emmanuel Mercado, \"El Potrillo\"",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/elpotrillodetlaquepaque/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "José Bañales Castro",
+    "Nombre_corto": "Pepe Bañales",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/candidatotlaquepaque/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "Gustavo de la Torre Navarro",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/GUSTlaquepaque/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "Alberto Alfaro García",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/AlbertoAlfaroTlaquepaque/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "Alberto Maldonado Chavarín",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/AlbertoMaldonadoTLA/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Tonalá",
     "Nombre": "Edgar Oswaldo Bañales Orozco",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -443,6 +492,7 @@
   {
     "Candidatura": "Tonalá",
     "Nombre": "Celia Guadalupe Serrano Villagómez",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -452,6 +502,7 @@
   {
     "Candidatura": "Tonalá",
     "Nombre": "Juan Manuel Pérez Suárez",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -461,6 +512,7 @@
   {
     "Candidatura": "Tonalá",
     "Nombre": "Juan Antonio González Mora",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -470,6 +522,7 @@
   {
     "Candidatura": "Tonalá",
     "Nombre": "Catarino Orea Velázquez",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -479,6 +532,7 @@
   {
     "Candidatura": "El Salto",
     "Nombre": "Joel González Díaz",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -488,6 +542,7 @@
   {
     "Candidatura": "El Salto",
     "Nombre": "Ricardo Zaid Santillán Cortés",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -497,6 +552,7 @@
   {
     "Candidatura": "El Salto",
     "Nombre": "Norma Alicia Cruz Hernández",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -506,6 +562,7 @@
   {
     "Candidatura": "El Salto",
     "Nombre": "Mario Eduardo Moreno Álvarez",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -515,6 +572,7 @@
   {
     "Candidatura": "El Salto",
     "Nombre": "Gabriel Pérez Pérez",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -524,6 +582,7 @@
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
     "Nombre": "Otilia Díaz Enciso",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -533,6 +592,7 @@
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
     "Nombre": "Eduardo Cervantes Aguilar",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -542,6 +602,7 @@
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
     "Nombre": "Marín Uriel Gomar Santibañez",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -551,6 +612,7 @@
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
     "Nombre": "María Fernanda Lozano Cisneros",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -560,6 +622,7 @@
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
     "Nombre": "José Mateo Ramírez Neri",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -569,6 +632,7 @@
   {
     "Candidatura": "Zapotlanejo",
     "Nombre": "Susana Álvarez Serrato",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -578,6 +642,7 @@
   {
     "Candidatura": "Zapotlanejo",
     "Nombre": "Rubén Ramírez Ramírez",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -587,6 +652,7 @@
   {
     "Candidatura": "Zapotlanejo",
     "Nombre": "María Guadalupe González Rivera",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -596,6 +662,7 @@
   {
     "Candidatura": "Zapotlanejo",
     "Nombre": "Ángel Alberto Mayoral Pérez",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -605,6 +672,7 @@
   {
     "Candidatura": "Zapotlanejo",
     "Nombre": "Héctor Álvarez Contreras",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -614,7 +682,8 @@
   {
     "Candidatura": "Zapotlanejo",
     "Nombre": "Alfredo Camarena Pérez",
-    "Partido": "MORENA, PES,PT",
+    "Nombre_corto": "",
+    "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
     "facebook": "",
@@ -623,6 +692,7 @@
   {
     "Candidatura": "Juanacatlán",
     "Nombre": "Francisco de la Cerda Suárez",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -632,6 +702,7 @@
   {
     "Candidatura": "Juanacatlán",
     "Nombre": "Alexis Mabel Chávez Dueñas",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -641,6 +712,7 @@
   {
     "Candidatura": "Juanacatlán",
     "Nombre": "Francisca Ortiz Hernández",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -650,6 +722,7 @@
   {
     "Candidatura": "Juanacatlán",
     "Nombre": "J. Jesús Cortés Moreno",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -659,6 +732,7 @@
   {
     "Candidatura": "Juanacatlán",
     "Nombre": "Adriana Cortés González",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -668,6 +742,7 @@
   {
     "Candidatura": "Juanacatlán",
     "Nombre": "Rebeca Mariscal Hidalgo",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -677,6 +752,7 @@
   {
     "Candidatura": "Juanacatlán",
     "Nombre": "Flor Cecilia Torres Rocha",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -686,6 +762,7 @@
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "Rigoberto González Gutiérrez",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -695,6 +772,7 @@
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "María Concepción Franco Lucio",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -704,6 +782,7 @@
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "Alejandra González Jiménez",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -713,6 +792,7 @@
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "José Antonio Becerra González",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -722,6 +802,7 @@
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "María Elena de Anda Gutiérrez",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -731,6 +812,7 @@
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "M. Elena Telles Barajas",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -740,6 +822,7 @@
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "María del Carmen Gallegos de la Mora",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -749,6 +832,7 @@
   {
     "Candidatura": "Tepatitlán de Morelos",
     "Nombre": "Paola Adriana González Dávalos",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -758,6 +842,7 @@
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Saúl López Orozco",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -767,6 +852,7 @@
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Luis Roberto González Gutiérrez",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -776,6 +862,7 @@
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Hernán Carmona Muñiz",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -785,6 +872,7 @@
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Enrique Gerardo Gou Boy",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -794,6 +882,7 @@
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Arturo Dávalos Peña",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -803,6 +892,7 @@
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Heriberto Sánchez Ruiz",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -812,6 +902,7 @@
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Francisco José Martínez Gil",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -821,6 +912,7 @@
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Luis Alberto Alcaraz López",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -830,6 +922,7 @@
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "Máximo Martínez Aguirre",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -839,6 +932,7 @@
   {
     "Candidatura": "Puerto Vallarta",
     "Nombre": "María Laurel Carrillo Ventura",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -848,6 +942,7 @@
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "Noé Saúl Ramos García",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -857,6 +952,7 @@
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "Alejandro Elizondo Verduzco",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -866,6 +962,7 @@
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "Cecilia Guadalupe Ramos de la Torre",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -875,6 +972,7 @@
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "Frania Daniela Lara Galindo",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -884,6 +982,7 @@
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "José Romero Mercado",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -893,6 +992,7 @@
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "J. Jesús Guerrero Zúñiga",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -902,6 +1002,7 @@
   {
     "Candidatura": "Zapotlán el Grande",
     "Nombre": "Alejandro Barragán Sánchez",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -911,6 +1012,7 @@
   {
     "Candidatura": "Tequila",
     "Nombre": "Gustavo Castañeda González",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -920,6 +1022,7 @@
   {
     "Candidatura": "Tequila",
     "Nombre": "Martín Ibarra Aguilera",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -929,6 +1032,7 @@
   {
     "Candidatura": "Tequila",
     "Nombre": "José Alfonso Magallanes Rubio",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -938,6 +1042,7 @@
   {
     "Candidatura": "Tequila",
     "Nombre": "José Miguel Marín Sánchez",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -947,6 +1052,7 @@
   {
     "Candidatura": "Tequila",
     "Nombre": "Armando González Castañeda",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -956,6 +1062,7 @@
   {
     "Candidatura": "Tequila",
     "Nombre": "Alan Marcos Mata Covarrubias",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -965,6 +1072,7 @@
   {
     "Candidatura": "Tequila",
     "Nombre": "Ramiro Pérez Martínez",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -974,6 +1082,7 @@
   {
     "Candidatura": "Lagos de Moreno",
     "Nombre": "José Luis González González",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -983,6 +1092,7 @@
   {
     "Candidatura": "Lagos de Moreno",
     "Nombre": "Joel Razura Preciado",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -992,6 +1102,7 @@
   {
     "Candidatura": "Lagos de Moreno",
     "Nombre": "Alejandra Vázquez Ortiz",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -1001,6 +1112,7 @@
   {
     "Candidatura": "Lagos de Moreno",
     "Nombre": "Tecutli José Guadalupe Gómez Villalobos",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -1010,6 +1122,7 @@
   {
     "Candidatura": "Lagos de Moreno",
     "Nombre": "Luis Gerardo Sánchez Sánchez",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -1019,6 +1132,7 @@
   {
     "Candidatura": "Lagos de Moreno",
     "Nombre": "Hugo René Ruiz Esparza Hermosillo",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1028,6 +1142,7 @@
   {
     "Candidatura": "Lagos de Moreno",
     "Nombre": "Dora Alicia Sánchez Barragán",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1037,6 +1152,7 @@
   {
     "Candidatura": "La Barca",
     "Nombre": "José Nicolás Cerda Pacheco",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1046,6 +1162,7 @@
   {
     "Candidatura": "La Barca",
     "Nombre": "Agustín Valle Olmos",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -1055,6 +1172,7 @@
   {
     "Candidatura": "La Barca",
     "Nombre": "Benjamín Villanueva Soto",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -1064,6 +1182,7 @@
   {
     "Candidatura": "La Barca",
     "Nombre": "Enrique Rojas Román",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -1073,6 +1192,7 @@
   {
     "Candidatura": "La Barca",
     "Nombre": "Nicolás Mosqueda Vásquez",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1082,6 +1202,7 @@
   {
     "Candidatura": "La Barca",
     "Nombre": "Luis Eduardo Rodríguez Muñiz",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1091,6 +1212,7 @@
   {
     "Candidatura": "Autlán de Navarro",
     "Nombre": "Luis Alberto Miranda Zúñiga",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -1100,6 +1222,7 @@
   {
     "Candidatura": "Autlán de Navarro",
     "Nombre": "J. Nicolás Ayala del Real",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -1109,6 +1232,7 @@
   {
     "Candidatura": "Autlán de Navarro",
     "Nombre": "Miguel Ángel Iñiguez Brambila",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -1118,6 +1242,7 @@
   {
     "Candidatura": "Autlán de Navarro",
     "Nombre": "Gustavo Salvador Robles Martínez",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1127,6 +1252,7 @@
   {
     "Candidatura": "Autlán de Navarro",
     "Nombre": "Carolina Rincón Naranjo",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1136,6 +1262,7 @@
   {
     "Candidatura": "Autlán de Navarro",
     "Nombre": "Víctor Manuel Pérez Cabrera",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1145,6 +1272,7 @@
   {
     "Candidatura": "Chapala",
     "Nombre": "Juan Diego Castro Morales",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1154,6 +1282,7 @@
   {
     "Candidatura": "Chapala",
     "Nombre": "Esperanza Mejía Carvajal",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -1163,6 +1292,7 @@
   {
     "Candidatura": "Chapala",
     "Nombre": "Alejandro de Jesús Aguirre Curiel",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -1172,6 +1302,7 @@
   {
     "Candidatura": "Chapala",
     "Nombre": "Gerardo Degollado González",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -1181,6 +1312,7 @@
   {
     "Candidatura": "Chapala",
     "Nombre": "Moisés Alejandro Anaya Aguilar",
+    "Nombre_corto": "",
     "Partido": "PRD, MC",
     "url": "",
     "twitter": "",
@@ -1190,6 +1322,7 @@
   {
     "Candidatura": "Chapala",
     "Nombre": "Javier Degollado González",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1199,6 +1332,7 @@
   {
     "Candidatura": "Chapala",
     "Nombre": "María Guadalupe Cárdenas Cárdenas",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1208,6 +1342,7 @@
   {
     "Candidatura": "Unión de Tula",
     "Nombre": "Verónica Rincón Villafaña",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -1217,6 +1352,7 @@
   {
     "Candidatura": "Unión de Tula",
     "Nombre": "Gala del Carmen Lepe Galván",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -1226,6 +1362,7 @@
   {
     "Candidatura": "Unión de Tula",
     "Nombre": "Eduardo Noriega Villegas",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -1235,6 +1372,7 @@
   {
     "Candidatura": "Unión de Tula",
     "Nombre": "César Alonso Tostado González",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1244,6 +1382,7 @@
   {
     "Candidatura": "Unión de Tula",
     "Nombre": "Jessica Dennise Cervantes Mosqueda",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1253,6 +1392,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 1",
     "Nombre": "Rafael Aguirre Carrillo",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -1262,6 +1402,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 1",
     "Nombre": "Gustavo Macías Zambrano",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -1271,6 +1412,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 1",
     "Nombre": "Leoncio Guzmán González",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -1280,6 +1422,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 1",
     "Nombre": "Antonio López Orozco",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1289,6 +1432,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 1",
     "Nombre": "Luis Manuel Velez Orozco",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1298,6 +1442,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "Hugo Zamora de Anda",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -1307,6 +1452,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "Nora Leticia Hernández Esqueda",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -1316,6 +1462,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "José de Jesús Hurtado Torres",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -1325,6 +1472,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "Gustavo Pedroza Romo",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -1334,6 +1482,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "Saúl Martin Gómez",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -1343,6 +1492,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "Luz del Carmen García Gómez",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1352,6 +1502,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "Carlos Alberto Gallardo Hernández",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1361,6 +1512,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Jorge Eduardo González Arana",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -1370,6 +1522,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Rosa Angélica Ascencio González",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1379,6 +1532,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Rosa Margarita López Orozco",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -1388,6 +1542,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "María de los Ángeles Barajas Gaytán",
+    "Nombre_corto": "",
     "Partido": "PT",
     "url": "",
     "twitter": "",
@@ -1397,6 +1552,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Jorge Mercado Limón",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1406,6 +1562,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Mara Nadiezhda Robles Villaseñor",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -1415,6 +1572,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Zulma Julissa Ocegueda Salazar",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -1424,6 +1582,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Julio Manuel Barba Gómez",
+    "Nombre_corto": "",
     "Partido": "MORENA",
     "url": "",
     "twitter": "",
@@ -1433,6 +1592,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Vanessa del Carmen Aguirre Carrillo",
+    "Nombre_corto": "",
     "Partido": "PES",
     "url": "",
     "twitter": "",
@@ -1442,6 +1602,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Edgar Enrique Velázquez González",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -1451,6 +1612,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Laura Valeria Guzmán Vázquez",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1460,6 +1622,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Adriana Isabel Rodríguez Larios",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1469,6 +1632,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Luis Roberto Preciado Zavala",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -1478,6 +1642,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Fernando Sánchez Díaz",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1487,6 +1652,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "José de Jesús Martínez Esparza",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1496,6 +1662,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Gerardo Hernández Amezcua",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1505,6 +1672,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Blanca Olivia Vargas Mendoza",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -1514,6 +1682,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "Luz María Velasco Robles",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -1523,6 +1692,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "María Violeta Becerra Osoria",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1532,6 +1702,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "María Magdalena Urbina Martínez",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -1541,6 +1712,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "José Manuel Galindo Nolasco",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1550,6 +1722,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "Luis Ernesto Munguía González",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -1559,6 +1732,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "Cecilia Bañuelos Rubio",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -1568,6 +1742,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "Susana Gabriela Velasco González",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1577,6 +1752,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "Manuel Palomera Uribe",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1586,6 +1762,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "Bruno Blancas Mercado",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -1595,6 +1772,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Irma Verónica González Orozco",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -1604,6 +1782,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Xavier Marconi Quintero Villanueva",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1613,6 +1792,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Zahida Ivonne Ramírez Salcedo",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -1622,6 +1802,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Sergio Martín Arceo García",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1631,6 +1812,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Mirza Flores Gómez",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -1640,6 +1822,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Olivia Irasema Bonilla López",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -1649,6 +1832,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Alejandra Vargas Ochoa",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1658,6 +1842,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Ana Gabriela González González",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1667,6 +1852,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Karla Azucena Díaz López",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -1676,6 +1862,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "María Silvia López Campechano",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -1685,6 +1872,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "Roberto Amador Cárdenas Blake",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1694,6 +1882,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "María Luisa Hernández Plascencia",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -1703,6 +1892,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "Ismael Arteaga Pajarito",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1712,6 +1902,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "Rosa Alba Ramírez Nachis",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -1721,6 +1912,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "Diana Carolina Zavala Barajas",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -1730,6 +1922,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "Luis Ángel Morales Hernández",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1739,6 +1932,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "María Ester López Chávez",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -1748,15 +1942,17 @@
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Ignacio Mestas Gallardo",
+    "Nombre_corto": "Nacho Mestas",
     "Partido": "PRI",
     "url": "",
-    "twitter": "",
-    "facebook": "",
+    "twitter": "https://twitter.com/NachoMestasGDL",
+    "facebook": "https://www.facebook.com/NachoMestasGDL/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Blanca Estela Gutiérrez Viera",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1766,6 +1962,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Nelly García Vallejo",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -1775,15 +1972,17 @@
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Susana de la Rosa Hernández",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": "",
-    "facebook": "",
+    "twitter": "https://twitter.com/susanadelar",
+    "facebook": "https://www.facebook.com/SusanaDeLaR/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Abigail Orozco Morales",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -1793,33 +1992,37 @@
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Edgar Josué León del Toro",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": "",
-    "facebook": "",
+    "twitter": "https://twitter.com/EdgarLeonGDL",
+    "facebook": "https://www.facebook.com/EdgarLeonGDL/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Hiram Esaú Ramírez Castellón",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/esau_hiram",
     "facebook": "",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Héctor Alejandro Hermosillo González",
+    "Nombre_corto": "Alex Hermosillo",
     "Partido": "PAN, PRD, MC",
     "url": "",
-    "twitter": "",
-    "facebook": "",
+    "twitter": "https://twitter.com/AlexHsillo",
+    "facebook": "https://www.facebook.com/pg/ALEXHSILLO/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "Catalina Aguilera Arizaga",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1829,6 +2032,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "María de Jesús Macías Robles",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1838,6 +2042,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "José Felipe Ascencio Sánchez",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -1847,6 +2052,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "Óscar Nicolás García Lomelí",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -1856,6 +2062,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "Miriam Berenice Rivera Rodríguez",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -1865,6 +2072,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Mariana Fernández Ramírez",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1874,6 +2082,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Madeleine Garza Estrada",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1883,6 +2092,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Jorge Álvarez Vázquez",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -1892,6 +2102,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Susana Ochoa Chavira",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1901,6 +2112,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Aquiles López González",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1910,6 +2122,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "José Manuel Muñoz Castellanos",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -1919,6 +2132,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Guillermo Gustavo Gallego Neri",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1928,6 +2142,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Adelina Brigitte Hernández Siordia",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1937,6 +2152,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Esteban Estrada Ramírez",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -1946,6 +2162,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Arturo Peña Quiñones",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -1955,6 +2172,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "José Saavedra Terán",
+    "Nombre_corto": "Pepe Saavedra",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1964,6 +2182,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Erika Natalia Juárez Miranda",
+    "Nombre_corto": "Natalia Juárez",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -1973,6 +2192,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "José González Jiménez",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1982,6 +2202,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Jonadab Martínez García",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -1991,6 +2212,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Jair Gilberto Valdez López",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2000,6 +2222,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Joel Cortés Serrano",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -2009,6 +2232,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Carlos Alberto Rivas Tejeda",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2018,6 +2242,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Marcos Ramón Gómez Ortega",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -2027,6 +2252,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Waldo Getsemani Ibarra Reyna",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -2036,6 +2262,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "María de Lourdes Anguiano Ramírez",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2045,6 +2272,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "Elizabeth Magañón Mena",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2054,6 +2282,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "Rodrigo Frangie Menéndez",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2063,6 +2292,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "José Chávez García",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -2072,6 +2302,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "Rosalba Chávez Chávez",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2081,6 +2312,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "Gerardo Quirino Velázquez Chávez",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -2090,6 +2322,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Liliana Guadalupe Morones Vargas",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2099,6 +2332,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Karla del Carmen de Anda Carrazco",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2108,6 +2342,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Edgar Alejandro Flores Olea",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2117,6 +2352,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Paola Flores Trujillo",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -2126,6 +2362,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "José Arturo Gleason Espíndola",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -2135,6 +2372,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Benito Manuel Villagómez Rodríguez",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2144,6 +2382,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Christian Alfredo Nava Mena",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -2153,6 +2392,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "Adenawer González Fierros",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -2162,6 +2402,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "María del Carmen Flores Vázquez",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -2171,6 +2412,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "María de los Ángeles Arredondo Torres",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2180,6 +2422,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Gerardo León de la Cruz",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -2189,6 +2432,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Gabriel Hernández Pérez",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2198,6 +2442,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Priscilla Franco Barba",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -2207,6 +2452,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Brenda Concepción Cesar Rodríguez",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2216,6 +2462,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "José Bernardo Masini Aguilera",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -2225,6 +2472,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Otoniel Varas de Valdez González",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -2234,6 +2482,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Adriana Leticia Hernández Castillón",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2243,6 +2492,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "Carlos Minjarez Alcalá",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -2252,6 +2502,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Juan Diego Alcaraz Curiel",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2261,6 +2512,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Carlos Eduardo Sánchez Carrillo",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -2270,6 +2522,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Imelda Serratos Madrigal",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2279,6 +2532,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Juan Carlos Montes Jhonston",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2288,6 +2542,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Clarissa Godínez Castellanos",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2297,6 +2552,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "María del Rosario Velázquez Hernández",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -2306,6 +2562,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "Luis Armando Córdova Díaz",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2315,6 +2572,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "Jessica Cisneros Martínez",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -2324,6 +2582,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "Alfredo Fierros González",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2333,6 +2592,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "Marcela Guadalupe Aceves Sánchez",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -2342,6 +2602,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "José Antonio Jiménez Orozco",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2351,6 +2612,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "Alejandra Margarita Rentería Casillas",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2360,6 +2622,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "José Tomás Figueroa Padilla",
+    "Nombre_corto": "Tomás Figueroa",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2369,6 +2632,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "Erika Elizabeth Ramírez Pérez",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2378,6 +2642,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "Yadira Guadalupe Loza Barragán",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2387,6 +2652,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "Francisco Javier Díaz Ochoa",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2396,6 +2662,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "J. Jesús Cabrera Jiménez",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -2405,6 +2672,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Teresa Daniela Ramírez Gamiño",
+    "Nombre_corto": "",
     "Partido": "MORENA",
     "url": "",
     "twitter": "",
@@ -2414,6 +2682,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Mónica Martínez Velasco",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2423,6 +2692,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Irma de Anda Licea",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -2432,6 +2702,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Jessica Karina Hernández Velasco",
+    "Nombre_corto": "",
     "Partido": "PES",
     "url": "",
     "twitter": "",
@@ -2441,6 +2712,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "J. Jesús Zúñiga Mendoza",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2450,6 +2722,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Aarón Flores Arias",
+    "Nombre_corto": "",
     "Partido": "PT",
     "url": "",
     "twitter": "",
@@ -2459,6 +2732,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Dulce Verónica Andalón Gómez",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2468,6 +2742,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "José Luis Orozco Sánchez Aldana",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2477,6 +2752,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "Ricardo Preciado Cortés",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2486,6 +2762,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "Andrés Sánchez Sánchez",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2495,6 +2772,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "Oswaldo Ramos López",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -2504,6 +2782,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "José Guadalupe Homar Ledezma Delgado",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2513,6 +2792,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
     "Nombre": "Ma. Elizabeth Alcaraz Virgen",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -2522,6 +2802,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Verónica Acosta Cervantes",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -2531,6 +2812,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Venecia Castañeda Rodríguez",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2540,6 +2822,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "José Díaz Castañeda",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -2549,6 +2832,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Aimée Esmeralda Castillo Flores",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2558,6 +2842,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Daniel Robles de León",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -2567,6 +2852,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Aurora del Socorro Velasco Camberos",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2576,6 +2862,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
     "Nombre": "Arnoldo Licea González",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2585,6 +2872,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 1",
     "Nombre": "Lucía Aguilar Carrillo",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2594,6 +2882,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 1",
     "Nombre": "José Guadalupe Núñez Rodríguez",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2603,6 +2892,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 1",
     "Nombre": "Dolores Edith Sierra Romero",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2612,6 +2902,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 1",
     "Nombre": "Eduardo Ron Ramos",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -2621,6 +2912,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 1",
     "Nombre": "Mitsuo Jonathan Ixcoatl Hernández Delgado",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2630,6 +2922,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 2",
     "Nombre": "Juan Alberto Márquez de Anda",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2639,6 +2932,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 2",
     "Nombre": "María de los Ángeles Pérez Alba",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2648,6 +2942,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 2",
     "Nombre": "José Pulido Díaz",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2657,6 +2952,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 2",
     "Nombre": "Martha Estela Romo Cuéllar",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -2666,6 +2962,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 2",
     "Nombre": "Luis Fernando Torres Martín",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2675,6 +2972,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 3",
     "Nombre": "Guadalupe Romo Romo",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -2684,6 +2982,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 3",
     "Nombre": "Miguel Hernández Anaya",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2693,6 +2992,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 3",
     "Nombre": "Marcela Ávila Díaz",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2702,6 +3002,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 3",
     "Nombre": "Naul Esteban Domínguez Guerra",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2711,6 +3012,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 3",
     "Nombre": "Luis Tarcicio Ramírez Gutiérrez",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2720,6 +3022,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 4",
     "Nombre": "Salvador Arellano Guzmán",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2729,6 +3032,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 4",
     "Nombre": "Kenia Rosaura Morones Meza",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2738,6 +3042,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 4",
     "Nombre": "Mariana Rivera González",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2747,6 +3052,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 4",
     "Nombre": "Mario Alberto Rodríguez Carrillo",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -2756,6 +3062,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 4",
     "Nombre": "Alejandra Margarita Giadans Valenzuela",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2765,6 +3072,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 5",
     "Nombre": "Cesar Ignacio Abarca Gutiérrez",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2774,6 +3082,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 5",
     "Nombre": "Karla Montserrat García García",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2783,6 +3092,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 5",
     "Nombre": "Laura Adanely Caro Romero",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2792,6 +3102,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 5",
     "Nombre": "Ramón Demetrio Guerrero Martínez",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -2801,6 +3112,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 5",
     "Nombre": "Lorena del Socorro Jiménez Andrade",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2810,6 +3122,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 6",
     "Nombre": "Juan Carlos García",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2819,6 +3132,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 6",
     "Nombre": "Edgar Israel Martínez Rubí",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2828,6 +3142,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 6",
     "Nombre": "Viridiano Guadalupe González Gutiérrez",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2837,6 +3152,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 6",
     "Nombre": "Fabiola Raquel Guadalupe Loya Hernández",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -2846,6 +3162,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 6",
     "Nombre": "Ruth Amelia Chávez Parra",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2855,6 +3172,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 7",
     "Nombre": "Nicolás Maestro Landeros",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2864,6 +3182,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 7",
     "Nombre": "Delfino Corona Arana",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2873,6 +3192,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 7",
     "Nombre": "Julio Cesar Ibarra Mendoza",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2882,6 +3202,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 7",
     "Nombre": "Juan Carlos Villarreal Salazar",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -2891,6 +3212,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 7",
     "Nombre": "María Elizabeth Flores Vázquez",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2900,6 +3222,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 8",
     "Nombre": "Pablo Ricardo Montaño Beckman",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -2909,6 +3232,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 8",
     "Nombre": "Abril Alcalá Padilla",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -2918,6 +3242,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 8",
     "Nombre": "Ximena Ruiz Uribe",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2927,6 +3252,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 8",
     "Nombre": "Javier Barbosa González",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2936,6 +3262,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 8",
     "Nombre": "Alfonso Ponce Varela",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2945,6 +3272,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 8",
     "Nombre": "Rocío del Carmen Macías Gómez",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2954,6 +3282,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 9",
     "Nombre": "Victoria Anahí Olguin Rojas",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2963,6 +3292,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 9",
     "Nombre": "Addair Miranda Mendoza",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -2972,6 +3302,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 9",
     "Nombre": "Martha Alicia Mendoza Melendrez",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2981,6 +3312,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 9",
     "Nombre": "Carmen Julia Prudencio González",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -2990,6 +3322,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 9",
     "Nombre": "Demetrio Almeda Hernández",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -2999,6 +3332,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 10",
     "Nombre": "Rodrigo Cerda Cornejo",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -3008,6 +3342,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 10",
     "Nombre": "Mariana Sophia Márquez Laureano",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -3017,6 +3352,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 10",
     "Nombre": "José Luis Ortiz Vargas",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -3026,6 +3362,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 10",
     "Nombre": "Karla Amelia de la Vega Pérez",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -3035,6 +3372,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 10",
     "Nombre": "Geraldina Isabel Herrera Vega",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -3044,6 +3382,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 10",
     "Nombre": "Carla Patricia Hernández González",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -3053,6 +3392,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 11",
     "Nombre": "Norma Elizabeth Chávez Arias",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -3062,6 +3402,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 11",
     "Nombre": "Erika Gabriela Pérez López",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -3071,6 +3412,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 11",
     "Nombre": "Elena Berenice Castillo Santillán",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -3080,6 +3422,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 11",
     "Nombre": "Kehila Abigail Kú Escalante",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -3089,6 +3432,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 11",
     "Nombre": "Ana Sofía Martínez Sánchez",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -3098,6 +3442,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 12",
     "Nombre": "Alina Pérez González",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -3107,6 +3452,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 12",
     "Nombre": "Xóchitl Livier Reynoso Zamora",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -3116,6 +3462,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 12",
     "Nombre": "Alis Lizette Alanis Cervantes",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -3125,6 +3472,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 12",
     "Nombre": "Adriana Gabriela Medina Ortiz",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -3134,6 +3482,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 12",
     "Nombre": "Miriam Josefina Cano Silva",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -3143,6 +3492,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Alberto Valencia Bañuelos",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -3152,6 +3502,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Karla Torres Cervantes",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -3161,6 +3512,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Antonio Román Valdez",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -3170,6 +3522,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Francisco Javier Rincón Farias",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -3179,6 +3532,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Lourdes Celenia Contreras González",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -3188,6 +3542,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Alejandro López Ibarra",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -3197,6 +3552,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 14",
     "Nombre": "Sergio Javier Otal Lobo",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -3206,6 +3562,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 14",
     "Nombre": "Sergio Arturo González Iñiguez",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -3215,6 +3572,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 14",
     "Nombre": "Eligio Barajas Valencia",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -3224,6 +3582,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 14",
     "Nombre": "Juan Francisco Ramírez Salcido",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -3233,6 +3592,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 14",
     "Nombre": "Francisco Javier Mosqueda Manzo",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -3242,6 +3602,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 15",
     "Nombre": "María del Refugio Ruiz Moreno",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -3251,6 +3612,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 15",
     "Nombre": "Ana Yeli García Aguirre",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -3260,6 +3622,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 15",
     "Nombre": "Alicia Escoto Sierra",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -3269,6 +3632,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 15",
     "Nombre": "Absalón García Ochoa",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -3278,6 +3642,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 15",
     "Nombre": "Francisco Segoviano Trujillo",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -3287,6 +3652,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 16",
     "Nombre": "Anibal Gómez Marquina",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -3296,6 +3662,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 16",
     "Nombre": "Cynthia Valdovinos Sánchez",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -3305,6 +3672,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 16",
     "Nombre": "Gabriela Oyuki Santiago Gutiérrez",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -3314,6 +3682,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 16",
     "Nombre": "Ofelia Barajas Palomar",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -3323,6 +3692,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 16",
     "Nombre": "Marisol Acevedo Ortega",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -3332,6 +3702,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 16",
     "Nombre": "Laura Imelda Pérez Segura",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -3341,6 +3712,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 17",
     "Nombre": "Sergio Miguel Martin Castellanos",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -3350,6 +3722,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 17",
     "Nombre": "María Eugenia Atilano Taylor",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -3359,6 +3732,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 17",
     "Nombre": "Daniel Ramírez Hernández",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -3368,6 +3742,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 17",
     "Nombre": "Juan Martín Espinoza Cárdenas",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -3377,6 +3752,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 17",
     "Nombre": "Luis Fernando Pérez Rivera",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -3386,6 +3762,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 18",
     "Nombre": "Fabricio Israel Corona Vizcarra",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -3395,6 +3772,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 18",
     "Nombre": "Manuel de Jesús Padilla Plascencia",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -3404,6 +3782,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 18",
     "Nombre": "José Alejandro Jiménez Montes",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -3413,6 +3792,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 18",
     "Nombre": "Mónica Almeida López",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -3422,6 +3802,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 18",
     "Nombre": "Marco Tulio Rosas Romero",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -3431,6 +3812,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 19",
     "Nombre": "Salvador Barajas del Toro",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -3440,6 +3822,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 19",
     "Nombre": "Victoria Esparza Sánchez",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -3449,6 +3832,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 19",
     "Nombre": "Norma Patricia Serratos Sánchez",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -3458,6 +3842,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 19",
     "Nombre": "Alberto Esquer Gutiérrez",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -3467,6 +3852,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 19",
     "Nombre": "Clara Cárdenas Galván",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
@@ -3476,6 +3862,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 20",
     "Nombre": "Jorge Arana Arana",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -3485,6 +3872,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 20",
     "Nombre": "Karla Patricia Fonseca Veliz",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -3494,6 +3882,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 20",
     "Nombre": "Luis Fernando Quintero Damián",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -3503,6 +3892,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 20",
     "Nombre": "Ana Priscila González García",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -3512,6 +3902,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 20",
     "Nombre": "Cuauhtémoc Peña Cortés",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
