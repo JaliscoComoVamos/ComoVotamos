@@ -65,9 +65,17 @@ function getCandidates() {
                 if (data[i].Nombre_corto || 0 !== data[i].Nombre_corto.length) {
                     nombre = nombre + " (" + data[i].Nombre_corto + ")"
                 }
-                items.push(
-                "<tr><td>" + nombre + "</td><td class='long'>" + 
-                data[i].Partido + "</td><td></td></tr>")
+                var tableguts = "<tr><td>" + nombre + "</td><td class='long'>" + 
+                    data[i].Partido + "</td><td>"
+                if (data[i].twitter || 0 !== data[i].twitter.length) {
+                    tableguts = tableguts + "<a href='" + data[i].twitter 
+                    + "' target='_blank'><i class='fab fa-twitter'></i></a>&nbsp;&nbsp;"
+                };
+                if (data[i].facebook || 0 !== data[i].facebook.length) {
+                    tableguts = tableguts + "<a href='" + data[i].facebook 
+                    + "' target='_blank'><i class='fab fa-facebook'></i></a>"
+                };
+                items.push(tableguts + "</td></tr>");
             }
         };
         $('#df-results').find('tbody').append(items);
