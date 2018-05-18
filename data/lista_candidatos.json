@@ -21,16 +21,6 @@
   },
   {
     "Candidatura": "Presidente",
-    "Nombre": "Margarita Zavala Gómez del Campo",
-    "Nombre_corto": "",
-    "Partido": "INDEPENDIENTE",
-    "url": "http://www.margaritazavala.com/",
-    "twitter": "https://twitter.com/Mzavalagc",
-    "facebook": "https://www.facebook.com/MargaritaZavalaMX/",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Presidente",
     "Nombre": "José Antonio Meade Kuribreña",
     "Nombre_corto": "",
     "Partido": "PRI, PVEM, PANAL",
@@ -1642,21 +1632,21 @@
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Edgar Enrique Velázquez González",
-    "Nombre_corto": "",
+    "Nombre_corto": "Enrique Velázquez",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/EVelazquez01",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Laura Valeria Guzmán Vázquez",
-    "Nombre_corto": "",
+    "Nombre_corto": "Valeria Guzmán",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/valeria.guzman.vazquez/",
     "facebook_senadores": ""
   },
   {
@@ -1666,7 +1656,7 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/adrianardzlarios/",
     "facebook_senadores": ""
   },
   {
@@ -1686,17 +1676,17 @@
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/SePuedeTransformarLaCiudad/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "José de Jesús Martínez Esparza",
-    "Nombre_corto": "",
+    "Nombre_corto": "Pepe Martínez",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/PepeMartinezE/",
     "facebook_senadores": ""
   },
   {
@@ -1706,7 +1696,7 @@
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Gerardo-Hernandez-Amezcua-1813503255378736/",
     "facebook_senadores": ""
   },
   {
@@ -1716,7 +1706,7 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/BlancaOliviaVargasMendoza/",
     "facebook_senadores": ""
   },
   {
@@ -1902,21 +1892,21 @@
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "María Silvia López Campechano",
-    "Nombre_corto": "",
+    "Nombre_corto": "Silvia López",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Silvia-L%C3%B3pez-151191985562489/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "Roberto Amador Cárdenas Blake",
-    "Nombre_corto": "",
+    "Nombre_corto": "Roberto Blake",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/RobertoBlake2018/",
     "facebook_senadores": ""
   },
   {
@@ -1936,17 +1926,17 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Ismael-Arteaga-Pajarito-158144598205476/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "Rosa Alba Ramírez Nachis",
-    "Nombre_corto": "",
+    "Nombre_corto": "Rosa Alba Nachis",
     "Partido": "MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/RosaARamirezN/",
     "facebook_senadores": ""
   },
   {
@@ -1956,7 +1946,7 @@
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/DianaZavalabarajas/",
     "facebook_senadores": ""
   },
   {
@@ -1966,7 +1956,7 @@
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/LuisAngelTonala/",
     "facebook_senadores": ""
   },
   {
@@ -2116,7 +2106,7 @@
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/fdzrmzmariana/",
     "facebook_senadores": ""
   },
   {
@@ -2126,7 +2116,7 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/MadeleineGarzaE/",
     "facebook_senadores": ""
   },
   {
@@ -2146,7 +2136,7 @@
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Susanaochoach/",
     "facebook_senadores": ""
   },
   {
@@ -2156,7 +2146,7 @@
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Aquiles-L%C3%B3pez-1852307144813752/",
     "facebook_senadores": ""
   },
   {
@@ -2166,7 +2156,7 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/JoManuelMuca/",
     "facebook_senadores": ""
   },
   {
@@ -2176,17 +2166,17 @@
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/guillermogallegoneri/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Adelina Brigitte Hernández Siordia",
-    "Nombre_corto": "",
+    "Nombre_corto": "Brigitte Hernández",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Brigittehernandezs/",
     "facebook_senadores": ""
   },
   {
@@ -2196,7 +2186,7 @@
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/estebanestradamx/",
     "facebook_senadores": ""
   },
   {
@@ -2302,11 +2292,11 @@
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "María de Lourdes Anguiano Ramírez",
-    "Nombre_corto": "",
+    "Nombre_corto": "Lulu Anguiano",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/LuluAnguianoTlajomulco/",
     "facebook_senadores": ""
   },
   {
@@ -2346,7 +2336,7 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/RosalbaChavezC/",
     "facebook_senadores": ""
   },
   {
@@ -2356,7 +2346,7 @@
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/GerardoQuirino.V/",
     "facebook_senadores": ""
   },
   {
@@ -2846,7 +2836,7 @@
     "Partido": "PAN",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/VeronicaAcostaC/",
     "facebook_senadores": ""
   },
   {
@@ -2856,7 +2846,7 @@
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/VeneciaVanguardia/",
     "facebook_senadores": ""
   },
   {
@@ -2871,12 +2861,12 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
-    "Nombre": "Aimée Esmeralda Castillo Flores",
+    "Nombre": "Aimee Esmeralda Castillo Flores",
     "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/AimeeCastilloF/",
     "facebook_senadores": ""
   },
   {
@@ -2886,7 +2876,7 @@
     "Partido": "MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/DanielRoblesMx/",
     "facebook_senadores": ""
   },
   {
@@ -2896,7 +2886,7 @@
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Aurora-Velasco-Camberos-candidata-Diputada-local-Distrito-20-176118253042370/",
     "facebook_senadores": ""
   },
   {
@@ -2906,7 +2896,7 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Arnoldo-Licea-Gonz%C3%A1lez-1712980459008048/",
     "facebook_senadores": ""
   },
   {
@@ -3292,7 +3282,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 8",
     "Nombre": "Javier Barbosa González",
-    "Nombre_corto": "Javier González, \"El Lobo\"",
+    "Nombre_corto": "Javier González, \"El Lobo \"",
     "Partido": "PVEM",
     "url": "",
     "twitter": "https://twitter.com/Javi3rGonzalez",
@@ -3372,11 +3362,11 @@
   {
     "Candidatura": "Diputado Federal DTTO. 10",
     "Nombre": "Rodrigo Cerda Cornejo",
-    "Nombre_corto": "",
+    "Nombre_corto": "Rodrigo Cornejo",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/RodrigoCornejo/",
     "facebook_senadores": ""
   },
   {
@@ -3386,7 +3376,7 @@
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/MarianaMarquezL/",
     "facebook_senadores": ""
   },
   {
@@ -3396,7 +3386,7 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/JoseLuisPVEM/",
     "facebook_senadores": ""
   },
   {
@@ -3406,7 +3396,7 @@
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/delavegakarla/",
     "facebook_senadores": ""
   },
   {
@@ -3416,7 +3406,7 @@
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/GeraldinaHV/",
     "facebook_senadores": ""
   },
   {
@@ -3426,7 +3416,7 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Carla-Hern%C3%A1ndez-Actriz-146468589153388/",
     "facebook_senadores": ""
   },
   {
@@ -3532,11 +3522,11 @@
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Alberto Valencia Bañuelos",
-    "Nombre_corto": "",
+    "Nombre_corto": "Alberto Vale",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/AlbertoVale13",
     "facebook_senadores": ""
   },
   {
@@ -3546,7 +3536,7 @@
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/karla.torrescervantes/",
     "facebook_senadores": ""
   },
   {
@@ -3556,7 +3546,7 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Antonio-Roman-V-204031360367268/",
     "facebook_senadores": ""
   },
   {
@@ -3572,11 +3562,11 @@
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Lourdes Celenia Contreras González",
-    "Nombre_corto": "",
+    "Nombre_corto": "Celenia Contreras",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/ContrerasCelenia/",
     "facebook_senadores": ""
   },
   {
@@ -3586,7 +3576,7 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/alexlopezD13/",
     "facebook_senadores": ""
   },
   {
