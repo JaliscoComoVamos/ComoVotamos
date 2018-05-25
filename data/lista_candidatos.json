@@ -182,7 +182,7 @@
   {
     "Candidatura": "Guadalajara",
     "Nombre": "Jesús Eduardo Almaguer Ramírez",
-    "Nombre_corto": "Eduardo Almaguer",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "https://twitter.com/ealmaguerr",
@@ -242,7 +242,7 @@
   {
     "Candidatura": "Zapopan",
     "Nombre": "José Antonio de la Torre Bravo",
-    "Nombre_corto": "Pepe Toño de la Torre",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "https://twitter.com/joseadelatorre",
@@ -272,7 +272,7 @@
   {
     "Candidatura": "Zapopan",
     "Nombre": "Mario Alejandro Cárdenas Ochoa",
-    "Nombre_corto": "Alejandro Cárdenas",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -282,7 +282,7 @@
   {
     "Candidatura": "Zapopan",
     "Nombre": "Jesús Pablo Lemus Navarro",
-    "Nombre_corto": "Pablo Lemus",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "https://twitter.com/PabloLemusN",
@@ -302,7 +302,7 @@
   {
     "Candidatura": "Zapopan",
     "Nombre": "José Hiram Torres Salcedo",
-    "Nombre_corto": "Hiram Torres",
+    "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "https://twitter.com/hiramtorres",
@@ -322,7 +322,7 @@
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Antonio Sánchez Flores",
-    "Nombre_corto": "Toño Sánchez",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -362,7 +362,7 @@
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Héctor Armando Villegas Rodríguez",
-    "Nombre_corto": "Armando Villegas",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -372,7 +372,7 @@
   {
     "Candidatura": "Tlajomulco de Zúñiga",
     "Nombre": "Juan Carlos Bustamante Barragán",
-    "Nombre_corto": "Carlos Bustamante",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -432,7 +432,7 @@
   {
     "Candidatura": "Tlaquepaque",
     "Nombre": "José Bañales Castro",
-    "Nombre_corto": "Pepe Bañales",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -472,7 +472,7 @@
   {
     "Candidatura": "Tonalá",
     "Nombre": "Edgar Oswaldo Bañales Orozco",
-    "Nombre_corto": "Oswaldo Bañales",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1556,7 +1556,7 @@
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/RosyAscencioG/",
     "facebook_senadores": ""
   },
   {
@@ -1566,13 +1566,13 @@
     "Partido": "PRD",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/MargaritaLopezD03/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "María de los Ángeles Barajas Gaytán",
-    "Nombre_corto": "Ángeles Barajas",
+    "Nombre_corto": "",
     "Partido": "PT",
     "url": "",
     "twitter": "",
@@ -1586,7 +1586,7 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Dr-Mercado-211754656222144/",
     "facebook_senadores": ""
   },
   {
@@ -1632,7 +1632,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Edgar Enrique Velázquez González",
-    "Nombre_corto": "Enrique Velázquez",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -1642,7 +1642,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Laura Valeria Guzmán Vázquez",
-    "Nombre_corto": "Valeria Guzmán",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1661,12 +1661,12 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
-    "Nombre": "Luis Roberto Preciado Zavala",
+    "Nombre": "César Ivan Mares Rodríguez",
     "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Cesar-Mares-1514076522051089/",
     "facebook_senadores": ""
   },
   {
@@ -1682,7 +1682,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "José de Jesús Martínez Esparza",
-    "Nombre_corto": "Pepe Martínez",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -1832,7 +1832,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Sergio Martín Arceo García",
-    "Nombre_corto": "Martín Arceo",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "https://twitter.com/MartinArceo",
@@ -1862,7 +1862,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Alejandra Vargas Ochoa",
-    "Nombre_corto": "Ale Vargas",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "https://twitter.com/alevargasoc",
@@ -1892,7 +1892,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "María Silvia López Campechano",
-    "Nombre_corto": "Silvia López",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -1902,7 +1902,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "Roberto Amador Cárdenas Blake",
-    "Nombre_corto": "Roberto Blake",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -1932,7 +1932,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
     "Nombre": "Rosa Alba Ramírez Nachis",
-    "Nombre_corto": "Rosa Alba Nachis",
+    "Nombre_corto": "",
     "Partido": "MC",
     "url": "",
     "twitter": "",
@@ -1972,7 +1972,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Ignacio Mestas Gallardo",
-    "Nombre_corto": "Nacho Mestas",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "https://twitter.com/NachoMestasGDL",
@@ -1982,7 +1982,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Blanca Estela Gutiérrez Viera",
-    "Nombre_corto": "Blanca Viera",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
@@ -1991,12 +1991,12 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
-    "Nombre": "Nelly García Vallejo",
+    "Nombre": "Irma Leticia García Ceniceros",
     "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/NAIrmaGarcia/",
     "facebook_senadores": ""
   },
   {
@@ -2042,7 +2042,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
     "Nombre": "Héctor Alejandro Hermosillo González",
-    "Nombre_corto": "Alex Hermosillo",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "https://twitter.com/AlexHsillo",
@@ -2052,7 +2052,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "Catalina Aguilera Arizaga",
-    "Nombre_corto": "Katy Aguilera",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "https://twitter.com/KatyAguileraD9",
@@ -2072,7 +2072,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "José Felipe Ascencio Sánchez",
-    "Nombre_corto": "Felipe Ascencio",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
@@ -2092,7 +2092,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
     "Nombre": "Miriam Berenice Rivera Rodríguez",
-    "Nombre_corto": "Bere Rivera",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -2121,7 +2121,7 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
-    "Nombre": "Jorge Álvarez Vázquez",
+    "Nombre": "Leo Arturo Jiménez Romero",
     "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
@@ -2172,7 +2172,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
     "Nombre": "Adelina Brigitte Hernández Siordia",
-    "Nombre_corto": "Brigitte Hernández",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -2202,7 +2202,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "José Saavedra Terán",
-    "Nombre_corto": "Pepe Saavedra",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2212,7 +2212,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Erika Natalia Juárez Miranda",
-    "Nombre_corto": "Natalia Juárez",
+    "Nombre_corto": "",
     "Partido": "PRD",
     "url": "",
     "twitter": "",
@@ -2261,7 +2261,7 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
-    "Nombre": "Carlos Alberto Rivas Tejeda",
+    "Nombre": "Guadalupe Berenice Díaz Hernández",
     "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
@@ -2292,7 +2292,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
     "Nombre": "María de Lourdes Anguiano Ramírez",
-    "Nombre_corto": "Lulu Anguiano",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2311,12 +2311,12 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
-    "Nombre": "Rodrigo Frangie Menéndez",
+    "Nombre": "Allan Ángel Esparza",
     "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/AllanAngel2018/",
     "facebook_senadores": ""
   },
   {
@@ -2392,7 +2392,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
     "Nombre": "José Arturo Gleason Espíndola",
-    "Nombre_corto": "Arturo Gleason",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -2432,7 +2432,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "María del Carmen Flores Vázquez",
-    "Nombre_corto": "Carmen Flores",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "https://twitter.com/CarmenFV14",
@@ -2442,7 +2442,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "María de los Ángeles Arredondo Torres",
-    "Nombre_corto": "Ángeles Arredondo",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "https://twitter.com/AngelesAPri",
@@ -2492,7 +2492,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
     "Nombre": "José Bernardo Masini Aguilera",
-    "Nombre_corto": "Bernardo Masini",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "https://twitter.com/BernardoMasini",
@@ -2582,7 +2582,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
     "Nombre": "María del Rosario Velázquez Hernández",
-    "Nombre_corto": "Rosario Velázquez",
+    "Nombre_corto": "",
     "Partido": "PAN",
     "url": "",
     "twitter": "",
@@ -2652,7 +2652,7 @@
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
     "Nombre": "José Tomás Figueroa Padilla",
-    "Nombre_corto": "Tomás Figueroa",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
@@ -2781,7 +2781,7 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
-    "Nombre": "Ricardo Preciado Cortés",
+    "Nombre": "Fernando Silva Jiménez",
     "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
@@ -3006,7 +3006,7 @@
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/GuadalupeRomo2018/",
     "facebook_senadores": ""
   },
   {
@@ -3016,27 +3016,27 @@
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/MiguelHernandezAnayaDiputadoFederalDtto3/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
-    "Nombre": "Marcela Ávila Díaz",
+    "Nombre": "Marcela Avila Díaz",
     "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Marcela-Avila-D%C3%ADaz-171246213701679/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
-    "Nombre": "Naul Esteban Domínguez Guerra",
+    "Nombre": "Naúl Esteban Domínguez Guerra",
     "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Na%C3%BAl-Esteban-Dominguez-Guerra-157736718234257/",
     "facebook_senadores": ""
   },
   {
@@ -3046,7 +3046,7 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/ArqTarcicioRamirez/",
     "facebook_senadores": ""
   },
   {
@@ -3056,7 +3056,7 @@
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/ChavaArellanoGuzman/",
     "facebook_senadores": ""
   },
   {
@@ -3066,7 +3066,7 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/KeniaMoronesVerde/",
     "facebook_senadores": ""
   },
   {
@@ -3076,7 +3076,7 @@
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Mariana-Rivera-178763352771102/",
     "facebook_senadores": ""
   },
   {
@@ -3086,7 +3086,7 @@
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/MarioAlbertoRodriguezMC/",
     "facebook_senadores": ""
   },
   {
@@ -3096,7 +3096,7 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/AlejandraGiadansV/",
     "facebook_senadores": ""
   },
   {
@@ -3156,7 +3156,7 @@
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/juancarlosgarcia.com.mx/",
     "facebook_senadores": ""
   },
   {
@@ -3166,7 +3166,7 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/IsraelMartinezDistrito6Federal/",
     "facebook_senadores": ""
   },
   {
@@ -3176,7 +3176,7 @@
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Viri-Gonz%C3%A1lez-1969376926714007/",
     "facebook_senadores": ""
   },
   {
@@ -3186,7 +3186,7 @@
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/FabiolaLoyaMC/",
     "facebook_senadores": ""
   },
   {
@@ -3196,7 +3196,7 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/RuthChavez01/",
     "facebook_senadores": ""
   },
   {
@@ -3206,7 +3206,7 @@
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/NicolasMaestroOficial/",
     "facebook_senadores": ""
   },
   {
@@ -3216,17 +3216,17 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Delfino-El-Chime-Corona-243329022877343/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
-    "Nombre": "Julio Cesar Ibarra Mendoza",
+    "Nombre": "Julio César Ibarra Mendoza",
     "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/JulioCesarIMD7/",
     "facebook_senadores": ""
   },
   {
@@ -3236,7 +3236,7 @@
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/SoyJCVillarreal/",
     "facebook_senadores": ""
   },
   {
@@ -3282,7 +3282,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 8",
     "Nombre": "Javier Barbosa González",
-    "Nombre_corto": "Javier González, \"El Lobo \"",
+    "Nombre_corto": "\"El Lobo\"",
     "Partido": "PVEM",
     "url": "",
     "twitter": "https://twitter.com/Javi3rGonzalez",
@@ -3312,7 +3312,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 9",
     "Nombre": "Victoria Anahí Olguín Rojas",
-    "Nombre_corto": "Anahí Olguín",
+    "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "https://twitter.com/AnahiOlguinR",
@@ -3362,7 +3362,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 10",
     "Nombre": "Rodrigo Cerda Cornejo",
-    "Nombre_corto": "Rodrigo Cornejo",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -3426,7 +3426,7 @@
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/NormaChavezA/",
     "facebook_senadores": ""
   },
   {
@@ -3436,7 +3436,7 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/gabyperezMV/",
     "facebook_senadores": ""
   },
   {
@@ -3456,7 +3456,7 @@
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/KehilaKu/",
     "facebook_senadores": ""
   },
   {
@@ -3466,7 +3466,7 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/ASofiaMar/",
     "facebook_senadores": ""
   },
   {
@@ -3476,7 +3476,7 @@
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/AlinaPerezTlajo/",
     "facebook_senadores": ""
   },
   {
@@ -3486,7 +3486,7 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/diputadaxochitlreynoso/",
     "facebook_senadores": ""
   },
   {
@@ -3496,7 +3496,7 @@
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Alis-Alanis-Distrito-12-306026756597622/",
     "facebook_senadores": ""
   },
   {
@@ -3506,7 +3506,7 @@
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/AdrianaMedinaMX/",
     "facebook_senadores": ""
   },
   {
@@ -3522,7 +3522,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Alberto Valencia Bañuelos",
-    "Nombre_corto": "Alberto Vale",
+    "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
@@ -3562,7 +3562,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Lourdes Celenia Contreras González",
-    "Nombre_corto": "Celenia Contreras",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
@@ -3592,7 +3592,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 14",
     "Nombre": "Sergio Arturo González Iñiguez",
-    "Nombre_corto": "Cheko González",
+    "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
     "twitter": "https://twitter.com/SAGonzalezI",
@@ -3602,7 +3602,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 14",
     "Nombre": "Ramón Alejandro Pérez Madrigal",
-    "Nombre_corto": "Alex Pérez",
+    "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
     "twitter": "https://twitter.com/AllxPerez14",
@@ -3612,7 +3612,7 @@
   {
     "Candidatura": "Diputado Federal DTTO. 14",
     "Nombre": "Juan Francisco Ramírez Salcido",
-    "Nombre_corto": "Francisco Ramírez",
+    "Nombre_corto": "",
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "https://twitter.com/FcoRmzSalcido",
@@ -3681,12 +3681,12 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
-    "Nombre": "Anibal Gómez Marquina",
+    "Nombre": "Aníbal Gómez Marquina",
     "Nombre_corto": "",
     "Partido": "INDEPENDIENTE",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/AnibalGomezMarquina/",
     "facebook_senadores": ""
   },
   {
@@ -3696,7 +3696,7 @@
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Cynthia-Valdovinos-S%C3%A1nchez-156334595024132/",
     "facebook_senadores": ""
   },
   {
@@ -3706,7 +3706,7 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/GabrielaOyukiS/",
     "facebook_senadores": ""
   },
   {
@@ -3716,7 +3716,7 @@
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/OfeliaBarajasNA/",
     "facebook_senadores": ""
   },
   {
@@ -3726,7 +3726,7 @@
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/MarisoAcevedoTlaquepaque/",
     "facebook_senadores": ""
   },
   {
@@ -3736,17 +3736,17 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/lauraImeldaDto16/",
     "facebook_senadores": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
-    "Nombre": "Sergio Miguel Martin Castellanos",
+    "Nombre": "Sergio Miguel Martín Castellanos",
     "Nombre_corto": "",
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Sergio-Mart%C3%ADn-Castellanos-254001988297770/",
     "facebook_senadores": ""
   },
   {
@@ -3756,7 +3756,7 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/montseD17verde/",
     "facebook_senadores": ""
   },
   {
@@ -3766,7 +3766,7 @@
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Daniel-Ram%C3%ADrez-Hern%C3%A1ndez-Dip-17-2033616133573777/",
     "facebook_senadores": ""
   },
   {
@@ -3776,7 +3776,7 @@
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/JuanMartinEspinozaOficial/",
     "facebook_senadores": ""
   },
   {
@@ -3786,7 +3786,7 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/FerDistrito17/",
     "facebook_senadores": ""
   },
   {
@@ -3896,7 +3896,7 @@
     "Partido": "PRI",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/JorgeAranaArana.si/",
     "facebook_senadores": ""
   },
   {
@@ -3906,7 +3906,7 @@
     "Partido": "PVEM",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/KarlaFonsecaV/",
     "facebook_senadores": ""
   },
   {
@@ -3916,7 +3916,7 @@
     "Partido": "PANAL",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/FernandoQuinteroD20/",
     "facebook_senadores": ""
   },
   {
@@ -3926,7 +3926,7 @@
     "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/RPGLEZMC/",
     "facebook_senadores": ""
   },
   {
@@ -3936,7 +3936,7 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/CuahutemocPenaCortes/",
     "facebook_senadores": ""
   }
 ]
