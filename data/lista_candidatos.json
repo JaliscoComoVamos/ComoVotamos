@@ -1331,7 +1331,7 @@
   },
   {
     "Candidatura": "Unión de Tula",
-    "Nombre": "Verónica Rincón Villafaña",
+    "Nombre": "Jessica Serrano Pérez",
     "Nombre_corto": "",
     "Partido": "PANAL",
     "url": "",
@@ -1412,6 +1412,56 @@
   {
     "Candidatura": "La Huerta",
     "Nombre": "Rosalba Gómez Macedo",
+    "Nombre_corto": "",
+    "Partido": "PVEM",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Tecolotlán",
+    "Nombre": "Lizeth Guadalupe Santana Vázquez",
+    "Nombre_corto": "",
+    "Partido": "PAN",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Tecolotlán",
+    "Nombre": "María Angélica Ayala Uribe",
+    "Nombre_corto": "",
+    "Partido": "MORENA, PES, PT",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Tecolotlán",
+    "Nombre": "Omar Salvador Bustos López",
+    "Nombre_corto": "",
+    "Partido": "PRD, MC",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Tecolotlán",
+    "Nombre": "Ricardo Ramírez Ruelas",
+    "Nombre_corto": "",
+    "Partido": "PRI",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Tecolotlán",
+    "Nombre": "Lucía García Castañeda",
     "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
