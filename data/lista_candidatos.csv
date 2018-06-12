@@ -1,5 +1,5 @@
 ﻿Candidatura,Nombre,Nombre_corto,Partido,url,twitter,facebook,facebook_senadores
-Presidente,Ricardo Anaya Cortés,,"PAN, MC, PRD",https://ricardoanaya.com.mx/,https://twitter.com/RicardoAnayaC,https://www.facebook.com/RicardoAnayaC/,
+Presidente,Ricardo Anaya Cortés,,"PAN, PRD, MC",https://ricardoanaya.com.mx/,https://twitter.com/RicardoAnayaC,https://www.facebook.com/RicardoAnayaC/,
 Presidente,Andrés Manuel López Obrador,,"MORENA, PES, PT",https://lopezobrador.org.mx/,https://twitter.com/lopezobrador_,https://www.facebook.com/lopezobrador.org.mx/,
 Presidente,José Antonio Meade Kuribreña,,"PRI, PVEM, PANAL",http://meade18.com/,https://twitter.com/JoseAMeadeK,https://www.facebook.com/JoseAMeadeK/,
 Presidente,Jaime Heliodoro Rodríguez Calderón,"""El Bronco""",INDEPENDIENTE,http://www.jaimerodriguez.mx/,https://twitter.com/JaimeRdzNL,https://www.facebook.com/JaimeRodriguezElBronco/,
@@ -11,7 +11,7 @@ Gobernador,Enrique Alfaro Ramírez,,MC,,https://twitter.com/EnriqueAlfaroR,https
 Gobernador,Martha Rosa Araiza Soltero,,PANAL,,https://twitter.com/MarthaRosa2018,https://www.facebook.com/MarthaRosa2018/,
 Gobernador,Carlos Lomelí Bolaños,,"MORENA, PES, PT",,https://twitter.com/DrCarlosLomeli,https://www.facebook.com/DrCarlosLomeli/,
 Senador,José Pedro Kumamoto Aguilar y Juana Adelfa Delgado Quintana,,INDEPENDIENTE,,,,"Kumamoto, https://www.facebook.com/PedroKumamoto/, Delgado, https://www.facebook.com/JuanitaDelgadoQ/"
-Senador,José Clemente Castañeda Hoeflich y Verónica Delgadillo García,,"MC, PAN, PRD",,,,"Castañeda, https://www.facebook.com/clementech/, Delgadillo, https://www.facebook.com/VeroDelgadilloG/"
+Senador,José Clemente Castañeda Hoeflich y Verónica Delgadillo García,,"PAN, PRD, MC",,,,"Castañeda, https://www.facebook.com/clementech/, Delgadillo, https://www.facebook.com/VeroDelgadilloG/"
 Senador,Hugo Contreras Rodríguez y Rocío Corona Nakamura,,PRI,,,,"Contreras, https://www.facebook.com/hugo.contreraszepeda/, Corona, https://www.facebook.com/RocioCoronaNkm/"
 Senador,María Antonia Cárdenas Mariscal y Antonio Pérez Garibay,,MORENA,,,,"Cárdenas, https://www.facebook.com/dipantonia/, Pérez, https://www.facebook.com/APerezGaribay/"
 Senador,Arturo Alberto Jheman Zetina y Leonor Ceballos González,,PVEM,,,,"Jheman, https://www.facebook.com/Arturo-Jheman-Verde-407519359671430/, Ceballos, https://www.facebook.com/LeonorCeballosG/"
@@ -146,6 +146,12 @@ Tecolotlán,María Angélica Ayala Uribe,,"MORENA, PES, PT",,,,
 Tecolotlán,Omar Salvador Bustos López,,MC,,,,
 Tecolotlán,Ricardo Ramírez Ruelas,,PRI,,,,
 Tecolotlán,Lucía García Castañeda,,PVEM,,,,
+Tala,Carlos Alberto Blanco Núñez,,INDEPENDIENTE,,,,
+Tala,Miguel Lemus García,,PANAL,,,,
+Tala,Enrique Gabriel Buenrostro Ahued,,"PAN, PRD, MC",,,,
+Tala,Ismael Rodríguez Ceballos,,"MORENA, PES, PT",,,,
+Tala,Antonio Porfirio Casillas Díaz,,PRI,,,,
+Tala,Cipriano Aguayo Duran,,PVEM,,,,
 Diputado Local DTTO. 1,Rafael Aguirre Carrillo,,PANAL,,,,
 Diputado Local DTTO. 1,Gustavo Macías Zambrano,,"PAN, PRD, MC",,,,
 Diputado Local DTTO. 1,Leoncio Guzmán González,,"MORENA, PES, PT",,,,
