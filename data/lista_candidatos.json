@@ -520,6 +520,16 @@
     "facebook_senadores": ""
   },
   {
+    "Candidatura": "Tonalá",
+    "Nombre": "María Isabel Nolasco González",
+    "Nombre_corto": "",
+    "Partido": "INDEPENDIENTE",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
     "Candidatura": "El Salto",
     "Nombre": "Joel González Díaz",
     "Nombre_corto": "",
@@ -1469,7 +1479,7 @@
     "facebook": "",
     "facebook_senadores": ""
   },
-    {
+  {
     "Candidatura": "Tala",
     "Nombre": "Carlos Alberto Blanco Núñez",
     "Nombre_corto": "",
@@ -1522,6 +1532,56 @@
   {
     "Candidatura": "Tala",
     "Nombre": "Cipriano Aguayo Duran",
+    "Nombre_corto": "",
+    "Partido": "PVEM",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Tototlán",
+    "Nombre": "Sergio Quezada Mendoza",
+    "Nombre_corto": "",
+    "Partido": "PAN, PRD, MC",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Tototlán",
+    "Nombre": "María Esmeralda Franco López",
+    "Nombre_corto": "",
+    "Partido": "PANAL",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Tototlán",
+    "Nombre": "María Dolores Contreras Aceves",
+    "Nombre_corto": "",
+    "Partido": "MORENA, PES, PT",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Tototlán",
+    "Nombre": "Sonia Ruíz Mendoza",
+    "Nombre_corto": "",
+    "Partido": "PRI",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Tototlán",
+    "Nombre": "Ruth Evelyn Vázquez Villalpando",
     "Nombre_corto": "",
     "Partido": "PVEM",
     "url": "",
