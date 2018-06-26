@@ -70,7 +70,7 @@ map_page: true
                 <div class='text-center' id='alcalde-container-not-found' style='display: none;'><br>
                     <h3 class='text-center' id="alcalde-name-not-found">Presidencia Municipal</h3>
                     <p><b>No encontramos ningún candidato a presidente municipal para esta ubicación.</b> </p><p style="text-align: left" class="small">
-                        Actualmente tenemos la lista completa de candidatos a presidente municipal en Autlán, Chapala, El Grullo, El Salto, Guadalajara, Ixtlahuacán de los Membrillos, La Barca, La Huerta, Lagos de Moreno, Ocotlán, Puerto Vallarta, San Juan de los Lagos, Tala, Tecolotlán, Tepatitlán, Tequila, Tlajomulco, Tlaquepaque, Tonalá, Tototlán, Unión de Tula, Zapopan, Zapotlanejo y Zapotlán el Grande.</p> <p class="small" style="text-align: left">Si deseas que agreguemos información para otro municipio, <a href="/contacto">envíanos una solicitud</a> y haremos todo lo posible para actualizar nuestra base de datos. Igual, si tu dirección pertenece a uno de los municipios mencionados, nos ayudaría si <a href="/contacto">nos avisaras del error</a> para arreglarlo. ¡Gracias!</p> 
+                        Actualmente tenemos la lista completa de candidatos a presidente municipal en Autlán, Chapala, El Grullo, El Salto, Guadalajara, Hostotipaquillo, Ixtlahuacán de los Membrillos, La Barca, La Huerta, Lagos de Moreno, Ocotlán, Puerto Vallarta, San Juan de los Lagos, Tala, Tecolotlán, Tepatitlán, Tequila, Tlajomulco, Tlaquepaque, Tonalá, Tototlán, Unión de Tula, Zapopan, Zapotlanejo y Zapotlán el Grande.</p> <p class="small" style="text-align: left">Si deseas que agreguemos información para otro municipio, <a href="/contacto">envíanos una solicitud</a> y haremos todo lo posible para actualizar nuestra base de datos. Igual, si tu dirección pertenece a uno de los municipios mencionados, nos ayudaría si <a href="/contacto">nos avisaras del error</a> para arreglarlo. ¡Gracias!</p> 
                 </div>
                 <div id='alcalde-container'>
                     <h3 class='text-center' id="alcalde-name">Presidencia Municipal de <span id="mi_municipio_placeholder_3">__</span></h3>
@@ -292,7 +292,8 @@ map.on('load', function() {
             accessToken: mapboxgl.accessToken,
             country: 'mx',
             language: 'es',
-            placeholder: 'Buscar'
+            placeholder: 'Buscar',
+            limit: 6
         });
         map.addControl(geocoder2);
         map.addControl(new mapboxgl.NavigationControl());
