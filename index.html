@@ -202,6 +202,10 @@ map_page: true
     <p><br></p>
 </div>
 <hr>
+<div class='row text-center'>
+    <p><br>Si vives fuera de Jalisco, consulta <a href="http://micongreso.com.mx/" target="_blank">http://micongreso.com.mx/</a>.</p><br>
+</div>
+<hr>
 <div class='row'>
     <div class='col-md-5 col-md-offset-2'>
         <br>
@@ -261,7 +265,17 @@ $(function() {
             scrollTop: scroll_to.offset().top
         }, 1000);
       });
+
+    $('#mi_distrito_placeholder_2').on('DOMSubtreeModified', function(e){
+        e.preventDefault();
+        $('html, body').animate({
+                scrollTop: $("#map").offset().top
+            }, 1000);
+    });
+
 });
+
+
 
 
 // Check that WebGL was able to load, if not, throw error
