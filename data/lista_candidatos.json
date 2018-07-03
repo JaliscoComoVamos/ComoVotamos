@@ -143,7 +143,7 @@
     "Candidatura": "Senador",
     "Nombre": "María Antonia Cárdenas Mariscal y Antonio Pérez Garibay",
     "Nombre_corto": "",
-    "Partido": "MORENA",
+    "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
     "facebook": "",
@@ -2356,7 +2356,7 @@
     "Partido": "MORENA, PES, PT",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/MariaEstherLC/",
     "facebook_senadores": ""
   },
   {
@@ -2933,7 +2933,7 @@
     "Candidatura": "Diputado Local DTTO. 15",
     "Nombre": "Carlos Eduardo Sánchez Carrillo",
     "Nombre_corto": "",
-    "Partido": "PAN",
+    "Partido": "PAN, PRD, MC",
     "url": "",
     "twitter": "",
     "facebook": "",
@@ -3031,7 +3031,7 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
-    "Nombre": "Alejandra Margarita Rentería Casillas",
+    "Nombre": "María Patricia Meza Núñez",
     "Nombre_corto": "",
     "Partido": "MORENA, PES, PT",
     "url": "",
