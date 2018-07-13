@@ -6,8 +6,8 @@ function getCandidates() {
         for (i = 0; i < data.length; i++) {
             if (data[i].Candidatura === mi_municipio) {
                 var nombre = "<b>" + data[i].Nombre + "</b>";
-                if (data[i].Nombre_corto || 0 !== data[i].Nombre_corto.length) {
-                    nombre = nombre + " (" + data[i].Nombre_corto + ")"
+                if (data[i].electo || 0 !== data[i].electo.length) {
+                    nombre = nombre + "&nbsp;&nbsp;<span class='electo'>" + data[i].electo + "</span>"
                 }
                 var tableguts = "<tr><td>" + nombre +
                     "</td><td class='long'>" + data[i].Partido + "</td><td>";
@@ -38,8 +38,8 @@ function getCandidates() {
             var regex = new RegExp( "Diputado Local DTTO. " + mi_distrito + '\\b');
             if (data[i].Candidatura.match(regex)) {
                 var nombre = "<b>" + data[i].Nombre + "</b>";
-                if (data[i].Nombre_corto || 0 !== data[i].Nombre_corto.length) {
-                    nombre = nombre + " (" + data[i].Nombre_corto + ")"
+                if (data[i].electo || 0 !== data[i].electo.length) {
+                    nombre = nombre + "&nbsp;&nbsp;<span class='electo'>" + data[i].electo + "</span>"
                 }
                 var tableguts = "<tr><td>" + nombre + "</td><td class='long'>" + 
                     data[i].Partido + "</td><td>"
@@ -62,11 +62,10 @@ function getCandidates() {
         for (i = 0; i < data.length; i++) {
             if (data[i].Candidatura === "Diputado Federal DTTO. " + mi_distrito) {
                 var nombre = "<b>" + data[i].Nombre + "</b>";
-                if (data[i].Nombre_corto || 0 !== data[i].Nombre_corto.length) {
-                    nombre = nombre + " (" + data[i].Nombre_corto + ")"
+                if (data[i].electo || 0 !== data[i].electo.length) {
+                    nombre = nombre + "&nbsp;&nbsp;<span class='electo'>" + data[i].electo + "</span>"
                 }
-                var tableguts = "<tr><td>" + nombre + "</td><td class='long'>" + 
-                    data[i].Partido + "</td><td>"
+                var tableguts = "<tr><td>" + nombre + "</td><td class='long'>" + data[i].Partido + "</td><td>"
                 if (data[i].twitter || 0 !== data[i].twitter.length) {
                     tableguts = tableguts + "<a href='" + data[i].twitter 
                     + "' target='_blank'><i class='fab fa-twitter'></i></a>&nbsp;&nbsp;"
@@ -85,9 +84,11 @@ function getCandidates() {
         var items = [];
         for (i = 0; i < data.length; i++) {
             if (data[i].Candidatura === "Senador") {
-                var tableguts = "<tr><td><b>" +
-                    data[i].Nombre.split(' y ').join("</b><span style='color: #555'> y </span><b>") +
-                    "</b></td><td class='long'>" + data[i].Partido + "</td><td class='long'>";
+                var tableguts = "<tr><td><b>" + data[i].Nombre.split(' y ').join("</b><span style='color: #555'> y </span><b>") + "</b>";
+                if (data[i].electo || 0 !== data[i].electo.length) {
+                    tableguts = tableguts + "<br><span class='electo'>" + data[i].electo + "</span>"
+                };
+                tableguts = tableguts + "</td><td class='long'>" + data[i].Partido + "</td><td class='long'>";
                 if (data[i].facebook_senadores || 0 !== data[i].facebook_senadores.length) {
                     var info = data[i].facebook_senadores.split(',');
                     tableguts = tableguts + info[0] + ": <a href='" + info[1] + 
@@ -105,8 +106,11 @@ function getCandidates() {
         var items = [];
         for (i = 0; i < data.length; i++) {
             if (data[i].Candidatura === "Gobernador") {
-                var tableguts = "<tr><td><b>" + data[i].Nombre 
-                    + "</b></td><td class='long'>" + data[i].Partido + "</td><td>";
+                var tableguts = "<tr><td><b>" + data[i].Nombre + "</b>";
+                if (data[i].electo || 0 !== data[i].electo.length) {
+                    tableguts = tableguts + "&nbsp;&nbsp;<span class='electo'>" + data[i].electo + "</span>"
+                };
+                tableguts = tableguts + "</td><td class='long'>" + data[i].Partido + "</td><td>";
                 if (data[i].url || 0 !== data[i].url.length)  {
                     tableguts = tableguts + "<a href='" + data[i].url 
                     + "' target='_blank'><i class='fas fa-globe'></i></a>&nbsp;&nbsp;"
@@ -130,8 +134,8 @@ function getCandidates() {
         for (i = 0; i < data.length; i++) {
             if (data[i].Candidatura === "Presidente") {
                 var nombre = "<b>" + data[i].Nombre + "</b>";
-                if (data[i].Nombre_corto || 0 !== data[i].Nombre_corto.length) {
-                    nombre = nombre + " (" + data[i].Nombre_corto + ")"
+                if (data[i].electo || 0 !== data[i].electo.length) {
+                    nombre = nombre + "&nbsp;&nbsp;<span class='electo'>" + data[i].electo + "</span>"
                 }
                 var tableguts = "<tr><td>" + nombre + "</td><td class='long'>" 
                     + data[i].Partido + "</td><td>";

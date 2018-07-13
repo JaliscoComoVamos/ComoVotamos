@@ -1,0 +1,549 @@
+---
+layout: default
+title: Resultados
+results_page: true
+---
+
+<style>
+.background {
+  fill: none;
+  pointer-events: all;
+}
+
+/*.container1 {
+    display:flex;
+}*/
+
+.map-layer {
+  fill: #fff;
+  stroke: #ccc;
+}
+
+.big-text {
+  font-size: 27px;
+  line-height: 1;
+  color: #333;
+}
+.candidate-text {
+  font-size: 20px;
+  color: #333;
+}
+.filler-text {
+  font-size: 20px;
+}
+
+div.tooltip { 
+  position: absolute;     
+  text-align: center; 
+  top: 50%;    
+  width: 120px;          
+  height: 30px;         
+  padding: 2px;       
+  font: 13px;  
+  line-height: 1;  
+  background: #fff; 
+  border: 1px solid #555;   
+  border-radius: 4px;     
+  pointer-events: none;
+  display: flex;
+  justify-content:center;
+  align-content:center;
+  flex-direction:column; 
+  color: #000;
+}
+
+path:hover {
+  cursor: pointer;
+}
+
+/* Create two columns that float next to each other */
+.column {
+    float: left;
+}
+
+.row-new {
+  width: 100%;
+}
+
+/* Clear floats after the columns */
+.row-new:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.left {
+    width: 22%;
+    color: #333;
+    padding: 10px;
+    background-color: #eee;
+}
+.right {
+    width: 78%;
+    padding: 0;
+}
+
+.my-legend .legend-scale ul {
+  margin: 0;
+  margin-bottom: 5px;
+  padding: 0;
+  float: left;
+  list-style: none;
+  }
+.my-legend .legend-scale ul li {
+  font-size: 80%;
+  list-style: none;
+  margin-left: 0;
+  line-height: 1.6;
+  margin-bottom: 2px;
+  }
+.my-legend ul.legend-labels li span {
+  display: block;
+  float: left;
+  height: 16px;
+  width: 25px;
+  margin-right: 5px;
+  margin-left: 0;
+  }
+.left-legend, .right-legend {
+        width: 100%;
+    }
+.bigmapcontainer {
+  border: 1px solid #555;
+  border-radius: 5px; 
+  width: 86%;
+  margin:0 auto;
+}
+#svgmap_municipios, #svgmap_distritos {
+  text-align: center!important;
+  background: #fcfcfc;
+}
+
+@media screen and (max-width: 700px) {
+    .column {
+        width: 100%;
+    }
+    .left-legend, .right-legend {
+        width: 50%;
+    }
+    .bigmapcontainer {
+      width: 98%;
+    }
+    .map-layer {
+      stroke: none;
+    }
+}
+</style>
+
+
+<!-- CONTENT -->
+<br>
+<div class="row text-center">
+  <h2 id='ver'>Ver resultados por municipio según:</h2>
+  <form>
+    <input type="radio" name="tipo" value="mun_partido" id="mun_partido" checked="checked"> Partido &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    <input type="radio" name="tipo" value="mun_genero"> Género &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    <input type="radio" name="tipo" value="mun_participacion"> Participación Ciudadana
+  </form><br>
+</div>
+
+<div class="bigmapcontainer">
+  <div class="row-new container1">
+    <div class="column left my-legend long" id="legend_municipios">
+    </div>
+    <div class="column right"><div id="svgmap_municipios"></div></div>
+  </div>
+  <div class="row-new text-center" id="map_info" style="background-color:#eee;">
+    <span id="placeholder" class="big-text"><br>Haz clic en algún municipio para ver más información.<br></span>
+    <span id="placeholder2" class="filler-text" style="visibility: hidden">_</span>
+    <span id="placeholder3" class="candidate-text" style="visibility: hidden">_</span>
+    <span id="placeholder4" class="filler-text" style="visibility: hidden">_</span>
+  </div>
+</div>
+
+<br><br>
+<div class="row text-center">
+  <h2 id='ver'>Ver resultados por distrito electoral local según:</h2>
+  <form>
+    <input type="radio" name="tipo" value="dist_partido" id="dist_partido" checked="checked"> Partido &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    <input type="radio" name="tipo" value="dist_genero"> Género &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    <input type="radio" name="tipo" value="dist_participacion"> Participación Ciudadana
+  </form><br>
+</div>
+<div class="bigmapcontainer">
+  <div class="row-new container1">
+    <div class="column left my-legend long" id="legend_distritos">
+    </div>
+    <div class="column right"><div id="svgmap_distritos"></div></div>
+  </div>
+  <div class="row-new text-center" id="map_info" style="background-color:#eee;">
+    <span id="d_placeholder" class="big-text"><br>Haz clic en algún distrito para ver más información.<br></span>
+    <span id="d_placeholder2" class="filler-text" style="visibility: hidden">_</span>
+    <span id="d_placeholder3" class="candidate-text" style="visibility: hidden">_</span>
+    <span id="d_placeholder4" class="filler-text" style="visibility: hidden">_</span>
+  </div>
+</div>
+
+<br>
+<div class="row text-center"><br></div>
+<!-- CONTENT END -->
+
+<script>
+
+var partidoDeMun = {}; // Create empty object for holding dataset
+var electoDeMun = {};
+var generoDeMun = {};
+var partidoDeDist = {}; 
+var electoDeDist = {};
+var generoDeDist = {};
+
+d3.csv("/data/electos_municipios_2018.csv", function(data) {
+  data.forEach(function(d) {
+    partidoDeMun[d.Municipio] = d.Partido; // Create property for each ID, give it value from Partido
+    electoDeMun[d.Municipio] = d.Candidato_electo;
+    generoDeMun[d.Municipio] = d.Género;
+  });
+});
+
+d3.csv("/data/electos_distritos_2018.csv", function(data) {
+  data.forEach(function(d) {
+    partidoDeDist[d.Tipo] = d.Partido; // Create property for each ID, give it value from Partido
+    electoDeDist[d.Tipo] = d.Candidato_electo;
+    generoDeDist[d.Tipo] = d.Género;
+  });
+});
+
+var partidos = ["INDEPENDIENTE", "MORENA-PES-PT", "PAN-PRD-MC", "PRI-PVEM-PANAL", "PRI", "PVEM", "PANAL", "MC", "PAN", "PRD", "MORENA", "PES", "PT", "SIN DATOS"];
+var colores = ["#EFAACB", "#731319", "#ce4f28", "#0d7139", "#18a75c", "#aeca60", "#1db6bd", "#fd8224", "#295ba3", "#fec22e", "#b32825", "#662f7d", "#ea202d", "#2A4147"];
+var gen = ["M", "H", "SIN DATOS"];
+var coloresgen = ["#EA4233","#3F626B", "#eee"];
+
+
+var centered, centered2, height, width;
+
+// Define color scales
+var color = d3.scale.ordinal()
+  .domain(partidos)
+  .range(colores);
+var color_gen = d3.scale.ordinal()
+  .domain(gen)
+  .range(coloresgen);
+
+
+// MAP.JS
+var viewportWidth = $(window).width();
+var viewportHeight = $(window).height()/2;
+
+if (viewportWidth < 900){
+      width = viewportWidth;
+    } else {
+      width = viewportWidth * .5;
+    };
+height = width*.8;
+
+//Define map projection 
+var projection = d3.geo.mercator();
+      projection
+      .scale(width*11)
+      .center([-103.7, 20.85])
+      .translate([width/2, height/2]);
+
+//Define path generator
+var path = d3.geo.path().projection(projection);
+
+var svg = d3.select("#svgmap_municipios")
+  .append("svg")
+  .attr("width",width)
+  .attr("height",height);
+svg.append('rect')
+  .attr('class', 'background')
+  .attr('width', width)
+  .attr('height', height)
+  .on('click', clicked);
+
+var map = svg.append('g');
+d3.json("/archivos_mapa/municipios_jalisco.geo.json", function(json) {
+  //draw map
+  map.selectAll("path")
+    .data(json.features)
+    .enter()
+    .append("path")
+    .attr("d", path)
+    .style('fill', fillFn)
+    .on('mouseover', mouseover)
+    .on('mouseout', mouseout)
+    .on('click', clicked)
+    .classed('map-layer', true);
+})
+
+// DISTRITOS
+var svg2 = d3.select("#svgmap_distritos")
+  .append("svg")
+  .attr("width",width)
+  .attr("height",height);
+svg2.append('rect')
+  .attr('class', 'background')
+  .attr('width', width)
+  .attr('height', height)
+  .on('click', clicked_dist);
+
+var map2 = svg2.append('g');
+d3.json("/archivos_mapa/distritos_jalisco.geo.json", function(json) {
+  map2.selectAll("path")
+    .data(json.features)
+    .enter()
+    .append("path")
+    .attr("d", path)
+    .style('fill', fillDistFn)
+    .on('mouseover', mouseover)
+    .on('mouseout', mouseout_dist)
+    .on('click', clicked_dist)
+    .classed('map-layer', true);
+})
+
+d3.select(window).on('resize', resize);
+d3.select(window).on('load', resize);  // not ideal but prevents weird map resizing 
+function resize() {
+    if ($(window).width() < 900){
+      width = parseInt(d3.select('#svgmap_municipios').style('width'));
+    } else {
+      width = $(window).width() * .5;
+    };
+    height = width*.8;
+  
+    projection
+      .scale(width*11)
+      .center([-103.7, 20.85])
+      .translate([width/2, height/2]);
+
+   d3.select("#svgmap_municipios").attr("width",width).attr("height",height);
+   d3.select("#svgmap_municipios svg").attr("width",width).attr("height",height);
+   d3.selectAll("#svgmap_municipios svg path").attr('d', path);
+   d3.select("#svgmap_distritos").attr("width",width).attr("height",height);
+   d3.select("#svgmap_distritos svg").attr("width",width).attr("height",height);
+   d3.selectAll("#svgmap_distritos svg path").attr('d', path);
+}
+
+var tooltip = d3.select("body").append("div") 
+  .attr("class", "tooltip")       
+  .style("opacity", 0);
+
+// Get region name
+function nameFn(d){
+  return d && d.properties ? d.properties.nombre : null;
+}
+
+// Get partido
+function partidoFn(d){
+  return partidoDeMun[nameFn(d)];
+}
+// Get candidate name
+function candidateFn(d){
+  return electoDeMun[nameFn(d)];
+}
+// Get region color
+function fillFn(d){
+  return color(partidoFn(d));
+}
+
+
+// DISTRITOS
+function partidoDistFn(d){
+  return partidoDeDist[nameFn(d)];
+}
+function candidateDistFn(d){
+  return electoDeDist[nameFn(d)];
+}
+function fillDistFn(d){
+  return color(partidoDistFn(d));
+}
+
+
+// GENDER MUNICIPIO
+function generoMunFn(d){
+  return generoDeMun[nameFn(d)];
+}
+function fillMun_gen(d){
+  return color_gen(generoMunFn(d));
+} 
+
+// GENDER DISTRITO
+function generoDistFn(d){
+  return generoDeDist[nameFn(d)];
+}
+function fillDist_gen(d){
+  return color_gen(generoDistFn(d));
+} 
+
+
+function clicked(d) {
+  var x, y, k;
+  // Compute centroid of the selected path
+  if (d && centered !== d) {
+    width2 = $('#svgmap_municipios').width();
+    height2 = $('#svgmap_municipios').height();
+    var centroid = path.centroid(d);
+    x = centroid[0];
+    y = centroid[1];
+    k = 4;
+    centered = d;
+    // Add name
+    textArt(nameFn(d), candidateFn(d), partidoFn(d));
+  } else {
+    x = width2 / 2;
+    y = height2 / 2;
+    k = 1;
+    centered = null;
+    undotextArt();
+  }
+    map.selectAll('path')
+    .style('fill', function(d){return centered && d===centered ? '#727272' : fillFn(d);});
+}
+
+function clicked_dist(d) {
+  var x, y, k;
+  // Compute centroid of the selected path
+  if (d && centered2 !== d) {
+    width3 = $('#svgmap_distritos').width();
+    height3 = $('#svgmap_distritos').height();
+    var centroid2 = path.centroid(d);
+    x = centroid2[0];
+    y = centroid2[1];
+    k = 4;
+    centered2 = d;
+    textArtDist(nameFn(d), candidateDistFn(d), partidoDistFn(d));
+  } else {
+    x = width3 / 2;
+    y = height3 / 2;
+    k = 1;
+    centered2 = null;
+    undotextArtDist();
+  }
+  map2.selectAll('path')
+    .style('fill', function(d){return centered2 && d===centered2 ? '#727272' : fillDistFn(d);});
+}
+
+function mouseover(d){
+  // Highlight hovered region
+  d3.select(this).style('fill', '#dbdbdb');
+  tooltip.transition()    
+    .duration(200)    
+    .style("opacity", .9);    
+    tooltip.html(d.properties.nombre)  
+    .style("left", (d3.event.pageX) + "px")   
+    .style("top", (d3.event.pageY - 28) + "px"); 
+}
+
+function mouseout(d){
+  // Reset region color
+  map.selectAll('path')
+    .style('fill', function(d){return centered && d===centered ? '#727272' : fillFn(d);});
+  tooltip.transition()    
+    .duration(500)    
+    .style("opacity", 0); 
+}
+
+function mouseout_dist(d){
+  map2.selectAll('path')
+    .style('fill', function(d){return centered2 && d===centered2 ? '#727272' : fillDistFn(d);});
+  tooltip.transition()    
+    .duration(500)    
+    .style("opacity", 0); 
+}
+
+function textArt(lugar, candidate, partido){  
+  document.getElementById("placeholder").innerHTML = lugar + "<br />";
+  var p2 = document.getElementById("placeholder2");
+  p2.style.visibility = "visible";
+  p2.innerHTML = "Presidente Municipal electo(a):" + "<br />";
+  var p3 = document.getElementById("placeholder3");
+  p3.style.visibility = "visible";
+  p3.innerHTML = candidate + "<br />";
+  var p4 = document.getElementById("placeholder4");
+  p4.style.visibility = "visible";
+  p4.innerHTML = partido + "<br />";
+  p4.style.color = color(partido);
+};
+function undotextArt(){  
+  document.getElementById("placeholder").innerHTML = "<br />Haz clic en algún municipio para ver más información.<br /><br />";
+  var p2 = document.getElementById("placeholder2");
+  p2.style.visibility = "hidden";
+  p2.innerHTML = "";
+  var p3 = document.getElementById("placeholder3");
+  p3.style.visibility = "hidden";
+  p3.innerHTML = "";
+  var p4 = document.getElementById("placeholder4");
+  p4.style.visibility = "hidden";
+  p4.innerHTML = "";
+};
+
+function textArtDist(lugar, candidate, partido){  
+  document.getElementById("d_placeholder").innerHTML = lugar + "<br />";
+  var p2 = document.getElementById("d_placeholder2");
+  p2.style.visibility = "visible";
+  p2.innerHTML = "Diputado Local electo(a):" + "<br />";
+  var p3 = document.getElementById("d_placeholder3");
+  p3.style.visibility = "visible";
+  p3.innerHTML = candidate + "<br />";
+  var p4 = document.getElementById("d_placeholder4");
+  p4.style.visibility = "visible";
+  p4.innerHTML = partido + "<br />";
+  p4.style.color = color(partido);
+};
+function undotextArtDist(){  
+  document.getElementById("d_placeholder").innerHTML = "<br />Haz clic en algún distrito para ver más información.<br /><br />";
+  var p2 = document.getElementById("d_placeholder2");
+  p2.style.visibility = "hidden";
+  p2.innerHTML = "";
+  var p3 = document.getElementById("d_placeholder3");
+  p3.style.visibility = "hidden";
+  p3.innerHTML = "";
+  var p4 = document.getElementById("d_placeholder4");
+  p4.style.visibility = "hidden";
+  p4.innerHTML = "";
+};
+
+var legend_municipios_partidos = "<div class='legend-scale'><ul class='legend-labels left-legend'><li><span style='background:#EFAACB;'></span>INDEPENDIENTE</li><li><span style='background:#731319;'></span>MORENA-PES-PT</li><li><span style='background:#ce4f28;'></span>PAN-PRD-MC</li><li><span style='background:#0d7139;'></span>PRI-PVEM-PANAL</li><li><span style='background:#18a75c;'></span>PRI</li><li><span style='background:#aeca60;'></span>PVEM</li><li><span style='background:#1db6bd;'></span>PANAL</li></ul><ul class='legend-labels right-legend'><li><span style='background:#fd8224;'></span>MC</li><li><span style='background:#295ba3;'></span>PAN</li><li><span style='background:#fec22e;'></span>PRD</li><li><span style='background:#b32825;'></span>MORENA</li><li><span style='background:#662f7d;'></span>PES</li><li><span style='background:#ea202d;'></span>PT</li><li><span style='background:#2A4147;'></span>SIN DATOS</li></ul></div>";
+var legend_distritos_partidos = "<div class='legend-scale'><ul class='legend-labels left-legend'><li><span style='background:#EFAACB;'></span>INDEPENDIENTE</li><li><span style='background:#18a75c;'></span>PRI</li><li><span style='background:#aeca60;'></span>PVEM</li><li><span style='background:#1db6bd;'></span>PANAL</li><li><span style='background:#fd8224;'></span>MC</li></ul><ul class='legend-labels right-legend'><li><span style='background:#295ba3;'></span>PAN</li><li><span style='background:#fec22e;'></span>PRD</li><li><span style='background:#b32825;'></span>MORENA</li><li><span style='background:#662f7d;'></span>PES</li><li><span style='background:#ea202d;'></span>PT</li><li></ul></div>";
+var legend_genero = "Género de la persona electa:<br><div class='legend-scale'><ul class='legend-labels left-legend' style='padding-top: 5px'><li><span style='background:#EA4233;'></span>Mujer</li></ul><ul class='legend-labels right-legend' style='padding-top: 5px'><li><span style='background:#3F626B;'></span>Hombre</li></ul></div>";
+
+$(document).ready(function () {
+    $('input[type="radio"]').click(function () {
+        if ($(this).attr("value") == "mun_partido") {
+            document.getElementById("legend_municipios").innerHTML = legend_municipios_partidos;
+            map.selectAll("path").style('fill', fillFn);
+        }
+        if ($(this).attr("value") == "mun_genero") {
+            document.getElementById("legend_municipios").innerHTML = legend_genero;
+            map.selectAll("path").style('fill', fillMun_gen);
+        }
+        if ($(this).attr("value") == "mun_participacion") {
+            document.getElementById("legend_municipios").innerHTML = " ";
+        }
+        if ($(this).attr("value") == "dist_partido") {
+            document.getElementById("legend_distritos").innerHTML = legend_distritos_partidos;
+            map2.selectAll("path").style('fill', fillDistFn);
+        }
+        if ($(this).attr("value") == "dist_genero") {
+            document.getElementById("legend_distritos").innerHTML = legend_genero;
+            map2.selectAll("path").style('fill', fillDist_gen);
+        }
+        if ($(this).attr("value") == "dist_participacion") {
+            document.getElementById("legend_distritos").innerHTML = " ";
+        }
+    });
+    $('input[type="radio"]').trigger('click');  // trigger the event
+});
+
+window.onload=function() {
+  document.getElementById("legend_municipios").innerHTML = legend_municipios_partidos;
+  document.getElementById("legend_distritos").innerHTML = legend_distritos_partidos;
+  $("#mun_partido").prop("checked", true);
+  $("#dist_partido").prop("checked", true);
+}
+
+
+</script>
+
+<br><br><br><br>
+
