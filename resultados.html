@@ -141,9 +141,9 @@ path:hover {
 <div class="row text-center">
   <h2 id='ver'>Ver resultados por municipio según:</h2>
   <form>
-    <input type="radio" name="tipo" value="mun_partido" id="mun_partido" checked="checked"> Partido &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-    <input type="radio" name="tipo" value="mun_genero"> Género &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-    <input type="radio" name="tipo" value="mun_participacion"> Participación Ciudadana
+    <input type="radio" name="tipo_mun" value="mun_partido" id="mun_partido" checked="checked"> Partido &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    <input type="radio" name="tipo_mun" value="mun_genero"> Género &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    <input type="radio" name="tipo_mun" value="mun_participacion"> Participación Ciudadana
   </form><br>
 </div>
 
@@ -165,9 +165,9 @@ path:hover {
 <div class="row text-center">
   <h2 id='ver'>Ver resultados por distrito electoral local según:</h2>
   <form>
-    <input type="radio" name="tipo" value="dist_partido" id="dist_partido" checked="checked"> Partido &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-    <input type="radio" name="tipo" value="dist_genero"> Género &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-    <input type="radio" name="tipo" value="dist_participacion"> Participación Ciudadana
+    <input type="radio" name="tipo_dist" value="dist_partido" id="dist_partido" checked="checked"> Partido &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    <input type="radio" name="tipo_dist" value="dist_genero"> Género &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    <input type="radio" name="tipo_dist" value="dist_participacion"> Participación Ciudadana
   </form><br>
 </div>
 <div class="bigmapcontainer">
@@ -236,6 +236,9 @@ var viewportHeight = $(window).height()/2;
 
 if (viewportWidth < 900){
       width = viewportWidth;
+      if (viewportHeight < 920 && viewportWidth < 700){
+        width = width / 2;
+      };
     } else {
       width = viewportWidth * .5;
     };
@@ -306,6 +309,9 @@ d3.select(window).on('load', resize);  // not ideal but prevents weird map resiz
 function resize() {
     if ($(window).width() < 900){
       width = parseInt(d3.select('#svgmap_municipios').style('width'));
+      if ($(window).height() < 460 &&  $(window).width() < 700){
+        width = width / 2;
+      };
     } else {
       width = $(window).width() * .5;
     };
@@ -375,7 +381,6 @@ function fillDist_gen(d){
   return color_gen(generoDistFn(d));
 } 
 
-
 function clicked(d) {
   var x, y, k;
   // Compute centroid of the selected path
@@ -395,14 +400,18 @@ function clicked(d) {
     k = 1;
     centered = null;
     undotextArt();
-  }
+  };
+  if ($("input[type='radio'][name='tipo_mun']:checked").val() == "mun_partido"){
     map.selectAll('path')
     .style('fill', function(d){return centered && d===centered ? '#727272' : fillFn(d);});
+  } else if ($("input[type='radio'][name='tipo_mun']:checked").val() == "mun_genero") {
+    map.selectAll('path')
+    .style('fill', function(d){return centered && d===centered ? '#727272' : fillMun_gen(d);});
+  };
 }
 
 function clicked_dist(d) {
   var x, y, k;
-  // Compute centroid of the selected path
   if (d && centered2 !== d) {
     width3 = $('#svgmap_distritos').width();
     height3 = $('#svgmap_distritos').height();
@@ -418,9 +427,14 @@ function clicked_dist(d) {
     k = 1;
     centered2 = null;
     undotextArtDist();
-  }
-  map2.selectAll('path')
+  };
+  if ($("input[type='radio'][name='tipo_dist']:checked").val() == "dist_partido"){
+    map2.selectAll('path')
     .style('fill', function(d){return centered2 && d===centered2 ? '#727272' : fillDistFn(d);});
+  } else if ($("input[type='radio'][name='tipo_dist']:checked").val() == "dist_genero") {
+    map2.selectAll('path')
+    .style('fill', function(d){return centered2 && d===centered2 ? '#727272' : fillDist_gen(d);});
+  };
 }
 
 function mouseover(d){
@@ -446,6 +460,22 @@ function mouseout(d){
 function mouseout_dist(d){
   map2.selectAll('path')
     .style('fill', function(d){return centered2 && d===centered2 ? '#727272' : fillDistFn(d);});
+  tooltip.transition()    
+    .duration(500)    
+    .style("opacity", 0); 
+}
+
+// Mouseout municipios género
+function mouseout_mun_gen(d){
+  map.selectAll('path')
+    .style('fill', function(d){return centered && d===centered ? '#727272' : fillMun_gen(d);});
+  tooltip.transition()    
+    .duration(500)    
+    .style("opacity", 0); 
+}// Mouseout distritos género
+function mouseout_dist_gen(d){
+  map.selectAll('path')
+    .style('fill', function(d){return centered2 && d===centered2 ? '#727272' : fillDist_gen(d);});
   tooltip.transition()    
     .duration(500)    
     .style("opacity", 0); 
@@ -511,22 +541,22 @@ $(document).ready(function () {
     $('input[type="radio"]').click(function () {
         if ($(this).attr("value") == "mun_partido") {
             document.getElementById("legend_municipios").innerHTML = legend_municipios_partidos;
-            map.selectAll("path").style('fill', fillFn);
+            map.selectAll("path").style('fill', fillFn).on('mouseout', mouseout);
         }
         if ($(this).attr("value") == "mun_genero") {
             document.getElementById("legend_municipios").innerHTML = legend_genero;
-            map.selectAll("path").style('fill', fillMun_gen);
+            map.selectAll("path").style('fill', fillMun_gen).on('mouseout', mouseout_mun_gen);
         }
         if ($(this).attr("value") == "mun_participacion") {
             document.getElementById("legend_municipios").innerHTML = " ";
         }
         if ($(this).attr("value") == "dist_partido") {
             document.getElementById("legend_distritos").innerHTML = legend_distritos_partidos;
-            map2.selectAll("path").style('fill', fillDistFn);
+            map2.selectAll("path").style('fill', fillDistFn).on('mouseout', mouseout_dist);
         }
         if ($(this).attr("value") == "dist_genero") {
             document.getElementById("legend_distritos").innerHTML = legend_genero;
-            map2.selectAll("path").style('fill', fillDist_gen);
+            map2.selectAll("path").style('fill', fillDist_gen).on('mouseout', mouseout_dist_gen);
         }
         if ($(this).attr("value") == "dist_participacion") {
             document.getElementById("legend_distritos").innerHTML = " ";

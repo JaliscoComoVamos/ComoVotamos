@@ -1811,9 +1811,9 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
-    "Nombre": "Rafael Aguirre Carrillo",
-    "Partido": "PANAL",
-    "electo": "",
+    "Nombre": "Gustavo Macías Zambrano",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electo",
     "url": "",
     "twitter": "",
     "facebook": "",
@@ -1821,8 +1821,8 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
-    "Nombre": "Gustavo Macías Zambrano",
-    "Partido": "PAN, PRD, MC",
+    "Nombre": "Rafael Aguirre Carrillo",
+    "Partido": "PANAL",
     "electo": "",
     "url": "",
     "twitter": "",
@@ -1861,6 +1861,16 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
+    "Nombre": "José de Jesús Hurtado Torres",
+    "Partido": "PAN",
+    "electo": "Electo",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "Hugo Zamora de Anda",
     "Partido": "MC",
     "electo": "",
@@ -1873,16 +1883,6 @@
     "Candidatura": "Diputado Local DTTO. 2",
     "Nombre": "Nora Leticia Hernández Esqueda",
     "Partido": "PANAL",
-    "electo": "",
-    "url": "",
-    "twitter": "",
-    "facebook": "",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Local DTTO. 2",
-    "Nombre": "José de Jesús Hurtado Torres",
-    "Partido": "PAN",
     "electo": "",
     "url": "",
     "twitter": "",
@@ -1933,7 +1933,7 @@
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
     "Nombre": "Jorge Eduardo González Arana",
     "Partido": "PAN",
-    "electo": "",
+    "electo": "Electo",
     "url": "",
     "twitter": "",
     "facebook": "https://www.facebook.com/Jorge-Eduardo-Gonz%C3%A1lez-Arana-359076561246226/",
@@ -2023,7 +2023,7 @@
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
     "Nombre": "Edgar Enrique Velázquez González",
     "Partido": "PAN, PRD, MC",
-    "electo": "",
+    "electo": "Electo",
     "url": "",
     "twitter": "",
     "facebook": "https://www.facebook.com/EVelazquez01",
@@ -2101,6 +2101,16 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
+    "Nombre": "Luis Ernesto Munguía González",
+    "Partido": "MC",
+    "electo": "Electo",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "Luz María Velasco Robles",
     "Partido": "PAN",
     "electo": "",
@@ -2133,16 +2143,6 @@
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
     "Nombre": "José Manuel Galindo Nolasco",
     "Partido": "PVEM",
-    "electo": "",
-    "url": "",
-    "twitter": "",
-    "facebook": "",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
-    "Nombre": "Luis Ernesto Munguía González",
-    "Partido": "MC",
     "electo": "",
     "url": "",
     "twitter": "",
@@ -2191,6 +2191,16 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
+    "Nombre": "Mirza Flores Gómez",
+    "Partido": "MC",
+    "electo": "Electa",
+    "url": "",
+    "twitter": "https://twitter.com/MirzaFloresG",
+    "facebook": "https://www.facebook.com/mirzafloresg/",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Irma Verónica González Orozco",
     "Partido": "PAN",
     "electo": "",
@@ -2231,16 +2241,6 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
-    "Nombre": "Mirza Flores Gómez",
-    "Partido": "MC",
-    "electo": "",
-    "url": "",
-    "twitter": "https://twitter.com/MirzaFloresG",
-    "facebook": "https://www.facebook.com/mirzafloresg/",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
     "Nombre": "Olivia Irasema Bonilla López",
     "Partido": "PANAL",
     "electo": "",
@@ -2277,6 +2277,16 @@
     "url": "",
     "twitter": "https://twitter.com/azu_kar",
     "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
+    "Nombre": "María Ester López Chávez",
+    "Partido": "MORENA, PES, PT",
+    "electo": "Electa",
+    "url": "",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/MariaEstherLC/",
     "facebook_senadores": ""
   },
   {
@@ -2350,13 +2360,13 @@
     "facebook_senadores": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
-    "Nombre": "María Ester López Chávez",
-    "Partido": "MORENA, PES, PT",
-    "electo": "",
+    "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
+    "Nombre": "Héctor Alejandro Hermosillo González",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electo",
     "url": "",
-    "twitter": "",
-    "facebook": "https://www.facebook.com/MariaEstherLC/",
+    "twitter": "https://twitter.com/AlexHsillo",
+    "facebook": "https://www.facebook.com/ALEXHSILLO/",
     "facebook_senadores": ""
   },
   {
@@ -2430,13 +2440,13 @@
     "facebook_senadores": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
-    "Nombre": "Héctor Alejandro Hermosillo González",
+    "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
+    "Nombre": "Miriam Berenice Rivera Rodríguez",
     "Partido": "PAN, PRD, MC",
-    "electo": "",
+    "electo": "Electa",
     "url": "",
-    "twitter": "https://twitter.com/AlexHsillo",
-    "facebook": "https://www.facebook.com/ALEXHSILLO/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/BereRiveraGDL/",
     "facebook_senadores": ""
   },
   {
@@ -2480,13 +2490,13 @@
     "facebook_senadores": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
-    "Nombre": "Miriam Berenice Rivera Rodríguez",
+    "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
+    "Nombre": "Esteban Estrada Ramírez",
     "Partido": "PAN, PRD, MC",
-    "electo": "",
+    "electo": "Electo",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/BereRiveraGDL/",
+    "facebook": "https://www.facebook.com/estebanestradamx/",
     "facebook_senadores": ""
   },
   {
@@ -2570,13 +2580,13 @@
     "facebook_senadores": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
-    "Nombre": "Esteban Estrada Ramírez",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
+    "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
+    "Nombre": "Arturo Lémus Herrea",
+    "Partido": "MORENA, PES, PT",
+    "electo": "Electo",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/estebanestradamx/",
+    "facebook": "https://www.facebook.com/Dr.Lemus2018/",
     "facebook_senadores": ""
   },
   {
@@ -2651,16 +2661,6 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
-    "Nombre": "Guadalupe Berenice Díaz Hernández",
-    "Partido": "MORENA, PES, PT",
-    "electo": "",
-    "url": "",
-    "twitter": "",
-    "facebook": "",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
     "Nombre": "Marcos Ramón Gómez Ortega",
     "Partido": "INDEPENDIENTE",
     "electo": "",
@@ -2677,6 +2677,16 @@
     "url": "",
     "twitter": "",
     "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
+    "Nombre": "Gerardo Quirino Velázquez Chávez",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Eecto",
+    "url": "",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/GerardoQuirino.V/",
     "facebook_senadores": ""
   },
   {
@@ -2730,13 +2740,13 @@
     "facebook_senadores": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
-    "Nombre": "Gerardo Quirino Velázquez Chávez",
+    "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
+    "Nombre": "Adenawer González Fierros",
     "Partido": "PAN, PRD, MC",
-    "electo": "",
+    "electo": "Electo",
     "url": "",
-    "twitter": "",
-    "facebook": "https://www.facebook.com/GerardoQuirino.V/",
+    "twitter": "https://twitter.com/Adenawerfierros",
+    "facebook": "",
     "facebook_senadores": ""
   },
   {
@@ -2810,13 +2820,13 @@
     "facebook_senadores": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
-    "Nombre": "Adenawer González Fierros",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
+    "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
+    "Nombre": "Priscilla Franco Barba",
+    "Partido": "MC",
+    "electo": "Electa",
     "url": "",
-    "twitter": "https://twitter.com/Adenawerfierros",
-    "facebook": "",
+    "twitter": "https://twitter.com/PrisFrancoB",
+    "facebook": "https://www.facebook.com/PrisFrancoB/",
     "facebook_senadores": ""
   },
   {
@@ -2857,16 +2867,6 @@
     "url": "",
     "twitter": "https://twitter.com/GabHdez14",
     "facebook": "https://www.facebook.com/GabHdez14/",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
-    "Nombre": "Priscilla Franco Barba",
-    "Partido": "MC",
-    "electo": "",
-    "url": "",
-    "twitter": "https://twitter.com/PrisFrancoB",
-    "facebook": "https://www.facebook.com/PrisFrancoB/",
     "facebook_senadores": ""
   },
   {
@@ -2921,9 +2921,9 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
-    "Nombre": "Juan Diego Alcaraz Curiel",
-    "Partido": "PANAL",
-    "electo": "",
+    "Nombre": "Carlos Eduardo Sánchez Carrillo",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electo",
     "url": "",
     "twitter": "",
     "facebook": "",
@@ -2931,8 +2931,8 @@
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
-    "Nombre": "Carlos Eduardo Sánchez Carrillo",
-    "Partido": "PAN, PRD, MC",
+    "Nombre": "Juan Diego Alcaraz Curiel",
+    "Partido": "PANAL",
     "electo": "",
     "url": "",
     "twitter": "",
@@ -2964,6 +2964,16 @@
     "Nombre": "Clarissa Godínez Castellanos",
     "Partido": "PVEM",
     "electo": "",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
+    "Nombre": "María Patricia Meza Núñez",
+    "Partido": "MORENA, PES, PT",
+    "electo": "Electa",
     "url": "",
     "twitter": "",
     "facebook": "",
@@ -3030,10 +3040,10 @@
     "facebook_senadores": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
-    "Nombre": "María Patricia Meza Núñez",
-    "Partido": "MORENA, PES, PT",
-    "electo": "",
+    "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
+    "Nombre": "J. Jesús Cabrera Jiménez",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electo",
     "url": "",
     "twitter": "",
     "facebook": "",
@@ -3080,10 +3090,10 @@
     "facebook_senadores": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
-    "Nombre": "J. Jesús Cabrera Jiménez",
+    "Candidatura": "Diputado Local DTTO. 18",
+    "Nombre": "Irma de Anda Licea",
     "Partido": "PAN, PRD, MC",
-    "electo": "",
+    "electo": "Electa",
     "url": "",
     "twitter": "",
     "facebook": "",
@@ -3103,16 +3113,6 @@
     "Candidatura": "Diputado Local DTTO. 18",
     "Nombre": "Mónica Martínez Velasco",
     "Partido": "PANAL",
-    "electo": "",
-    "url": "",
-    "twitter": "",
-    "facebook": "",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Local DTTO. 18",
-    "Nombre": "Irma de Anda Licea",
-    "Partido": "PAN, PRD, MC",
     "electo": "",
     "url": "",
     "twitter": "",
@@ -3154,6 +3154,16 @@
     "Nombre": "Dulce Verónica Andalón Gómez",
     "Partido": "PVEM",
     "electo": "",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
+    "Nombre": "Ma. Elizabeth Alcaraz Virgen",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electa",
     "url": "",
     "twitter": "",
     "facebook": "",
@@ -3210,13 +3220,13 @@
     "facebook_senadores": ""
   },
   {
-    "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
-    "Nombre": "Ma. Elizabeth Alcaraz Virgen",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
+    "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
+    "Nombre": "Daniel Robles de León",
+    "Partido": "MC",
+    "electo": "Electo",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/DanielRoblesMx/",
     "facebook_senadores": ""
   },
   {
@@ -3257,16 +3267,6 @@
     "url": "",
     "twitter": "",
     "facebook": "https://www.facebook.com/AimeeCastilloF/",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
-    "Nombre": "Daniel Robles de León",
-    "Partido": "MC",
-    "electo": "",
-    "url": "",
-    "twitter": "",
-    "facebook": "https://www.facebook.com/DanielRoblesMx/",
     "facebook_senadores": ""
   },
   {
