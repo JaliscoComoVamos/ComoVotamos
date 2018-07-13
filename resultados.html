@@ -382,60 +382,39 @@ function fillDist_gen(d){
 } 
 
 function clicked(d) {
-  var x, y, k;
-  // Compute centroid of the selected path
   if (d && centered !== d) {
-    width2 = $('#svgmap_municipios').width();
-    height2 = $('#svgmap_municipios').height();
-    var centroid = path.centroid(d);
-    x = centroid[0];
-    y = centroid[1];
-    k = 4;
     centered = d;
     // Add name
     textArt(nameFn(d), candidateFn(d), partidoFn(d));
   } else {
-    x = width2 / 2;
-    y = height2 / 2;
-    k = 1;
     centered = null;
     undotextArt();
   };
-  if ($("input[type='radio'][name='tipo_mun']:checked").val() == "mun_partido"){
+  if ($("input[type='radio'][name='tipo_mun']:checked").val()==="mun_partido"){
     map.selectAll('path')
     .style('fill', function(d){return centered && d===centered ? '#727272' : fillFn(d);});
-  } else if ($("input[type='radio'][name='tipo_mun']:checked").val() == "mun_genero") {
+  } else if ($("input[type='radio'][name='tipo_mun']:checked").val()==="mun_genero") {
     map.selectAll('path')
     .style('fill', function(d){return centered && d===centered ? '#727272' : fillMun_gen(d);});
   };
-}
+};
 
 function clicked_dist(d) {
-  var x, y, k;
   if (d && centered2 !== d) {
-    width3 = $('#svgmap_distritos').width();
-    height3 = $('#svgmap_distritos').height();
-    var centroid2 = path.centroid(d);
-    x = centroid2[0];
-    y = centroid2[1];
-    k = 4;
     centered2 = d;
     textArtDist(nameFn(d), candidateDistFn(d), partidoDistFn(d));
   } else {
-    x = width3 / 2;
-    y = height3 / 2;
-    k = 1;
     centered2 = null;
     undotextArtDist();
   };
-  if ($("input[type='radio'][name='tipo_dist']:checked").val() == "dist_partido"){
+  if ($("input[type='radio'][name='tipo_dist']:checked").val()==="dist_partido"){
     map2.selectAll('path')
     .style('fill', function(d){return centered2 && d===centered2 ? '#727272' : fillDistFn(d);});
-  } else if ($("input[type='radio'][name='tipo_dist']:checked").val() == "dist_genero") {
+  } else if ($("input[type='radio'][name='tipo_dist']:checked").val()==="dist_genero") {
     map2.selectAll('path')
     .style('fill', function(d){return centered2 && d===centered2 ? '#727272' : fillDist_gen(d);});
   };
-}
+};
 
 function mouseover(d){
   // Highlight hovered region
@@ -446,7 +425,7 @@ function mouseover(d){
     tooltip.html(d.properties.nombre)  
     .style("left", (d3.event.pageX) + "px")   
     .style("top", (d3.event.pageY - 28) + "px"); 
-}
+};
 
 function mouseout(d){
   // Reset region color
@@ -455,7 +434,7 @@ function mouseout(d){
   tooltip.transition()    
     .duration(500)    
     .style("opacity", 0); 
-}
+};
 
 function mouseout_dist(d){
   map2.selectAll('path')
@@ -463,7 +442,7 @@ function mouseout_dist(d){
   tooltip.transition()    
     .duration(500)    
     .style("opacity", 0); 
-}
+};
 
 // Mouseout municipios género
 function mouseout_mun_gen(d){
@@ -472,14 +451,15 @@ function mouseout_mun_gen(d){
   tooltip.transition()    
     .duration(500)    
     .style("opacity", 0); 
-}// Mouseout distritos género
+};
+// Mouseout distritos género
 function mouseout_dist_gen(d){
-  map.selectAll('path')
+  map2.selectAll('path')
     .style('fill', function(d){return centered2 && d===centered2 ? '#727272' : fillDist_gen(d);});
   tooltip.transition()    
     .duration(500)    
     .style("opacity", 0); 
-}
+};
 
 function textArt(lugar, candidate, partido){  
   document.getElementById("placeholder").innerHTML = lugar + "<br />";
