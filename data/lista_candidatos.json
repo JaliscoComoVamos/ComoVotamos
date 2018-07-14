@@ -3291,6 +3291,16 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 1",
+    "Nombre": "Eduardo Ron Ramos",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electo",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 1",
     "Nombre": "Lucía Aguilar Carrillo",
     "Partido": "PRI",
     "electo": "",
@@ -3321,8 +3331,8 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 1",
-    "Nombre": "Eduardo Ron Ramos",
-    "Partido": "PAN, PRD, MC",
+    "Nombre": "Mitsuo Jonathan Ixcoatl Hernández Delgado",
+    "Partido": "MORENA, PES, PT",
     "electo": "",
     "url": "",
     "twitter": "",
@@ -3330,10 +3340,10 @@
     "facebook_senadores": ""
   },
   {
-    "Candidatura": "Diputado Federal DTTO. 1",
-    "Nombre": "Mitsuo Jonathan Ixcoatl Hernández Delgado",
-    "Partido": "MORENA, PES, PT",
-    "electo": "",
+    "Candidatura": "Diputado Federal DTTO. 2",
+    "Nombre": "Martha Estela Romo Cuéllar",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electa",
     "url": "",
     "twitter": "",
     "facebook": "",
@@ -3371,16 +3381,6 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 2",
-    "Nombre": "Martha Estela Romo Cuéllar",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
-    "url": "",
-    "twitter": "",
-    "facebook": "",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 2",
     "Nombre": "Luis Fernando Torres Martín",
     "Partido": "MORENA, PES, PT",
     "electo": "",
@@ -3393,7 +3393,7 @@
     "Candidatura": "Diputado Federal DTTO. 3",
     "Nombre": "Guadalupe Romo Romo",
     "Partido": "PAN, PRD, MC",
-    "electo": "",
+    "electo": "Electa",
     "url": "",
     "twitter": "",
     "facebook": "https://www.facebook.com/GuadalupeRomo2018/",
@@ -3441,6 +3441,16 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
+    "Nombre": "Mario Alberto Rodríguez Carrillo",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electo",
+    "url": "",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/MarioAlbertoRodriguezMC/",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 4",
     "Nombre": "Salvador Arellano Guzmán",
     "Partido": "PRI",
     "electo": "",
@@ -3471,22 +3481,22 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
-    "Nombre": "Mario Alberto Rodríguez Carrillo",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
-    "url": "",
-    "twitter": "",
-    "facebook": "https://www.facebook.com/MarioAlbertoRodriguezMC/",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 4",
     "Nombre": "Alejandra Margarita Giadans Valenzuela",
     "Partido": "MORENA, PES, PT",
     "electo": "",
     "url": "",
     "twitter": "",
     "facebook": "https://www.facebook.com/AlejandraGiadansV/",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 5",
+    "Nombre": "Lorena del Socorro Jiménez Andrade",
+    "Partido": "MORENA, PES, PT",
+    "electo": "Electa",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
     "facebook_senadores": ""
   },
   {
@@ -3530,13 +3540,13 @@
     "facebook_senadores": ""
   },
   {
-    "Candidatura": "Diputado Federal DTTO. 5",
-    "Nombre": "Lorena del Socorro Jiménez Andrade",
-    "Partido": "MORENA, PES, PT",
-    "electo": "",
+    "Candidatura": "Diputado Federal DTTO. 6",
+    "Nombre": "Fabiola Raquel Guadalupe Loya Hernández",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electa",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/FabiolaLoyaMC/",
     "facebook_senadores": ""
   },
   {
@@ -3571,22 +3581,22 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
-    "Nombre": "Fabiola Raquel Guadalupe Loya Hernández",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
-    "url": "",
-    "twitter": "",
-    "facebook": "https://www.facebook.com/FabiolaLoyaMC/",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 6",
     "Nombre": "Ruth Amelia Chávez Parra",
     "Partido": "MORENA, PES, PT",
     "electo": "",
     "url": "",
     "twitter": "",
     "facebook": "https://www.facebook.com/RuthChavez01/",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 7",
+    "Nombre": "Juan Carlos Villarreal Salazar",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electo",
+    "url": "",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/SoyJCVillarreal/",
     "facebook_senadores": ""
   },
   {
@@ -3621,16 +3631,6 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
-    "Nombre": "Juan Carlos Villarreal Salazar",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
-    "url": "",
-    "twitter": "",
-    "facebook": "https://www.facebook.com/SoyJCVillarreal/",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 7",
     "Nombre": "María Elizabeth Flores Vázquez",
     "Partido": "MORENA, PES, PT",
     "electo": "",
@@ -3641,22 +3641,22 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
+    "Nombre": "Abril Alcalá Padilla",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electa",
+    "url": "",
+    "twitter": "https://twitter.com/Abril_AlcalaP",
+    "facebook": "https://www.facebook.com/AbrilAlcala",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 8",
     "Nombre": "Pablo Ricardo Montaño Beckman",
     "Partido": "INDEPENDIENTE",
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/PabloMontanoB",
     "facebook": "https://www.facebook.com/PabloMontanoB/",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 8",
-    "Nombre": "Abril Alcalá Padilla",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
-    "url": "",
-    "twitter": "https://twitter.com/Abril_AlcalaP",
-    "facebook": "https://www.facebook.com/AbrilAlcala",
     "facebook_senadores": ""
   },
   {
@@ -3701,6 +3701,16 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
+    "Nombre": "Carmen Julia Prudencio González",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electa",
+    "url": "",
+    "twitter": "https://twitter.com/carmenjuliagdl",
+    "facebook": "https://www.facebook.com/carmenjuliagdl",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 9",
     "Nombre": "Victoria Anahí Olguín Rojas",
     "Partido": "PRI",
     "electo": "",
@@ -3731,22 +3741,22 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
-    "Nombre": "Carmen Julia Prudencio González",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
-    "url": "",
-    "twitter": "https://twitter.com/carmenjuliagdl",
-    "facebook": "https://www.facebook.com/carmenjuliagdl",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 9",
     "Nombre": "Demetrio Almeda Hernández",
     "Partido": "MORENA, PES, PT",
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/AlmedaDemetrio",
     "facebook": "https://www.facebook.com/demetrioalmedahdez/",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 10",
+    "Nombre": "Geraldina Isabel Herrera Vega",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electa",
+    "url": "",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/GeraldinaHV/",
     "facebook_senadores": ""
   },
   {
@@ -3791,22 +3801,22 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
-    "Nombre": "Geraldina Isabel Herrera Vega",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
-    "url": "",
-    "twitter": "",
-    "facebook": "https://www.facebook.com/GeraldinaHV/",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 10",
     "Nombre": "Carla Patricia Hernández González",
     "Partido": "MORENA, PES, PT",
     "electo": "",
     "url": "",
     "twitter": "",
     "facebook": "https://www.facebook.com/Carla-Hern%C3%A1ndez-Actriz-146468589153388/",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 11",
+    "Nombre": "Kehila Abigail Kú Escalante",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electa",
+    "url": "",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/KehilaKu/",
     "facebook_senadores": ""
   },
   {
@@ -3841,22 +3851,22 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
-    "Nombre": "Kehila Abigail Kú Escalante",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
-    "url": "",
-    "twitter": "",
-    "facebook": "https://www.facebook.com/KehilaKu/",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 11",
     "Nombre": "Ana Sofía Martínez Sánchez",
     "Partido": "MORENA, PES, PT",
     "electo": "",
     "url": "",
     "twitter": "",
     "facebook": "https://www.facebook.com/ASofiaMar/",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 12",
+    "Nombre": "Adriana Gabriela Medina Ortiz",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electa",
+    "url": "",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/AdrianaMedinaMX/",
     "facebook_senadores": ""
   },
   {
@@ -3891,22 +3901,22 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
-    "Nombre": "Adriana Gabriela Medina Ortiz",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
-    "url": "",
-    "twitter": "",
-    "facebook": "https://www.facebook.com/AdrianaMedinaMX/",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 12",
     "Nombre": "Miriam Josefina Cano Silva",
     "Partido": "MORENA, PES, PT",
     "electo": "",
     "url": "",
     "twitter": "",
     "facebook": "",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 13",
+    "Nombre": "Lourdes Celenia Contreras González",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electa",
+    "url": "",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/ContrerasCelenia/",
     "facebook_senadores": ""
   },
   {
@@ -3951,22 +3961,22 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
-    "Nombre": "Lourdes Celenia Contreras González",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
-    "url": "",
-    "twitter": "",
-    "facebook": "https://www.facebook.com/ContrerasCelenia/",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 13",
     "Nombre": "Alejandro López Ibarra",
     "Partido": "MORENA, PES, PT",
     "electo": "",
     "url": "",
     "twitter": "",
     "facebook": "https://www.facebook.com/alexlopezD13/",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 14",
+    "Nombre": "Juan Francisco Ramírez Salcido",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electo",
+    "url": "",
+    "twitter": "https://twitter.com/FcoRmzSalcido",
+    "facebook": "https://www.facebook.com/FcoRmzSalcido/",
     "facebook_senadores": ""
   },
   {
@@ -4001,22 +4011,22 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
-    "Nombre": "Juan Francisco Ramírez Salcido",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
-    "url": "",
-    "twitter": "https://twitter.com/FcoRmzSalcido",
-    "facebook": "https://www.facebook.com/FcoRmzSalcido/",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 14",
     "Nombre": "Francisco Javier Mosqueda Manzo",
     "Partido": "MORENA, PES, PT",
     "electo": "",
     "url": "",
     "twitter": "",
     "facebook": "https://www.facebook.com/Francisco-Mosqueda-169621593679628/",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 15",
+    "Nombre": "Absalón García Ochoa",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electo",
+    "url": "",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/AbsalonGO/",
     "facebook_senadores": ""
   },
   {
@@ -4051,8 +4061,8 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 15",
-    "Nombre": "Absalón García Ochoa",
-    "Partido": "PAN, PRD, MC",
+    "Nombre": "Francisco Segoviano Trujillo",
+    "Partido": "MORENA, PES, PT",
     "electo": "",
     "url": "",
     "twitter": "",
@@ -4060,13 +4070,13 @@
     "facebook_senadores": ""
   },
   {
-    "Candidatura": "Diputado Federal DTTO. 15",
-    "Nombre": "Francisco Segoviano Trujillo",
+    "Candidatura": "Diputado Federal DTTO. 16",
+    "Nombre": "Laura Imelda Pérez Segura",
     "Partido": "MORENA, PES, PT",
-    "electo": "",
+    "electo": "Electa",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/lauraImeldaDto16/",
     "facebook_senadores": ""
   },
   {
@@ -4120,13 +4130,13 @@
     "facebook_senadores": ""
   },
   {
-    "Candidatura": "Diputado Federal DTTO. 16",
-    "Nombre": "Laura Imelda Pérez Segura",
-    "Partido": "MORENA, PES, PT",
-    "electo": "",
+    "Candidatura": "Diputado Federal DTTO. 17",
+    "Nombre": "Juan Martín Espinoza Cárdenas",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electo",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/lauraImeldaDto16/",
+    "facebook": "https://www.facebook.com/JuanMartinEspinozaOficial/",
     "facebook_senadores": ""
   },
   {
@@ -4161,22 +4171,22 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
-    "Nombre": "Juan Martín Espinoza Cárdenas",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
-    "url": "",
-    "twitter": "",
-    "facebook": "https://www.facebook.com/JuanMartinEspinozaOficial/",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 17",
     "Nombre": "Luis Fernando Pérez Rivera",
     "Partido": "MORENA, PES, PT",
     "electo": "",
     "url": "",
     "twitter": "",
     "facebook": "https://www.facebook.com/FerDistrito17/",
+    "facebook_senadores": ""
+  },
+  {
+    "Candidatura": "Diputado Federal DTTO. 18",
+    "Nombre": "Mónica Almeida López",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electa",
+    "url": "",
+    "twitter": "",
+    "facebook": "",
     "facebook_senadores": ""
   },
   {
@@ -4211,8 +4221,8 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 18",
-    "Nombre": "Mónica Almeida López",
-    "Partido": "PAN, PRD, MC",
+    "Nombre": "Marco Tulio Rosas Romero",
+    "Partido": "MORENA, PES, PT",
     "electo": "",
     "url": "",
     "twitter": "",
@@ -4220,13 +4230,13 @@
     "facebook_senadores": ""
   },
   {
-    "Candidatura": "Diputado Federal DTTO. 18",
-    "Nombre": "Marco Tulio Rosas Romero",
-    "Partido": "MORENA, PES, PT",
-    "electo": "",
+    "Candidatura": "Diputado Federal DTTO. 19",
+    "Nombre": "Alberto Esquer Gutiérrez",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electo",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/AlbertoEsquerG/",
     "facebook_senadores": ""
   },
   {
@@ -4261,8 +4271,8 @@
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
-    "Nombre": "Alberto Esquer Gutiérrez",
-    "Partido": "PAN, PRD, MC",
+    "Nombre": "Clara Cárdenas Galván",
+    "Partido": "MORENA, PES, PT",
     "electo": "",
     "url": "",
     "twitter": "",
@@ -4270,13 +4280,13 @@
     "facebook_senadores": ""
   },
   {
-    "Candidatura": "Diputado Federal DTTO. 19",
-    "Nombre": "Clara Cárdenas Galván",
-    "Partido": "MORENA, PES, PT",
-    "electo": "",
+    "Candidatura": "Diputado Federal DTTO. 20",
+    "Nombre": "Ana Priscila González García",
+    "Partido": "PAN, PRD, MC",
+    "electo": "Electa",
     "url": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/RPGLEZMC/",
     "facebook_senadores": ""
   },
   {
@@ -4307,16 +4317,6 @@
     "url": "",
     "twitter": "",
     "facebook": "https://www.facebook.com/FernandoQuinteroD20/",
-    "facebook_senadores": ""
-  },
-  {
-    "Candidatura": "Diputado Federal DTTO. 20",
-    "Nombre": "Ana Priscila González García",
-    "Partido": "PAN, PRD, MC",
-    "electo": "",
-    "url": "",
-    "twitter": "",
-    "facebook": "https://www.facebook.com/RPGLEZMC/",
     "facebook_senadores": ""
   },
   {
