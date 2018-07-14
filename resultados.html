@@ -5,134 +5,134 @@ results_page: true
 ---
 
 <style>
-.background {
-  fill: none;
-  pointer-events: all;
-}
+  .background {
+    fill: none;
+    pointer-events: all;
+  }
 
-/*.container1 {
-    display:flex;
-}*/
+  /*.container1 {
+      display:flex;
+  }*/
 
-.map-layer {
-  fill: #fff;
-  stroke: #ccc;
-}
+  .map-layer {
+    fill: #fff;
+    stroke: #ccc;
+  }
 
-.big-text {
-  font-size: 27px;
-  line-height: 1;
-  color: #333;
-}
-.candidate-text {
-  font-size: 20px;
-  color: #333;
-}
-.filler-text {
-  font-size: 20px;
-}
-
-div.tooltip { 
-  position: absolute;     
-  text-align: center; 
-  top: 50%;    
-  width: 120px;          
-  height: 30px;         
-  padding: 2px;       
-  font: 13px;  
-  line-height: 1;  
-  background: #fff; 
-  border: 1px solid #555;   
-  border-radius: 4px;     
-  pointer-events: none;
-  display: flex;
-  justify-content:center;
-  align-content:center;
-  flex-direction:column; 
-  color: #000;
-}
-
-path:hover {
-  cursor: pointer;
-}
-
-/* Create two columns that float next to each other */
-.column {
-    float: left;
-}
-
-.row-new {
-  width: 100%;
-}
-
-/* Clear floats after the columns */
-.row-new:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-.left {
-    width: 22%;
+  .big-text {
+    font-size: 27px;
+    line-height: 1;
     color: #333;
-    padding: 10px;
-    background-color: #eee;
-}
-.right {
-    width: 78%;
+  }
+  .candidate-text {
+    font-size: 20px;
+    color: #333;
+  }
+  .filler-text {
+    font-size: 20px;
+  }
+
+  div.tooltip { 
+    position: absolute;     
+    text-align: center; 
+    top: 50%;    
+    width: 120px;          
+    height: 30px;         
+    padding: 2px;       
+    font: 13px;  
+    line-height: 1;  
+    background: #fff; 
+    border: 1px solid #555;   
+    border-radius: 4px;     
+    pointer-events: none;
+    display: flex;
+    justify-content:center;
+    align-content:center;
+    flex-direction:column; 
+    color: #000;
+  }
+
+  path:hover {
+    cursor: pointer;
+  }
+
+  /* Create two columns that float next to each other */
+  .column {
+      float: left;
+  }
+
+  .row-new {
+    width: 100%;
+  }
+
+  /* Clear floats after the columns */
+  .row-new:after {
+      content: "";
+      display: table;
+      clear: both;
+  }
+
+  .left {
+      width: 22%;
+      color: #333;
+      padding: 10px;
+      background-color: #eee;
+  }
+  .right {
+      width: 78%;
+      padding: 0;
+  }
+
+  .my-legend .legend-scale ul {
+    margin: 0;
+    margin-bottom: 5px;
     padding: 0;
-}
+    float: left;
+    list-style: none;
+    }
+  .my-legend .legend-scale ul li {
+    font-size: 80%;
+    list-style: none;
+    margin-left: 0;
+    line-height: 1.6;
+    margin-bottom: 2px;
+    }
+  .my-legend ul.legend-labels li span {
+    display: block;
+    float: left;
+    height: 16px;
+    width: 25px;
+    margin-right: 5px;
+    margin-left: 0;
+    }
+  .left-legend, .right-legend {
+          width: 100%;
+      }
+  .bigmapcontainer {
+    border: 1px solid #555;
+    border-radius: 5px; 
+    width: 86%;
+    margin:0 auto;
+  }
+  #svgmap_municipios, #svgmap_distritos {
+    text-align: center!important;
+    background: #fcfcfc;
+  }
 
-.my-legend .legend-scale ul {
-  margin: 0;
-  margin-bottom: 5px;
-  padding: 0;
-  float: left;
-  list-style: none;
+  @media screen and (max-width: 700px) {
+      .column {
+          width: 100%;
+      }
+      .left-legend, .right-legend {
+          width: 50%;
+      }
+      .bigmapcontainer {
+        width: 98%;
+      }
+      .map-layer {
+        stroke: none;
+      }
   }
-.my-legend .legend-scale ul li {
-  font-size: 80%;
-  list-style: none;
-  margin-left: 0;
-  line-height: 1.6;
-  margin-bottom: 2px;
-  }
-.my-legend ul.legend-labels li span {
-  display: block;
-  float: left;
-  height: 16px;
-  width: 25px;
-  margin-right: 5px;
-  margin-left: 0;
-  }
-.left-legend, .right-legend {
-        width: 100%;
-    }
-.bigmapcontainer {
-  border: 1px solid #555;
-  border-radius: 5px; 
-  width: 86%;
-  margin:0 auto;
-}
-#svgmap_municipios, #svgmap_distritos {
-  text-align: center!important;
-  background: #fcfcfc;
-}
-
-@media screen and (max-width: 700px) {
-    .column {
-        width: 100%;
-    }
-    .left-legend, .right-legend {
-        width: 50%;
-    }
-    .bigmapcontainer {
-      width: 98%;
-    }
-    .map-layer {
-      stroke: none;
-    }
-}
 </style>
 
 
