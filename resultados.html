@@ -228,7 +228,7 @@ image: images/jcv-resultados.png
     </div>
     <p style="text-align: center" id="nota_congreso">* Hubo 3 diputados quienes cambiaron de partido al transcurso de los últimos tres años, pero así empezó.</p>
   </div>
-
+  <hr>
   <div class="row text-center container1"><br>
     <p style="font-size: 1.3em; color: #3F626B">Conoce a los nuevos diputados y diputadas:</p>
     <h3 class='text-center'>20 diputadas y diputados locales electos por mayoría relativa</h3>
@@ -300,6 +300,14 @@ image: images/jcv-resultados.png
       </div>
     </div>
   </div>
+  <hr>
+  <div style="width: 86%; margin: 0 auto" class="text-center">
+    <p style="font-size: 32px; color: #3F626B"><br>Comparte esta página:<br>
+    <a href='https://twitter.com/intent/tweet?text=Consulta%20los%20resultados%20de%20las%20elecciones%20de%202018%20en%20el%20estado%20de%20Jalisco.%20https%3A//jaliscocomovotamos.netlify.com/resultados%20v%C3%ADa%20%40jaliscomovamos' target='_blank' class='twitter-share'><i class='fab fa-twitter' title="Comparte en Twitter"></i></a> &nbsp;&nbsp; 
+    <a href='https://www.facebook.com/sharer/sharer.php?u=https%3A//jaliscocomovotamos.netlify.com/resultados' target='_blank' class='fb-share'><i class='fab fa-facebook' title="Comparte en Facebook"></i></a></p>
+  </div><br>
+  <hr>
+
   <div style="width: 86%; margin: 0 auto; padding-left: 10px"><br><p style="margin-top: 15px; padding-left: 15px"><b>Más información:</b></p>
     <ul>
       <li>Elecciones Federales: <a href=
@@ -714,6 +722,17 @@ $(document).ready(function () {
             document.getElementById("nota_congreso").style.visibility = "hidden";
         }
     });
+    $('.fb-share').click(function(e) {
+        e.preventDefault();
+        window.open($(this).attr('href'), 'fbShareWindow', 'height=450, width=550, top=' + ($(window).height() / 2 - 275) + ', left=' + ($(window).width() / 2 - 225) + ', toolbar=0, location=0, menubar=0, directories=0, scrollbars=0');
+        return false;
+    });
+    $('.twitter-share').click(function(e) {
+        e.preventDefault();
+        window.open($(this).attr('href'), 'pop-up','height=400,width=600,top=' + ($(window).height() / 2 - 275) + ', left=' + ($(window).width() / 2 - 225) + ', toolbar=1,resizable=1');
+        return false;
+    });
+
 });
 
 window.onload=function() {
@@ -732,7 +751,7 @@ window.onload=function() {
       .attr("ry", 5)
       .style("fill", function(d){ return color(d.Partido) });
   });
-    $(function(){ svgContainer2.selectAll("rect")
+  $(function(){ svgContainer2.selectAll("rect")
       .data(dataDist2015).enter()
       .append("rect")
       .attr("x", function(d,i){ return 40*((i + 10) % 10)})
@@ -744,7 +763,6 @@ window.onload=function() {
       .style("fill", function(d){ return color(d.Partido) });
   });
 }
-
 
 </script>
 
