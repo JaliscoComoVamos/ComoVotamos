@@ -1,21 +1,39 @@
-﻿Tipo,Candidato_electo,Género,Partido,Porcentaje_de_votos,Participación_Ciudadana
-Distrito 1,Gustavo Macías Zambrano,H,PAN,,
-Distrito 2,José de Jesús Hurtado Torres,H,PAN,,
-Distrito 3,Jorge Eduardo González Arana,H,PAN,,
-Distrito 4,Edgar Enrique Velázquez González,H,PRD,,
-Distrito 5,Luis Ernesto Munguía González,H,MC,,
-Distrito 6,Mirza Flores Gómez,M,MC,,
-Distrito 7,María Ester López Chávez,M,PT,,
-Distrito 8,Héctor Alejandro Hermosillo González,H,MC,,
-Distrito 9,Miriam Berenice Rivera Rodríguez,M,MC,,
-Distrito 10,Esteban Estrada Ramírez,H,MC,,
-Distrito 11,Arturo Lémus Herrea,H,MORENA,,
-Distrito 12,Gerardo Quirino Velázquez Chávez,H,PRD,,
-Distrito 13,Adenawer González Fierros,H,PAN,,
-Distrito 14,Priscilla Franco Barba,M,MC,,
-Distrito 15,Carlos Eduardo Sánchez Carrillo,H,PAN,,
-Distrito 16,María Patricia Meza Núñez,M,MORENA,,
-Distrito 17,J. Jesús Cabrera Jiménez,H,MC,,
-Distrito 18,Irma de Anda Licea,M,PAN,,
-Distrito 19,Ma. Elizabeth Alcaraz Virgen,M,MC,,
-Distrito 20,Daniel Robles de León,H,MC,,
+﻿Tipo,Candidato_electo,Género,Partido
+Distrito 5,Luis Ernesto Munguía González,H,MC
+Distrito 6,Mirza Flores Gómez,M,MC
+Distrito 8,Héctor Alejandro Hermosillo González,H,MC
+Distrito 9,Miriam Berenice Rivera Rodríguez,M,MC
+Distrito 10,Esteban Estrada Ramírez,H,MC
+Distrito 14,Priscilla Franco Barba,M,MC
+Distrito 17,J. Jesús Cabrera Jiménez,H,MC
+Distrito 19,Ma. Elizabeth Alcaraz Virgen,M,MC
+Distrito 20,Daniel Robles de León,H,MC
+Plurinominal7,Martha Patricia Martínez Barba,M,MC
+Plurinominal8,Salvador Caro Cabrera,H,MC
+Plurinominal9,Jonadab Martínez García,H,MC
+Plurinominal10,Mara Nadiezhda Robles Villaseñor,M,MC
+Plurinominal11,Ricardo Rodríguez Jiménez,H,MC
+Distrito 11,Arturo Lémus Herrea,H,MORENA
+Distrito 16,María Patricia Meza Núñez,M,MORENA
+Plurinominal1,Norma Valenzuela Álvarez,M,MORENA
+Plurinominal2,Ismael Espanta Tejeda,H,MORENA
+Plurinominal3,Bruno Blancas Mercado,H,MORENA
+Plurinominal4,Érika Pérez García,M,MORENA
+Plurinominal5,Óscar Arturo Herrera Estrada,H,MORENA
+Plurinominal6,Óscar Nicolas García Lomelí,H,MORENA
+Distrito 1,Gustavo Macías Zambrano,H,PAN
+Distrito 2,José de Jesús Hurtado Torres,H,PAN
+Distrito 3,Jorge Eduardo González Arana,H,PAN
+Distrito 13,Adenawer González Fierros,H,PAN
+Distrito 15,Carlos Eduardo Sánchez Carrillo,H,PAN
+Distrito 18,Irma de Anda Licea,M,PAN
+Plurinominal16,Claudia Murguia Torres,M,PAN
+Plurinominal17,José Hernán Cortés Berumen,H,PAN
+Plurinominal12,Mariana Fernández Ramírez,M,PRI
+Plurinominal13,Héctor Pizano Ramos,H,PRI
+Plurinominal14,J. Jesús Zúñiga Mendoza,H,PRI
+Plurinominal15,Sofía Berenice García Mosqueda,M,PRI
+Distrito 4,Edgar Enrique Velázquez González,H,PRD
+Distrito 12,Gerardo Quirino Velázquez Chávez,H,PRD
+Distrito 7,María Ester López Chávez,M,PT
+Plurinominal18,Rosa Angélica Fregoso Franco,M,PVEM
