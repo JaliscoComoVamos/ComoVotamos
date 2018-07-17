@@ -201,32 +201,32 @@ image: images/jcv-resultados.png
   </div>
   <br>
   <div class="row text-center">
-    <h2 id='ver'>Así quedará la LXII Legislatura del Estado de Jalisco (2018-2021)...</h2>
-    <p style="font-size: 1.3em; color: #3F626B">Ver resultados según:</p>
-    <form>
-      <input type="radio" name="tipo_congreso" value="congreso_partido" id="congreso_partido" checked="checked"> Partido &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-      <input type="radio" name="tipo_congreso" value="congreso_genero"> Género
-    </form><br>
+    <h2 id='ver'>Así quedará la LXII Legislatura del Estado de Jalisco (2018-2021)...</h2><br>
   </div>
   <div class="container1">
     <div class="row-new">
-        <div class="column left2" id="blocks">
+        <div class="column left2 text-center" id="blocks">
+          <p style="font-size: 1.3em; color: #3F626B">Ver resultados según:</p>
+          <form>
+            <input type="radio" name="tipo_congreso" value="congreso_partido" id="congreso_partido" checked="checked"> Partido &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+            <input type="radio" name="tipo_congreso" value="congreso_genero"> Género
+          </form>
         </div>
         <div class="column right2 my-legend long" id="legend_congreso" style="background: #eee">
         </div>
     </div>
   </div>
   <div class="row text-center"><br>
-    <p style="font-size: 1.3em; color: #3F626B">Compárala al congreso electo de hace tres años...</p><p style="font-size: 1.2em; color: #3F626B"><b>la LXI Legislatura del Estado de Jalisco</b> (en 2015*):</p>
   </div>
   <div class="container1">
     <div class="row-new">
-        <div class="column left2" id="blocks2015">
+        <div class="column left2 text-center" id="blocks2015">
+          <p style="font-size: 1.3em; color: #3F626B">Compárala al congreso electo de hace tres años...</p><p style="font-size: 1.2em; color: #3F626B"><b>la LXI Legislatura del Estado de Jalisco</b> (en 2015*):</p>
         </div>
         <div class="column right2 my-legend long" id="legend_congreso_2015" style="background: #eee">
         </div>
     </div>
-    <p style="text-align: center">* Hubo 3 diputados quienes cambiaron de partido al transcurso de los últimos tres años, pero así empezó.</p>
+    <p style="text-align: center" id="nota_congreso">* Hubo 3 diputados quienes cambiaron de partido al transcurso de los últimos tres años, pero así empezó.</p>
   </div>
 
   <div class="row text-center container1"><br>
@@ -667,9 +667,9 @@ var legend_distritos_partidos = "<div class='legend-scale'><ul class='legend-lab
 var legend_genero_mun = "Género de la persona electa:<br><div class='legend-scale'><ul class='legend-labels left-legend' style='padding-top: 5px'><li><span style='background:#EA4233;'></span>Mujer (30)</li></ul><ul class='legend-labels right-legend' style='padding-top: 5px'><li><span style='background:#3F626B;'></span>Hombre (95)</li></ul></div>";
 var legend_genero_dist = "Género de la persona electa:<br><div class='legend-scale'><ul class='legend-labels left-legend' style='padding-top: 5px'><li><span style='background:#EA4233;'></span>Mujer</li></ul><ul class='legend-labels right-legend' style='padding-top: 5px'><li><span style='background:#3F626B;'></span>Hombre</li></ul></div>";
 var legend_congreso_partidos2018 = "2018<br><div class='legend-scale'><ul class='legend-labels left-legend'><li><span style='background:#EFAACB;'></span>INDEPENDIENTE (0)</li><li><span style='background:#fd8224;'></span>MC (14)</li><li><span style='background:#b32825;'></span>MORENA (8)</li><li><span style='background:#295ba3;'></span>PAN (8)</li><li><span style='background:#1db6bd;'></span>PANAL (0)</li></ul><ul class='legend-labels right-legend'><li><span style='background:#662f7d;'></span>PES (0)</li><li><span style='background:#fec22e;'></span>PRD (2)</li><li><span style='background:#18a75c;'></span>PRI (4)</li><li><span style='background:#ea202d;'></span>PT (1)</li><li><span style='background:#aeca60;'></span>PVEM (1)</li></ul></div>";
-var legend_congreso_genero2018 = "Género de la persona electa:<br><div class='legend-scale'><ul class='legend-labels left-legend' style='padding-top: 5px'><li><span style='background:#EA4233;'></span>Mujer (15)</li></ul><ul class='legend-labels right-legend' style='padding-top: 5px'><li><span style='background:#3F626B;'></span>Hombre (23)</li></ul></div>";
+var legend_congreso_genero2018 = "Género de la persona electa (2018):<br><div class='legend-scale'><ul class='legend-labels left-legend' style='padding-top: 5px'><li><span style='background:#EA4233;'></span>Mujer (15)</li></ul><ul class='legend-labels right-legend' style='padding-top: 5px'><li><span style='background:#3F626B;'></span>Hombre (23)</li></ul></div>";
 var legend_congreso_partidos2015 = "2015<br><div class='legend-scale'><ul class='legend-labels left-legend'><li><span style='background:#EFAACB;'></span>INDEPENDIENTE (1)</li><li><span style='background:#fd8224;'></span>MC (14)</li><li><span style='background:#b32825;'></span>MORENA (0)</li><li><span style='background:#295ba3;'></span>PAN (5)</li><li><span style='background:#1db6bd;'></span>PANAL (1)</li></ul><ul class='legend-labels right-legend'><li><span style='background:#662f7d;'></span>PES (0)</li><li><span style='background:#fec22e;'></span>PRD (2)</li><li><span style='background:#18a75c;'></span>PRI (13)</li><li><span style='background:#ea202d;'></span>PT (0)</li><li><span style='background:#aeca60;'></span>PVEM (3)</li></ul></div>";
-var legend_congreso_genero2015 = "Género de la persona electa:<br><div class='legend-scale'><ul class='legend-labels left-legend' style='padding-top: 5px'><li><span style='background:#EA4233;'></span>Mujer (16)</li></ul><ul class='legend-labels right-legend' style='padding-top: 5px'><li><span style='background:#3F626B;'></span>Hombre (23)</li></ul></div>";
+var legend_congreso_genero2015 = "Género de la persona electa (2015):<br><div class='legend-scale'><ul class='legend-labels left-legend' style='padding-top: 5px'><li><span style='background:#EA4233;'></span>Mujer (16)</li></ul><ul class='legend-labels right-legend' style='padding-top: 5px'><li><span style='background:#3F626B;'></span>Hombre (23)</li></ul></div>";
 
 $(document).ready(function () {
     $('input[type="radio"]').click(function () {
@@ -702,6 +702,7 @@ $(document).ready(function () {
                 .style("fill", function(d){ return color(d.Partido) });
             svgContainer2.selectAll("rect").data(dataDist2015)
                 .style("fill", function(d){ return color(d.Partido) });
+            document.getElementById("nota_congreso").style.visibility = "visible";
         }
         if ($(this).attr("value") == "congreso_genero") {
             document.getElementById("legend_congreso").innerHTML = legend_congreso_genero2018;
@@ -710,6 +711,7 @@ $(document).ready(function () {
                 .style("fill", function(d){ return color_gen(d) });
             svgContainer2.selectAll("rect").data(generoCongreso2015)
                 .style("fill", function(d){ return color_gen(d) });
+            document.getElementById("nota_congreso").style.visibility = "hidden";
         }
     });
 });
