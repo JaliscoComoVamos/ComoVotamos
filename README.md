@@ -4,7 +4,9 @@ Repositorio para el sitio web [http://jaliscocomovamos.org/votamos](http://jalis
 
 ## Acerca de
 
-<b>Jalisco Cómo Votamos</b> es un proyecto de código abierto del observatorio ciudadano [Jalisco Cómo Vamos](http://jaliscocomovamos.org/). Es una herramienta que las y los ciudadanos de Jalisco, México pueden usar para conocer a las y los candidatos que encontrarán en su boleta el próximo día de elecciones, basado en la dirección de su credencial para votar.
+<b>Jalisco Cómo Votamos</b> es un proyecto de software libre y de código abierto del observatorio ciudadano [Jalisco Cómo Vamos](http://jaliscocomovamos.org/). Es una herramienta que las y los ciudadanos de Jalisco, México pueden usar para conocer a las y los candidatos que encontrarán en su boleta el próximo día de elecciones, basado en la dirección de su credencial para votar.
+
+Antes de las elecciones de 1 de julio d2 2018, era una herramienta para conocer a las y los candidatos que se encontrarían en la boleta, basado en una dirección de credencial para votar (en el estado de Jalisco, México). Ahora sirve como portal para conocer a quiénes serán las y los representantes en los diferentes órdenes de gobierno cuando empiezan las nuevas administraciones. En el sitio también se puede consultar, explorar y analizar los resultados de estas elecciones.
 
 ## Como contribuir
 
