@@ -69,7 +69,7 @@ exec bash
 ### 4. Instalar _gems_
 ```bash
 sudo gem install commonmarker -v '0.17.9'
-sudo gem install nokogiri -v '1.8.2'
+sudo gem install nokogiri -v '1.10.4'
 bundle install
 bundle update
 ```
