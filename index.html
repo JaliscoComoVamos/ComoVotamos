@@ -297,10 +297,11 @@ map.on('load', function() {
     d3.json('archivos_mapa/municipios_y_distritos_jalisco.geojson', function(data) {
         let geocoder2 = new MapboxGeocoder({
             accessToken: mapboxgl.accessToken,
-            country: 'mx',
+            countries: 'mx',
             language: 'es',
             placeholder: 'Buscar',
-            limit: 6
+            limit: 6,
+            mapboxgl: mapboxgl
         });
         map.addControl(geocoder2);
         map.addControl(new mapboxgl.NavigationControl());

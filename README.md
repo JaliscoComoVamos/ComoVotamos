@@ -70,6 +70,7 @@ exec bash
 ```bash
 sudo gem install commonmarker -v '0.17.9'
 sudo gem install nokogiri -v '1.10.4'
+sudo gem install bundler -v '< 2'
 bundle install
 bundle update
 ```

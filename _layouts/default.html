@@ -136,10 +136,12 @@
 
     <!-- Map page only -->
     {% if page.map_page %}
-      <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.js'></script>
-      <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.css' rel="stylesheet"/>
-      <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.min.js'></script>
-      <link href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.2.0/mapbox-gl-geocoder.css' rel="stylesheet"/>
+      <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.0/mapbox-gl.js'></script>
+      <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.0/mapbox-gl.css' rel='stylesheet' />
+      
+      <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.4.2/mapbox-gl-geocoder.min.js'></script>
+      <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.4.2/mapbox-gl-geocoder.css' type='text/css' />
+      
       <script src='//d3js.org/d3.v4.min.js'></script>
       <script defer src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
       <script defer src='https://api.mapbox.com/mapbox.js/plugins/turf/v3.0.11/turf.min.js'></script>
@@ -157,16 +159,17 @@
     <div class='main-content' style="height: 100%">
       <div class="container-fluid">
         <div class="feature">
-
-          <ul class="nav nav-pills pull-right">
-            <li role="presentation"><span class="top-nav-buttons">&nbsp;<a href="/">
-              <i class='fa fa-home hidden-xs hidden-sm' title="Inicio"> </i> Inicio&nbsp;&nbsp;</a></span></li>
-            <li role="presentation"><span class="top-nav-buttons"><a href="/informacion">
-              <i class='fa fa-info-circle hidden-xs hidden-sm' title="Información"> </i> Información &nbsp;&nbsp;&nbsp;&nbsp;</a></span></li>
-            <li role="presentation"><span class="top-nav-buttons">&nbsp;<a href="/resultados#ver">
-              <svg class="hidden-xs hidden-sm" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 645 645" width="16" height="16"><title>chart icon</title><defs><path d="M443.52 73.48L600.8 73.48L600.8 594.72L443.52 594.72L443.52 73.48Z" id="b9dELYTZy"></path><path d="M645.12 594.72L645.12 644.8L0 644.8L0 594.72L645.12 594.72Z" id="a9KTo8m3Y"></path><path d="M245.92 267.12L403.2 267.12L403.2 594.72L245.92 594.72L245.92 267.12Z" id="c34xFJYGO"></path><path d="M44.32 376.12L201.6 376.12L201.6 594.72L44.32 594.72L44.32 376.12Z" id="a42Ma3icC3"></path></defs><g><g><g><use xlink:href="#b9dELYTZy" opacity="1" fill-opacity="1"></use><g><use xlink:href="#b9dELYTZy" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="1"></use></g></g><g><use xlink:href="#a9KTo8m3Y" opacity="1" fill-opacity="1"></use><g><use xlink:href="#a9KTo8m3Y" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#c34xFJYGO" opacity="1" fill-opacity="1"></use><g><use xlink:href="#c34xFJYGO" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="1"></use></g></g><g><use xlink:href="#a42Ma3icC3" opacity="1" fill-opacity="1"></use><g><use xlink:href="#a42Ma3icC3" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="1"></use></g></g></g></g></svg>
-               Resultados </a></span></li>
-          </ul>
+          <div class="stickyheader">
+            <ul class="nav nav-pills pull-right">
+              <li role="presentation"><span class="top-nav-buttons">&nbsp;<a href="/">
+                <i class='fa fa-home hidden-xs hidden-sm' title="Inicio"> </i> Inicio&nbsp;&nbsp;</a></span></li>
+              <li role="presentation"><span class="top-nav-buttons"><a href="/informacion">
+                <i class='fa fa-info-circle hidden-xs hidden-sm' title="Información"> </i> Información &nbsp;&nbsp;&nbsp;&nbsp;</a></span></li>
+              <li role="presentation"><span class="top-nav-buttons">&nbsp;<a href="/resultados#ver">
+                <svg class="hidden-xs hidden-sm" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 645 645" width="16" height="16"><title>chart icon</title><defs><path d="M443.52 73.48L600.8 73.48L600.8 594.72L443.52 594.72L443.52 73.48Z" id="b9dELYTZy"></path><path d="M645.12 594.72L645.12 644.8L0 644.8L0 594.72L645.12 594.72Z" id="a9KTo8m3Y"></path><path d="M245.92 267.12L403.2 267.12L403.2 594.72L245.92 594.72L245.92 267.12Z" id="c34xFJYGO"></path><path d="M44.32 376.12L201.6 376.12L201.6 594.72L44.32 594.72L44.32 376.12Z" id="a42Ma3icC3"></path></defs><g><g><g><use xlink:href="#b9dELYTZy" opacity="1" fill-opacity="1"></use><g><use xlink:href="#b9dELYTZy" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="1"></use></g></g><g><use xlink:href="#a9KTo8m3Y" opacity="1" fill-opacity="1"></use><g><use xlink:href="#a9KTo8m3Y" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#c34xFJYGO" opacity="1" fill-opacity="1"></use><g><use xlink:href="#c34xFJYGO" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="1"></use></g></g><g><use xlink:href="#a42Ma3icC3" opacity="1" fill-opacity="1"></use><g><use xlink:href="#a42Ma3icC3" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="1"></use></g></g></g></g></svg>
+                 Resultados </a></span></li>
+            </ul>
+          </div>
 
           <br />
           <br />

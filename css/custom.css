@@ -312,3 +312,25 @@ svg {
   .top-nav-buttons { font-size: 14px; }
 }
 
+
+.mapboxgl-ctrl-top-right {
+  width:50%;
+  max-width:450px;
+}
+
+.mapboxgl-ctrl-geocoder.mapboxgl-ctrl {
+  width:100%;
+  max-width:400px;
+}
+
+.mapboxgl-ctrl-geocoder--icon-search {
+  position: absolute;
+  top: 10px;
+}
+
+.mapboxgl-ctrl-geocoder--input[type=text] {
+  padding: 6px 35px;
+  margin: 0px;
+  box-sizing: content-box;
+  border: 0;
+}
