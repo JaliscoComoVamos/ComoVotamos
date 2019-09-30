@@ -51,8 +51,8 @@ xcode-select --install
 # Instalar rbenv y ruby
 brew install rbenv
 rbenv init
-rbenv install 2.4.2
-rbenv global 2.4.2
+rbenv install 2.4.5
+rbenv global 2.4.5
 
 # Instalar bundler y jekyll
 sudo gem install jekyll bundler
@@ -68,9 +68,11 @@ exec bash
 
 ### 4. Instalar _gems_
 ```bash
+gem update --system
 sudo gem install commonmarker -v '0.17.9'
 sudo gem install nokogiri -v '1.10.4'
-sudo gem install bundler -v '< 2'
+gem uninstall bundler
+gem install bundler -v 2.0.2
 bundle install
 bundle update
 ```
