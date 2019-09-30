@@ -34,7 +34,7 @@ cd ComoVotamos
 
 ### 3. Instalar Ruby y Jekyll
 
-Asegúrate de que tienes instalada la versión 2.4.2 de Ruby en tu computadora. También necesitarás instalar Jekyll. Visita los sitios oficiales de [Ruby](https://www.ruby-lang.org/es/downloads/) y [Jekyll](https://jekyllrb.com/docs/installation/) para más información.
+Asegúrate de que tienes instalada la versión 2.4.5 de Ruby en tu computadora. También necesitarás instalar Jekyll. Visita los sitios oficiales de [Ruby](https://www.ruby-lang.org/es/downloads/) y [Jekyll](https://jekyllrb.com/docs/installation/) para más información.
 
 Si estás usando una Mac, los siguientes comandos del Terminal deben ser suficientes para hacer la configuración necesaria. Si notas algún error, por favor [avísanos](https://jaliscocomovotamos.netlify.com/contacto.html).
 
