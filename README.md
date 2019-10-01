@@ -68,11 +68,11 @@ exec bash
 
 ### 4. Instalar _gems_
 ```bash
-gem update --system
-sudo gem install commonmarker -v '0.17.9'
-sudo gem install nokogiri -v '1.10.4'
-gem uninstall bundler
 gem install bundler -v 2.0.2
+sudo gem install commonmarker -v '0.17.13'
+sudo gem install eventmachine -v '1.2.7'
+sudo gem install http_parser.rb -v '0.6.0'
+sudo gem install ffi -v '1.11.1'
 bundle install
 bundle update
 ```
@@ -82,7 +82,7 @@ bundle update
 Una vez que Ruby, Jekyll y las _gems_ necesarias estén instalados correctamente, usa el siguiente comando para compilar y obtener una vista previa de tu sitio en tu computadora.
 
 ```bash
-jekyll serve -w
+bundle exec jekyll serve
 ```
 
 Luego, abre tu navegador web y ve a [http://localhost:5000](http://localhost:5000).
