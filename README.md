@@ -59,8 +59,8 @@ sudo gem install jekyll bundler
 
 # Actualizar la configuración de rbenv
 rbenv rehash
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile
 echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
-echo 'test -f ~/.bashrc && source ~/.bashrc' >> ~/.bash_profile
 
 # Reiniciar Terminal
 exec bash
@@ -68,11 +68,12 @@ exec bash
 
 ### 4. Instalar _gems_
 ```bash
-gem install bundler -v 2.0.2
-sudo gem install commonmarker -v '0.17.13'
-sudo gem install eventmachine -v '1.2.7'
-sudo gem install http_parser.rb -v '0.6.0'
-sudo gem install ffi -v '1.11.1'
+gem install bundler -v 1.17.3
+gem install commonmarker -v '0.17.13'
+gem install eventmachine -v '1.2.7'
+gem install http_parser.rb -v '0.6.0'
+gem install ffi -v '1.11.1'
+gem install github-pages
 bundle install
 bundle update
 ```
@@ -80,6 +81,12 @@ bundle update
 ### 5. Construir y servir el sitio
 
 Una vez que Ruby, Jekyll y las _gems_ necesarias estén instalados correctamente, usa el siguiente comando para compilar y obtener una vista previa de tu sitio en tu computadora.
+
+```bash
+jekyll serve -w
+```
+
+If the above command doesn't work, you can also use:
 
 ```bash
 bundle exec jekyll serve
@@ -127,4 +134,4 @@ El sitio web está construido con las siguientes herramientas:
 
 ## Copyright
 
-Código original Copyright (c) 2016 DataMade. Código modificado Copyright (c) 2018 Jalisco Cómo Vamos. Publicado bajo la [licencia MIT](https://github.com/JaliscoComoVamos/ComoVotamos/blob/master/LICENSE.txt).
+Código original Copyright (c) 2016 DataMade. Código modificado Copyright (c) 2018-2019 Jalisco Cómo Vamos. Publicado bajo la [licencia MIT](https://github.com/JaliscoComoVamos/ComoVotamos/blob/master/LICENSE.txt).
