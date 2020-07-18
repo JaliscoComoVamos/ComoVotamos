@@ -69,9 +69,8 @@ Finalmente, reincia la Terminal.
 
 ### 4. Instalar _gems_
 ```bash
-gem install bundler -v 1.17.3
+gem install bundler:2.1.4
 bundle install
-bundle update
 ```
 
 ### 5. Construir y servir el sitio
