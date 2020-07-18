@@ -69,7 +69,6 @@ Finalmente, reincia la Terminal.
 
 ### 4. Instalar _gems_
 ```bash
-gem install bundler:2.1.4
 bundle install
 ```
 
