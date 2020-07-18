@@ -314,13 +314,13 @@ svg {
 
 
 .mapboxgl-ctrl-top-right {
-  width:50%;
-  max-width:450px;
+  width:55%;
+  max-width:500px;
 }
 
 .mapboxgl-ctrl-geocoder.mapboxgl-ctrl {
   width:100%;
-  max-width:400px;
+  max-width:500px;
 }
 
 .mapboxgl-ctrl-geocoder--icon-search {

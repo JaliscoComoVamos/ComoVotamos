@@ -1,5 +1,5 @@
 source "http://rubygems.org"
-ruby '2.4.5'
+ruby '2.7.1'
 
 # web
 gem 'jekyll'

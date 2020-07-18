@@ -1,6 +1,6 @@
 # Jalisco Cómo Votamos
 
-Repositorio para el sitio web [http://jaliscocomovamos.org/votamos](http://jaliscocomovamos.org/votamos)
+Repositorio para el sitio web [https://jaliscocomovotamos.netlify.app](https://jaliscocomovotamos.netlify.app)
 
 ## Acerca de
 
@@ -10,7 +10,7 @@ Repositorio para el sitio web [http://jaliscocomovamos.org/votamos](http://jalis
 
 ¡Las contribuciones a este proyecto son bienvenidas!
 - Si deseas participar agregando o mejorando algún aspecto específico, puedes hacer un _fork_ del repositorio, implementar los cambios (véase a continuación la información sobre la instalación de las dependencias necesarias) y enviar un _pull request_. Si tienes la intención de hacerlo, te recomendamos que te pongas en contacto con nosotros primero para avisarnos de tus planes.
-- También puedes contribuir al informar de algún error o al hacer sugerencias, ya sea mediante la [creación de un _issue_ en GitHub](https://github.com/JaliscoComoVamos/ComoVotamos/issues) o [enviándonos un mensaje directo](https://jaliscocomovotamos.netlify.com/contacto.html).
+- También puedes contribuir al informar de algún error o al hacer sugerencias, ya sea mediante la [creación de un _issue_ en GitHub](https://github.com/JaliscoComoVamos/ComoVotamos/issues) o [enviándonos un mensaje directo](https://jaliscocomovotamos.netlify.app/contacto.html).
 
 
 ## ¡Reutiliza y adapta el código!
@@ -36,7 +36,7 @@ cd ComoVotamos
 
 Asegúrate de que tienes instalada la versión 2.4.5 de Ruby en tu computadora. También necesitarás instalar Jekyll. Visita los sitios oficiales de [Ruby](https://www.ruby-lang.org/es/downloads/) y [Jekyll](https://jekyllrb.com/docs/installation/) para más información.
 
-Si estás usando una Mac, los siguientes comandos del Terminal deben ser suficientes para hacer la configuración necesaria. Si notas algún error, por favor [avísanos](https://jaliscocomovotamos.netlify.com/contacto.html).
+Si estás usando una Mac, los siguientes comandos de la Terminal deben ser suficientes para hacer la configuración necesaria. Si notas algún error, por favor [avísanos](https://jaliscocomovotamos.netlify.app/contacto.html).
 
 ```bash
 # Eliminar versiones anteriores de Ruby
@@ -51,8 +51,9 @@ xcode-select --install
 # Instalar rbenv y ruby
 brew install rbenv
 rbenv init
-rbenv install 2.4.5
-rbenv global 2.4.5
+rbenv install 2.7.1
+rbenv global 2.7.1
+rbenv local 2.7.1
 
 # Instalar bundler y jekyll
 sudo gem install jekyll bundler
@@ -61,19 +62,14 @@ sudo gem install jekyll bundler
 rbenv rehash
 echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile
 echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
-
-# Reiniciar Terminal
-exec bash
 ```
+
+Finalmente, reincia la Terminal.
+
 
 ### 4. Instalar _gems_
 ```bash
 gem install bundler -v 1.17.3
-gem install commonmarker -v '0.17.13'
-gem install eventmachine -v '1.2.7'
-gem install http_parser.rb -v '0.6.0'
-gem install ffi -v '1.11.1'
-gem install github-pages
 bundle install
 bundle update
 ```
@@ -86,7 +82,7 @@ Una vez que Ruby, Jekyll y las _gems_ necesarias estén instalados correctamente
 jekyll serve -w
 ```
 
-If the above command doesn't work, you can also use:
+Si no funciona ese comando, también puedes usar:
 
 ```bash
 bundle exec jekyll serve
@@ -134,4 +130,4 @@ El sitio web está construido con las siguientes herramientas:
 
 ## Copyright
 
-Código original Copyright (c) 2016 DataMade. Código modificado Copyright (c) 2018-2019 Jalisco Cómo Vamos. Publicado bajo la [licencia MIT](https://github.com/JaliscoComoVamos/ComoVotamos/blob/master/LICENSE.txt).
+Código original Copyright (c) 2016 DataMade. Código modificado Copyright (c) 2018-2020 Jalisco Cómo Vamos. Publicado bajo la [licencia MIT](https://github.com/JaliscoComoVamos/ComoVotamos/blob/master/LICENSE.txt).
