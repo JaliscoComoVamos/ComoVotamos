@@ -333,7 +333,7 @@ var dataDist2015 = []
 var generoCongreso2018 = ["M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H"]
 var generoCongreso2015 = ["M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H"]
 
-d3.csv("/data/electos_municipios_2018.csv", function(data) {
+d3.csv("{{ '/data/electos_municipios_2018.csv' | relative_url }}", function(data) {
   data.forEach(function(d) {
     partidoDeMun[d.Municipio] = d.Partido; // Create property for each ID, give it value from Partido
     electoDeMun[d.Municipio] = d.Candidato_electo;
@@ -341,7 +341,7 @@ d3.csv("/data/electos_municipios_2018.csv", function(data) {
   });
 });
 
-d3.csv("/data/electos_distritos_2018.csv", function(data) {
+d3.csv("{{ '/data/electos_distritos_2018.csv' | relative_url }}", function(data) {
   data.forEach(function(d) {
     partidoDeDist[d.Tipo] = d.Partido; 
     electoDeDist[d.Tipo] = d.Candidato_electo;
@@ -349,7 +349,7 @@ d3.csv("/data/electos_distritos_2018.csv", function(data) {
     dataDist.push({"Tipo":d.Tipo, "Partido":d.Partido, "Género":d.Género});
   });
 });
-d3.csv("/data/electos_distritos_2015.csv", function(data) {
+d3.csv("{{ '/data/electos_distritos_2015.csv' | relative_url }}", function(data) {
   data.forEach(function(d) {
     dataDist2015.push({"Tipo":d.Tipo, "Partido":d.Partido, "Género":d.Género});
   });
@@ -407,7 +407,7 @@ svg.append('rect')
   .on('click', clicked);
 
 var map = svg.append('g');
-d3.json("/archivos_mapa/municipios_jalisco.geo.json", function(json) {
+d3.json("{{ '/archivos_mapa/municipios_jalisco.geo.json' | relative_url }}", function(json) {
   //draw map
   map.selectAll("path")
     .data(json.features).enter()
@@ -432,7 +432,7 @@ svg2.append('rect')
   .on('click', clicked_dist);
 
 var map2 = svg2.append('g');
-d3.json("/archivos_mapa/distritos_jalisco.geo.json", function(json) {
+d3.json("{{ '/archivos_mapa/distritos_jalisco.geo.json' | relative_url }}", function(json) {
   map2.selectAll("path")
     .data(json.features).enter()
     .append("path")

@@ -1,11 +1,11 @@
 port: 5000
 markdown: kramdown
 name: "Jalisco Cómo Votamos 2018"
-url: https://jaliscocomovotamos.netlify.com
+url: https://jaliscocomovamos.github.io
+baseurl: "/ComoVotamos"
 encoding: utf-8
 timezone: America/Mexico_City
 lang: es-MX
 description: "Conoce los resultados de las elecciones locales, estatales y nacionales en el estado de Jalisco, México. Ingresa tu dirección o haz clic en el mapa para conocer a las personas electas que te representarán en los diferentes órdenes de gobierno cuando empiezan las nuevas administraciones. Jalisco Cómo Votamos es un proyecto del observatorio ciudadano Jalisco Cómo Vamos."
 plugins_dir:
   - jekyll-redirect-from
-email: "vicki.foss@gmail.com"
