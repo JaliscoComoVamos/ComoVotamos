@@ -2,7 +2,7 @@ port: 5000
 markdown: kramdown
 name: "Jalisco Cómo Votamos 2021"
 url: https://jaliscocomovamos.github.io
-baseurl: "/ComoVotamos/"
+baseurl: "/ComoVotamos"
 encoding: utf-8
 timezone: America/Mexico_City
 lang: es-MX
