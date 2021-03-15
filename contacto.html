@@ -9,7 +9,7 @@ title: Contacto
 Se puede utilizar este formulario para informarnos si has encontrado algún error en nuestros datos, o si tienes alguna duda, sugerencia o comentario. Gracias.
 <br>
 
-    <br><form class="contact-form" method="POST">
+    <br><form class="contact-form" action="https://formspree.io/f/mdopqypq" method="POST">
         <label for="name" style="color:#333333; font-size: 18px">Nombre: </label><br>
         <input class="input" id="name" type="text" name="Nombre" title="Nombre" value="" placeholder="Tu nombre" style="color:#555555"/>
         <br/>
@@ -32,10 +32,3 @@ Se puede utilizar este formulario para informarnos si has encontrado algún erro
                 <input type="hidden" name="_format" value="plain" />
     </form><br><br><br><br><br>
 </div>
-<script>
-    var email = "{{ site.email | split: "" | reverse | join: "" }}";
-    var unraveledEmail = email.split("").reverse().join("");
-    var form = document.querySelector(".contact-form");
-        form.setAttribute("action", "https://formspree.io/f/mdopqypq" + unraveledEmail);
-</script>
-<noscript>Para contactarnos por medio de este formulario, por favor activa JavaScript en tu navegador.</noscript>
