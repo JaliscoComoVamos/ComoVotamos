@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang='es-MX'>
+  <head>
+    <title>
+      Jalisco Cómo Votamos 2018
+      
+    </title>
+    <meta charset='utf-8' />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+      <meta content="Conoce los resultados de las elecciones locales, estatales y nacionales en el estado de Jalisco, México. Ingresa tu dirección o haz clic en el mapa para conocer a las personas electas que te representarán en los diferentes órdenes de gobierno cuando empiezan las nuevas administraciones. Jalisco Cómo Votamos es un proyecto del observatorio ciudadano Jalisco Cómo Vamos." name='description' />
+    
+    <meta content="Jalisco Cómo Votamos 2018" name='author' />
+
+    <!-- Load CSS -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/custom.css">
+
+    <!-- Load font -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i">
+
+    <!-- Facebook metadata -->
+    <meta content="Jalisco Cómo Votamos 2018" property="og:site_name">
+    
+      <meta content="Jalisco Cómo Votamos 2018" property="og:title">
+    
+    
+      <meta content="website" property="og:type">
+    
+    
+      <meta content="Conoce los resultados de las elecciones locales, estatales y nacionales en el estado de Jalisco, México. Ingresa tu dirección o haz clic en el mapa para conocer a las personas electas que te representarán en los diferentes órdenes de gobierno cuando empiezan las nuevas administraciones. Jalisco Cómo Votamos es un proyecto del observatorio ciudadano Jalisco Cómo Vamos." property="og:description">
+    
+    
+      <meta content="http://localhost:5000/" property="og:url">
+    
+    
+    
+      <meta content="http://localhost:5000/images/jcv-snapshot.png" property="og:image">
+    
+    
+    
+
+    <!-- Twitter metadata -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="">
+    <meta name="twitter:creator" content="">
+    
+      <meta name="twitter:title" content="">
+    
+    
+      <meta name="twitter:url" content="http://localhost:5000/">
+    
+    
+      <meta name="twitter:description" content="Conoce los resultados de las elecciones locales, estatales y nacionales en el estado de Jalisco, México. Ingresa tu dirección o haz clic en el mapa para conocer a las personas electas que te representarán en los diferentes órdenes de gobierno cuando empiezan las nuevas administraciones. Jalisco Cómo Votamos es un proyecto del observatorio ciudadano Jalisco Cómo Vamos.">
+    
+    
+      <meta name="twitter:image:src" content="http://localhost:5000/images/jcv-snapshot.png">
+    
+
+
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.1/jquery.min.js"></script>
+      <script >
+        window.jQuery || document.write('<script src="js/vendor/jquery-2.0.1.min.js"><\/script>')
+      </script>
+      <script defer src="lib/jquery.address.js"></script>
+      <script defer src="lib/bootstrap.min.js"></script>
+
+    <!-- More JS libraries -->
+    <script defer src="lib/modernizr-2.6.2.min.js"></script>
+    <script defer src="lib/jquery.dataTables.min.js"></script>
+    <script defer src="lib/jquery.dataTables.sorting.js"></script>
+    <script defer src="lib/dataTables.bootstrap.js"></script>
+    <script defer src="lib/spin.min.js"></script>
+    <script defer src="lib/jquery.spin.js"></script>
+    <script defer src="lib/ejs_production.js"></script>
+
+    <!-- Gooogle Console -->
+    <meta name="google-site-verification" content="UKjzTK_AP7qNEn8Gl-tpCeqPxlHqjkxylCEPgEyK-vM" />
+
+    <!-- Font Awesome -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#1e4b7c">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <meta name="msapplication-TileColor" content="#333333">
+    <meta name="msapplication-config" content="/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Internet Explorer Compatibility -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Google Analytics -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-107378701-2', 'auto');
+    ga('send', 'pageview');
+    </script>
+    <!-- End Google Analytics -->
+
+    <!-- Map page only -->
+    
+      <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js'></script>
+      <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css' rel='stylesheet' />
+      
+      <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.min.js'></script>
+      <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.css' type='text/css' />
+      
+      <script src='//d3js.org/d3.v4.min.js'></script>
+      <script defer src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+      <script defer src='https://api.mapbox.com/mapbox.js/plugins/turf/v3.0.11/turf.min.js'></script>
+      <script defer src="js/new_lookup_tool.js"></script>
+    
+
+    <!-- Results page only -->
+    
+
+  </head>
+
+  <body> <div style="min-height: 100%; position: relative; margin: 0 auto -80px;">
+    <div class='main-content' style="height: 100%">
+      <div class="container-fluid">
+        <div class="feature">
+          <div class="stickyheader">
+            <ul class="nav nav-pills pull-right">
+              <li role="presentation"><span class="top-nav-buttons">&nbsp;<a href="/">
+                <i class='fa fa-home hidden-xs hidden-sm' title="Inicio"> </i> Inicio&nbsp;&nbsp;</a></span></li>
+              <li role="presentation"><span class="top-nav-buttons"><a href="/informacion">
+                <i class='fa fa-info-circle hidden-xs hidden-sm' title="Información"> </i> Información &nbsp;&nbsp;&nbsp;&nbsp;</a></span></li>
+              <li role="presentation"><span class="top-nav-buttons">&nbsp;<a href="/resultados#ver">
+                <svg class="hidden-xs hidden-sm" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 645 645" width="16" height="16"><title>chart icon</title><defs><path d="M443.52 73.48L600.8 73.48L600.8 594.72L443.52 594.72L443.52 73.48Z" id="b9dELYTZy"></path><path d="M645.12 594.72L645.12 644.8L0 644.8L0 594.72L645.12 594.72Z" id="a9KTo8m3Y"></path><path d="M245.92 267.12L403.2 267.12L403.2 594.72L245.92 594.72L245.92 267.12Z" id="c34xFJYGO"></path><path d="M44.32 376.12L201.6 376.12L201.6 594.72L44.32 594.72L44.32 376.12Z" id="a42Ma3icC3"></path></defs><g><g><g><use xlink:href="#b9dELYTZy" opacity="1" fill-opacity="1"></use><g><use xlink:href="#b9dELYTZy" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="1"></use></g></g><g><use xlink:href="#a9KTo8m3Y" opacity="1" fill-opacity="1"></use><g><use xlink:href="#a9KTo8m3Y" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#c34xFJYGO" opacity="1" fill-opacity="1"></use><g><use xlink:href="#c34xFJYGO" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="1"></use></g></g><g><use xlink:href="#a42Ma3icC3" opacity="1" fill-opacity="1"></use><g><use xlink:href="#a42Ma3icC3" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="1"></use></g></g></g></g></svg>
+                 Resultados </a></span></li>
+            </ul>
+          </div>
+
+          <br />
+          <br />
+
+          <div class='text-center' style="font-weight:normal">
+              <h1><a href='/'>Jalisco Cómo Votamos 2018</a></h1>
+              <div class="container-fluid text-center">
+                <p class='lead' style="color: #E8E5DB">
+                Conoce los resultados de las elecciones locales, estatales y nacionales.</p>
+              </div>
+          </div>
+        </div>
+        <form>
+    <input id="mi_distrito_placeholder_2" onchange="getCandidates(); showResults()" type="hidden">
+    <input id="mi_municipio_placeholder_2" onchange="getCandidates(); showResults()" type="hidden">
+</form>
+
+<div class="row" style="width: 100%; margin:0 auto; margin-bottom: 10px">
+        <h2 class='text-center intro'>Ingresa tu dirección o haz clic en el mapa para conocer a las personas electas que te representarán en los diferentes órdenes de gobierno cuando empiezan las nuevas administraciones.<br></h2>
+</div>
+<div id='map'></div>
+<div class='text-center' id='map-error' 
+    style='width: 70%; margin:0 auto; font-size: 20px; display: none; background: #F9D333; color: #000000'>
+   <br><b>ERROR: ¡No se puede mostrar el mapa! Parece que tu navegador o tu tarjeta gráfica no es compatible con <a href="https://www.khronos.org/webgl/" style="color: #0000FF">WebGL</a>. Descubre cómo arreglarlo <a href="http://get.webgl.org/" style="color: #0000FF">aquí</a>.</b><br>&nbsp;
+</div>
+<div class="row candidate-list">
+    <div class='col-md-10 col-md-offset-1'>
+        <div class='text-center' id='no-response-container' style="display:none;">
+            <h2 style="color:#EA4233">No se encontraron candidatos.</h2>
+            <p>No pudimos encontrar ningún candidato para esa dirección. Verifica que la dirección
+            ingresada esté dentro de Jalisco, México e intenta de nuevo.</p>
+        </div>
+        <div id='response-container' style="display:none;">
+            <div style="color:#3F626B; font-size: 18px;">
+                <p class='text-center'><br><b>Esta ubicación pertenece al Distrito Electoral Federal y Local de Jalisco número <span id="mi_distrito_placeholder">__</span> y el municipio de 
+                <span id="mi_municipio_placeholder">__</span>.<br><br></b></p>
+            </div>
+            <div class='row filter_level' style='width: 86%; margin:0 auto;'>
+                <p class='text-center' style="font-size: 19px; color: #555"><b>Mostrar candidatos a:</b><br>
+                <label><input checked="checked" id="show_alcalde_results" onchange="showResults()" type="checkbox" value="alcalde">
+                Alcalde</label> 
+                <label><input checked="checked" id="show_dl_results" onchange="showResults()"
+                type="checkbox" value="dl"> Diputado Local</label> 
+                <label><input checked="checked" id=
+                "show_gobernador_results" onchange="showResults()" type="checkbox" value="gobernador">
+                Gobernador</label> 
+                <label><input checked="checked" id=
+                "show_df_results" onchange="showResults()" type="checkbox" value="df"> Diputado Federal</label>
+                <label><input checked="checked" id="show_senador_results" onchange="showResults()" type=
+                "checkbox" value="senador"> Senador</label> 
+                <label><input checked="checked" id="show_presidente_results" onchange=
+                "showResults()" type="checkbox" value="presidente"> Presidente</label><br></p>
+            </div>
+            <div style='width: 95%; margin:0 auto;'>
+                <p class="lead2 text-center" id='results-nav' style="color:#3d626b;">
+                <br><b>Candidaturas locales: &nbsp;</b> 
+                <span id='alcalde-nav' style="display:none;"> <a href="#alcalde-global-container" id=
+                "alcalde-name-nav">Presidencia Municipal</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span> 
+                <span id=
+                'dl-nav'><a href="#dl-name" id="dl-name-nav">Diputación Local</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;|</span> 
+                <span id='gobernador-nav'><a href="#gobernador-name" id="gobernador-name-nav">Gobernador de
+                Jalisco</a></span><br>
+                <b>Candidaturas federales: &nbsp;</b> 
+                <span id='df-nav'> <a href="#df-name" id="df-name-nav">Diputación Federal</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span>
+                <span id='senador-nav'><a href="#senador-name" id=
+                "senador-name-nav">Senaduría</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span>
+                <span id='presidente-nav'><a href="#presidente-name" 
+                id="presidente-name-nav">Presidencia de la República</a></span></p>
+            </div>
+
+            <div id='alcalde-global-container'>
+                <div class='text-center' id='alcalde-container-not-found' style='display: none;'><br>
+                    <h3 class='text-center' id="alcalde-name-not-found">Presidencia Municipal</h3>
+                    <p><b>No encontramos ningún candidato a presidente municipal para esta ubicación.</b> </p><p style="text-align: left" class="small">
+                        Actualmente tenemos la lista completa de candidatos a presidente municipal en Autlán, Chapala, El Grullo, El Salto, Guadalajara, Hostotipaquillo, Ixtlahuacán de los Membrillos, La Barca, La Huerta, Lagos de Moreno, Ocotlán, Puerto Vallarta, San Juan de los Lagos, Tala, Tecolotlán, Tepatitlán, Tequila, Tlajomulco, Tlaquepaque, Tonalá, Tototlán, Unión de Tula, Zapopan, Zapotlanejo y Zapotlán el Grande.</p> <p class="small" style="text-align: left">Si deseas que agreguemos información para otro municipio, <a href="/contacto">envíanos una solicitud</a> y haremos todo lo posible para actualizar nuestra base de datos. Igual, si tu dirección pertenece a uno de los municipios mencionados, nos ayudaría si <a href="/contacto">nos avisaras del error</a> para arreglarlo. ¡Gracias!</p> 
+                </div>
+                <div id='alcalde-container'>
+                    <h3 class='text-center' id="alcalde-name">Presidencia Municipal de <span id="mi_municipio_placeholder_3">__</span></h3>
+                    <table class="table table-striped table-responsive" id="alcalde-results">
+                        <thead>
+                            <tr>
+                                <th><i class='fa fa-user' title="icon persona"></i> Candidato</th>
+                                <th><i class='fa fa-certificate' title="icon partido"></i> Partido</th>
+                                <th><img src="fonts/external-link.svg" alt="external-link" style="width: 15px"> Enlaces</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                    <div class='text-center'>
+                        <a href="/informacion#alcalde">Conoce las funciones de un presidente municipal.</a><br>
+                        <a href="http://jaliscocomovamos.org/ofertodromo/presidentes-municipales" target="_blank">Consulta las promesas de campaña de las y los candidatos a presidentes municipales.</a>
+                    </div>
+                </div>
+            </div>
+            <div class='text-center' id='dl-container-not-found' style='display: none;'>
+                <div class='text-center' id="dl-name-not-found"></div>
+                <p>No pudimos encontrar ningún candidato para esa dirección.</p>
+            </div>
+            <div id='dl-container'>
+                <br>
+                <h3 class='text-center' id="dl-name">Diputación Local del Distrito <span id="dl_placeholder_1">__</span></h3>
+                <table class="table table-striped table-responsive" id="dl-results">
+                    <thead>
+                        <tr>
+                            <th><i class='fa fa-user' title="icon persona"></i> Candidato</th>
+                                <th><i class='fa fa-certificate' title="icon partido"></i> Partido</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" style="width: 15px"> Enlaces</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+                <div class='text-center'>
+                    <a href="/informacion#diputado-local">Conoce las funciones de un diputado local.</a><br>
+                    <a href="http://jaliscocomovamos.org/ofertodromo/diputado-local" target="_blank">Consulta las promesas de campaña de las y los candidatos a diputados locales.</a>
+                </div>
+            </div>
+            <div class='text-center' id='gobernador-container-not-found' style='display: none;'>
+                <div class='text-center' id="gobernador-name-not-found"></div>
+                <p>No pudimos encontrar ningún candidato para esa dirección.</p>
+            </div>
+            <div id='gobernador-container'>
+                <br>
+                <h3 class='text-center' id="gobernador-name">Gobernador de Jalisco</h3>
+                <table class="table table-striped table-responsive" id="gobernador-results">
+                    <thead>
+                        <tr>
+                            <th><i class='fa fa-user' title="icon persona"></i> Candidato</th>
+                                <th><i class='fa fa-certificate' title="icon partido"></i> Partido</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" style="width: 15px"> Enlaces</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+                <div class='text-center'>
+                    <a href="/informacion#gobernador">Conoce las funciones del gobernador de Jalisco.</a><br>
+                    <a href="http://jaliscocomovamos.org/ofertodromo/gobernador" target="_blank">Consulta las promesas de campaña de las y los candidatos a gobernador.</a>
+                </div>
+            </div>
+            <div class='text-center' id='df-container-not-found' style='display: none;'>
+                <div class='text-center' id="df-name-not-found"></div>
+                <p>No pudimos encontrar ningún candidato para esa dirección.</p>
+            </div>
+            <div id='df-container'>
+                <br>
+                <h3 class='text-center' id="df-name">Diputación Federal del Distrito <span id="df_placeholder_1">__</span> de Jalisco</h3>
+                <table class="table table-striped table-responsive" id="df-results">
+                    <thead>
+                        <tr>
+                            <th><i class='fa fa-user' title="icon persona"></i> Candidato</th>
+                            <th><i class='fa fa-certificate' title="icon partido"></i> Partido</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" style="width: 15px"> Enlaces</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+                <div class='text-center'>
+                    <a href="/informacion#diputado-federal">Conoce las funciones de un diputado federal.</a><br>
+                    <a href="http://jaliscocomovamos.org/ofertodromo/diputado-federal" target="_blank">Consulta las promesas de campaña de las y los candidatos a diputados federales.</a>
+                </div>
+            </div>
+            <div class='text-center' id='senador-container-not-found' style='display: none;'>
+                <div class='text-center' id="senador-name-not-found"></div>
+                <p>No pudimos encontrar ningún candidato para esa dirección.</p>
+            </div>
+            <div id='senador-container'>
+                <br>
+                <h3 class='text-center' id="senador-name">Senaduría de la República por el Estado de Jalisco</h3>
+                <table class="table table-striped table-responsive" id="senador-results">
+                    <thead>
+                        <tr>
+                            <th><i class='fa fa-user' title="icon persona"></i> Candidato</th>
+                            <th><i class='fa fa-certificate' title="icon partido"></i> Partido</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" style="width: 15px"> Enlaces</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+                <div class='text-center'>
+                    <a href="/informacion#senador">Conoce las funciones de un senador.</a><br>
+                    <a href="http://jaliscocomovamos.org/ofertodromo/senador" target="_blank">Consulta las promesas de campaña de las y los candidatos a senadores.</a>
+                </div>
+            </div><br>
+            <div id='presidente-container'>
+                <h3 class='text-center' id='presidente-name'>Presidencia de la República</h3>
+                <table class="table table-striped table-responsive" id="presidente-results">
+                    <thead>
+                        <tr>
+                            <th><i class='fa fa-user' title="icon persona"></i> Candidato</th>
+                            <th><i class='fa fa-certificate' title="icon partido"></i> Partido</th>
+                            <th><img src="fonts/external-link.svg" alt="external-link" style="width: 15px"> Enlaces</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+                <div class='text-center'>
+                    <a href="/informacion#presidente">Conoce las funciones del presidente de la república.</a><br>
+                    <a href="http://jaliscocomovamos.org/ofertodromo/presidente" target="_blank">Consulta las promesas de campaña de las y los candidatos a presidente.</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    <p><br></p>
+</div>
+<hr>
+
+<div class='row'>
+    <div class='col-md-5 col-md-offset-2'>
+        <br>
+        <h2>Acerca de</h2>
+        <div class='about'>
+            <p><span style="font-weight: bold; font-style: italic;">Jalisco Cómo Votamos</span>&nbsp; es un proyecto del observatorio ciudadano <a href="http://jaliscocomovamos.org" target="_blank">Jalisco Cómo Vamos</a>. Antes de las elecciones de 1 de julio, era una herramienta para conocer a las y los candidatos que se encontrarían en tu boleta, basado en tu dirección de credencial para votar. Ahora sirve como portal para conocer a quiénes te representarán en los diferentes órdenes de gobierno cuando empiezan las nuevas administraciones. Aquí también puedes consultar, explorar y analizar <a href="/resultados#ver">los resultados</a> de estas elecciones.</p>  <p><span style="font-weight: bold; font-style: italic;">Jalisco Cómo Votamos</span>&nbsp; es una de las dos plataformas que Jalisco Cómo Vamos está manejando este proceso electoral y que pone al servicio de la comunidad. La segunda plataforma, el <a href="http://jaliscocomovamos.org/ofertodromo" target="_blank">Ofertódromo</a>, recopila las ofertas y promesas de campaña de las y los candidatos para consulta ciudadana.</p>
+            <p style="font-size: 18px"><a href="/informacion">Más información
+            sobre este proyecto y el proceso electoral &raquo;</a></p><br> 
+            
+        </div>
+    </div><br><br>
+    <div class='col-md-3 hidden-xs hidden-sm'><img alt='Jalisco' src=
+    '/images/jalisco.png' style='height: 300px; width: 329px;' title='Jalisco'></div>
+</div><br>
+<div><br>
+<br>&nbsp;<br/>&nbsp;<br/>
+<br></div>
+
+
+<script>
+// Reload to top of page
+window.onload=function() {
+  setTimeout(function() {
+    window.scrollTo(0, 0);
+  }, 0);
+};
+
+// List municipios
+var all_municipios = [];
+$.getJSON("data/lista_municipios.json", function(data) {
+        for (i = 0; i < data.length; i++) {
+            all_municipios.push(data[i].Name)
+        };
+});
+
+$(function() {
+      results_level = ['alclade', 'dl', 'df', 'senador', 'gobernador', 'presidente'];
+      
+      // set levels of government checkboxes
+      if (results_level.indexOf("alcalde") >= 0)
+        $('#show_alcalde_results').prop('checked', true);
+      if (results_level.indexOf("dl")  >= 0)
+        $('#show_dl_results').prop('checked', true);
+      if (results_level.indexOf("df")  >= 0)
+        $('#show_df_results').prop('checked', true);
+      if (results_level.indexOf("senador")  >= 0)
+        $('#show_senador_results').prop('checked', true);
+      if (results_level.indexOf("gobernador")  >= 0)
+        $('#show_gobernador_results').prop('checked', true);
+      if (results_level.indexOf("presidente")  >= 0)
+        $('#show_presidente_results').prop('checked', true);
+
+      $("#results-nav a").click(function(e) {
+        e.preventDefault();
+        var scroll_to = $($("#" + e.target.id).attr('href'));
+        $('html, body').animate({
+            scrollTop: scroll_to.offset().top
+        }, 1000);
+      });
+
+    $('#mi_distrito_placeholder_2').on('DOMSubtreeModified', function(e){
+        e.preventDefault();
+        $('html, body').animate({
+                scrollTop: $("#map").offset().top
+            }, 1000);
+    });
+
+});
+
+
+
+
+// Check that WebGL was able to load, if not, throw error
+try { 
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZm9zc3ZpY2siLCJhIjoiY2l1dHpvZjMyMDF5NTJ5b2U4dml3OXl4NSJ9.nfzJubKqRYD5mfehv_qMxg';
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/fossvick/cjfrrbe7k6dkf2rqxi4ctqcnr',
+        center: [-103.346497, 20.676242], // starting position
+        zoom: 7,
+    });
+} catch(err) {
+        $('#map').hide();
+        $('#map-error').show();
+}
+
+var colors = ["#911eb4", "#46f0f0", "#f032e6", "#d2f53c", "#fabebe",
+"#008080", "#e6beff", "#aa6e28", "#000080", "#800000",
+"#aaffc3", "#808000", "#ffd8b1", "#3cb44b", "#808080",
+"#e6194b", "#fffac8", "#ffe119", "#0082c8", "#f58231",];
+
+// create an empty array to keep track of popups
+var popups = [];
+
+map.on('load', function() {
+    d3.json('archivos_mapa/municipios_y_distritos_jalisco.geojson', function(data) {
+        let geocoder2 = new MapboxGeocoder({
+            accessToken: mapboxgl.accessToken,
+            countries: 'mx',
+            language: 'es',
+            placeholder: 'Buscar',
+            limit: 6,
+            mapboxgl: mapboxgl
+        });
+        map.addControl(geocoder2);
+        map.addControl(new mapboxgl.NavigationControl());
+        geocoder2.on('result', function(res) {
+            $('#no-response-container').hide();
+            $("#response-container").show();
+            if (popups.length > 0) {
+                //remove all the popups from the map if they already exist
+                popups.forEach(function(popup) {
+                    popup.remove();
+                });
+            }
+            // put lat / lon into a turf point (just for a shorter variable name)
+            let pt = turf.point(res.result.geometry.coordinates);
+            // iterate through multipolygons to see which one point is inside
+            data.features.forEach(function(feature) {
+                // turf.inside is a method to check whether a point is inside a polygon
+                if (turf.inside(pt, feature)) {
+                    if (/\d/.test(feature.properties.Name.slice())) { 
+                        mi_distrito = feature.properties.Name.slice().replace(/\D/g, '')
+                    } else {
+                        mi_municipio = feature.properties.Name.slice()
+                    }
+                }
+            });
+            searchedPopup = new mapboxgl.Popup().setLngLat(pt.geometry.coordinates).setHTML("<br>" +
+                    mi_municipio + "<br>Distrito " + mi_distrito).addTo(map);
+            popups.push(searchedPopup);
+            document.getElementById("mi_distrito_placeholder").innerHTML = mi_distrito;
+            document.getElementById("mi_distrito_placeholder_2").innerHTML = mi_distrito;
+            document.getElementById("dl_placeholder_1").innerHTML = mi_distrito;
+            document.getElementById("df_placeholder_1").innerHTML = mi_distrito;
+            document.getElementById("mi_municipio_placeholder").innerHTML = mi_municipio;
+            document.getElementById("mi_municipio_placeholder_2").innerHTML = mi_municipio;
+            document.getElementById("mi_municipio_placeholder_3").innerHTML = mi_municipio;
+            getCandidates();
+            map.flyTo({
+                center: pt.geometry.coordinates,
+                zoom: 13.5,
+                speed: 10
+            });      
+        });
+        map.addSource('jalisco', {
+            type: 'geojson',
+            data: data
+        });
+        map.addLayer({
+            'id': 'jalisco',
+            'type': 'fill',
+            'source': 'jalisco',
+            'paint': {
+                'fill-opacity': 0
+            }
+        });
+    });
+    d3.json('archivos_mapa/distritos_jalisco.geojson', function(data2) {
+        data2.features.forEach((distrito, index) => {
+            map.addSource(distrito.properties.Name, {
+                type: 'geojson',
+                data: distrito
+            });
+            // just add this layer for the colors
+            map.addLayer({
+                'id': distrito.properties.Name,
+                'type': 'fill',
+                'source': distrito.properties.Name,
+                'paint': {
+                    'fill-color': colors[index],
+                    'fill-opacity': 0.35
+                }
+            });
+        })
+    })
+})
+
+map.on('click', 'jalisco', function (e) {
+    clickedPopup = new mapboxgl.Popup()
+        .setLngLat(e.lngLat)
+        .setHTML("<br>" + e.features.map(function(feature) { return feature.properties.Name; }).join('<br>'))
+        .addTo(map);
+    if (popups.length > 0) {
+        //remove all the popups from the map if they already exist
+        popups.forEach(function(popup) {
+            popup.remove();
+        });
+    }
+    popups.push(clickedPopup);
+    mi_distrito = e.features.map(function(feature) { return feature.properties.Name; })[1].slice().replace(/\D/g, '');
+    mi_municipio = e.features.map(function(feature) { return feature.properties.Name; })[0].slice();
+    document.getElementById("mi_distrito_placeholder").innerHTML = mi_distrito;
+    document.getElementById("mi_distrito_placeholder_2").innerHTML = mi_distrito;
+    document.getElementById("dl_placeholder_1").innerHTML = mi_distrito;
+    document.getElementById("df_placeholder_1").innerHTML = mi_distrito;
+    document.getElementById("mi_municipio_placeholder").innerHTML = mi_municipio;
+    document.getElementById("mi_municipio_placeholder_2").innerHTML = mi_municipio;
+    document.getElementById("mi_municipio_placeholder_3").innerHTML = mi_municipio;
+    $('#no-response-container').hide();
+    $("#response-container").show();
+    getCandidates();
+});
+
+map.on('mouseenter', 'jalisco', function() {
+    // Change the cursor style as a UI indicator.
+    map.getCanvas().style.cursor = 'pointer';
+})
+map.on('mouseleave', 'jalisco', function() {
+    // Change the cursor style back as a UI indicator.
+    map.getCanvas().style.cursor = '';
+});
+
+
+</script>
+
+      </div>
+    </div>
+    <div class='clearfix' ></div>
+    <div class="container-fluid"  style="background: #2A4147; bottom:0; position: absolute; min-height: 80px">
+      <div class="row" id="footer">
+        <div class='col-md-10 col-md-offset-1'>
+          <p class='text-center small' style="padding-top: 10px">© 2018-2021 Jalisco Cómo Vamos, Observatorio Ciudadano de Calidad de Vida</p>
+            <p class='text-center'><span style="font-size: 18px">
+              <a href="http://jaliscocomovamos.org" target='_blank'> <i class='fas fa-globe' title="Sitio web Jalisco Cómo Vamos"></i> </a> &nbsp;&nbsp; 
+              <a href='https://twitter.com/jaliscomovamos' target='_blank'><i class='fab fa-twitter' title="Twitter Jalisco Cómo Vamos"></i></a> &nbsp;&nbsp; 
+              <a href='https://www.facebook.com/jaliscomovamos' target='_blank'><i class='fab fa-facebook' title="Facebook Jalisco Cómo Vamos"></i></a> &nbsp;&nbsp; 
+              <a href='https://www.instagram.com/jaliscomovamos/' target='_blank'><i class='fab fa-instagram' title="Instagram Jalisco Cómo Vamos"></i></a> &nbsp;&nbsp; 
+              <a href='https://github.com/JaliscoComoVamos/' target='_blank'><i class='fab fa-github' title="GitHub Jalisco Cómo Vamos"></i></a> &nbsp;&nbsp;| &nbsp;&nbsp;</span><span class='small'><a href="/contacto">Contacto</a></span></p>
+        </div>
+      </div>
+    </div>
+  </div></body>
+</html>

@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang='es-MX'>
+  <head>
+    <title>
+      Jalisco Cómo Votamos 2018
+      
+        - Resultados 
+      
+    </title>
+    <meta charset='utf-8' />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+      <meta content="Conoce los resultados de las elecciones locales, estatales y nacionales en el estado de Jalisco, México. Ingresa tu dirección o haz clic en el mapa para conocer a las personas electas que te representarán en los diferentes órdenes de gobierno cuando empiezan las nuevas administraciones. Jalisco Cómo Votamos es un proyecto del observatorio ciudadano Jalisco Cómo Vamos." name='description' />
+    
+    <meta content="Jalisco Cómo Votamos 2018" name='author' />
+
+    <!-- Load CSS -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/custom.css">
+
+    <!-- Load font -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i">
+
+    <!-- Facebook metadata -->
+    <meta content="Jalisco Cómo Votamos 2018" property="og:site_name">
+    
+      <meta content="Jalisco Cómo Votamos 2018 - Resultados" property="og:title">
+    
+    
+      <meta content="article" property="og:type">
+    
+    
+      <meta content="Conoce los resultados de las elecciones locales, estatales y nacionales en el estado de Jalisco, México. Ingresa tu dirección o haz clic en el mapa para conocer a las personas electas que te representarán en los diferentes órdenes de gobierno cuando empiezan las nuevas administraciones. Jalisco Cómo Votamos es un proyecto del observatorio ciudadano Jalisco Cómo Vamos." property="og:description">
+    
+    
+      <meta content="http://localhost:5000/resultados.html" property="og:url">
+    
+    
+    
+      <meta content="http://localhost:5000/images/jcv-resultados.png" property="og:image">
+    
+    
+    
+
+    <!-- Twitter metadata -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="">
+    <meta name="twitter:creator" content="">
+    
+      <meta name="twitter:title" content="Jalisco Cómo Votamos 2018 - Resultados">
+    
+    
+      <meta name="twitter:url" content="http://localhost:5000/resultados.html">
+    
+    
+      <meta name="twitter:description" content="Conoce los resultados de las elecciones locales, estatales y nacionales en el estado de Jalisco, México. Ingresa tu dirección o haz clic en el mapa para conocer a las personas electas que te representarán en los diferentes órdenes de gobierno cuando empiezan las nuevas administraciones. Jalisco Cómo Votamos es un proyecto del observatorio ciudadano Jalisco Cómo Vamos.">
+    
+    
+      <meta name="twitter:image:src" content="http://localhost:5000/images/jcv-resultados.png">
+    
+
+
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.1/jquery.min.js"></script>
+      <script >
+        window.jQuery || document.write('<script src="js/vendor/jquery-2.0.1.min.js"><\/script>')
+      </script>
+      <script defer src="lib/jquery.address.js"></script>
+      <script defer src="lib/bootstrap.min.js"></script>
+
+    <!-- More JS libraries -->
+    <script defer src="lib/modernizr-2.6.2.min.js"></script>
+    <script defer src="lib/jquery.dataTables.min.js"></script>
+    <script defer src="lib/jquery.dataTables.sorting.js"></script>
+    <script defer src="lib/dataTables.bootstrap.js"></script>
+    <script defer src="lib/spin.min.js"></script>
+    <script defer src="lib/jquery.spin.js"></script>
+    <script defer src="lib/ejs_production.js"></script>
+
+    <!-- Gooogle Console -->
+    <meta name="google-site-verification" content="UKjzTK_AP7qNEn8Gl-tpCeqPxlHqjkxylCEPgEyK-vM" />
+
+    <!-- Font Awesome -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#1e4b7c">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <meta name="msapplication-TileColor" content="#333333">
+    <meta name="msapplication-config" content="/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Internet Explorer Compatibility -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Google Analytics -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-107378701-2', 'auto');
+    ga('send', 'pageview');
+    </script>
+    <!-- End Google Analytics -->
+
+    <!-- Map page only -->
+    
+
+    <!-- Results page only -->
+    
+      <script src="https://d3js.org/d3.v3.min.js"></script>
+    
+
+  </head>
+
+  <body> <div style="min-height: 100%; position: relative; margin: 0 auto -80px;">
+    <div class='main-content' style="height: 100%">
+      <div class="container-fluid">
+        <div class="feature">
+          <div class="stickyheader">
+            <ul class="nav nav-pills pull-right">
+              <li role="presentation"><span class="top-nav-buttons">&nbsp;<a href="/">
+                <i class='fa fa-home hidden-xs hidden-sm' title="Inicio"> </i> Inicio&nbsp;&nbsp;</a></span></li>
+              <li role="presentation"><span class="top-nav-buttons"><a href="/informacion">
+                <i class='fa fa-info-circle hidden-xs hidden-sm' title="Información"> </i> Información &nbsp;&nbsp;&nbsp;&nbsp;</a></span></li>
+              <li role="presentation"><span class="top-nav-buttons">&nbsp;<a href="/resultados#ver">
+                <svg class="hidden-xs hidden-sm" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 645 645" width="16" height="16"><title>chart icon</title><defs><path d="M443.52 73.48L600.8 73.48L600.8 594.72L443.52 594.72L443.52 73.48Z" id="b9dELYTZy"></path><path d="M645.12 594.72L645.12 644.8L0 644.8L0 594.72L645.12 594.72Z" id="a9KTo8m3Y"></path><path d="M245.92 267.12L403.2 267.12L403.2 594.72L245.92 594.72L245.92 267.12Z" id="c34xFJYGO"></path><path d="M44.32 376.12L201.6 376.12L201.6 594.72L44.32 594.72L44.32 376.12Z" id="a42Ma3icC3"></path></defs><g><g><g><use xlink:href="#b9dELYTZy" opacity="1" fill-opacity="1"></use><g><use xlink:href="#b9dELYTZy" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="1"></use></g></g><g><use xlink:href="#a9KTo8m3Y" opacity="1" fill-opacity="1"></use><g><use xlink:href="#a9KTo8m3Y" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#c34xFJYGO" opacity="1" fill-opacity="1"></use><g><use xlink:href="#c34xFJYGO" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="1"></use></g></g><g><use xlink:href="#a42Ma3icC3" opacity="1" fill-opacity="1"></use><g><use xlink:href="#a42Ma3icC3" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="1"></use></g></g></g></g></svg>
+                 Resultados </a></span></li>
+            </ul>
+          </div>
+
+          <br />
+          <br />
+
+          <div class='text-center' style="font-weight:normal">
+              <h1><a href='/'>Jalisco Cómo Votamos 2018</a></h1>
+              <div class="container-fluid text-center">
+                <p class='lead' style="color: #E8E5DB">
+                Conoce los resultados de las elecciones locales, estatales y nacionales.</p>
+              </div>
+          </div>
+        </div>
+        <style>
+  .background {
+    fill: none;
+    pointer-events: all;
+  }
+
+  .container1 {
+    width: 86%;
+    margin:0 auto;
+  }
+
+  .map-layer {
+    fill: #fff;
+    stroke: #ccc;
+  }
+
+  .big-text {
+    font-size: 1.5em;
+    line-height: 1;
+    color: #333;
+  }
+  .candidate-text {
+    font-size: 1.3em;
+    color: #333;
+  }
+  .filler-text {
+    font-size: 1.3em;
+  }
+
+  div.tooltip { 
+    position: absolute;     
+    text-align: center; 
+    top: 50%;    
+    width: 120px;          
+    height: 30px;         
+    padding: 2px;       
+    font: 13px;  
+    line-height: 1;  
+    background: #fff; 
+    border: 1px solid #555;   
+    border-radius: 4px;     
+    pointer-events: none;
+    display: flex;
+    justify-content:center;
+    align-content:center;
+    flex-direction:column; 
+    color: #000;
+  }
+
+  path:hover {
+    cursor: pointer;
+  }
+
+  /* Create two columns that float next to each other */
+  .column {
+      float: left;
+  }
+
+  .row-new {
+    width: 100%;
+  }
+
+  /* Clear floats after the columns */
+  .row-new:after {
+      content: "";
+      display: table;
+      clear: both;
+  }
+
+  .left, .right2 {
+      width: 22%;
+      color: #333;
+      padding: 10px;
+  }
+  .right, .left2 {
+      width: 78%;
+      padding: 0;
+  }
+  .left3, .right3 {
+    width: 50%;
+    padding: 0 1% 0 1%;
+    margin-top: 0;
+  }
+
+  .my-legend .legend-scale ul {
+    margin: 0;
+    margin-bottom: 5px;
+    padding: 0;
+    float: left;
+    list-style: none;
+    }
+  .my-legend .legend-scale ul li {
+    font-size: 85%;
+    list-style: none;
+    margin-left: 0;
+    line-height: 1.6;
+    margin-bottom: 2px;
+    }
+  .my-legend ul.legend-labels li span {
+    display: block;
+    float: left;
+    height: 16px;
+    width: 25px;
+    margin-right: 5px;
+    margin-left: 0;
+    }
+  .left-legend, .right-legend {
+          width: 100%;
+      }
+  .bigmapcontainer {
+    border: 1px solid #555;
+    border-radius: 5px; 
+    width: 86%;
+    margin:0 auto;
+  }
+  #svgmap_municipios, #svgmap_distritos {
+    text-align: center!important;
+    background: #fcfcfc;
+  }
+  #blocks, #blocks2015 { 
+    margin:0 auto;
+    text-align: center!important;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: -15px;
+  }
+
+  @media screen and (max-width: 700px) {
+      .column {
+          width: 100%;
+      }
+      .left-legend {
+          width: 55%;
+      }
+      .right-legend {
+          width: 45%;
+      }
+      .bigmapcontainer {
+        width: 98%;
+      }
+      .map-layer {
+        stroke: none;
+      }
+  }
+</style>
+
+<!-- CONTENT -->
+  <div class="row text-center" id='ver'> <br>
+    <h2>Ver resultados por municipio según:</h2>
+    <form>
+      <input type="radio" name="tipo_mun" value="mun_partido" id="mun_partido" checked="checked"> Partido &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      <input type="radio" name="tipo_mun" value="mun_genero"> Género 
+      <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -->
+  <!--     <input type="radio" name="tipo_mun" value="mun_participacion"> Participación Ciudadana -->
+    </form><br>
+  </div>
+  <div class="bigmapcontainer">
+    <div class="row-new container1" style="background: #eee">
+      <div class="column left my-legend long" id="legend_municipios">
+      </div>
+      <div class="column right"><div id="svgmap_municipios"></div></div>
+    </div>
+    <div class="row-new text-center" id="map_info" style="background-color:#eee;">
+      <span id="placeholder" class="big-text"><br>Haz clic en algún municipio para ver más información.<br></span>
+      <span id="placeholder2" class="filler-text" style="visibility: hidden">_</span>
+      <span id="placeholder3" class="candidate-text" style="visibility: hidden">_</span>
+      <span id="placeholder4" class="filler-text" style="visibility: hidden">_</span>
+    </div>
+  </div>
+  <br>
+  <div style="background: #2A4147; width: 100%"><br>
+    <div class="row text-center">
+      <h2 style="color: #eee">Ver resultados por distrito electoral local según:</h2>
+      <form style="color: #eee">
+        <input type="radio" name="tipo_dist" value="dist_partido" id="dist_partido" checked="checked"> Partido &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+        <input type="radio" name="tipo_dist" value="dist_genero"> Género 
+        <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   -->
+  <!--       <input type="radio" name="tipo_dist" value="dist_participacion"> Participación Ciudadana -->
+      </form><br>
+    </div>
+    <div class="bigmapcontainer">
+      <div class="row-new" style="background: #eee">
+        <div class="column left my-legend long" id="legend_distritos">
+        </div>
+        <div class="column right"><div id="svgmap_distritos"></div></div>
+      </div>
+      <div class="row-new text-center" id="map_info" style="background-color:#eee;">
+        <span id="d_placeholder" class="big-text"><br>Haz clic en algún distrito para ver más información.<br></span>
+        <span id="d_placeholder2" class="filler-text" style="visibility: hidden">_</span>
+        <span id="d_placeholder3" class="candidate-text" style="visibility: hidden">_</span>
+        <span id="d_placeholder4" class="filler-text" style="visibility: hidden">_</span>
+      </div>
+    </div><br>
+  </div>
+  <br>
+  <div class="row text-center">
+    <h2 id='ver'>Así quedará la LXII Legislatura del Estado de Jalisco (2018-2021)...</h2><br>
+  </div>
+  <div class="container1">
+    <div class="row-new">
+        <div class="column left2 text-center" id="blocks">
+          <p style="font-size: 1.3em; color: #3F626B">Ver resultados según:</p>
+          <form>
+            <input type="radio" name="tipo_congreso" value="congreso_partido" id="congreso_partido" checked="checked"> Partido &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+            <input type="radio" name="tipo_congreso" value="congreso_genero"> Género
+          </form>
+        </div>
+        <div class="column right2 my-legend long" id="legend_congreso" style="background: #eee">
+        </div>
+    </div>
+  </div>
+  <div class="row text-center"><br>
+  </div>
+  <div class="container1">
+    <div class="row-new">
+        <div class="column left2 text-center" id="blocks2015">
+          <p style="font-size: 1.3em; color: #3F626B">Compárala al congreso electo de hace tres años...</p><p style="font-size: 1.2em; color: #3F626B"><b>la LXI Legislatura del Estado de Jalisco</b> (en 2015*):</p>
+        </div>
+        <div class="column right2 my-legend long" id="legend_congreso_2015" style="background: #eee">
+        </div>
+    </div>
+    <p style="text-align: center" id="nota_congreso">* Hubo 3 diputados quienes cambiaron de partido al transcurso de los últimos tres años, pero así empezó.</p>
+  </div>
+  <hr>
+  <div class="row text-center container1"><br>
+    <p style="font-size: 1.3em; color: #3F626B">Conoce a los nuevos diputados y diputadas:</p>
+    <h3 class='text-center'>20 diputadas y diputados locales electos por mayoría relativa</h3>
+    <div class="row-new">
+      <div class="column left3">
+        <table class="table table-striped table-responsive">
+          <tbody>
+            <tr><td>Gustavo Macías Zambrano (Distrito 1) - PAN</td></tr>
+            <tr><td>José de Jesús Hurtado Torres (Distrito 2) - PAN</td></tr>
+            <tr><td>Jorge Eduardo González Arana (Distrito 3) - PAN</td></tr>
+            <tr><td>Edgar Enrique Velázquez González (Distrito 4) - PRD</td></tr>
+            <tr><td>Luis Ernesto Munguía González (Distrito 5) - MC</td></tr>
+            <tr><td>Mirza Flores Gómez (Distrito 6) - MC</td></tr>
+            <tr><td>María Ester López Chávez (Distrito 7) - PT</td></tr>
+            <tr><td>Héctor Alejandro Hermosillo González (Distrito 8) - MC</td></tr>
+            <tr><td>Miriam Berenice Rivera Rodríguez (Distrito 9) - MC</td></tr>
+            <tr><td>Esteban Estrada Ramírez (Distrito 10) - MC</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="column right3">
+        <table class="table table-striped table-responsive">
+          <tbody>
+            <tr><td>Arturo Lémus Herrea (Distrito 11) - MORENA</td></tr>
+            <tr><td>Gerardo Quirino Velázquez Chávez (Distrito 12) - PRD</td></tr>
+            <tr><td>Adenawer González Fierros (Distrito 13) - PAN</td></tr>
+            <tr><td>Priscilla Franco Barba (Distrito 14) - MC</td></tr>
+            <tr><td>Carlos Eduardo Sánchez Carrillo (Distrito 15) - PAN</td></tr>
+            <tr><td>María Patricia Meza Núñez (Distrito 16) - MORENA</td></tr>
+            <tr><td>J. Jesús Cabrera Jiménez (Distrito 17) - MC</td></tr>
+            <tr><td>Irma de Anda Licea (Distrito 18) - PAN</td></tr>
+            <tr><td>Ma. Elizabeth Alcaraz Virgen (Distrito 19) - MC</td></tr>
+            <tr><td>Daniel Robles de León (Distrito 20) - MC</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <h3 class='text-center'>18 diputadas y diputados locales electos por representación proporcional</h3>
+    <div class="row-new">
+      <div class="column left3">
+        <table class="table table-striped table-responsive">
+          <tbody>
+            <tr><td>Claudia Murguia Torres (Plurinominal) - PAN</td></tr>
+            <tr><td>José Hernán Cortés Berumen (Plurinominal) - PAN</td></tr>
+            <tr><td>Mariana Fernández Ramírez (Plurinominal) - PRI</td></tr>
+            <tr><td>Héctor Pizano Ramos (Plurinominal) - PRI</td></tr>
+            <tr><td>J. Jesús Zúñiga Mendoza (Plurinominal) - PRI</td></tr>
+            <tr><td>Sofía Berenice García Mosqueda (Plurinominal) - PRI</td></tr>
+            <tr><td>Rosa Angélica Fregoso Franco (Plurinominal) - PVEM</td></tr>
+            <tr><td>Martha Patricia Martínez Barba (Plurinominal) - MC</td></tr>
+            <tr><td>Salvador Caro Cabrera (Plurinominal) - MC</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="column right3">
+        <table class="table table-striped table-responsive">
+          <tbody>
+            <tr><td>Jonadab Martínez García (Plurinominal) - MC</td></tr>
+            <tr><td>Mara Nadiezhda Robles Villaseñor (Plurinominal) - MC</td></tr>
+            <tr><td>Ricardo Rodríguez Jiménez (Plurinominal) - MC</td></tr>
+            <tr><td>Norma Valenzuela Álvarez (Plurinominal) - MORENA</td></tr>
+            <tr><td>Ismael Espanta Tejeda (Plurinominal) - MORENA</td></tr>
+            <tr><td>Bruno Blancas Mercado (Plurinominal) - MORENA</td></tr>
+            <tr><td>Érika Pérez García (Plurinominal) - MORENA</td></tr>
+            <tr><td>Óscar Arturo Herrera Estrada (Plurinominal) - MORENA</td></tr>
+            <tr><td>Óscar Nicolas García Lomelí (Plurinominal) - MORENA</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <hr>
+  <div style="width: 86%; margin: 0 auto" class="text-center">
+    <p style="font-size: 32px; color: #3F626B"><br>Comparte esta página:<br>
+    <a href='https://twitter.com/intent/tweet?text=Consulta%20los%20resultados%20de%20las%20elecciones%20de%202018%20en%20el%20estado%20de%20Jalisco.%20https%3A//jaliscocomovotamos.netlify.app/resultados%20v%C3%ADa%20%40jaliscomovamos' target='_blank' class='twitter-share'><i class='fab fa-twitter' title="Comparte en Twitter"></i></a> &nbsp;&nbsp; 
+    <a href='https://www.facebook.com/sharer/sharer.php?u=https%3A//jaliscocomovotamos.netlify.app/resultados' target='_blank' class='fb-share'><i class='fab fa-facebook' title="Comparte en Facebook"></i></a></p>
+  </div><br>
+  <hr>
+
+  <div style="width: 86%; margin: 0 auto; padding-left: 10px"><br><p style="margin-top: 15px; padding-left: 15px"><b>Más información:</b></p>
+    <ul>
+      <li>Elecciones Federales: <a href=
+      "https://computos2018.ine.mx/#/diputaciones/entidad/detalle/1/3/3/1?entidad=14" target="_blank">INE - Cómputos 2018</a>
+      </li>
+      <li>Elecciones Locales en el estado de Jalisco: <a href=
+      "http://www.iepcjalisco.org.mx/resultados-electorales" target="_blank">IEPC Jalisco - Resultados Electorales</a>
+      </li></ul><br><br>
+  </div>
+<!-- CONTENT END -->
+
+<script>
+
+var partidoDeMun = {}; // Create empty object for holding dataset
+var electoDeMun = {};
+var generoDeMun = {};
+var partidoDeDist = {}; 
+var electoDeDist = {};
+var generoDeDist = {};
+var dataDist = []
+var dataDist2015 = []
+
+var generoCongreso2018 = ["M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H"]
+var generoCongreso2015 = ["M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","M","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H","H"]
+
+d3.csv("/data/electos_municipios_2018.csv", function(data) {
+  data.forEach(function(d) {
+    partidoDeMun[d.Municipio] = d.Partido; // Create property for each ID, give it value from Partido
+    electoDeMun[d.Municipio] = d.Candidato_electo;
+    generoDeMun[d.Municipio] = d.Género;
+  });
+});
+
+d3.csv("/data/electos_distritos_2018.csv", function(data) {
+  data.forEach(function(d) {
+    partidoDeDist[d.Tipo] = d.Partido; 
+    electoDeDist[d.Tipo] = d.Candidato_electo;
+    generoDeDist[d.Tipo] = d.Género;
+    dataDist.push({"Tipo":d.Tipo, "Partido":d.Partido, "Género":d.Género});
+  });
+});
+d3.csv("/data/electos_distritos_2015.csv", function(data) {
+  data.forEach(function(d) {
+    dataDist2015.push({"Tipo":d.Tipo, "Partido":d.Partido, "Género":d.Género});
+  });
+});
+
+var partidos = ["INDEPENDIENTE", "MORENA-PES-PT", "PAN-PRD-MC", "PRI-PVEM-PANAL", "PRI", "PVEM", "PANAL", "MC", "PAN", "PRD", "MORENA", "PES", "PT", "SIN DATOS"];
+var colores = ["#EFAACB", "#731319", "#ce4f28", "#0d7139", "#18a75c", "#aeca60", "#1db6bd", "#fd8224", "#295ba3", "#fec22e", "#b32825", "#662f7d", "#ea202d", "#2A4147"];
+var gen = ["M", "H", "SIN DATOS"];
+var coloresgen = ["#EA4233","#3F626B", "#eee"];
+
+
+var centered, centered2, height, width;
+
+// Define color scales
+var color = d3.scale.ordinal()
+  .domain(partidos)
+  .range(colores);
+var color_gen = d3.scale.ordinal()
+  .domain(gen)
+  .range(coloresgen);
+
+
+// MAP.JS
+var viewportWidth = $(window).width();
+var viewportHeight = $(window).height()/2;
+
+if (viewportWidth < 900){
+      width = viewportWidth;
+      if (viewportHeight < 920 && viewportWidth < 700){
+        width = width / 2;
+      };
+    } else {
+      width = viewportWidth * .5;
+    };
+height = width*.8;
+
+//Define map projection 
+var projection = d3.geo.mercator();
+      projection
+      .scale(width*11)
+      .center([-103.7, 20.85])
+      .translate([width/2, height/2]);
+
+//Define path generator
+var path = d3.geo.path().projection(projection);
+
+var svg = d3.select("#svgmap_municipios")
+  .append("svg")
+  .attr("width",width)
+  .attr("height",height);
+svg.append('rect')
+  .attr('class', 'background')
+  .attr('width', width)
+  .attr('height', height)
+  .on('click', clicked);
+
+var map = svg.append('g');
+d3.json("/archivos_mapa/municipios_jalisco.geo.json", function(json) {
+  //draw map
+  map.selectAll("path")
+    .data(json.features).enter()
+    .append("path")
+    .attr("d", path)
+    .style('fill', fillFn)
+    .on('mouseover', mouseover)
+    .on('mouseout', mouseout)
+    .on('click', clicked)
+    .classed('map-layer', true);
+})
+
+// DISTRITOS
+var svg2 = d3.select("#svgmap_distritos")
+  .append("svg")
+  .attr("width",width)
+  .attr("height",height);
+svg2.append('rect')
+  .attr('class', 'background')
+  .attr('width', width)
+  .attr('height', height)
+  .on('click', clicked_dist);
+
+var map2 = svg2.append('g');
+d3.json("/archivos_mapa/distritos_jalisco.geo.json", function(json) {
+  map2.selectAll("path")
+    .data(json.features).enter()
+    .append("path")
+    .attr("d", path)
+    .style('fill', fillDistFn)
+    .on('mouseover', mouseover)
+    .on('mouseout', mouseout_dist)
+    .on('click', clicked_dist)
+    .classed('map-layer', true);
+})
+
+d3.select(window).on('resize', resize);
+d3.select(window).on('load', resize);  // not ideal but prevents weird map resizing 
+function resize() {
+    if ($(window).width() < 900){
+      width = parseInt(d3.select('#svgmap_municipios').style('width'));
+      if ($(window).height() < 460 &&  $(window).width() < 700){
+        width = width / 2;
+      };
+    } else {
+      width = $(window).width() * .5;
+      svgContainer.attr("width", "60%");
+      svgContainer2.attr("width", "55%");
+    };
+    if ($(window).width() < 1060){
+      svgContainer.attr("width", "100%");
+      svgContainer2.attr("width", "100%");
+    }; 
+    height = width*.8;
+  
+    projection
+      .scale(width*11)
+      .center([-103.7, 20.85])
+      .translate([width/2, height/2]);
+
+   d3.select("#svgmap_municipios").attr("width",width).attr("height",height);
+   d3.select("#svgmap_municipios svg").attr("width",width).attr("height",height);
+   d3.selectAll("#svgmap_municipios svg path").attr('d', path);
+   d3.select("#svgmap_distritos").attr("width",width).attr("height",height);
+   d3.select("#svgmap_distritos svg").attr("width",width).attr("height",height);
+   d3.selectAll("#svgmap_distritos svg path").attr('d', path);
+}
+
+var tooltip = d3.select("body").append("div") 
+  .attr("class", "tooltip")       
+  .style("opacity", 0);
+
+// Get polygon name
+function nameFn(d){
+  return d && d.properties ? d.properties.nombre : null;
+}
+
+// Get partido
+function partidoFn(d){
+  return partidoDeMun[nameFn(d)];
+}
+// Get candidate name
+function candidateFn(d){
+  return electoDeMun[nameFn(d)];
+}
+// Get region color
+function fillFn(d){
+  return color(partidoFn(d));
+}
+
+
+// DISTRITOS
+function partidoDistFn(d){
+  return partidoDeDist[nameFn(d)];
+}
+function candidateDistFn(d){
+  return electoDeDist[nameFn(d)];
+}
+function fillDistFn(d){
+  return color(partidoDistFn(d));
+}
+
+
+// GENDER MUNICIPIO
+function generoMunFn(d){
+  return generoDeMun[nameFn(d)];
+}
+function fillMun_gen(d){
+  return color_gen(generoMunFn(d));
+} 
+
+// GENDER DISTRITO
+function generoDistFn(d){
+  return generoDeDist[nameFn(d)];
+}
+function fillDist_gen(d){
+  return color_gen(generoDistFn(d));
+} 
+
+function clicked(d) {
+  if (d && centered !== d) {
+    centered = d;
+    // Add name
+    textArt(nameFn(d), candidateFn(d), partidoFn(d));
+  } else {
+    centered = null;
+    undotextArt();
+  };
+  if ($("input[type='radio'][name='tipo_mun']:checked").val()==="mun_partido"){
+    map.selectAll('path')
+    .style('fill', function(d){return centered && d===centered ? '#727272' : fillFn(d);})
+    .style('opacity',1);
+  } else if ($("input[type='radio'][name='tipo_mun']:checked").val()==="mun_genero") {
+    map.selectAll('path')
+    .style('fill', function(d){return centered && d===centered ? '#727272' : fillMun_gen(d);})
+    .style('opacity',1);
+  };
+};
+
+function clicked_dist(d) {
+  if (d && centered2 !== d) {
+    centered2 = d;
+    textArtDist(nameFn(d), candidateDistFn(d), partidoDistFn(d));
+  } else {
+    centered2 = null;
+    undotextArtDist();
+  };
+  if ($("input[type='radio'][name='tipo_dist']:checked").val()==="dist_partido"){
+    map2.selectAll('path')
+    .style('fill', function(d){return centered2 && d===centered2 ? '#727272' : fillDistFn(d);})
+    .style('opacity',1);
+  } else if ($("input[type='radio'][name='tipo_dist']:checked").val()==="dist_genero") {
+    map2.selectAll('path')
+    .style('fill', function(d){return centered2 && d===centered2 ? '#727272' : fillDist_gen(d)    })
+    .style('opacity',1);
+  };
+};
+
+function mouseover(d){
+  // Highlight hovered region
+  d3.select(this).style("opacity", .5);
+  tooltip.transition()    
+    .duration(200)    
+    .style("opacity", .9);    
+    tooltip.html(d.properties.nombre)  
+    .style("left", (d3.event.pageX) + "px")   
+    .style("top", (d3.event.pageY - 28) + "px"); 
+};
+
+function mouseout(d){
+  // Reset region color
+  map.selectAll('path')
+    .style('opacity', 1);
+  tooltip.transition()    
+    .duration(500)    
+    .style("opacity", 0); 
+};
+
+function mouseout_dist(d){
+  map2.selectAll('path')
+    .style('opacity', 1);
+  tooltip.transition()    
+    .duration(500)    
+    .style("opacity", 0); 
+};
+
+function textArt(lugar, candidate, partido){  
+  document.getElementById("placeholder").innerHTML = lugar + "<br />";
+  var p2 = document.getElementById("placeholder2");
+  p2.style.visibility = "visible";
+  p2.innerHTML = "Presidente Municipal electo(a):" + "<br />";
+  var p3 = document.getElementById("placeholder3");
+  p3.style.visibility = "visible";
+  p3.innerHTML = candidate + "<br />";
+  var p4 = document.getElementById("placeholder4");
+  p4.style.visibility = "visible";
+  p4.innerHTML = partido + "<br />";
+  p4.style.color = color(partido);
+};
+function undotextArt(){  
+  document.getElementById("placeholder").innerHTML = "<br />Haz clic en algún municipio para ver más información.<br /><br />";
+  var p2 = document.getElementById("placeholder2");
+  p2.style.visibility = "hidden";
+  p2.innerHTML = "";
+  var p3 = document.getElementById("placeholder3");
+  p3.style.visibility = "hidden";
+  p3.innerHTML = "";
+  var p4 = document.getElementById("placeholder4");
+  p4.style.visibility = "hidden";
+  p4.innerHTML = "";
+};
+
+function textArtDist(lugar, candidate, partido){  
+  document.getElementById("d_placeholder").innerHTML = lugar + "<br />";
+  var p2 = document.getElementById("d_placeholder2");
+  p2.style.visibility = "visible";
+  p2.innerHTML = "Diputado Local electo(a):" + "<br />";
+  var p3 = document.getElementById("d_placeholder3");
+  p3.style.visibility = "visible";
+  p3.innerHTML = candidate + "<br />";
+  var p4 = document.getElementById("d_placeholder4");
+  p4.style.visibility = "visible";
+  p4.innerHTML = partido + "<br />";
+  p4.style.color = color(partido);
+};
+function undotextArtDist(){  
+  document.getElementById("d_placeholder").innerHTML = "<br />Haz clic en algún distrito para ver más información.<br /><br />";
+  var p2 = document.getElementById("d_placeholder2");
+  p2.style.visibility = "hidden";
+  p2.innerHTML = "";
+  var p3 = document.getElementById("d_placeholder3");
+  p3.style.visibility = "hidden";
+  p3.innerHTML = "";
+  var p4 = document.getElementById("d_placeholder4");
+  p4.style.visibility = "hidden";
+  p4.innerHTML = "";
+};
+
+
+function makeHeight(i){
+  var newheight;
+  if (i<10) { newheight = 10
+    } else if (i > 9 && i < 20) { newheight = 37
+    } else if (i > 19 && i < 30) { newheight = 64 
+    } else if (i > 29 && i < 40) { newheight = 91 
+  };
+  return newheight;
+}
+
+//Make an SVG Container
+var svgContainer = d3.select("#blocks")
+  .append("svg")
+  .attr("viewBox", "0 0 400 120")
+  .attr("width", "60%");
+
+//Make an SVG Container
+var svgContainer2 = d3.select("#blocks2015")
+  .append("svg")
+  .attr("viewBox", "0 0 400 120")
+  .attr("width", "55%")
+  .attr("padding-left", "5%");
+
+var legend_municipios_partidos = "<div class='legend-scale'><ul class='legend-labels left-legend'><li><span style='background:#EFAACB;'></span>INDEPENDIENTE (2)</li><li><span style='background:#731319;'></span>MORENA-PES-PT (8)</li><li><span style='background:#ce4f28;'></span>PAN-PRD-MC (44)</li><li><span style='background:#fd8224;'></span>MC (25)</li><li><span style='background:#b32825;'></span>MORENA (0)</li><li><span style='background:#295ba3;'></span>PAN (14)</li></ul><ul class='legend-labels right-legend'><li><span style='background:#1db6bd;'></span>PANAL (4)</li><li><span style='background:#662f7d;'></span>PES (0)</li><li><span style='background:#fec22e;'></span>PRD (2)</li><li><span style='background:#18a75c;'></span>PRI (20)</li><li><span style='background:#ea202d;'></span>PT (0)</li><li><span style='background:#aeca60;'></span>PVEM (6)</li></ul></div>";
+var legend_distritos_partidos = "<div class='legend-scale'><ul class='legend-labels left-legend'><li><span style='background:#EFAACB;'></span>INDEPENDIENTE</li><li><span style='background:#fd8224;'></span>MC</li><li><span style='background:#b32825;'></span>MORENA</li><li><span style='background:#295ba3;'></span>PAN</li><li><span style='background:#1db6bd;'></span>PANAL</li></ul><ul class='legend-labels right-legend'><li><span style='background:#662f7d;'></span>PES</li><li><span style='background:#fec22e;'></span>PRD</li><li><span style='background:#18a75c;'></span>PRI</li><li><span style='background:#ea202d;'></span>PT</li><li><span style='background:#aeca60;'></span>PVEM</li></ul></div>";
+var legend_genero_mun = "Género de la persona electa:<br><div class='legend-scale'><ul class='legend-labels left-legend' style='padding-top: 5px'><li><span style='background:#EA4233;'></span>Mujer (30)</li></ul><ul class='legend-labels right-legend' style='padding-top: 5px'><li><span style='background:#3F626B;'></span>Hombre (95)</li></ul></div>";
+var legend_genero_dist = "Género de la persona electa:<br><div class='legend-scale'><ul class='legend-labels left-legend' style='padding-top: 5px'><li><span style='background:#EA4233;'></span>Mujer</li></ul><ul class='legend-labels right-legend' style='padding-top: 5px'><li><span style='background:#3F626B;'></span>Hombre</li></ul></div>";
+var legend_congreso_partidos2018 = "2018<br><div class='legend-scale'><ul class='legend-labels left-legend'><li><span style='background:#EFAACB;'></span>INDEPENDIENTE (0)</li><li><span style='background:#fd8224;'></span>MC (14)</li><li><span style='background:#b32825;'></span>MORENA (8)</li><li><span style='background:#295ba3;'></span>PAN (8)</li><li><span style='background:#1db6bd;'></span>PANAL (0)</li></ul><ul class='legend-labels right-legend'><li><span style='background:#662f7d;'></span>PES (0)</li><li><span style='background:#fec22e;'></span>PRD (2)</li><li><span style='background:#18a75c;'></span>PRI (4)</li><li><span style='background:#ea202d;'></span>PT (1)</li><li><span style='background:#aeca60;'></span>PVEM (1)</li></ul></div>";
+var legend_congreso_genero2018 = "Género de la persona electa (2018):<br><div class='legend-scale'><ul class='legend-labels left-legend' style='padding-top: 5px'><li><span style='background:#EA4233;'></span>Mujer (15)</li></ul><ul class='legend-labels right-legend' style='padding-top: 5px'><li><span style='background:#3F626B;'></span>Hombre (23)</li></ul></div>";
+var legend_congreso_partidos2015 = "2015<br><div class='legend-scale'><ul class='legend-labels left-legend'><li><span style='background:#EFAACB;'></span>INDEPENDIENTE (1)</li><li><span style='background:#fd8224;'></span>MC (14)</li><li><span style='background:#b32825;'></span>MORENA (0)</li><li><span style='background:#295ba3;'></span>PAN (5)</li><li><span style='background:#1db6bd;'></span>PANAL (1)</li></ul><ul class='legend-labels right-legend'><li><span style='background:#662f7d;'></span>PES (0)</li><li><span style='background:#fec22e;'></span>PRD (2)</li><li><span style='background:#18a75c;'></span>PRI (13)</li><li><span style='background:#ea202d;'></span>PT (0)</li><li><span style='background:#aeca60;'></span>PVEM (3)</li></ul></div>";
+var legend_congreso_genero2015 = "Género de la persona electa (2015):<br><div class='legend-scale'><ul class='legend-labels left-legend' style='padding-top: 5px'><li><span style='background:#EA4233;'></span>Mujer (16)</li></ul><ul class='legend-labels right-legend' style='padding-top: 5px'><li><span style='background:#3F626B;'></span>Hombre (23)</li></ul></div>";
+
+$(document).ready(function () {
+    $('input[type="radio"]').click(function () {
+        if ($(this).attr("value") == "mun_partido") {
+            document.getElementById("legend_municipios").innerHTML = legend_municipios_partidos;
+            map.selectAll("path").style('fill', fillFn);
+        }
+        if ($(this).attr("value") == "mun_genero") {
+            document.getElementById("legend_municipios").innerHTML = legend_genero_mun;
+            map.selectAll("path").style('fill', fillMun_gen);
+        }
+        // if ($(this).attr("value") == "mun_participacion") {
+        //     document.getElementById("legend_municipios").innerHTML = " ";
+        // }
+        if ($(this).attr("value") == "dist_partido") {
+            document.getElementById("legend_distritos").innerHTML = legend_distritos_partidos;
+            map2.selectAll("path").style('fill', fillDistFn);
+        }
+        if ($(this).attr("value") == "dist_genero") {
+            document.getElementById("legend_distritos").innerHTML = legend_genero_dist;
+            map2.selectAll("path").style('fill', fillDist_gen);
+        }
+        // if ($(this).attr("value") == "dist_participacion") {
+        //     document.getElementById("legend_distritos").innerHTML = " ";
+        // }
+        if ($(this).attr("value") == "congreso_partido") {
+            document.getElementById("legend_congreso").innerHTML = legend_congreso_partidos2018;
+            document.getElementById("legend_congreso_2015").innerHTML = legend_congreso_partidos2015;
+            svgContainer.selectAll("rect").data(dataDist)
+                .style("fill", function(d){ return color(d.Partido) });
+            svgContainer2.selectAll("rect").data(dataDist2015)
+                .style("fill", function(d){ return color(d.Partido) });
+            document.getElementById("nota_congreso").style.visibility = "visible";
+        }
+        if ($(this).attr("value") == "congreso_genero") {
+            document.getElementById("legend_congreso").innerHTML = legend_congreso_genero2018;
+            document.getElementById("legend_congreso_2015").innerHTML = legend_congreso_genero2015;
+            svgContainer.selectAll("rect").data(generoCongreso2018)
+                .style("fill", function(d){ return color_gen(d) });
+            svgContainer2.selectAll("rect").data(generoCongreso2015)
+                .style("fill", function(d){ return color_gen(d) });
+            document.getElementById("nota_congreso").style.visibility = "hidden";
+        }
+    });
+    $('.fb-share').click(function(e) {
+        e.preventDefault();
+        window.open($(this).attr('href'), 'fbShareWindow', 'height=450, width=550, top=' + ($(window).height() / 2 - 275) + ', left=' + ($(window).width() / 2 - 225) + ', toolbar=0, location=0, menubar=0, directories=0, scrollbars=0');
+        return false;
+    });
+    $('.twitter-share').click(function(e) {
+        e.preventDefault();
+        window.open($(this).attr('href'), 'pop-up','height=400,width=600,top=' + ($(window).height() / 2 - 275) + ', left=' + ($(window).width() / 2 - 225) + ', toolbar=1,resizable=1');
+        return false;
+    });
+
+});
+
+window.onload=function() {
+  document.getElementById("legend_municipios").innerHTML = legend_municipios_partidos;
+  document.getElementById("legend_distritos").innerHTML = legend_distritos_partidos;
+  document.getElementById("legend_congreso").innerHTML = legend_congreso_partidos2018;
+  document.getElementById("legend_congreso_2015").innerHTML = legend_congreso_partidos2015;
+  $(function(){ svgContainer.selectAll("rect")
+      .data(dataDist).enter()
+      .append("rect")
+      .attr("x", function(d,i){ return 40*((i + 10) % 10)})
+      .attr("y", function(d,i){ return makeHeight(i)})
+      .attr("width", 37)
+      .attr("height", 24)
+      .attr("rx", 5)
+      .attr("ry", 5)
+      .style("fill", function(d){ return color(d.Partido) });
+  });
+  $(function(){ svgContainer2.selectAll("rect")
+      .data(dataDist2015).enter()
+      .append("rect")
+      .attr("x", function(d,i){ return 40*((i + 10) % 10)})
+      .attr("y", function(d,i){ return makeHeight(i)})
+      .attr("width", 37)
+      .attr("height", 24)
+      .attr("rx", 5)
+      .attr("ry", 5)
+      .style("fill", function(d){ return color(d.Partido) });
+  });
+}
+
+</script>
+
+<br><br><br><br>
+
+
+      </div>
+    </div>
+    <div class='clearfix' ></div>
+    <div class="container-fluid"  style="background: #2A4147; bottom:0; position: absolute; min-height: 80px">
+      <div class="row" id="footer">
+        <div class='col-md-10 col-md-offset-1'>
+          <p class='text-center small' style="padding-top: 10px">© 2018-2021 Jalisco Cómo Vamos, Observatorio Ciudadano de Calidad de Vida</p>
+            <p class='text-center'><span style="font-size: 18px">
+              <a href="http://jaliscocomovamos.org" target='_blank'> <i class='fas fa-globe' title="Sitio web Jalisco Cómo Vamos"></i> </a> &nbsp;&nbsp; 
+              <a href='https://twitter.com/jaliscomovamos' target='_blank'><i class='fab fa-twitter' title="Twitter Jalisco Cómo Vamos"></i></a> &nbsp;&nbsp; 
+              <a href='https://www.facebook.com/jaliscomovamos' target='_blank'><i class='fab fa-facebook' title="Facebook Jalisco Cómo Vamos"></i></a> &nbsp;&nbsp; 
+              <a href='https://www.instagram.com/jaliscomovamos/' target='_blank'><i class='fab fa-instagram' title="Instagram Jalisco Cómo Vamos"></i></a> &nbsp;&nbsp; 
+              <a href='https://github.com/JaliscoComoVamos/' target='_blank'><i class='fab fa-github' title="GitHub Jalisco Cómo Vamos"></i></a> &nbsp;&nbsp;| &nbsp;&nbsp;</span><span class='small'><a href="/contacto">Contacto</a></span></p>
+        </div>
+      </div>
+    </div>
+  </div></body>
+</html>

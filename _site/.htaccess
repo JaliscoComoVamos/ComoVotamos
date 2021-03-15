@@ -1,0 +1,27 @@
+<FilesMatch "\.(ico|pdf|jpg|jpeg|png|gif|html|htm|xml|txt|xsl|js|css)$">
+Header set Cache-Control "max-age=3604800"
+</FilesMatch>
+
+ErrorDocument 404 /404
+
+## Rewrite rules
+<IfModule mod_rewrite.c>
+    Options +FollowSymLinks -MultiViews
+
+    RewriteEngine on
+    
+    RewriteBase /
+
+    RewriteRule ^index\.html$ / [NC,L,R=302]
+    RewriteRule ^index$ / [NC,L,R=302]
+    RewriteRule ^index/$ / [NC,L,R=302]
+    RewriteRule ^index\.html/$ / [NC,L,R=302]
+
+    RewriteRule ^(.*).html$ /$1 [NC,L,R=302]
+    RewriteRule ^(.*).html/$ /$1 [NC,L,R=302]
+    RewriteRule ^(.*)/$ /$1 [NC,L,R=302]
+
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*[^/])$ /$1 [L,R=302]
+
+</IfModule>
