@@ -1,7 +1,7 @@
 The MIT License (MIT)
 
 Original work Copyright (c) 2016 DataMade
-Modified work Copyright (c) 2018-2020 Jalisco Cómo Vamos
+Modified work Copyright (c) 2018-2021 Jalisco Cómo Vamos
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

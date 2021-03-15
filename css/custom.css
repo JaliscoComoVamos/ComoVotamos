@@ -334,3 +334,16 @@ svg {
   box-sizing: content-box;
   border: 0;
 }
+
+
+@font-face {
+  font-family: 'Komika Title Kaps';
+  src: url('../fonts/KomikaTitle-Kaps.eot');
+  src: url('../fonts/KomikaTitle-Kaps.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/KomikaTitle-Kaps.ttf') format('truetype'),
+      url('../fonts/KomikaTitle-Kaps.woff2') format('woff2'),
+      url('../fonts/KomikaTitle-Kaps.woff') format('woff'),
+      url('../fonts/KomikaTitle-Kaps.svg#KomikaTitle-Kaps') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

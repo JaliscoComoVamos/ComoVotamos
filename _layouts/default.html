@@ -17,8 +17,8 @@
     <meta content="{{ site.name }}" name='author' />
 
     <!-- Load CSS -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/css/custom.css">
+    <link href="{{ '/css/bootstrap.min.css' | relative_url }}" rel="stylesheet">
+    <link rel="stylesheet" href="{{ 'css/custom.css' | relative_url }}">
 
     <!-- Load font -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i">
@@ -41,15 +41,15 @@
       <meta content="{{ site.description }}" property="og:description">
     {% endif %}
     {% if page.url %}
-      <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+      <meta content="{{ page.url | relative_url }}" property="og:url">
     {% endif %}
     {% if page.date %}
       <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
     {% endif %}
     {% if page.image %}
-      <meta content="{{ site.url }}/{{ page.image }}" property="og:image">
+      <meta content="{{ page.image | relative_url }}" property="og:image">
     {% else %}
-      <meta content="{{ site.url }}/images/jcv-snapshot.png" property="og:image">
+      <meta content="{{ '/images/jcv-snapshot.png' | relative_url }}" property="og:image">
     {% endif %}
     {% if page.categories %}
       {% for category in page.categories limit:1 %}
@@ -72,7 +72,7 @@
       <meta name="twitter:title" content="{{ site.title }}">
     {% endif %}
     {% if page.url %}
-      <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+      <meta name="twitter:url" content="{{ page.url | relative_url }}">
     {% endif %}
     {% if page.description %}
       <meta name="twitter:description" content="{{ page.description }}">
@@ -80,9 +80,9 @@
       <meta name="twitter:description" content="{{ site.description }}">
     {% endif %}
     {% if page.image %}
-      <meta name="twitter:image:src" content="{{ site.url }}/{{ page.image }}">
+      <meta name="twitter:image:src" content="{{ page.image | relative_url }}">
     {% else %}
-      <meta name="twitter:image:src" content="{{ site.url }}/images/jcv-snapshot.png">
+      <meta name="twitter:image:src" content="{{ '/images/jcv-snapshot.png' | relative_url }}">
     {% endif %}
 
 
@@ -109,14 +109,14 @@
     <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
-    <link rel="manifest" href="/favicons/site.webmanifest">
-    <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#1e4b7c">
-    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/favicons/apple-touch-icon.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicons/favicon-32x32.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicons/favicon-16x16.png' | relative_url }}">
+    <link rel="manifest" href="{{ '/favicons/site.webmanifest' | relative_url }}">
+    <link rel="mask-icon" href="{{ '/favicons/safari-pinned-tab.svg' | relative_url }}" color="#1e4b7c">
+    <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}">
     <meta name="msapplication-TileColor" content="#333333">
-    <meta name="msapplication-config" content="/favicons/browserconfig.xml">
+    <meta name="msapplication-config" content="{{ '/favicons/browserconfig.xml' | relative_url }}">
     <meta name="theme-color" content="#ffffff">
 
     <!-- Internet Explorer Compatibility -->
@@ -161,11 +161,11 @@
         <div class="feature">
           <div class="stickyheader">
             <ul class="nav nav-pills pull-right">
-              <li role="presentation"><span class="top-nav-buttons">&nbsp;<a href="/">
+              <li role="presentation"><span class="top-nav-buttons">&nbsp;<a href="{{ '/' | relative_url }}">
                 <i class='fa fa-home hidden-xs hidden-sm' title="Inicio"> </i> Inicio&nbsp;&nbsp;</a></span></li>
-              <li role="presentation"><span class="top-nav-buttons"><a href="/informacion">
+              <li role="presentation"><span class="top-nav-buttons"><a href="{{ '/informacion' | relative_url }}">
                 <i class='fa fa-info-circle hidden-xs hidden-sm' title="Información"> </i> Información &nbsp;&nbsp;&nbsp;&nbsp;</a></span></li>
-              <li role="presentation"><span class="top-nav-buttons">&nbsp;<a href="/resultados#ver">
+              <li role="presentation"><span class="top-nav-buttons">&nbsp;<a href="{{ '/resultados#ver' | relative_url }}">
                 <svg class="hidden-xs hidden-sm" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 645 645" width="16" height="16"><title>chart icon</title><defs><path d="M443.52 73.48L600.8 73.48L600.8 594.72L443.52 594.72L443.52 73.48Z" id="b9dELYTZy"></path><path d="M645.12 594.72L645.12 644.8L0 644.8L0 594.72L645.12 594.72Z" id="a9KTo8m3Y"></path><path d="M245.92 267.12L403.2 267.12L403.2 594.72L245.92 594.72L245.92 267.12Z" id="c34xFJYGO"></path><path d="M44.32 376.12L201.6 376.12L201.6 594.72L44.32 594.72L44.32 376.12Z" id="a42Ma3icC3"></path></defs><g><g><g><use xlink:href="#b9dELYTZy" opacity="1" fill-opacity="1"></use><g><use xlink:href="#b9dELYTZy" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="1"></use></g></g><g><use xlink:href="#a9KTo8m3Y" opacity="1" fill-opacity="1"></use><g><use xlink:href="#a9KTo8m3Y" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#c34xFJYGO" opacity="1" fill-opacity="1"></use><g><use xlink:href="#c34xFJYGO" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="1"></use></g></g><g><use xlink:href="#a42Ma3icC3" opacity="1" fill-opacity="1"></use><g><use xlink:href="#a42Ma3icC3" opacity="1" fill-opacity="0" stroke-width="1" stroke-opacity="1"></use></g></g></g></g></svg>
                  Resultados </a></span></li>
             </ul>
@@ -175,7 +175,7 @@
           <br />
 
           <div class='text-center' style="font-weight:normal">
-              <h1><a href='/'>Jalisco Cómo Votamos 2018</a></h1>
+              <h1><a href="{{ '/' | relative_url }}">Jalisco Cómo Votamos 2018</a></h1>
               <div class="container-fluid text-center">
                 <p class='lead' style="color: #E8E5DB">
                 Conoce los resultados de las elecciones locales, estatales y nacionales.</p>
@@ -195,7 +195,7 @@
               <a href='https://twitter.com/jaliscomovamos' target='_blank'><i class='fab fa-twitter' title="Twitter Jalisco Cómo Vamos"></i></a> &nbsp;&nbsp; 
               <a href='https://www.facebook.com/jaliscomovamos' target='_blank'><i class='fab fa-facebook' title="Facebook Jalisco Cómo Vamos"></i></a> &nbsp;&nbsp; 
               <a href='https://www.instagram.com/jaliscomovamos/' target='_blank'><i class='fab fa-instagram' title="Instagram Jalisco Cómo Vamos"></i></a> &nbsp;&nbsp; 
-              <a href='https://github.com/JaliscoComoVamos/' target='_blank'><i class='fab fa-github' title="GitHub Jalisco Cómo Vamos"></i></a> &nbsp;&nbsp;| &nbsp;&nbsp;</span><span class='small'><a href="/contacto">Contacto</a></span></p>
+              <a href='https://github.com/JaliscoComoVamos/' target='_blank'><i class='fab fa-github' title="GitHub Jalisco Cómo Vamos"></i></a> &nbsp;&nbsp;| &nbsp;&nbsp;</span><span class='small'><a href="{{ '/contacto' | relative_url }}">Contacto</a></span></p>
         </div>
       </div>
     </div>
