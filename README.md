@@ -1,6 +1,6 @@
 # Jalisco Cómo Votamos
 
-Repositorio para el sitio web [https://jaliscocomovamos.github.io/ComoVotamos](https://jaliscocomovamos.github.io/ComoVotamos)
+Repositorio para el sitio web [https://jaliscocomovotamos.netlify.app](https://jaliscocomovotamos.netlify.app)
 
 ## Acerca de
 
@@ -10,7 +10,7 @@ Repositorio para el sitio web [https://jaliscocomovamos.github.io/ComoVotamos](h
 
 ¡Las contribuciones a este proyecto son bienvenidas!
 - Si deseas participar agregando o mejorando algún aspecto específico, puedes hacer un _fork_ del repositorio, implementar los cambios (véase a continuación la información sobre la instalación de las dependencias necesarias) y enviar un _pull request_. Si tienes la intención de hacerlo, te recomendamos que te pongas en contacto con nosotros primero para avisarnos de tus planes.
-- También puedes contribuir al informar de algún error o al hacer sugerencias, ya sea mediante la [creación de un _issue_ en GitHub](https://github.com/JaliscoComoVamos/ComoVotamos/issues) o [enviándonos un mensaje directo](https://jaliscocomovamos.github.io/ComoVotamos/contacto).
+- También puedes contribuir al informar de algún error o al hacer sugerencias, ya sea mediante la [creación de un _issue_ en GitHub](https://github.com/JaliscoComoVamos/ComoVotamos/issues) o [enviándonos un mensaje directo](https://jaliscocomovotamos.netlify.app/contacto.html).
 
 
 ## ¡Reutiliza y adapta el código!
@@ -36,7 +36,7 @@ cd ComoVotamos
 
 Asegúrate de que tienes instalada la versión 2.7.1 de Ruby en tu computadora. También necesitarás instalar Jekyll. Visita los sitios oficiales de [Ruby](https://www.ruby-lang.org/es/downloads/) y [Jekyll](https://jekyllrb.com/docs/installation/) para más información.
 
-Si estás usando una Mac, los siguientes comandos de la Terminal deben ser suficientes para hacer la configuración necesaria. Si notas algún error, por favor [avísanos](https://jaliscocomovamos.github.io/ComoVotamos/contacto).
+Si estás usando una Mac, los siguientes comandos de la Terminal deben ser suficientes para hacer la configuración necesaria. Si notas algún error, por favor [avísanos](https://jaliscocomovotamos.netlify.app/contacto.html).
 
 ```bash
 # Eliminar versiones anteriores de Ruby
@@ -80,7 +80,7 @@ Una vez que Ruby, Jekyll y las _gems_ necesarias estén instalados correctamente
 bundle exec jekyll serve
 ```
 
-Luego, abre tu navegador web y ve a [http://localhost:5000/ComoVotamos](http://localhost:5000/ComoVotamos).
+Luego, abre tu navegador web y ve a [http://localhost:5000](http://localhost:5000).
 
 
 ### 6. Personalizar tu sitio
@@ -93,7 +93,7 @@ Luego, abre tu navegador web y ve a [http://localhost:5000/ComoVotamos](http://l
 
 ### 7. Publicar tu sitio 
 
-Puedes usar el servicio de hosting que quieres. Estamos usando [GitHub Pages](https://help.github.com/articles/user-organization-and-project-pages/), que ofrece hosting gratuito para proyectos de código abierto.
+Puedes usar el servicio de hosting que quieres. Estamos usando [Netlify](https://www.netlify.com/), que ofrece hosting gratuito para proyectos de código abierto. También puedes usar [GitHub Pages](https://help.github.com/articles/user-organization-and-project-pages/), que también es gratis.
 
 
 ## Dependencias web
@@ -105,7 +105,7 @@ El sitio web está construido con las siguientes herramientas:
 - [jQuery Address](https://github.com/asual/jquery-address) - biblioteca de JavaScript (código abierto)
 - [Mapbox](https://www.mapbox.com/) - proveedor de mapas y herramientas cartogáficas en línea, usa datos abiertos de [OpenStreetMap](http://www.openstreetmap.org/)
     - Mapbox requiere que esté activado y funcionando [WebGL](https://get.webgl.org/) en el navegador del usuario.
-- [GitHub](https://github.com/) - hosting gratuito para proyectos de código abierto
+- [Netlify](https://www.netlify.com/) - hosting gratuito para proyectos de código abierto
 
 
 ## Equipo
