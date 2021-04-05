@@ -1,6 +1,6 @@
 # Jalisco Cómo Votamos
 
-Repositorio para el sitio web [https://jaliscocomovamos.github.io/ComoVotamos](https://jaliscocomovamos.github.io/ComoVotamos)
+Repositorio para el sitio web [https://jaliscocomovotamos.netlify.app/](https://jaliscocomovotamos.netlify.app/)
 
 ## Acerca de
 
