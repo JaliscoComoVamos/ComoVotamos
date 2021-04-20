@@ -19,8 +19,8 @@ map_page: true
 <div class="row candidate-list">
     <div class='col-md-10 col-md-offset-1'>
         <div class='text-center' id='no-response-container' style="display:none;">
-            <h2 style="color:#EA4233">No se encontraron candidatos.</h2>
-            <p>No pudimos encontrar ningún candidato para esa dirección. Verifica que la dirección
+            <h2 style="color:#EA4233">No se encontraron candidatos(as).</h2>
+            <p>No pudimos encontrar ningún candidato o candidata para esa dirección. Verifica que la dirección
             ingresada esté dentro de Jalisco, México e intenta de nuevo.</p>
         </div>
         <div id='response-container' style="display:none;">
@@ -29,20 +29,20 @@ map_page: true
                 <span id="mi_municipio_placeholder">__</span>.<br><br></b></p>
             </div>
             <div class='row filter_level' style='width: 86%; margin:0 auto;'>
-                <p class='text-center' style="font-size: 19px; color: #555"><b>Mostrar candidatos a:</b><br>
+                <p class='text-center' style="font-size: 19px; color: #555"><b>Mostrar candidatos o candidatas a:</b><br>
                 <label><input checked="checked" id="show_alcalde_results" onchange="showResults()" type="checkbox" value="alcalde">
                 Alcalde</label>
                 <label><input checked="checked" id="show_dl_results" onchange="showResults()"
                 type="checkbox" value="dl"> Diputado Local</label>
-                <label><input checked="checked" id=
+                <!--<label><input checked="checked" id=
                 "show_gobernador_results" onchange="showResults()" type="checkbox" value="gobernador">
-                Gobernador</label>
+                Gobernador</label>-->
                 <label><input checked="checked" id=
                 "show_df_results" onchange="showResults()" type="checkbox" value="df"> Diputado Federal</label>
-                <label><input checked="checked" id="show_senador_results" onchange="showResults()" type=
+                <!--<label><input checked="checked" id="show_senador_results" onchange="showResults()" type=
                 "checkbox" value="senador"> Senador</label>
                 <label><input checked="checked" id="show_presidente_results" onchange=
-                "showResults()" type="checkbox" value="presidente"> Presidente</label><br></p>
+                "showResults()" type="checkbox" value="presidente"> Presidente</label><br></p>-->
             </div>
             <div style='width: 95%; margin:0 auto;'>
                 <p class="lead2 text-center" id='results-nav' style="color:#3d626b;">
@@ -52,28 +52,29 @@ map_page: true
                 <span id=
                 'dl-nav'><a href="#dl-name" id="dl-name-nav">Diputación Local</a>
                 &nbsp;&nbsp;&nbsp;&nbsp;|</span>
-                <span id='gobernador-nav'><a href="#gobernador-name" id="gobernador-name-nav">Gobernador de
-                Jalisco</a></span><br>
+                <!--<span id='gobernador-nav'><a href="#gobernador-name" id="gobernador-name-nav">Gobernador de
+                Jalisco</a></span><br>-->
                 <b>Candidaturas federales: &nbsp;</b>
                 <span id='df-nav'> <a href="#df-name" id="df-name-nav">Diputación Federal</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span>
-                <span id='senador-nav'><a href="#senador-name" id=
+              <!--  <span id='senador-nav'><a href="#senador-name" id=
                 "senador-name-nav">Senaduría</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span>
                 <span id='presidente-nav'><a href="#presidente-name"
-                id="presidente-name-nav">Presidencia de la República</a></span></p>
+                id="presidente-name-nav">Presidencia de la República</a></span></p>-->
             </div>
 
             <div id='alcalde-global-container'>
                 <div class='text-center' id='alcalde-container-not-found' style='display: none;'><br>
                     <h3 class='text-center' id="alcalde-name-not-found">Presidencia Municipal</h3>
-                    <p><b>No encontramos ningún candidato a presidente municipal para esta ubicación.</b> </p><p style="text-align: left" class="small">
-                        Actualmente tenemos la lista completa de candidatos a presidente municipal en Autlán, Chapala, El Grullo, El Salto, Guadalajara, Hostotipaquillo, Ixtlahuacán de los Membrillos, La Barca, La Huerta, Lagos de Moreno, Ocotlán, Puerto Vallarta, San Juan de los Lagos, Tala, Tecolotlán, Tepatitlán, Tequila, Tlajomulco, Tlaquepaque, Tonalá, Tototlán, Unión de Tula, Zapopan, Zapotlanejo y Zapotlán el Grande.</p> <p class="small" style="text-align: left">Si deseas que agreguemos información para otro municipio, <a href="{{ '/contacto' | relative_url }}">envíanos una solicitud</a> y haremos todo lo posible para actualizar nuestra base de datos. Igual, si tu dirección pertenece a uno de los municipios mencionados, nos ayudaría si <a href="{{ '/contacto' | relative_url }}">nos avisaras del error</a> para arreglarlo. ¡Gracias!</p>
+                    <p><b>No encontramos ningún candidato o candidata a presidente municipal para esta ubicación.</b> </p>
+                    <p style="text-align: left" class="small">
+                        Actualmente tenemos la lista completa de candidatos y candidatas a presidente municipal en Acatlán de Juárez, Ameca, Autlán de Navarro, Ayotlán, Colotlán, El Grullo, El Salto, Guadalajara, Ixtlahuacán de los Membrillos, Juanacatlán, Lagos de Moreno, Mascota, Puerto Vallarta, Tamazula de Gordiano, Tepatitlán de Moreno, Tlajomulco de Zúñiga, Tlaquepaque, Tonalá, Zapopan, Zapotlán el Grande, Zapotlanejo.</p> <p class="small" style="text-align: left">Si deseas que agreguemos información para otro municipio, <a href="{{ '/contacto' | relative_url }}">envíanos una solicitud</a> y haremos todo lo posible para actualizar nuestra base de datos. Igual, si tu dirección pertenece a uno de los municipios mencionados, nos ayudaría si <a href="{{ '/contacto' | relative_url }}">nos avisaras del error</a> para arreglarlo. ¡Gracias!</p>
                 </div>
                 <div id='alcalde-container'>
                     <h3 class='text-center' id="alcalde-name">Presidencia Municipal de <span id="mi_municipio_placeholder_3">__</span></h3>
                     <table class="table table-striped table-responsive" id="alcalde-results">
                         <thead>
                             <tr>
-                                <th><i class='fa fa-user' title="icon persona"></i> Candidato</th>
+                                <th><i class='fa fa-user' title="icon persona"></i> Candidato(a)</th>
                                 <th><i class='fa fa-certificate' title="icon partido"></i> Partido</th>
                                 <th><img src="fonts/external-link.svg" alt="external-link" style="width: 15px"> Enlaces</th>
                             </tr>
@@ -88,7 +89,7 @@ map_page: true
             </div>
             <div class='text-center' id='dl-container-not-found' style='display: none;'>
                 <div class='text-center' id="dl-name-not-found"></div>
-                <p>No pudimos encontrar ningún candidato para esa dirección.</p>
+                <p>No pudimos encontrar ningún candidato o candidata para esa dirección.</p>
             </div>
             <div id='dl-container'>
                 <br>
@@ -96,7 +97,7 @@ map_page: true
                 <table class="table table-striped table-responsive" id="dl-results">
                     <thead>
                         <tr>
-                            <th><i class='fa fa-user' title="icon persona"></i> Candidato</th>
+                            <th><i class='fa fa-user' title="icon persona"></i> Candidato(a)</th>
                                 <th><i class='fa fa-certificate' title="icon partido"></i> Partido</th>
                             <th><img src="fonts/external-link.svg" alt="external-link" style="width: 15px"> Enlaces</th>
                         </tr>
@@ -110,7 +111,7 @@ map_page: true
             </div>
             <div class='text-center' id='gobernador-container-not-found' style='display: none;'>
                 <div class='text-center' id="gobernador-name-not-found"></div>
-                <p>No pudimos encontrar ningún candidato para esa dirección.</p>
+                <p>No pudimos encontrar ningún candidato o candidata para esa dirección.</p>
             </div>
             <div id='gobernador-container'>
                 <br>
@@ -118,7 +119,7 @@ map_page: true
                 <table class="table table-striped table-responsive" id="gobernador-results">
                     <thead>
                         <tr>
-                            <th><i class='fa fa-user' title="icon persona"></i> Candidato</th>
+                            <th><i class='fa fa-user' title="icon persona"></i> Candidato(a)</th>
                                 <th><i class='fa fa-certificate' title="icon partido"></i> Partido</th>
                             <th><img src="fonts/external-link.svg" alt="external-link" style="width: 15px"> Enlaces</th>
                         </tr>
@@ -132,7 +133,7 @@ map_page: true
             </div>
             <div class='text-center' id='df-container-not-found' style='display: none;'>
                 <div class='text-center' id="df-name-not-found"></div>
-                <p>No pudimos encontrar ningún candidato para esa dirección.</p>
+                <p>No pudimos encontrar ningún candidato o candidata para esa dirección.</p>
             </div>
             <div id='df-container'>
                 <br>
@@ -140,7 +141,7 @@ map_page: true
                 <table class="table table-striped table-responsive" id="df-results">
                     <thead>
                         <tr>
-                            <th><i class='fa fa-user' title="icon persona"></i> Candidato</th>
+                            <th><i class='fa fa-user' title="icon persona"></i> Candidato(a)</th>
                             <th><i class='fa fa-certificate' title="icon partido"></i> Partido</th>
                             <th><img src="fonts/external-link.svg" alt="external-link" style="width: 15px"> Enlaces</th>
                         </tr>
@@ -154,7 +155,7 @@ map_page: true
             </div>
             <div class='text-center' id='senador-container-not-found' style='display: none;'>
                 <div class='text-center' id="senador-name-not-found"></div>
-                <p>No pudimos encontrar ningún candidato para esa dirección.</p>
+                <p>No pudimos encontrar ningún candidato o candidata para esa dirección.</p>
             </div>
             <div id='senador-container'>
                 <br>
@@ -162,7 +163,7 @@ map_page: true
                 <table class="table table-striped table-responsive" id="senador-results">
                     <thead>
                         <tr>
-                            <th><i class='fa fa-user' title="icon persona"></i> Candidato</th>
+                            <th><i class='fa fa-user' title="icon persona"></i> Candidato(a)</th>
                             <th><i class='fa fa-certificate' title="icon partido"></i> Partido</th>
                             <th><img src="fonts/external-link.svg" alt="external-link" style="width: 15px"> Enlaces</th>
                         </tr>
@@ -179,7 +180,7 @@ map_page: true
                 <table class="table table-striped table-responsive" id="presidente-results">
                     <thead>
                         <tr>
-                            <th><i class='fa fa-user' title="icon persona"></i> Candidato</th>
+                            <th><i class='fa fa-user' title="icon persona"></i> Candidato(a)</th>
                             <th><i class='fa fa-certificate' title="icon partido"></i> Partido</th>
                             <th><img src="fonts/external-link.svg" alt="external-link" style="width: 15px"> Enlaces</th>
                         </tr>
