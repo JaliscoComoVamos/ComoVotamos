@@ -1,434 +1,664 @@
-﻿Candidatura,Nombre,Partido,electo,url,twitter,facebook,facebook_senadores
-Presidente,Andrés Manuel López Obrador,"MORENA, PES, PT",Electo,https://lopezobrador.org.mx/,https://twitter.com/lopezobrador_,https://www.facebook.com/lopezobrador.org.mx/,
-Presidente,Ricardo Anaya Cortés,"PAN, PRD, MC",,https://ricardoanaya.com.mx/,https://twitter.com/RicardoAnayaC,https://www.facebook.com/RicardoAnayaC/,
-Presidente,José Antonio Meade Kuribreña,"PRI, PVEM, PANAL",,http://meade18.com/,https://twitter.com/JoseAMeadeK,https://www.facebook.com/JoseAMeadeK/,
-Presidente,Jaime Heliodoro Rodríguez Calderón,INDEPENDIENTE,,http://www.jaimerodriguez.mx/,https://twitter.com/JaimeRdzNL,https://www.facebook.com/JaimeRodriguezElBronco/,
-Gobernador,Enrique Alfaro Ramírez,MC,Electo,,https://twitter.com/EnriqueAlfaroR,https://www.facebook.com/EnriqueAlfaroR/,
-Gobernador,Miguel Ángel Martínez Espinosa,PAN,,,https://twitter.com/MiguelAngelME_,https://www.facebook.com/Miguel.Mtz.Espinosa/,
-Gobernador,Miguel Castro Reynoso,PRI,,,https://twitter.com/micasrey,https://www.facebook.com/miguelcastroreynoso/,
-Gobernador,Carlos Manuel Orozco Santillán,PRD,,,https://twitter.com/carlosorozcosa,https://www.facebook.com/CarlosOrozcoSa/,
-Gobernador,Salvador Cosío Gaona,PVEM,,,https://twitter.com/salvadorcosio1,https://www.facebook.com/SalvadorCosio/,
-Gobernador,Martha Rosa Araiza Soltero,PANAL,,,https://twitter.com/MarthaRosa2018,https://www.facebook.com/MarthaRosa2018/,
-Gobernador,Carlos Lomelí Bolaños,"MORENA, PES, PT",,,https://twitter.com/DrCarlosLomeli,https://www.facebook.com/DrCarlosLomeli/,
-Senador,José Clemente Castañeda Hoeflich y Verónica Delgadillo García,"PAN, PRD, MC",Los dos electos por mayoría relativa,,,,"Castañeda, https://www.facebook.com/clementech/, Delgadillo, https://www.facebook.com/VeroDelgadilloG/"
-Senador,María Antonia Cárdenas Mariscal y Antonio Pérez Garibay,"MORENA, PES, PT",Antonia Cárdenas electa por primera minoría,,,,"Cárdenas, https://www.facebook.com/dipantonia/, Pérez, https://www.facebook.com/APerezGaribay/"
-Senador,José Pedro Kumamoto Aguilar y Juana Adelfa Delgado Quintana,INDEPENDIENTE,,,,,"Kumamoto, https://www.facebook.com/PedroKumamoto/, Delgado, https://www.facebook.com/JuanitaDelgadoQ/"
-Senador,Hugo Contreras Rodríguez y Rocío Corona Nakamura,PRI,,,,,"Contreras, https://www.facebook.com/hugo.contreraszepeda/, Corona, https://www.facebook.com/RocioCoronaNkm/"
-Senador,Arturo Alberto Jheman Zetina y Leonor Ceballos González,PVEM,,,,,"Jheman, https://www.facebook.com/Arturo-Jheman-Verde-407519359671430/, Ceballos, https://www.facebook.com/LeonorCeballosG/"
-Senador,Sandra Beatriz González Pérez y Ramón Ernesto Gallardo López,PANAL,,,,,"González, https://www.facebook.com/SandraGonzalezSenadora/, Gallardo, https://www.facebook.com/ramongallardosenador/"
-Autlán de Navarro,Miguel Ángel Iñiguez Brambila,"MORENA, PES, PT",Electo,,,,
-Autlán de Navarro,Luis Alberto Miranda Zúñiga,PANAL,,,,,
-Autlán de Navarro,J. Nicolás Ayala del Real,"PAN, PRD, MC",,,,,
-Autlán de Navarro,Gustavo Salvador Robles Martínez,PRI,,,,,
-Autlán de Navarro,Carolina Rincón Naranjo,PVEM,,,,,
-Autlán de Navarro,Víctor Manuel Pérez Cabrera,INDEPENDIENTE,,,,,
-Chapala,Moisés Alejandro Anaya Aguilar,MC,Electo,,,,
-Chapala,Juan Diego Castro Morales,INDEPENDIENTE,,,,,
-Chapala,Esperanza Mejía Carvajal,PANAL,,,,,
-Chapala,Alejandro de Jesús Aguirre Curiel,PAN,,,,,
-Chapala,Gerardo Degollado González,"MORENA, PES, PT",,,,,
-Chapala,Javier Degollado González,PRI,,,,,
-Chapala,María Guadalupe Cárdenas Cárdenas,PVEM,,,,,
-El Grullo,Mónica Marín Buenrostro,"PAN, PRD, MC",Electa,,,https://www.facebook.com/oficialmonicamarin/,
-El Grullo,Dania Margarita Salas Paniagua,PANAL,,,,https://www.facebook.com/SalasDania,
-El Grullo,Oscar Jiménez Vargas,"MORENA, PES, PT",,,,,
-El Grullo,Milton Carlos Cárdenas Osorio,PRI,,,,https://www.facebook.com/MiltonCardenasOsorio/,
-El Grullo,Rebeca Saraí Jaime María,PVEM,,,,https://www.facebook.com/Rebeca-Sarai-Jaime-Mar%C3%ADa-2042005406051892/,
-El Salto,Ricardo Zaid Santillán Cortés,"PAN, PRD, MC",Electo,,,https://www.facebook.com/RSantillanMC/,
-El Salto,Joel González Díaz,PRI,,,,,
-El Salto,Norma Alicia Cruz Hernández,PVEM,,,,,
-El Salto,Mario Eduardo Moreno Álvarez,PANAL,,,,,
-El Salto,Gabriel Pérez Pérez,"MORENA, PES, PT",,,,,
-Guadalajara,Ismael del Toro Castro,MC,Electo,,https://twitter.com/DelToroIsmael,https://www.facebook.com/deltoroismael/,
-Guadalajara,Miguel Zárate Hernández,PAN,,,https://twitter.com/MiguelZarateH,https://www.facebook.com/MiguelZarateH/,
-Guadalajara,Jesús Eduardo Almaguer Ramírez,PRI,,,https://twitter.com/ealmaguerr,https://www.facebook.com/EduardoAlmaguerr/,
-Guadalajara,Valeria Guadalupe Ávila Gutiérrez,PRD,,,,https://www.facebook.com/Valeria-Avila-1004154903095438/,
-Guadalajara,Aurelio Martínez Flores,PVEM,,,,https://www.facebook.com/AurelioMartinezGDL/,
-Guadalajara,Rodolfo Armando Casanova Valle,PANAL,,,https://twitter.com/casanovagdl2018,,
-Guadalajara,Claudia Delgadillo González,"MORENA, PES, PT",,,https://twitter.com/ClaudDelgadillo,https://www.facebook.com/ClaudDelgadillo/,
-Ixtlahuacán de los Membrillos,Eduardo Cervantes Aguilar,PRI,Electo,,,https://www.facebook.com/DrEduardoCervantesAguilar/,
-Ixtlahuacán de los Membrillos,Otilia Díaz Enciso,"PAN, PRD, MC",,,,,
-Ixtlahuacán de los Membrillos,Marín Uriel Gomar Santibañez,PVEM,,,,,
-Ixtlahuacán de los Membrillos,María Fernanda Lozano Cisneros,PANAL,,,,,
-Ixtlahuacán de los Membrillos,José Mateo Ramírez Neri,"MORENA, PES, PT",,,,,
-Juanacatlán,Adriana Cortés González,MC,Electa,,,https://www.facebook.com/AdrianaLaGueraCortes/,
-Juanacatlán,Francisco de la Cerda Suárez,PAN,,,,,
-Juanacatlán,Alexis Mabel Chávez Dueñas,PRI,,,,,
-Juanacatlán,Francisca Ortiz Hernández,PRD,,,,,
-Juanacatlán,J. Jesús Cortés Moreno,PVEM,,,,,
-Juanacatlán,Rebeca Mariscal Hidalgo,PANAL,,,,,
-Juanacatlán,Flor Cecilia Torres Rocha,"MORENA, PES, PT",,,,,
-Hostotipaquillo,Iliana Cristina Esparza Ríos,"PAN, PRD, MC",Electa,,,,
-Hostotipaquillo,Mayte Araceli Mercado Bañuelos,PANAL,,,,,
-Hostotipaquillo,Hugo Daniel Gaeta Esparza,PRI,,,,,
-La Barca,Enrique Rojas Román,"MORENA, PES, PT",Electo,,,,
-La Barca,José Nicolás Cerda Pacheco,INDEPENDIENTE,,,,,
-La Barca,Agustín Valle Olmos,PANAL,,,,,
-La Barca,Benjamín Villanueva Soto,"PAN, PRD, MC",,,,,
-La Barca,Nicolás Mosqueda Vásquez,PRI,,,,,
-La Barca,Luis Eduardo Rodríguez Muñiz,PVEM,,,,,
-La Huerta,Adan Israel Mendoza Rodríguez,"PAN, PRD, MC",Electo,,,https://www.facebook.com/Ray-Mendoza-1475364742686026/,
-La Huerta,Humberto Vargas Díaz,"MORENA, PES, PT",,,,,
-La Huerta,Luis Arias Madrigal,PRI,,,,,
-La Huerta,Rosalba Gómez Macedo,PVEM,,,,,
-Lagos de Moreno,Tecutli José Guadalupe Gómez Villalobos,"PAN, PRD, MC",Electo,,,https://www.facebook.com/tecutligomezmc/,
-Lagos de Moreno,José Luis González González,INDEPENDIENTE,,,,,
-Lagos de Moreno,Joel Razura Preciado,INDEPENDIENTE,,,,,
-Lagos de Moreno,Alejandra Vázquez Ortiz,PANAL,,,,,
-Lagos de Moreno,Luis Gerardo Sánchez Sánchez,"MORENA, PES, PT",,,,,
-Lagos de Moreno,Hugo René Ruiz Esparza Hermosillo,PRI,,,,,
-Lagos de Moreno,Dora Alicia Sánchez Barragán,PVEM,,,,,
-Ocotlán,Paulo Gabriel Hernández Hernández,MC,Electo,,,https://www.facebook.com/PauloGabrielZague/,
-Ocotlán,Rosa María Ochoa Regalado,INDEPENDIENTE,,,,https://www.facebook.com/maestrarosyochoa/,
-Ocotlán,Enrique Robledo Sahagún,PANAL,,,,https://www.facebook.com/Enrique-Robledo-421416421642925/,
-Ocotlán,Manuel Gutiérrez Muñoz,PAN,,,,https://www.facebook.com/DrManuelitoG/,
-Ocotlán,Enrique García Hernández,"MORENA, PES, PT",,,,https://www.facebook.com/EnriqueGarciaOcotlan/,
-Ocotlán,Ricardo Godínez Ramírez,PRD,,,,https://www.facebook.com/Lic-Ricardo-Godinez-169769620353221/,
-Ocotlán,Juan Manuel Alatorre Franco,PRI,,,,https://www.facebook.com/ConAlatorreSi/,
-Ocotlán,María del Carmen Carranza Jaramillo,PVEM,,,,https://www.facebook.com/Mar%C3%ADa-del-Carmen-Carranza-176708996326522/,
-Puerto Vallarta,Arturo Dávalos Peña,MC,Electo,,,https://www.facebook.com/IngDavalos/,
-Puerto Vallarta,Saúl López Orozco,PAN,,,,,
-Puerto Vallarta,Luis Roberto González Gutiérrez,PRI,,,,,
-Puerto Vallarta,Hernán Carmona Muñiz,PRD,,,,,
-Puerto Vallarta,Enrique Gerardo Gou Boy,PVEM,,,,,
-Puerto Vallarta,Heriberto Sánchez Ruiz,PANAL,,,,,
-Puerto Vallarta,Francisco José Martínez Gil,INDEPENDIENTE,,,,,
-Puerto Vallarta,Luis Alberto Alcaraz López,INDEPENDIENTE,,,,,
-Puerto Vallarta,Máximo Martínez Aguirre,INDEPENDIENTE,,,,,
-Puerto Vallarta,María Laurel Carrillo Ventura,"MORENA, PES, PT",,,,,
-San Juan de los Lagos,Jesús Ubaldo Medina Briseño,PANAL,Electo,,,,
-San Juan de los Lagos,Gustavo Remberto Campos Hernández,INDEPENDIENTE,,,,,
-San Juan de los Lagos,Norma Elizabeth Macías Aguirre,"PAN, PRD, MC",,,,,
-San Juan de los Lagos,Laura Angélica Chávez Contreras,"MORENA, PES, PT",,,,,
-San Juan de los Lagos,Olivia Guillen Padilla,PRI,,,,,
-San Juan de los Lagos,Iván José de Jesús Veloz Muñoz,PVEM,,,,,
-Tala,Enrique Gabriel Buenrostro Ahued,"PAN, PRD, MC",Electo,,,https://www.facebook.com/EnriqueBnrstro/,
-Tala,Carlos Alberto Blanco Núñez,INDEPENDIENTE,,,,,
-Tala,Miguel Lemus García,PANAL,,,,,
-Tala,Ismael Rodríguez Ceballos,"MORENA, PES, PT",,,,,
-Tala,Antonio Porfirio Casillas Díaz,PRI,,,,,
-Tala,Cipriano Aguayo Duran,PVEM,,,,,
-Tecolotlán,Ricardo Ramírez Ruelas,PRI,Electo,,,,
-Tecolotlán,Lizeth Guadalupe Santana Vázquez,PAN,,,,,
-Tecolotlán,María Angélica Ayala Uribe,"MORENA, PES, PT",,,,,
-Tecolotlán,Omar Salvador Bustos López,MC,,,,,
-Tecolotlán,Lucía García Castañeda,PVEM,,,,,
-Tepatitlán de Morelos,María Elena de Anda Gutiérrez,MC,Electa,,,,
-Tepatitlán de Morelos,Rigoberto González Gutiérrez,PAN,,,,,
-Tepatitlán de Morelos,María Concepción Franco Lucio,PRI,,,,,
-Tepatitlán de Morelos,Alejandra González Jiménez,PRD,,,,,
-Tepatitlán de Morelos,José Antonio Becerra González,PVEM,,,,,
-Tepatitlán de Morelos,M. Elena Telles Barajas,PANAL,,,,,
-Tepatitlán de Morelos,María del Carmen Gallegos de la Mora,INDEPENDIENTE,,,,,
-Tepatitlán de Morelos,Paola Adriana González Dávalos,"MORENA, PES, PT",,,,,
-Tequila,José Alfonso Magallanes Rubio,"PAN, PRD, MC",Electo,,,,
-Tequila,Gustavo Castañeda González,INDEPENDIENTE,,,,,
-Tequila,Martín Ibarra Aguilera,PANAL,,,,,
-Tequila,José Miguel Marín Sánchez,"MORENA, PES, PT",,,,,
-Tequila,Armando González Castañeda,PRI,,,,,
-Tequila,Alan Marcos Mata Covarrubias,PVEM,,,,,
-Tequila,Ramiro Pérez Martínez,INDEPENDIENTE,,,,,
-Tlajomulco de Zúñiga,Salvador Zamora Zamora,MC,Electo,,,https://www.facebook.com/SalvadorZamoraZ/,
-Tlajomulco de Zúñiga,Salvador Gómez de Dios,PAN,,,,https://www.facebook.com/SALVADORGDEDIOS/,
-Tlajomulco de Zúñiga,Antonio Sánchez Flores,PRI,,,,https://www.facebook.com/tonosancheztlajo/,
-Tlajomulco de Zúñiga,Thania Edith Morales Rodríguez,PRD,,,,https://www.facebook.com/Thania.E.Morales/,
-Tlajomulco de Zúñiga,Luz Elena Gómez Orozco,PVEM,,,,https://www.facebook.com/LuzElenaGomezO/,
-Tlajomulco de Zúñiga,Héctor Armando Villegas Rodríguez,PANAL,,,,https://www.facebook.com/ArmandoVillegasCandidato/,
-Tlajomulco de Zúñiga,Juan Carlos Bustamante Barragán,INDEPENDIENTE,,,,https://www.facebook.com/carlosbustamanteoficial/,
-Tlajomulco de Zúñiga,Miguel Ángel León Corrales,"MORENA, PES, PT",,,,https://www.facebook.com/MiguelALeonC/,
-Tlaquepaque,María Elena Limón García,"PAN, PRD, MC",Electa,,,https://www.facebook.com/mariaelenalimon/,
-Tlaquepaque,Alfredo Barba Mariscal,PRI,,,,https://www.facebook.com/AlfredoBarbaM/,
-Tlaquepaque,Daniela Elizabeth Chávez Estrada,PVEM,,,,https://www.facebook.com/DaniChavezE/,
-Tlaquepaque,Hugo Emmanuel Mercado López,PANAL,,,,https://www.facebook.com/elpotrillodetlaquepaque/,
-Tlaquepaque,José Bañales Castro,INDEPENDIENTE,,,,https://www.facebook.com/candidatotlaquepaque/,
-Tlaquepaque,Gustavo de la Torre Navarro,INDEPENDIENTE,,,,https://www.facebook.com/GUSTlaquepaque/,
-Tlaquepaque,Alberto Alfaro García,INDEPENDIENTE,,,,https://www.facebook.com/AlbertoAlfaroTlaquepaque/,
-Tlaquepaque,Alberto Maldonado Chavarín,"MORENA, PES, PT",,,,https://www.facebook.com/AlbertoMaldonadoTLA/,
-Tonalá,Juan Antonio González Mora,"PAN, PRD, MC",Electo,,,https://www.facebook.com/JuanAntonioTonala/,
-Tonalá,Edgar Oswaldo Bañales Orozco,PRI,,,,https://www.facebook.com/EdgarOswaldoBanalesOrozco/,
-Tonalá,Celia Guadalupe Serrano Villagómez,PVEM,,,,https://www.facebook.com/celiapvem/,
-Tonalá,Juan Manuel Pérez Suárez,PANAL,,,,https://www.facebook.com/Dr-TITO-1578205515756348/,
-Tonalá,Catarino Olea Velázquez,"MORENA, PES, PT",,,,https://www.facebook.com/CatarinoOleaTonala/,
-Tonalá,María Isabel Nolasco González,INDEPENDIENTE,,,,,
-Tototlán,Sergio Quezada Mendoza,"PAN, PRD, MC",Electo,,,https://www.facebook.com/Sergio-Quezada-Mendoza-372856666535514/,
-Tototlán,María Esmeralda Franco López,PANAL,,,,,
-Tototlán,María Dolores Contreras Aceves,"MORENA, PES, PT",,,,,
-Tototlán,Sonia Ruíz Mendoza,PRI ,,,,,
-Tototlán,Ruth Evelyn Vázquez Villalpando,PVEM ,,,,,
-Unión de Tula,Gala del Carmen Lepe Galván,"PAN, PRD, MC",Electa,,,https://www.facebook.com/GalaLepe/,
-Unión de Tula,Jessica Serrano Pérez,PANAL,,,,,
-Unión de Tula,Eduardo Noriega Villegas,"MORENA, PES, PT",,,,,
-Unión de Tula,César Alonso Tostado González,PRI,,,,,
-Unión de Tula,Jessica Dennise Cervantes Mosqueda,PVEM,,,,,
-Zapopan,Jesús Pablo Lemus Navarro,MC,Electo,,https://twitter.com/PabloLemusN,https://www.facebook.com/PabloLemusN/,
-Zapopan,José Antonio de la Torre Bravo,PAN,,,https://twitter.com/joseadelatorre,,
-Zapopan,Abel Octavio Salgado Peña,PRI,,,https://twitter.com/AbelSalgadoP,https://www.facebook.com/AbelSalgadoP/,
-Zapopan,Jaime Prieto Pérez,PRD,,,https://twitter.com/MTROJAIMEPRIETO,https://www.facebook.com/JaimePrietoMeLateMas/,
-Zapopan,Mario Alejandro Cárdenas Ochoa,PVEM,,,,https://www.facebook.com/acardenaszapopan/,
-Zapopan,Jorge Leal Ramírez,PANAL,,,https://twitter.com/JorgeLealMex,https://www.facebook.com/JorgeLealMex/,
-Zapopan,José Hiram Torres Salcedo,"MORENA, PES, PT",,,https://twitter.com/hiramtorres,https://www.facebook.com/HiramTorresS/,
-Zapotlán el Grande,J. Jesús Guerrero Zúñiga,MC,Electo,,,,
-Zapotlán el Grande,Noé Saúl Ramos García,PAN,,,,,
-Zapotlán el Grande,Alejandro Elizondo Verduzco,PRI,,,,,
-Zapotlán el Grande,Cecilia Guadalupe Ramos de la Torre,PVEM,,,,,
-Zapotlán el Grande,Frania Daniela Lara Galindo,PANAL,,,,,
-Zapotlán el Grande,José Romero Mercado,INDEPENDIENTE,,,,,
-Zapotlán el Grande,Alejandro Barragán Sánchez,"MORENA, PES, PT",,,,,
-Zapotlanejo,Héctor Álvarez Contreras,MC,Electo,,,https://www.facebook.com/hectoralvcon/,
-Zapotlanejo,Susana Álvarez Serrato,PAN,,,,,
-Zapotlanejo,Rubén Ramírez Ramírez,PRI,,,,,
-Zapotlanejo,María Guadalupe González Rivera,PRD,,,,,
-Zapotlanejo,Ángel Alberto Mayoral Pérez,PVEM,,,,,
-Zapotlanejo,Alfredo Camarena Pérez,"MORENA, PES, PT",,,,,
-Diputado Local DTTO. 1,Gustavo Macías Zambrano,"PAN, PRD, MC",Electo,,,,
-Diputado Local DTTO. 1,Rafael Aguirre Carrillo,PANAL,,,,,
-Diputado Local DTTO. 1,Leoncio Guzmán González,"MORENA, PES, PT",,,,,
-Diputado Local DTTO. 1,Antonio López Orozco,PRI,,,,,
-Diputado Local DTTO. 1,Luis Manuel Velez Orozco,PVEM,,,,,
-Diputado Local DTTO. 2,José de Jesús Hurtado Torres,PAN,Electo,,,,
-Diputado Local DTTO. 2,Hugo Zamora de Anda,MC,,,,,
-Diputado Local DTTO. 2,Nora Leticia Hernández Esqueda,PANAL,,,,,
-Diputado Local DTTO. 2,Gustavo Pedroza Romo,"MORENA, PES, PT",,,,,
-Diputado Local DTTO. 2,Saúl Martin Gómez,PRD,,,,,
-Diputado Local DTTO. 2,Luz del Carmen García Gómez,PRI,,,,,
-Diputado Local DTTO. 2,Carlos Alberto Gallardo Hernández,PVEM,,,,,
-Diputado Local DTTO. 3 (Tepatitlán),Jorge Eduardo González Arana,PAN,Electo,,,https://www.facebook.com/Jorge-Eduardo-Gonz%C3%A1lez-Arana-359076561246226/,
-Diputado Local DTTO. 3 (Tepatitlán),Rosa Angélica Ascencio González,PRI,,,,https://www.facebook.com/RosyAscencioG/,
-Diputado Local DTTO. 3 (Tepatitlán),Rosa Margarita López Orozco,PRD,,,,https://www.facebook.com/MargaritaLopezD03/,
-Diputado Local DTTO. 3 (Tepatitlán),María de los Ángeles Barajas Gaytán,PT,,,,https://www.facebook.com/%C3%81ngeles-Barajas-192389668229013/,
-Diputado Local DTTO. 3 (Tepatitlán),Jorge Mercado Limón,PVEM,,,,https://www.facebook.com/Dr-Mercado-211754656222144/,
-Diputado Local DTTO. 3 (Tepatitlán),Mara Nadiezhda Robles Villaseñor,MC,,,,https://www.facebook.com/MaraRoblesV/,
-Diputado Local DTTO. 3 (Tepatitlán),Zulma Julissa Ocegueda Salazar,PANAL,,,https://twitter.com/ZulmaOcegueda,,
-Diputado Local DTTO. 3 (Tepatitlán),Julio Manuel Barba Gómez,MORENA,,,,https://www.facebook.com/Dr.JulioBarbaCandidato/,
-Diputado Local DTTO. 3 (Tepatitlán),Vanessa del Carmen Aguirre Carrillo,PES,,,,,
-Diputado Local DTTO. 4 (Zapopan),Edgar Enrique Velázquez González,"PAN, PRD, MC",Electo,,,https://www.facebook.com/EVelazquez01,
-Diputado Local DTTO. 4 (Zapopan),Laura Valeria Guzmán Vázquez,PRI,,,,https://www.facebook.com/valeria.guzman.vazquez/,
-Diputado Local DTTO. 4 (Zapopan),Adriana Isabel Rodríguez Larios,PVEM,,,,https://www.facebook.com/adrianardzlarios/,
-Diputado Local DTTO. 4 (Zapopan),César Ivan Mares Rodríguez,PANAL,,,,https://www.facebook.com/Cesar-Mares-1514076522051089/,
-Diputado Local DTTO. 4 (Zapopan),Fernando Sánchez Díaz,INDEPENDIENTE,,,,https://www.facebook.com/SePuedeTransformarLaCiudad/,
-Diputado Local DTTO. 4 (Zapopan),José de Jesús Martínez Esparza,INDEPENDIENTE,,,,https://www.facebook.com/PepeMartinezE/,
-Diputado Local DTTO. 4 (Zapopan),Gerardo Hernández Amezcua,INDEPENDIENTE,,,,https://www.facebook.com/Gerardo-Hernandez-Amezcua-1813503255378736/,
-Diputado Local DTTO. 4 (Zapopan),Blanca Olivia Vargas Mendoza,"MORENA, PES, PT",,,,https://www.facebook.com/BlancaOliviaVargasMendoza/,
-Diputado Local DTTO. 5 (Puerto Vallarta),Luis Ernesto Munguía González,MC,Electo,,,,
-Diputado Local DTTO. 5 (Puerto Vallarta),Luz María Velasco Robles,PAN,,,,,
-Diputado Local DTTO. 5 (Puerto Vallarta),María Violeta Becerra Osoria,PRI,,,,,
-Diputado Local DTTO. 5 (Puerto Vallarta),María Magdalena Urbina Martínez,PRD,,,,,
-Diputado Local DTTO. 5 (Puerto Vallarta),José Manuel Galindo Nolasco,PVEM,,,,,
-Diputado Local DTTO. 5 (Puerto Vallarta),Cecilia Bañuelos Rubio,PANAL,,,,,
-Diputado Local DTTO. 5 (Puerto Vallarta),Susana Gabriela Velasco González,INDEPENDIENTE,,,,,
-Diputado Local DTTO. 5 (Puerto Vallarta),Manuel Palomera Uribe,INDEPENDIENTE,,,,,
-Diputado Local DTTO. 5 (Puerto Vallarta),Bruno Blancas Mercado,"MORENA, PES, PT",,,,,
-Diputado Local DTTO. 6 (Zapopan),Mirza Flores Gómez,MC,Electa,,https://twitter.com/MirzaFloresG,https://www.facebook.com/mirzafloresg/,
-Diputado Local DTTO. 6 (Zapopan),Irma Verónica González Orozco,PAN,,,,,
-Diputado Local DTTO. 6 (Zapopan),Xavier Marconi Quintero Villanueva,PRI,,,https://twitter.com/Xmarconi,https://www.facebook.com/XavierMarconi/,
-Diputado Local DTTO. 6 (Zapopan),Zahida Ivonne Ramírez Salcedo,PRD,,,,,
-Diputado Local DTTO. 6 (Zapopan),Sergio Martín Arceo García,PVEM,,,https://twitter.com/MartinArceo,https://www.facebook.com/MartinArceoG/,
-Diputado Local DTTO. 6 (Zapopan),Olivia Irasema Bonilla López,PANAL,,,,https://www.facebook.com/Olivia-Irasema-1065974680226983/,
-Diputado Local DTTO. 6 (Zapopan),Alejandra Vargas Ochoa,INDEPENDIENTE,,,https://twitter.com/alevargasoc,https://www.facebook.com/alevargasoc,
-Diputado Local DTTO. 6 (Zapopan),Ana Gabriela González González,INDEPENDIENTE,,,https://twitter.com/anagonmx,https://www.facebook.com/anagonmx,
-Diputado Local DTTO. 6 (Zapopan),Karla Azucena Díaz López,"MORENA, PES, PT",,,https://twitter.com/azu_kar,,
-Diputado Local DTTO. 7 (Tonalá y El Salto),María Ester López Chávez,"MORENA, PES, PT",Electa,,,https://www.facebook.com/MariaEstherLC/,
-Diputado Local DTTO. 7 (Tonalá y El Salto),María Silvia López Campechano,PAN,,,,https://www.facebook.com/Silvia-L%C3%B3pez-151191985562489/,
-Diputado Local DTTO. 7 (Tonalá y El Salto),Roberto Amador Cárdenas Blake,PRI,,,,https://www.facebook.com/RobertoBlake2018/,
-Diputado Local DTTO. 7 (Tonalá y El Salto),María Luisa Hernández Plascencia,PRD,,,,,
-Diputado Local DTTO. 7 (Tonalá y El Salto),Ismael Arteaga Pajarito,PVEM,,,,https://www.facebook.com/Ismael-Arteaga-Pajarito-158144598205476/,
-Diputado Local DTTO. 7 (Tonalá y El Salto),Rosa Alba Ramírez Nachis,MC,,,,https://www.facebook.com/RosaARamirezN/,
-Diputado Local DTTO. 7 (Tonalá y El Salto),Diana Carolina Zavala Barajas,PANAL,,,,https://www.facebook.com/DianaZavalabarajas/,
-Diputado Local DTTO. 7 (Tonalá y El Salto),Luis Ángel Morales Hernández,INDEPENDIENTE,,,,https://www.facebook.com/LuisAngelTonala/,
-Diputado Local DTTO. 8 (Guadalajara),Héctor Alejandro Hermosillo González,"PAN, PRD, MC",Electo,,https://twitter.com/AlexHsillo,https://www.facebook.com/ALEXHSILLO/,
-Diputado Local DTTO. 8 (Guadalajara),Ignacio Mestas Gallardo,PRI,,,https://twitter.com/NachoMestasGDL,https://www.facebook.com/NachoMestasGDL/,
-Diputado Local DTTO. 8 (Guadalajara),Blanca Estela Gutiérrez Viera,PVEM,,,,https://www.facebook.com/Blanca-Viera-697036810686067/,
-Diputado Local DTTO. 8 (Guadalajara),Irma Leticia García Ceniceros,PANAL,,,,https://www.facebook.com/NAIrmaGarcia/,
-Diputado Local DTTO. 8 (Guadalajara),Susana de la Rosa Hernández,INDEPENDIENTE,,,https://twitter.com/susanadelar,https://www.facebook.com/SusanaDeLaR/,
-Diputado Local DTTO. 8 (Guadalajara),Georgina Santos González,"MORENA, PES, PT",,,,,
-Diputado Local DTTO. 8 (Guadalajara),Edgar Josué León del Toro,INDEPENDIENTE,,,https://twitter.com/EdgarLeonGDL,https://www.facebook.com/EdgarLeonGDL/,
-Diputado Local DTTO. 8 (Guadalajara),Hiram Esaú Ramírez Castellón,INDEPENDIENTE,,,https://twitter.com/esau_hiram,,
-Diputado Local DTTO. 9 (Guadalajara),Miriam Berenice Rivera Rodríguez,"PAN, PRD, MC",Electa,,,https://www.facebook.com/BereRiveraGDL/,
-Diputado Local DTTO. 9 (Guadalajara),Catalina Aguilera Arizaga,PRI,,,https://twitter.com/KatyAguileraD9,https://www.facebook.com/KatyAguileraD9/,
-Diputado Local DTTO. 9 (Guadalajara),María de Jesús Macías Robles,PVEM,,,,,
-Diputado Local DTTO. 9 (Guadalajara),José Felipe Ascencio Sánchez,PANAL,,,,https://www.facebook.com/Distrito9FelipeAscensio/,
-Diputado Local DTTO. 9 (Guadalajara),Óscar Nicolás García Lomelí,"MORENA, PES, PT",,,,,
-Diputado Local DTTO. 10 (Zapopan),Esteban Estrada Ramírez,"PAN, PRD, MC",Electo,,,https://www.facebook.com/estebanestradamx/,
-Diputado Local DTTO. 10 (Zapopan),Mariana Fernández Ramírez,PRI,,,,https://www.facebook.com/fdzrmzmariana/,
-Diputado Local DTTO. 10 (Zapopan),Madeleine Garza Estrada,PVEM,,,,https://www.facebook.com/MadeleineGarzaE/,
-Diputado Local DTTO. 10 (Zapopan),Leo Arturo Jiménez Romero,PANAL,,,,,
-Diputado Local DTTO. 10 (Zapopan),Susana Ochoa Chavira,INDEPENDIENTE,,,,https://www.facebook.com/Susanaochoach/,
-Diputado Local DTTO. 10 (Zapopan),Aquiles López González,INDEPENDIENTE,,,,https://www.facebook.com/Aquiles-L%C3%B3pez-1852307144813752/,
-Diputado Local DTTO. 10 (Zapopan),José Manuel Muñoz Castellanos,"MORENA, PES, PT",,,,https://www.facebook.com/JoManuelMuca/,
-Diputado Local DTTO. 10 (Zapopan),Guillermo Gustavo Gallego Neri,INDEPENDIENTE,,,,https://www.facebook.com/guillermogallegoneri/,
-Diputado Local DTTO. 10 (Zapopan),Adelina Brigitte Hernández Siordia,INDEPENDIENTE,,,,https://www.facebook.com/Brigittehernandezs/,
-Diputado Local DTTO. 11 (Guadalajara),Arturo Lémus Herrea,"MORENA, PES, PT",Electo,,,https://www.facebook.com/Dr.Lemus2018/,
-Diputado Local DTTO. 11 (Guadalajara),Arturo Peña Quiñones,PAN,,,,,
-Diputado Local DTTO. 11 (Guadalajara),José Saavedra Terán,PRI,,,,,
-Diputado Local DTTO. 11 (Guadalajara),Erika Natalia Juárez Miranda,PRD,,,,,
-Diputado Local DTTO. 11 (Guadalajara),José González Jiménez,PVEM,,,,,
-Diputado Local DTTO. 11 (Guadalajara),Jonadab Martínez García,MC,,,,,
-Diputado Local DTTO. 11 (Guadalajara),Jair Gilberto Valdez López,PANAL,,,,,
-Diputado Local DTTO. 11 (Guadalajara),Joel Cortés Serrano,INDEPENDIENTE,,,,,
-Diputado Local DTTO. 11 (Guadalajara),Marcos Ramón Gómez Ortega,INDEPENDIENTE,,,,,
-Diputado Local DTTO. 11 (Guadalajara),Waldo Getsemani Ibarra Reyna,INDEPENDIENTE,,,,,
-Diputado Local DTTO. 12 (Tlajomulco),Gerardo Quirino Velázquez Chávez,"PAN, PRD, MC",Electo,,,https://www.facebook.com/GerardoQuirino.V/,
-Diputado Local DTTO. 12 (Tlajomulco),María de Lourdes Anguiano Ramírez,PRI,,,,https://www.facebook.com/LuluAnguianoTlajomulco/,
-Diputado Local DTTO. 12 (Tlajomulco),Elizabeth Magallón Mena,PVEM,,,,https://www.facebook.com/Elizabeth-Magall%C3%B3n-215921595658621/,
-Diputado Local DTTO. 12 (Tlajomulco),Allan Ángel Esparza,PANAL,,,,https://www.facebook.com/AllanAngel2018/,
-Diputado Local DTTO. 12 (Tlajomulco),José Chávez García,INDEPENDIENTE,,,,,
-Diputado Local DTTO. 12 (Tlajomulco),Rosalba Chávez Chávez,"MORENA, PES, PT",,,,https://www.facebook.com/RosalbaChavezC/,
-"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Adenawer González Fierros,"PAN, PRD, MC",Electo,,https://twitter.com/Adenawerfierros,,
-"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Liliana Guadalupe Morones Vargas,PRI,,,,https://www.facebook.com/lilimoronestlaq/,
-"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Karla del Carmen de Anda Carrazco,PVEM,,,,https://www.facebook.com/KarlaDeAnda13/,
-"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Edgar Alejandro Flores Olea,PANAL,,,,https://www.facebook.com/edgarfloresnalianza/,
-"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Paola Flores Trujillo,INDEPENDIENTE,,,,https://www.facebook.com/PaolaFloresTr/,
-"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",José Arturo Gleason Espíndola,INDEPENDIENTE,,,,https://www.facebook.com/ArturoGleasonE/,
-"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Benito Manuel Villagómez Rodríguez,"MORENA, PES, PT",,,,https://www.facebook.com/Distrito13Morena/,
-"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Christian Alfredo Nava Mena,INDEPENDIENTE,,,,,
-Diputado Local DTTO. 14 (Guadalajara),Priscilla Franco Barba,MC,Electa,,https://twitter.com/PrisFrancoB,https://www.facebook.com/PrisFrancoB/,
-Diputado Local DTTO. 14 (Guadalajara),María del Carmen Flores Vázquez,PAN,,,https://twitter.com/CarmenFV14,https://www.facebook.com/Carmen-Flores-2056222164666748/,
-Diputado Local DTTO. 14 (Guadalajara),María de los Ángeles Arredondo Torres,PRI,,,https://twitter.com/AngelesAPri,https://www.facebook.com/AngelesArredondoGDL/,
-Diputado Local DTTO. 14 (Guadalajara),Gerardo León de la Cruz,PRD,,,https://twitter.com/jerrylecuz,,
-Diputado Local DTTO. 14 (Guadalajara),Gabriel Hernández Pérez,PVEM,,,https://twitter.com/GabHdez14,https://www.facebook.com/GabHdez14/,
-Diputado Local DTTO. 14 (Guadalajara),Brenda Concepción Cesar Rodríguez,PANAL,,,https://twitter.com/BrendaCe,https://www.facebook.com/BrendaCe14/,
-Diputado Local DTTO. 14 (Guadalajara),José Bernardo Masini Aguilera,INDEPENDIENTE,,,https://twitter.com/BernardoMasini,https://www.facebook.com/BernardoMasiniA/,
-Diputado Local DTTO. 14 (Guadalajara),Otoniel Varas de Valdez González,INDEPENDIENTE,,,https://twitter.com/OtonielvV,https://www.facebook.com/OtonielVv/,
-Diputado Local DTTO. 14 (Guadalajara),Adriana Leticia Hernández Castillón,"MORENA, PES, PT",,,,https://www.facebook.com/ADRIANAHERNANDEZCASTILLON/,
-Diputado Local DTTO. 14 (Guadalajara),Carlos Minjarez Alcalá,INDEPENDIENTE,,,https://twitter.com/CMINJAREZ51,,
-Diputado Local DTTO. 15,Carlos Eduardo Sánchez Carrillo,"PAN, PRD, MC",Electo,,,,
-Diputado Local DTTO. 15,Juan Diego Alcaraz Curiel,PANAL,,,,,
-Diputado Local DTTO. 15,Imelda Serratos Madrigal,"MORENA, PES, PT",,,,,
-Diputado Local DTTO. 15,Juan Carlos Montes Jhonston,PRI,,,,,
-Diputado Local DTTO. 15,Clarissa Godínez Castellanos,PVEM,,,,,
-Diputado Local DTTO. 16 (Tlaquepaque),María Patricia Meza Núñez,"MORENA, PES, PT",Electa,,,,
-Diputado Local DTTO. 16 (Tlaquepaque),María del Rosario Velázquez Hernández,PAN,,,,https://www.facebook.com/rosariovelazquezmx/,
-Diputado Local DTTO. 16 (Tlaquepaque),Luis Armando Córdova Díaz,PRI,,,,https://www.facebook.com/luiscordova68/,
-Diputado Local DTTO. 16 (Tlaquepaque),Jessica Cisneros Martínez,PRD,,,,,
-Diputado Local DTTO. 16 (Tlaquepaque),Alfredo Fierros González,PVEM,,,,https://www.facebook.com/Alfredo-Fierros-968283406515265/,
-Diputado Local DTTO. 16 (Tlaquepaque),Marcela Guadalupe Aceves Sánchez,MC,,,,https://www.facebook.com/MarcelaAcevesS/,
-Diputado Local DTTO. 16 (Tlaquepaque),José Antonio Jiménez Orozco,PANAL,,,,,
-"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",J. Jesús Cabrera Jiménez,"PAN, PRD, MC",Electo,,,,
-"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",José Tomás Figueroa Padilla,PRI,,,,,
-"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",Erika Elizabeth Ramírez Pérez,PVEM,,,,,
-"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",Yadira Guadalupe Loza Barragán,PANAL,,,,,
-"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",Francisco Javier Díaz Ochoa,"MORENA, PES, PT",,,,,
-Diputado Local DTTO. 18,Irma de Anda Licea,"PAN, PRD, MC",Electa,,,,
-Diputado Local DTTO. 18,Teresa Daniela Ramírez Gamiño,MORENA,,,,,
-Diputado Local DTTO. 18,Mónica Martínez Velasco,PANAL,,,,,
-Diputado Local DTTO. 18,Jessica Karina Hernández Velasco,PES,,,,,
-Diputado Local DTTO. 18,J. Jesús Zúñiga Mendoza,PRI,,,,,
-Diputado Local DTTO. 18,Aarón Flores Arias,PT,,,,,
-Diputado Local DTTO. 18,Dulce Verónica Andalón Gómez,PVEM,,,,,
-Diputado Local DTTO. 19 (Zapotlán el Grande),Ma. Elizabeth Alcaraz Virgen,"PAN, PRD, MC",Electa,,,,
-Diputado Local DTTO. 19 (Zapotlán el Grande),José Luis Orozco Sánchez Aldana,PRI,,,,,
-Diputado Local DTTO. 19 (Zapotlán el Grande),Fernando Silva Jiménez,PVEM,,,,,
-Diputado Local DTTO. 19 (Zapotlán el Grande),Andrés Sánchez Sánchez,PANAL,,,,,
-Diputado Local DTTO. 19 (Zapotlán el Grande),Oswaldo Ramos López,INDEPENDIENTE,,,,,
-Diputado Local DTTO. 19 (Zapotlán el Grande),José Guadalupe Homar Ledezma Delgado,"MORENA, PES, PT",,,,,
-Diputado Local DTTO. 20 (Tonalá),Daniel Robles de León,MC,Electo,,,https://www.facebook.com/DanielRoblesMx/,
-Diputado Local DTTO. 20 (Tonalá),Verónica Acosta Cervantes,PAN,,,,https://www.facebook.com/VeronicaAcostaC/,
-Diputado Local DTTO. 20 (Tonalá),Venecia Castañeda Rodríguez,PRI,,,,https://www.facebook.com/VeneciaVanguardia/,
-Diputado Local DTTO. 20 (Tonalá),José Díaz Castañeda,PRD,,,,,
-Diputado Local DTTO. 20 (Tonalá),Aimee Esmeralda Castillo Flores,PVEM,,,,https://www.facebook.com/AimeeCastilloF/,
-Diputado Local DTTO. 20 (Tonalá),Aurora del Socorro Velasco Camberos,PANAL,,,,https://www.facebook.com/Aurora-Velasco-Camberos-candidata-Diputada-local-Distrito-20-176118253042370/,
-Diputado Local DTTO. 20 (Tonalá),Arnoldo Licea González,"MORENA, PES, PT",,,,https://www.facebook.com/Arnoldo-Licea-Gonz%C3%A1lez-1712980459008048/,
-Diputado Federal DTTO. 1,Eduardo Ron Ramos,"PAN, PRD, MC",Electo,,,,
-Diputado Federal DTTO. 1,Lucía Aguilar Carrillo,PRI,,,,,
-Diputado Federal DTTO. 1,José Guadalupe Núñez Rodríguez,PVEM,,,,,
-Diputado Federal DTTO. 1,Dolores Edith Sierra Romero,PANAL,,,,,
-Diputado Federal DTTO. 1,Mitsuo Jonathan Ixcoatl Hernández Delgado,"MORENA, PES, PT",,,,,
-Diputado Federal DTTO. 2,Martha Estela Romo Cuéllar,"PAN, PRD, MC",Electa,,,,
-Diputado Federal DTTO. 2,Juan Alberto Márquez de Anda,PRI,,,,,
-Diputado Federal DTTO. 2,María de los Ángeles Pérez Alba,PVEM,,,,,
-Diputado Federal DTTO. 2,José Pulido Díaz,PANAL,,,,,
-Diputado Federal DTTO. 2,Luis Fernando Torres Martín,"MORENA, PES, PT",,,,,
-Diputado Federal DTTO. 3,Guadalupe Romo Romo,"PAN, PRD, MC",Electa,,,https://www.facebook.com/GuadalupeRomo2018/,
-Diputado Federal DTTO. 3,Miguel Hernández Anaya,PRI,,,,https://www.facebook.com/MiguelHernandezAnayaDiputadoFederalDtto3/,
-Diputado Federal DTTO. 3,Marcela Avila Díaz,PVEM,,,,https://www.facebook.com/Marcela-Avila-D%C3%ADaz-171246213701679/,
-Diputado Federal DTTO. 3,Naúl Esteban Domínguez Guerra,PANAL,,,,https://www.facebook.com/Na%C3%BAl-Esteban-Dominguez-Guerra-157736718234257/,
-Diputado Federal DTTO. 3,Luis Tarcicio Ramírez Gutiérrez,"MORENA, PES, PT",,,,https://www.facebook.com/ArqTarcicioRamirez/,
-Diputado Federal DTTO. 4,Mario Alberto Rodríguez Carrillo,"PAN, PRD, MC",Electo,,,https://www.facebook.com/MarioAlbertoRodriguezMC/,
-Diputado Federal DTTO. 4,Salvador Arellano Guzmán,PRI,,,,https://www.facebook.com/ChavaArellanoGuzman/,
-Diputado Federal DTTO. 4,Kenia Rosaura Morones Meza,PVEM,,,,https://www.facebook.com/KeniaMoronesVerde/,
-Diputado Federal DTTO. 4,Mariana Rivera González,PANAL,,,,https://www.facebook.com/Mariana-Rivera-178763352771102/,
-Diputado Federal DTTO. 4,Alejandra Margarita Giadans Valenzuela,"MORENA, PES, PT",,,,https://www.facebook.com/AlejandraGiadansV/,
-Diputado Federal DTTO. 5,Lorena del Socorro Jiménez Andrade,"MORENA, PES, PT",Electa,,,,
-Diputado Federal DTTO. 5,Cesar Ignacio Abarca Gutiérrez,PRI,,,,,
-Diputado Federal DTTO. 5,Teresita Marmolejo López,PVEM,,,,,
-Diputado Federal DTTO. 5,Laura Adanely Caro Romero,PANAL,,,,,
-Diputado Federal DTTO. 5,Ramón Demetrio Guerrero Martínez,"PAN, PRD, MC",,,,,
-Diputado Federal DTTO. 6,Fabiola Raquel Guadalupe Loya Hernández,"PAN, PRD, MC",Electa,,,https://www.facebook.com/FabiolaLoyaMC/,
-Diputado Federal DTTO. 6,Juan Carlos García,PRI,,,,https://www.facebook.com/juancarlosgarcia.com.mx/,
-Diputado Federal DTTO. 6,Edgar Israel Martínez Rubí,PVEM,,,,https://www.facebook.com/IsraelMartinezDistrito6Federal/,
-Diputado Federal DTTO. 6,Viridiana Guadalupe González Gutiérrez,PANAL,,,,https://www.facebook.com/Viri-Gonz%C3%A1lez-1969376926714007/,
-Diputado Federal DTTO. 6,Ruth Amelia Chávez Parra,"MORENA, PES, PT",,,,https://www.facebook.com/RuthChavez01/,
-Diputado Federal DTTO. 7,Juan Carlos Villarreal Salazar,"PAN, PRD, MC",Electo,,,https://www.facebook.com/SoyJCVillarreal/,
-Diputado Federal DTTO. 7,Nicolás Maestro Landeros,PRI,,,,https://www.facebook.com/NicolasMaestroL/,
-Diputado Federal DTTO. 7,Delfino Corona Arana,PVEM,,,,https://www.facebook.com/Delfino-El-Chime-Corona-243329022877343/,
-Diputado Federal DTTO. 7,Julio César Ibarra Mendoza,PANAL,,,,https://www.facebook.com/JulioCesarIMD7/,
-Diputado Federal DTTO. 7,María Elizabeth Flores Vázquez,"MORENA, PES, PT",,,,,
-Diputado Federal DTTO. 8,Abril Alcalá Padilla,"PAN, PRD, MC",Electa,,https://twitter.com/Abril_AlcalaP,https://www.facebook.com/AbrilAlcala,
-Diputado Federal DTTO. 8,Pablo Ricardo Montaño Beckman,INDEPENDIENTE,,,https://twitter.com/PabloMontanoB,https://www.facebook.com/PabloMontanoB/,
-Diputado Federal DTTO. 8,Ximena Ruiz Uribe,PRI,,,https://twitter.com/ximenaruizuribe,https://www.facebook.com/XimenaRuizUribe8/,
-Diputado Federal DTTO. 8,Javier Barbosa González,PVEM,,,https://twitter.com/Javi3rGonzalez,https://www.facebook.com/Javiergonzalezellobo/,
-Diputado Federal DTTO. 8,Alfonso Ponce Varela,PANAL,,,,https://www.facebook.com/alfonsopova,
-Diputado Federal DTTO. 8,Rocío del Carmen Macías Gómez,"MORENA, PES, PT",,,,https://www.facebook.com/Rocio-Macias-196916254448811/,
-Diputado Federal DTTO. 9,Carmen Julia Prudencio González,"PAN, PRD, MC",Electa,,https://twitter.com/carmenjuliagdl,https://www.facebook.com/carmenjuliagdl,
-Diputado Federal DTTO. 9,Victoria Anahí Olguín Rojas,PRI,,,https://twitter.com/AnahiOlguinR,https://www.facebook.com/AnahiOlguinR/,
-Diputado Federal DTTO. 9,Addair Miranda Mendoza,PVEM,,,,https://www.facebook.com/AddairMM/,
-Diputado Federal DTTO. 9,Martha Alicia Mendoza Melendrez,PANAL,,,https://twitter.com/MarthaMendozaOf,https://www.facebook.com/MarthaMendozaOficial/,
-Diputado Federal DTTO. 9,Demetrio Almeda Hernández,"MORENA, PES, PT",,,https://twitter.com/AlmedaDemetrio,https://www.facebook.com/demetrioalmedahdez/,
-Diputado Federal DTTO. 10,Geraldina Isabel Herrera Vega,"PAN, PRD, MC",Electa,,,https://www.facebook.com/GeraldinaHV/,
-Diputado Federal DTTO. 10,Rodrigo Cerda Cornejo,INDEPENDIENTE,,,,https://www.facebook.com/RodrigoCornejo/,
-Diputado Federal DTTO. 10,Mariana Sophia Márquez Laureano,PRI,,,,https://www.facebook.com/MarianaMarquezL/,
-Diputado Federal DTTO. 10,José Luis Ortiz Vargas,PVEM,,,,https://www.facebook.com/JoseLuisPVEM/,
-Diputado Federal DTTO. 10,Karla Amelia de la Vega Pérez,PANAL,,,,,
-Diputado Federal DTTO. 10,Carla Patricia Hernández González,"MORENA, PES, PT",,,,https://www.facebook.com/Carla-Hern%C3%A1ndez-Actriz-146468589153388/,
-Diputado Federal DTTO. 11,Kehila Abigail Kú Escalante,"PAN, PRD, MC",Electa,,,https://www.facebook.com/KehilaKu/,
-Diputado Federal DTTO. 11,Norma Elizabeth Chávez Arias,PRI,,,,https://www.facebook.com/NormaChavezA/,
-Diputado Federal DTTO. 11,Erika Gabriela Pérez López,PVEM,,,,https://www.facebook.com/gabyperezMV/,
-Diputado Federal DTTO. 11,Elena Berenice Castillo Santillán,PANAL,,,,,
-Diputado Federal DTTO. 11,Ana Sofía Martínez Sánchez,"MORENA, PES, PT",,,,https://www.facebook.com/ASofiaMar/,
-Diputado Federal DTTO. 12,Adriana Gabriela Medina Ortiz,"PAN, PRD, MC",Electa,,,https://www.facebook.com/AdrianaMedinaMX/,
-Diputado Federal DTTO. 12,Alina Pérez González,PRI,,,,https://www.facebook.com/AlinaPerezTlajo/,
-Diputado Federal DTTO. 12,Xóchitl Livier Reynoso Zamora,PVEM,,,,https://www.facebook.com/diputadaxochitlreynoso/,
-Diputado Federal DTTO. 12,Alis Lizette Alanis Cervantes,PANAL,,,,https://www.facebook.com/Alis-Alanis-Distrito-12-306026756597622/,
-Diputado Federal DTTO. 12,Miriam Josefina Cano Silva,"MORENA, PES, PT",,,,,
-Diputado Federal DTTO. 13,Lourdes Celenia Contreras González,"PAN, PRD, MC",Electa,,,https://www.facebook.com/ContrerasCelenia/,
-Diputado Federal DTTO. 13,Alberto Valencia Bañuelos,INDEPENDIENTE,,,,https://www.facebook.com/AlbertoVale13,
-Diputado Federal DTTO. 13,Karla Torres Cervantes,PRI,,,,https://www.facebook.com/karla.torrescervantes/,
-Diputado Federal DTTO. 13,Antonio Román Valdez,PVEM,,,,https://www.facebook.com/Antonio-Roman-V-204031360367268/,
-Diputado Federal DTTO. 13,José Federico Luna González,PANAL,,,,,
-Diputado Federal DTTO. 13,Alejandro López Ibarra,"MORENA, PES, PT",,,,https://www.facebook.com/alexlopezD13/,
-Diputado Federal DTTO. 14,Juan Francisco Ramírez Salcido,"PAN, PRD, MC",Electo,,https://twitter.com/FcoRmzSalcido,https://www.facebook.com/FcoRmzSalcido/,
-Diputado Federal DTTO. 14,Sergio Javier Otal Lobo,PRI,,,https://twitter.com/OtalLoBo,https://www.facebook.com/sergiootallobo/,
-Diputado Federal DTTO. 14,Sergio Arturo González Iñiguez,PVEM,,,https://twitter.com/SAGonzalezI,https://www.facebook.com/ChekoGonzalezJal/,
-Diputado Federal DTTO. 14,Ramón Alejandro Pérez Madrigal,PANAL,,,https://twitter.com/AllxPerez14,https://www.facebook.com/AlexPerezMadrigal/,
-Diputado Federal DTTO. 14,Francisco Javier Mosqueda Manzo,"MORENA, PES, PT",,,,https://www.facebook.com/Francisco-Mosqueda-169621593679628/,
-Diputado Federal DTTO. 15,Absalón García Ochoa,"PAN, PRD, MC",Electo,,,https://www.facebook.com/AbsalonGO/,
-Diputado Federal DTTO. 15,María del Refugio Ruiz Moreno,PRI,,,,,
-Diputado Federal DTTO. 15,Ana Yeli García Aguirre,PVEM,,,,,
-Diputado Federal DTTO. 15,Alicia Escoto Sierra,PANAL,,,,,
-Diputado Federal DTTO. 15,Francisco Segoviano Trujillo,"MORENA, PES, PT",,,,,
-Diputado Federal DTTO. 16,Laura Imelda Pérez Segura,"MORENA, PES, PT",Electa,,,https://www.facebook.com/lauraImeldaDto16/,
-Diputado Federal DTTO. 16,Aníbal Gómez Marquina,INDEPENDIENTE,,,,https://www.facebook.com/AnibalGomezMarquina/,
-Diputado Federal DTTO. 16,Cynthia Valdovinos Sánchez,PRI,,,,https://www.facebook.com/Cynthia-Valdovinos-S%C3%A1nchez-156334595024132/,
-Diputado Federal DTTO. 16,Gabriela Oyuki Santiago Gutiérrez,PVEM,,,,https://www.facebook.com/GabrielaOyukiS/,
-Diputado Federal DTTO. 16,Ofelia Barajas Palomar,PANAL,,,,https://www.facebook.com/OfeliaBarajasNA/,
-Diputado Federal DTTO. 16,Marisol Acevedo Ortega,"PAN, PRD, MC",,,,https://www.facebook.com/MarisoAcevedoTlaquepaque/,
-Diputado Federal DTTO. 17,Juan Martín Espinoza Cárdenas,"PAN, PRD, MC",Electo,,,https://www.facebook.com/JuanMartinEspinozaOficial/,
-Diputado Federal DTTO. 17,Sergio Miguel Martín Castellanos,PRI,,,,https://www.facebook.com/Sergio-Mart%C3%ADn-Castellanos-254001988297770/,
-Diputado Federal DTTO. 17,Karla Montserrat García García,PVEM,,,,https://www.facebook.com/montseD17verde/,
-Diputado Federal DTTO. 17,Daniel Ramírez Hernández,PANAL,,,,https://www.facebook.com/Daniel-Ram%C3%ADrez-Hern%C3%A1ndez-Dip-17-2033616133573777/,
-Diputado Federal DTTO. 17,Luis Fernando Pérez Rivera,"MORENA, PES, PT",,,,https://www.facebook.com/FerDistrito17/,
-Diputado Federal DTTO. 18,Mónica Almeida López,"PAN, PRD, MC",Electa,,,,
-Diputado Federal DTTO. 18,Fabricio Israel Corona Vizcarra,PRI,,,,,
-Diputado Federal DTTO. 18,Manuel de Jesús Padilla Plascencia,PVEM,,,,,
-Diputado Federal DTTO. 18,José Alejandro Jiménez Montes,PANAL,,,,,
-Diputado Federal DTTO. 18,Marco Tulio Rosas Romero,"MORENA, PES, PT",,,,,
-Diputado Federal DTTO. 19,Alberto Esquer Gutiérrez,"PAN, PRD, MC",Electo,,,https://www.facebook.com/AlbertoEsquerG/,
-Diputado Federal DTTO. 19,Salvador Barajas del Toro,PRI,,,,,
-Diputado Federal DTTO. 19,Luz Elena Peralta Prado,PVEM,,,,,
-Diputado Federal DTTO. 19,Norma Patricia Serratos Sánchez,PANAL,,,,,
-Diputado Federal DTTO. 19,Clara Cárdenas Galván,"MORENA, PES, PT",,,,,
-Diputado Federal DTTO. 20,Ana Priscila González García,"PAN, PRD, MC",Electa,,,https://www.facebook.com/RPGLEZMC/,
-Diputado Federal DTTO. 20,Jorge Arana Arana,PRI,,,,https://www.facebook.com/JorgeAranaArana.si/,
-Diputado Federal DTTO. 20,Karla Patricia Fonseca Veliz,PVEM,,,,https://www.facebook.com/KarlaFonsecaV/,
-Diputado Federal DTTO. 20,Luis Fernando Quintero Damián,PANAL,,,,https://www.facebook.com/FernandoQuinteroD20/,
-Diputado Federal DTTO. 20,Cuauhtémoc Peña Cortés,"MORENA, PES, PT",,,,https://www.facebook.com/CuahutemocPenaCortes/,
+Candidatura,Nombre,Partido,electo,url,twitter,facebook
+Acatlán de Juárez (Región Centro - Zona Metropolitana de Guadalajara),Alejandro Alvarado Toscano,FUERZA MÉXICO,,,,http://www.facebook.com/AlexAlvarado2021
+Acatlán de Juárez (Región Centro - Zona Metropolitana de Guadalajara),Erick Medina Siordia,HAGAMOS,,,,https://www.facebook.com/erickmedinasiordia
+Acatlán de Juárez (Región Centro - Zona Metropolitana de Guadalajara),Jaime Enrique Velasco López,MC,,,,
+Acatlán de Juárez (Región Centro - Zona Metropolitana de Guadalajara),Anel Judith López Aguilar,MORENA,,,,
+Acatlán de Juárez (Región Centro - Zona Metropolitana de Guadalajara),Ma Teresa Mojica Gómez,PAN,,,,
+Acatlán de Juárez (Región Centro - Zona Metropolitana de Guadalajara),Juan Carlos García Ibarra,PES,,,,
+Acatlán de Juárez (Región Centro - Zona Metropolitana de Guadalajara),Ivone Gudiño González,PRI,,,,
+Acatlán de Juárez (Región Centro - Zona Metropolitana de Guadalajara),Gloria Elizabeth González Dávalos,PVEM,,,,https://www.facebook.com/gloriaelizabeth.gonzalezdavaloas?fref=mentions
+Acatlán de Juárez (Región Centro - Zona Metropolitana de Guadalajara),Guadalupe Elizabeth López Medina,RSP,,,,
+Ameca (Región Valles),Marco Antonio González Becerra,FUERZA MÉXICO,,,,
+Ameca (Región Valles),Xóchitl Julieta Ruelas Ponce,FUTURO,,,,
+Ameca (Región Valles),Victoria Mariscal Romero,HAGAMOS,,,,https://www.facebook.com/VickyMariscalAmeca/
+Ameca (Región Valles),Juan Valentín Serrano Jimenez,MC,,,,https://www.facebook.com/juanvalentin.serranojimenez/
+Ameca (Región Valles),Francisco Marin Jiménez,MORENA,,,,https://www.facebook.com/franciscomarinmorena/
+Ameca (Región Valles),Anuar Tavera Romero,PAN,,,,https://www.facebook.com/AnuarTaveraAN/
+Ameca (Región Valles),Andrés Rodríguez Flores,PES,,,,
+Ameca (Región Valles),María de los Ángeles López Rosas,PRD,,,,
+Ameca (Región Valles),Luis Arturo Meza Andalón,PRI,,,,https://www.facebook.com/Luis-Arturo-Meza-Andal%C3%B3n-100211905281375
+Ameca (Región Valles),Edilberto Enriquez Parra,PVEM,,,,https://www.facebook.com/EdilbertoEnriquezP
+Autlán de Navarro (Región Costa Sur),Felipe Flores Gómez,FUERZA MÉXICO,,,,https://www.facebook.com/FelipeFlores0
+Autlán de Navarro (Región Costa Sur),Teresa Daniella Ramírez Gamiño,FUTURO,,,,https://www.facebook.com/DaniellaRamirezG
+Autlán de Navarro (Región Costa Sur),José Martín García de Alba Toscano,HAGAMOS,,,,https://www.facebook.com/profile.php?id=100057733534524
+Autlán de Navarro (Región Costa Sur),J Nicolás Ayala del Real,MC,,,,https://www.facebook.com/nicolas.ayaladelreal
+Autlán de Navarro (Región Costa Sur),Haidyd Arreola López,MORENA,,,,
+Autlán de Navarro (Región Costa Sur),Jaime Antonio Hernández Hernández,PAN,,,,
+Autlán de Navarro (Región Costa Sur),Daniel Juárez Álvarez,PES,,,,
+Autlán de Navarro (Región Costa Sur),Eva Judith Hueso Guerrero,PRD,,,,https://www.facebook.com/profile.php?id=100065494814845
+Autlán de Navarro (Región Costa Sur),Gustavo Salvador Robles Martínez,PRI,,,https://twitter.com/GustavoRoblesM?s=20,https://www.facebook.com/GustavoRoblesM
+Autlán de Navarro (Región Costa Sur),Martha Elena López Velázquez,PT,,,,https://www.facebook.com/marthaelena.lopezvelazquez
+Autlán de Navarro (Región Costa Sur),Luis Roberto Preciado Zavala,RSP,,,,https://www.facebook.com/luispreciadoz
+Autlán de Navarro (Región Costa Sur),Oscar Zepeda Quiñones,INDEPENDIENTE,,,https://twitter.com/OscarZepedaAut?s=20,https://www.facebook.com/oscarzepedaautlan
+Autlán de Navarro (Región Costa Sur),Sergio Rafael Capacete Morán,INDEPENDIENTE,,,,https://www.facebook.com/Sergio-Capacete-El-Bola-105457854916530
+Ayotlán (Región Ciénega),Ana Berenice Zúñiga Vargas,FUERZA MÉXICO,,,,
+Ayotlán (Región Ciénega),Luis Eduardo González Escoto,HAGAMOS,,,,
+Ayotlán (Región Ciénega),Rodolfo Hernández Sánchez,MC,,,,https://www.facebook.com/Rodolfo-Hern%C3%A1ndez-Sanchez-108483960880032
+Ayotlán (Región Ciénega),Juan Pedro Pérez Rojas,MORENA,,,,https://www.facebook.com/pedroperezObradorista
+Ayotlán (Región Ciénega),M Guadalupe Hurtado Sánchez,PAN,,,,
+Ayotlán (Región Ciénega),Yeiel Paul Lau Parra,PES,,,,https://www.facebook.com/profile.php?id=100016093151787
+Ayotlán (Región Ciénega),Agustín Zúñiga Banda,PRI,,,,https://www.facebook.com/AgustinZunigaBanda
+Ayotlán (Región Ciénega),Claudia Isabel Valles Ramírez,PT,,,,
+Ayotlán (Región Ciénega),Diana Victoria García González,PVEM,,,,
+Ayotlán (Región Ciénega),Guillermo Rodríguez Escoto,RSP,,,,https://www.facebook.com/Guillermo-Rodr%C3%ADguez-100356975405292
+Colotlán (Región Norte),Anabel Robles Hernández,HAGAMOS,,,,https://www.facebook.com/Anabel-Robles-106340994882012
+Colotlán (Región Norte),José Julián Quezada Santoyo,MC,,,,https://www.facebook.com/Dr.PepeQuezada
+Colotlán (Región Norte),Manuel Valdovinos Enriquez,MORENA,,,,https://www.facebook.com/manuel.valdovinosenriquez
+Colotlán (Región Norte),Octavio Córdova Hernández,PAN,,,,https://www.facebook.com/profile.php?id=100005638848632
+Colotlán (Región Norte),Ana Cecilia Casas Flores,PRD,,,,
+Colotlán (Región Norte),Norma Angélica Huizar Marquez,PRI,,,,https://www.facebook.com/norma.huizarmarquez
+Colotlán (Región Norte),Felipe Ibarra Cornejo,PT,,,,https://www.facebook.com/Felipe-Ibarra-100521715513767
+Colotlán (Región Norte),Francisco Gándara Cardenas,INDEPENDIENTE,,,,https://www.facebook.com/francisco.gandaracardenas
+El Grullo (Región Sierra de Amula),Verónica Villafaña González,FUERZA MÉXICO,,,,
+El Grullo (Región Sierra de Amula),Alejandro Zamora Osorio,HAGAMOS,,,,https://www.facebook.com/alejandro.zamoraosorio
+El Grullo (Región Sierra de Amula),Milton Carlos Cardenas Osorio,MC,,,,https://www.facebook.com/milton.cardenas.399
+El Grullo (Región Sierra de Amula),Delia Peña Zamora,PAN,,,,
+El Grullo (Región Sierra de Amula),Oscar Jiménez Vargas,PES,,,,https://www.facebook.com/droscarjimva
+El Grullo (Región Sierra de Amula),Eurise Jazmín González González,PRI,,,,https://www.facebook.com/jazeury.glez
+El Grullo (Región Sierra de Amula),Sandra Torres Chávez,PT,,,,https://www.facebook.com/sandra.torreschavez.1
+El Grullo (Región Sierra de Amula),Pablo Gómez Alcalá,RSP,,,,https://www.facebook.com/Pablo-G%C3%B3mez-Alcal%C3%A1-101322524657775
+El Salto (Región Centro - Zona Metropolitana de Guadalajara),Araceli Orozco López,FUERZA MÉXICO,,,,https://www.facebook.com/araceli.orozcolopez.9
+El Salto (Región Centro - Zona Metropolitana de Guadalajara),Francisco Javier Rodríguez González,FUTURO,,,,https://www.facebook.com/judyrodriguezg
+El Salto (Región Centro - Zona Metropolitana de Guadalajara),José Antonio Pérez Pérez,HAGAMOS,,,,https://www.facebook.com/JosePerezElSalto
+El Salto (Región Centro - Zona Metropolitana de Guadalajara),Ricardo Zaid Santillán Cortés,MC,,,https://twitter.com/RSantillanCts?s=20,https://www.facebook.com/RSantillanC/
+El Salto (Región Centro - Zona Metropolitana de Guadalajara),Ma Elena Farías Villafan,MORENA,,,,https://www.facebook.com/mfariasvillafan
+El Salto (Región Centro - Zona Metropolitana de Guadalajara),Adrián Alejandro Flores Vélez,PAN,,,,https://www.facebook.com/adrianalejandro.floresvelez
+El Salto (Región Centro - Zona Metropolitana de Guadalajara),Eric Oliveros Ortega,PES,,,,https://www.facebook.com/profile.php?id=100012582040598
+El Salto (Región Centro - Zona Metropolitana de Guadalajara),Diego Hernández Sepúlveda,PRD,,,,https://www.facebook.com/DiegoHernandezSepulved
+El Salto (Región Centro - Zona Metropolitana de Guadalajara),Joel González Díaz,PRI,,,https://twitter.com/joel_glezdiaz?s=20,https://www.facebook.com/joel.gonzalezdiaz.35
+El Salto (Región Centro - Zona Metropolitana de Guadalajara),Carolina Romualdo Ramírez,PT,,,,https://www.facebook.com/CarolRRamire
+El Salto (Región Centro - Zona Metropolitana de Guadalajara),Deisy Adriana Arana Iñiguez,PVEM,,,,
+El Salto (Región Centro - Zona Metropolitana de Guadalajara),Christian Fernando López Chabelo,RSP,,,https://twitter.com/christianferlop?s=20,https://www.facebook.com/ChristianFernando.Oficial.page
+Guadalajara (Región Centro - Zona Metropolitana de Guadalajara),Gustavo Adolfo Flores Delgadillo,FUERZA MÉXICO,,"
+http://www.gustavofloresdelgadillo.com/",https://twitter.com/gustavofloresd?s=20,https://www.facebook.com/GustavoFloresDelgadillo/
+Guadalajara (Región Centro - Zona Metropolitana de Guadalajara),Dolores Eugenia Pérez Lazcarro,FUTURO,,,https://twitter.com/DoPerezLazcarro?s=20,https://www.facebook.com/dolores.perezlazcarro
+Guadalajara (Región Centro - Zona Metropolitana de Guadalajara),Itzcoatl Tonatiuh Bravo Padilla,HAGAMOS,,http://tonatiuhguadalajara.mx/,https://twitter.com/tonatiuhbp?s=20,https://www.facebook.com/tonatiuhbravop
+Guadalajara (Región Centro - Zona Metropolitana de Guadalajara),Jesús Pablo Lemus Navarro,MC,,,https://twitter.com/PabloLemusN?s=20    ,https://www.facebook.com/PabloLemusN
+Guadalajara (Región Centro - Zona Metropolitana de Guadalajara),Carlos Lomelí Bolaños,MORENA,,,https://twitter.com/DrCarlosLomeli?s=20,https://www.facebook.com/DrCarlosLomeli/
+Guadalajara (Región Centro - Zona Metropolitana de Guadalajara),Fernando Garza Martínez,PAN,,,https://twitter.com/FernandoGarzaM?s=20,https://www.facebook.com/FernandoGarzaM/
+Guadalajara (Región Centro - Zona Metropolitana de Guadalajara),Xóchitl Elizabeth Vázquez Medel,PES,,,,https://www.facebook.com/draxochitl.mariachi
+Guadalajara (Región Centro - Zona Metropolitana de Guadalajara),Gerardo León de la Cruz,PRD,,,https://twitter.com/jerrylecuz?s=20,https://www.facebook.com/GerardoLecuz
+Guadalajara (Región Centro - Zona Metropolitana de Guadalajara),Sofía García Mosqueda,PRI,,,https://twitter.com/SofiaGarciaGDL?s=20,https://www.facebook.com/sofiagarciamos
+Guadalajara (Región Centro - Zona Metropolitana de Guadalajara),Yomara Paola González Lemus,PT,,,,
+Guadalajara (Región Centro - Zona Metropolitana de Guadalajara),Ofelia Gamboa Noriega,PVEM,,,,https://www.facebook.com/profile.php?id=100002526154909
+Guadalajara (Región Centro - Zona Metropolitana de Guadalajara),Karla Viridiana Nathaly Rivas Castillo,RSP,,,,https://www.facebook.com/rivasviridiana
+Guadalajara (Región Centro - Zona Metropolitana de Guadalajara),Diana Palacios Solórzano,SOMOS,,,https://twitter.com/dianapalaciosof?s=20,
+Guadalajara (Región Centro - Zona Metropolitana de Guadalajara),José Francisco Castillo Navarro,INDEPENDIENTE,,,,https://www.facebook.com/FranciscoCastilloGdl
+Ixtlahuacán de los Membrillos (Región Centro - Zona Metropolitana de Guadalajara),Erick Alberto Duarte Molina,FUERZA MÉXICO,,,,https://www.facebook.com/Erick-Alberto-Duarte-Molina-103392661764611
+Ixtlahuacán de los Membrillos (Región Centro - Zona Metropolitana de Guadalajara),Janet González Rubio Alcaraz,FUTURO,,,https://twitter.com/JanetGra?s=20,https://www.facebook.com/Maestra-Janet-101313668442542/
+Ixtlahuacán de los Membrillos (Región Centro - Zona Metropolitana de Guadalajara),Berenice Flores Barajas,HAGAMOS,,,,https://www.facebook.com/BereFloresBarajas
+Ixtlahuacán de los Membrillos (Región Centro - Zona Metropolitana de Guadalajara),Otilia Diaz Enciso,MC,,,,https://www.facebook.com/OtiDiazIxt
+Ixtlahuacán de los Membrillos (Región Centro - Zona Metropolitana de Guadalajara),Reymundo Romo García,MORENA,,,https://twitter.com/reyroga21?s=20,https://www.facebook.com/Reymundo-ROMO-101636748112748
+Ixtlahuacán de los Membrillos (Región Centro - Zona Metropolitana de Guadalajara),José Rodrigo García Zaragoza,PAN,,,,https://www.facebook.com/JoseRodrigoGarciaZaragoza
+Ixtlahuacán de los Membrillos (Región Centro - Zona Metropolitana de Guadalajara),Silvia Niño Ramírez,PES,,,,
+Ixtlahuacán de los Membrillos (Región Centro - Zona Metropolitana de Guadalajara),José Luis Mariscal Peralta,PRD,,,,
+Ixtlahuacán de los Membrillos (Región Centro - Zona Metropolitana de Guadalajara),José Heriberto García Murillo,PRI,,,https://twitter.com/Heri_Garcia_Ixt?s=20,https://www.facebook.com/Heriberto-Garc%C3%ADa-106391421455568
+Ixtlahuacán de los Membrillos (Región Centro - Zona Metropolitana de Guadalajara),Mara Ornela Martínez Contreras,PT,,,,https://www.facebook.com/mara.martinezcontreras
+Ixtlahuacán de los Membrillos (Región Centro - Zona Metropolitana de Guadalajara),Cecilia Yadira Zúñiga Bernardo,PVEM,,,,
+Juanacatlán (Región Centro - Zona Metropolitana de Guadalajara),Dinora Marisol Ortega Flores,FUERZA MÉXICO,,,,
+Juanacatlán (Región Centro - Zona Metropolitana de Guadalajara),Adriana Cervantes Ortiz,FUTURO,,,,https://www.facebook.com/Adry-Cervantes-108326494684047/
+Juanacatlán (Región Centro - Zona Metropolitana de Guadalajara),Angélica Anytsirc Barba Moreno,HAGAMOS,,,https://twitter.com/anngelicabarba?s=20,https://www.facebook.com/annybarbam
+Juanacatlán (Región Centro - Zona Metropolitana de Guadalajara),Susana Melendez Velázquez,MC,,,,https://www.facebook.com/SusyMelendezV
+Juanacatlán (Región Centro - Zona Metropolitana de Guadalajara),Gleidy Isabel Márquez Meza,MORENA,,,,https://www.facebook.com/GleidyMarquezM
+Juanacatlán (Región Centro - Zona Metropolitana de Guadalajara),Francisco de la Cerda Suárez,PAN,,,https://twitter.com/pacodelacerdas?s=20,https://www.facebook.com/FranciscoDeLaCerdaPAN
+Juanacatlán (Región Centro - Zona Metropolitana de Guadalajara),Rodolfo Ramírez Flores,PRD,,,,
+Juanacatlán (Región Centro - Zona Metropolitana de Guadalajara),Blanca Estela Navarro Maldonado,PRI,,,,https://www.facebook.com/BlancaNavarropri
+Juanacatlán (Región Centro - Zona Metropolitana de Guadalajara),Ana Rosa Vergara Ángel,PT,,,,https://www.facebook.com/AnaVergaraJuanacatlan
+Juanacatlán (Región Centro - Zona Metropolitana de Guadalajara),Belen Abigaíl Estrada Maldonado,PVEM,,,,https://www.facebook.com/Belen-Estrada-Para-Presidente-110587024463944
+Lagos de Moreno (Región Altos Norte),María Gloria Sánchez Ortíz,FUERZA MÉXICO,,,,https://www.facebook.com/profile.php?id=1321087141
+Lagos de Moreno (Región Altos Norte),Martha de Jesus Alba Martín,FUTURO,,,,https://www.facebook.com/martha.alba.futuro
+Lagos de Moreno (Región Altos Norte),Marco Antonio González Ortiz,HAGAMOS,,,,https://www.facebook.com/MarcoGlezLagos
+Lagos de Moreno (Región Altos Norte),Tecutli José Guadalupe Gomez Villalobos,MC,,,,https://www.facebook.com/tecutligomezmc
+Lagos de Moreno (Región Altos Norte),José de Jesús Hurtado Torres,PAN,,,,https://www.facebook.com/ChuyHurtadoT
+Lagos de Moreno (Región Altos Norte),María del Carmen Gómez Ortiz,PRD,,,,
+Lagos de Moreno (Región Altos Norte),Clara Martínez Aguirre,PRI,,,,https://www.facebook.com/ClaritaMartinezOficial
+Lagos de Moreno (Región Altos Norte),María Leticia Hernández Cardenas,PT,,,,
+Lagos de Moreno (Región Altos Norte),Erick Efraín Espinoza Martínez,PVEM,,,,
+Lagos de Moreno (Región Altos Norte),Brenda Rodríguez Escobedo,RSP,,,,https://www.facebook.com/brenda.rodriguezescobedo.1
+Mascota (Región Sierra Occidental),María del Pilar Cázarez Guzmán,FUTURO,,,,
+Mascota (Región Sierra Occidental),Carmen Manuela Arredondo Cortez,HAGAMOS,,,,https://www.facebook.com/carmenarredondohagamos
+Mascota (Región Sierra Occidental),Sara Eugenia Castillón Ochoa,MC,,,,https://www.facebook.com/DraSaraMC
+Mascota (Región Sierra Occidental),Marco Antonio Rubio López,MORENA,,,,https://www.facebook.com/trmascota
+Mascota (Región Sierra Occidental),María Teresa Pulido Robles,PAN,,,,https://www.facebook.com/TerePulidoR
+Mascota (Región Sierra Occidental),María del Socorro Figueroa López,PES,,,,
+Mascota (Región Sierra Occidental),Roberto Quintero Robles,PRI,,,,https://www.facebook.com/RobertoQuintero2021
+Mascota (Región Sierra Occidental),Dolores Natalia León Torres,RSP,,,,https://www.facebook.com/Mtra-Dolores-Le%C3%B3n-110388531113908
+Puerto Vallarta (Región Costa Norte),Álvaro Hernández Flores,FUERZA MÉXICO,,,,https://www.facebook.com/AlvaroHernandezOficial
+Puerto Vallarta (Región Costa Norte),Miriam Elizabeth Miramontes Zepeda,FUTURO,,,https://twitter.com/MiriamMiramon10?s=20,https://www.facebook.com/miriammiramontes2
+Puerto Vallarta (Región Costa Norte),Marina de los Santos Alvarez,HAGAMOS,,,https://twitter.com/MARINADLSA?s=20,https://www.facebook.com/marinadlsa
+Puerto Vallarta (Región Costa Norte),María Guadaupe Guerrero Carvajal,MC,,,,https://www.facebook.com/LupitaGuerreroGC
+Puerto Vallarta (Región Costa Norte),Carla Verenice Esparza Quintero,MORENA,,,https://twitter.com/CarlaEsparzaVta?s=20,https://www.facebook.com/CarlaEsparzaVta
+Puerto Vallarta (Región Costa Norte),Gloria Idalia González León,PAN,,,https://twitter.com/idalia_gonzalez?s=20,https://www.facebook.com/IdaliaGonzalezDeLeon
+Puerto Vallarta (Región Costa Norte),Teresa García Aréchiga,PES,,,,
+Puerto Vallarta (Región Costa Norte),Otoniel Barragán Espinoza,PRD,,,,https://www.facebook.com/otoniel.barragan.9
+Puerto Vallarta (Región Costa Norte),Paola Azeneth Topete Villalvazo,PRI,,,,https://www.facebook.com/Paola-Topete-101867738682594
+Puerto Vallarta (Región Costa Norte),Corina Naranjo Trujillo,PT,,,,https://www.facebook.com/corina.naranjotrujillo
+Puerto Vallarta (Región Costa Norte),Miguel Ángel Yerena Ruíz,RSP,,,,https://www.facebook.com/TitoYerenaRSP/
+Tamazula de Gordiano (Región Sureste),Daniela Castañeda Michel,FUERZA MÉXICO,,,,https://www.facebook.com/profile.php?id=100061314104404
+Tamazula de Gordiano (Región Sureste),Raúl Everardo Gutiérrez Castañeda,FUTURO,,,,
+Tamazula de Gordiano (Región Sureste),Juan Ignacio Herrera del Toro,HAGAMOS,,,,
+Tamazula de Gordiano (Región Sureste),Apolinar Zepeda Torres,MC,,,,
+Tamazula de Gordiano (Región Sureste),Marcela Guadalupe Munguía García,MORENA,,,,https://www.facebook.com/Lupita-Munguia-101510835388770
+Tamazula de Gordiano (Región Sureste),Modesto Betancourt Ramírez,PAN,,,,https://www.facebook.com/modebetancourt1
+Tamazula de Gordiano (Región Sureste),Serafín Díaz del Toro,PRI,,,,https://www.facebook.com/tamazulainformaprimx
+Tamazula de Gordiano (Región Sureste),Jorge Antillón Guizar,PT,,,,
+Tepatitlán de Morelos (Región Altos Sur),Francisco Camarena Velázquez,FUERZA MÉXICO,,,,
+Tepatitlán de Morelos (Región Altos Sur),Aileen Jaramillo García,FUTURO,,,,https://www.facebook.com/Aileen-Jaramillo-108706111310073
+Tepatitlán de Morelos (Región Altos Sur),Francisco Javier Aceves Aldrete,HAGAMOS,,,https://twitter.com/PanchoAcevesA?s=20,https://www.facebook.com/PanchoAcevesA
+Tepatitlán de Morelos (Región Altos Sur),María Elena de Anda Gutiérrez,MC,,,,https://www.facebook.com/nenadeandag
+Tepatitlán de Morelos (Región Altos Sur),Susana Jaime Mercado,MORENA,,,https://twitter.com/SusanaJaimeMer1?s=20,https://www.facebook.com/candidatasusanajaime
+Tepatitlán de Morelos (Región Altos Sur),Miguel Ángel Esquivias Esquivias,PAN,,,https://twitter.com/MAngelEsquivias?s=20,https://www.facebook.com/AngelEsquiviasOficial
+Tepatitlán de Morelos (Región Altos Sur),Julianne Harlent Mariat Alvarado Alvarado,PES,,,,
+Tepatitlán de Morelos (Región Altos Sur),Karen Aremi Avala Valdivia,PRD,,,,
+Tepatitlán de Morelos (Región Altos Sur),Gerardo Pérez Martínez,PRI,,,,https://www.facebook.com/GerardoPerezTepa
+Tepatitlán de Morelos (Región Altos Sur),José Antonio Becerra González,PVEM,,,,https://www.facebook.com/antoniobecerratepa
+Tepatitlán de Morelos (Región Altos Sur),Evangelina Gabriela Jiménez Cortés,RSP,,,,https://www.facebook.com/gabriela.jimenez.77128
+Tepatitlán de Morelos (Región Altos Sur),Ramón Gonzalez González,INDEPENDIENTE,,,https://twitter.com/RamonGlez_Tepa?s=20,https://www.facebook.com/ramon.gonzalezgonzalez.988
+Tlajomulco de Zúñiga (Región Centro - Zona Metropolitana de Guadalajara),José Eduardo Ayala Fernández,FUERZA MÉXICO,,,,https://www.facebook.com/joseeduardo.ayalafernandez.73
+Tlajomulco de Zúñiga (Región Centro - Zona Metropolitana de Guadalajara),Tania Romero López,FUTURO,,,https://twitter.com/TaniaRomeroL?s=20,https://www.facebook.com/TaniaRomL
+Tlajomulco de Zúñiga (Región Centro - Zona Metropolitana de Guadalajara),Ma del Rosario García Fletes,HAGAMOS,,,,
+Tlajomulco de Zúñiga (Región Centro - Zona Metropolitana de Guadalajara),Salvador Zamora Zamora,MC,,,https://twitter.com/SalvadorZamoraZ?s=20,https://www.facebook.com/SalvadorZamoraZ
+Tlajomulco de Zúñiga (Región Centro - Zona Metropolitana de Guadalajara),María Elena Rivera Estrada,PAN,,,,
+Tlajomulco de Zúñiga (Región Centro - Zona Metropolitana de Guadalajara),Leonardo Misael Mercado Chávez,PES,,,,https://www.facebook.com/Misael.Mercadoo
+Tlajomulco de Zúñiga (Región Centro - Zona Metropolitana de Guadalajara),Juan Carlos González Zúñiga,PRD,,,,
+Tlajomulco de Zúñiga (Región Centro - Zona Metropolitana de Guadalajara),Sara Alejandra Estrada Galán,PRI,,,,https://www.facebook.com/sara.galan.585
+Tlajomulco de Zúñiga (Región Centro - Zona Metropolitana de Guadalajara),Miguel Ángel León Contreras,PT,,,https://twitter.com/JALISCOPT?s=20,
+Tlajomulco de Zúñiga (Región Centro - Zona Metropolitana de Guadalajara),Gloria Verónica Camacho Navarro,PVEM,,,,
+Tlajomulco de Zúñiga (Región Centro - Zona Metropolitana de Guadalajara),José Reyes Ayala Estrada,RSP,,,,https://www.facebook.com/josereyes.ayalaestrada
+Tlaquepaque (Región Centro - Zona Metropolitana de Guadalajara),Jorge Montoya Orozco,FUTURO,,,https://twitter.com/JorgeMontoyaOr3?s=20,https://www.facebook.com/jorgemontoyafuturo
+Tlaquepaque (Región Centro - Zona Metropolitana de Guadalajara),Ana Silvia Gutiérrez Martínez,HAGAMOS,,,https://twitter.com/AnaTlaquepaque?s=20,https://www.facebook.com/AnaSilviaTlaquepaque
+Tlaquepaque (Región Centro - Zona Metropolitana de Guadalajara),Mirna Citlalli Amaya de Luna,MC,,,https://twitter.com/CitlalliAmaya?s=20,https://www.facebook.com/amayacitlalli
+Tlaquepaque (Región Centro - Zona Metropolitana de Guadalajara),Alberto Maldonado Chavarín,MORENA,,,https://twitter.com/BetoMaldonado_?s=20,https://www.facebook.com/AlbertoMaldonadoTLA
+Tlaquepaque (Región Centro - Zona Metropolitana de Guadalajara),María del Rosario Velázquez Hernández,PAN,,,https://twitter.com/Chayito_MX?s=20,https://www.facebook.com/Chayito.MX
+Tlaquepaque (Región Centro - Zona Metropolitana de Guadalajara),José Alberto Casas Reynoso,PES,,,,https://www.facebook.com/josealberto.casasreynoso
+Tlaquepaque (Región Centro - Zona Metropolitana de Guadalajara),Miram Yolet Wiedfeldt Barrera,PRD,,,https://twitter.com/MiriamWiedfeldt?s=20,https://m.facebook.com/miriam.wiedfeldt
+Tlaquepaque (Región Centro - Zona Metropolitana de Guadalajara),Roberto Gerardo Albarrán Magaña,PRI,,,https://twitter.com/doctorralbarran?s=20,https://www.facebook.com/roberto.albarranmagana
+Tlaquepaque (Región Centro - Zona Metropolitana de Guadalajara),Alfredo Fierros González,PT,,,,https://www.facebook.com/profile.php?id=100009477547737
+Tlaquepaque (Región Centro - Zona Metropolitana de Guadalajara),Norma Alicia Cruz Hernández,PVEM,,,,
+Tlaquepaque (Región Centro - Zona Metropolitana de Guadalajara),María Guadalupe Orozco Juárez,RSP,,,,
+Tonalá (Región Centro - Zona Metropolitana de Guadalajara),Luz Elena Gómez Orozco,FUERZA MÉXICO,,,,
+Tonalá (Región Centro - Zona Metropolitana de Guadalajara),José Enrique Díaz Martínez,FUTURO,,,,
+Tonalá (Región Centro - Zona Metropolitana de Guadalajara),Juan Carlos Villarreal Salazar,HAGAMOS,,,https://twitter.com/SoyJCVillarreal?s=20,https://www.facebook.com/SoyJCVillarreal
+Tonalá (Región Centro - Zona Metropolitana de Guadalajara),Ana Priscila González García,MC,,,https://twitter.com/PriscilaGlezMC?s=20,https://www.facebook.com/PriscilaGlezMC
+Tonalá (Región Centro - Zona Metropolitana de Guadalajara),,MORENA,,,,
+Tonalá (Región Centro - Zona Metropolitana de Guadalajara),Rocío Acosta Cervantes,PAN,,,,https://www.facebook.com/Rocio.cervantes.t
+Tonalá (Región Centro - Zona Metropolitana de Guadalajara),María Guadalupe Castañeda Martínez,PES,,,,
+Tonalá (Región Centro - Zona Metropolitana de Guadalajara),María Guadalupe Cruz Pérez,PRD,,,,
+Tonalá (Región Centro - Zona Metropolitana de Guadalajara),Edgar Oswaldo Bañales Orozco,PRI,,,https://twitter.com/OswaldoBanales?s=20,https://t.co/a3Da98dMpK?amp=1
+Tonalá (Región Centro - Zona Metropolitana de Guadalajara),José de Jesús Guzmán García,PT,,,https://twitter.com/JALISCOPT?s=20,
+Tonalá (Región Centro - Zona Metropolitana de Guadalajara),Manuel Nájera Martínez,PVEM,,,,https://www.facebook.com/manuel.deluna.1023
+Tonalá (Región Centro - Zona Metropolitana de Guadalajara),Juan Esteban Rodríguez Rodríguez,RSP,,,,https://www.facebook.com/juanesteban.rodriguez.98284566
+Tonalá (Región Centro - Zona Metropolitana de Guadalajara),Dulce Erika Vazquez Pérez,SOMOS,,,,
+Tonalá (Región Centro - Zona Metropolitana de Guadalajara),Luis Ángel Morales Hernández,INDEPENDIENTE,,,https://twitter.com/LuisAngelTonala?s=20,https://www.facebook.com/LuisAngelTonala
+Zapopan (Región Centro - Zona Metropolitana de Guadalajara),Beatriz Gómez Tolentino,FUERZA MÉXICO,,,,https://www.facebook.com/betty.gomez.3382
+Zapopan (Región Centro - Zona Metropolitana de Guadalajara),José Pedro Kumamoto Aguilar,FUTURO,,,https://twitter.com/pkumamoto?s=20,https://www.facebook.com/PedroKumamoto
+Zapopan (Región Centro - Zona Metropolitana de Guadalajara),María Gómez Rueda,HAGAMOS,,,https://twitter.com/MariaGomezRue?s=20,https://www.facebook.com/MariaGomezRue
+Zapopan (Región Centro - Zona Metropolitana de Guadalajara),Juan José Frangie Saade,MC,,,https://twitter.com/juanjosefrangie?s=20,https://www.facebook.com/juanjosefrangie
+Zapopan (Región Centro - Zona Metropolitana de Guadalajara),Alberto Uribe Camacho,MORENA,,http://albertouribe.mx/,https://twitter.com/AlbertoUribeC?s=20,https://www.facebook.com/AlbertoUribeCamacho
+Zapopan (Región Centro - Zona Metropolitana de Guadalajara),Omar Antonio Borboa Becerra,PAN,,,https://twitter.com/omarborboab?s=20,https://www.facebook.com/omarborboaoficial
+Zapopan (Región Centro - Zona Metropolitana de Guadalajara),Ramón Reyes García,PES,,,,https://www.facebook.com/RamonReyesG
+Zapopan (Región Centro - Zona Metropolitana de Guadalajara),Francisco Javier Velasco Macías,PRD,,,,
+Zapopan (Región Centro - Zona Metropolitana de Guadalajara),Dulce Sarahí Cortés Vite,PRI,,,https://twitter.com/sarahi_vite?s=20,https://www.facebook.com/sarahi.cortesvite.9
+Zapopan (Región Centro - Zona Metropolitana de Guadalajara),Ana Julia Medina Iñiguez,PT,,,,
+Zapopan (Región Centro - Zona Metropolitana de Guadalajara),Salvador Cosío Gaona,PVEM,,,https://twitter.com/salvadorcosio1?s=20,https://www.facebook.com/SalvadorCosioGaona
+Zapopan (Región Centro - Zona Metropolitana de Guadalajara),Martina Beltrán Ayala,RSP,,,,
+Zapopan (Región Centro - Zona Metropolitana de Guadalajara),José Alberto Martínez Hernández,SOMOS,,,,
+Zapotlán el Grande (Región Sur),Nelida Torres Espinoza,FUERZA MÉXICO,,,,https://www.facebook.com/NelidaTorresFuerzaMexico
+Zapotlán el Grande (Región Sur),Roberto Chávez del Toro,FUTURO,,,https://twitter.com/robertochavezdt?s=20,https://www.facebook.com/RobertoChavezdt
+Zapotlán el Grande (Región Sur),Mónica Reynoso Romero,HAGAMOS,,,,https://www.facebook.com/M%C3%B3nica-Reynoso-108787341303492
+Zapotlán el Grande (Región Sur),Laura Elena Martínez Rubalcaba,MC,,,,https://www.facebook.com/lauraelenamartinezr
+Zapotlán el Grande (Región Sur),Sara Moreno Ramírez,PAN,,,,https://www.facebook.com/saramorenoram
+Zapotlán el Grande (Región Sur),Mayra Guadalupe Magaña Medina,PRD,,,,
+Zapotlán el Grande (Región Sur),Edgar Joel Salvador Bautista,PRI,,,https://twitter.com/joelsalvador_?s=20,https://www.facebook.com/JoelSalvadorB
+Zapotlán el Grande (Región Sur),Alejandro Barragán Sánchez,PT,,,https://twitter.com/alexbarragan76?s=20,https://www.facebook.com/alejandroZapotlan
+Zapotlán el Grande (Región Sur),Eva María Zepeda Carrillo,PVEM,,,,https://www.facebook.com/EvaZepedapartidoVerde
+Zapotlán el Grande (Región Sur),Ana Patricia Díaz Villalvazo,RSP,,,,
+Zapotlán el Grande (Región Sur),Alejandro Vázquez González,INDEPENDIENTE,,,,https://www.facebook.com/Alvago.unidos.por.zapotlan
+Zapotlán el Grande (Región Sur),Primitivo Pimentel Reyes,INDEPENDIENTE,,,,https://www.facebook.com/LicPrimitivoPimentelReyes
+Zapotlanejo (Región Centro - Zona Metropolitana de Guadalajara),Ángel Alberto Mayoral Pérez,FUERZA MÉXICO,,,,https://www.facebook.com/mayoral2021
+Zapotlanejo (Región Centro - Zona Metropolitana de Guadalajara),Carlos Cervantes Álvarez,HAGAMOS,,,,https://www.facebook.com/profesorcarloscervantes
+Zapotlanejo (Región Centro - Zona Metropolitana de Guadalajara),Ricardo Morales Sandoval,MC,,,,https://www.facebook.com/RicardoMoralesZapotlanejo
+Zapotlanejo (Región Centro - Zona Metropolitana de Guadalajara),José Luis Munguía Cardona,PAN,,joseluismunguiatv.com,https://twitter.com/JoseLuisMunguia?s=20,https://www.facebook.com/joseluis.munguiacardona
+Zapotlanejo (Región Centro - Zona Metropolitana de Guadalajara),Alberto Palomera Jiménez,PES,,,https://www.facebook.com/Alberto-Palomera-101626782037250,
+Zapotlanejo (Región Centro - Zona Metropolitana de Guadalajara),Luis Calderón Calderón,PRD,,,,
+Zapotlanejo (Región Centro - Zona Metropolitana de Guadalajara),Alejandro Orozco Hernández,PRI,,,https://www.facebook.com/AlexOrozcoHernandez,
+Zapotlanejo (Región Centro - Zona Metropolitana de Guadalajara),María Dolores Torres Pérez,RSP,,,https://www.facebook.com/mariadolores.torresperez.90,
+Diputado Local DTTO. 1,José Efraín Tejeda Vadillo,FUERZA MÉXICO,,,,
+Diputado Local DTTO. 1,Norberto Raul Huerta Rivas,FUTURO,,,,
+Diputado Local DTTO. 1,Víctor Miguel González González,HAGAMOS,,,,https://www.facebook.com/VicVallarta
+Diputado Local DTTO. 1,Eduardo Ron Ramos,MC,,,https://twitter.com/LaloRonR?s=20,https://www.facebook.com/LaloRonR
+Diputado Local DTTO. 1,Juana Patricia Contreras Ramírez,MORENA,,,,https://www.facebook.com/Mtra.PatyContreras
+Diputado Local DTTO. 1,Aldo Gamboa Gutiérrez,PAN,,"
+https://aldogamboa.com.mx/",,https://www.facebook.com/aldogamboag
+Diputado Local DTTO. 1,Alberto Aguirre Alvarez,PES,,,,https://www.facebook.com/Alberto-Aguirre-Alvarez-103675538507778
+Diputado Local DTTO. 1,Gustavo Tonatiuh Ledezma Caldera,PRD,,,,https://www.facebook.com/Tonatiuh-Ledezma-Caldera-109024861291834
+Diputado Local DTTO. 1,Fabiola Pulido Franco,PRI,,,https://twitter.com/FabyPulido_?s=20,https://www.facebook.com/FPulidoFranco
+Diputado Local DTTO. 1,Armando Pérez Sánchez,PT,,,,https://www.facebook.com/armandoperez.74
+Diputado Local DTTO. 1,Nimsy Navith Reynoso Castañeda,PVEM,,,,
+Diputado Local DTTO. 1,José Sergio Pacheco Zepeda,RSP,,,,https://www.facebook.com/Sergio-Pacheco-Zepeda-104526188376204
+Diputado Local DTTO. 1,Mónica González Hernandez,SOMOS,,,,
+Diputado Local DTTO. 2,Karina Gallardo Escoto,FUERZA MÉXICO,,,,https://www.facebook.com/Kary-Gallardo-104561488318743
+Diputado Local DTTO. 2,María del Rosario Mora García,FUTURO,,,,https://www.facebook.com/RosarioMoraOficial
+Diputado Local DTTO. 2,Margarita Yanuaria de Alba Hernández,HAGAMOS,,,,https://www.facebook.com/Yanuaria.deAlba02
+Diputado Local DTTO. 2,Marcela Padilla de Anda,MC,,,,https://www.facebook.com/MarcelaPadillaDeAnda
+Diputado Local DTTO. 2,Miriam Soledad Contreras Hernández,MORENA,,,,
+Diputado Local DTTO. 2,Julio César Hurtado Luna,PAN,,,,https://www.facebook.com/JulioHurtadoLuna
+Diputado Local DTTO. 2,Julia Erendida Romo Padilla,PES,,,,https://www.facebook.com/juliaerendida.romopadilla
+Diputado Local DTTO. 2,Diana Haidé Muñoz Gómez,PRD,,,,
+Diputado Local DTTO. 2,Sergio Oswaldo Gómez Alonzo,PRI,,,,https://www.facebook.com/OswaldoG.Alonzo
+Diputado Local DTTO. 2,Amparo del Rocío López Alba,PT,,,,https://www.facebook.com/RocioLopezAlba.Politica
+Diputado Local DTTO. 2,Alicia Guzmán Colunga,PVEM,,,,https://www.facebook.com/aliciaguzmanco
+Diputado Local DTTO. 2,Deisy Karem Trancoso Pérez,RSP,,,,https://www.facebook.com/deisy.trancosoperez
+Diputado Local DTTO. 3 (Tepatitlán),Fernando Oscar Hernández Escoto,FUERZA MÉXICO,,,,
+Diputado Local DTTO. 3 (Tepatitlán),Juan de Dios Ruvalcaba Pérez,FUTURO,,,,https://www.facebook.com/juandedios.ruvalcaba
+Diputado Local DTTO. 3 (Tepatitlán),Francisco Javier Romero Mena,HAGAMOS,,,,https://www.facebook.com/francisco.romeromena
+Diputado Local DTTO. 3 (Tepatitlán),Alfredo de Jésus Padilla Gutiérrez,MC,,,,https://www.facebook.com/Alfredo-Padilla-Guti%C3%A9rrez-363547117792970
+Diputado Local DTTO. 3 (Tepatitlán),María de Jesús Padilla Romo,MORENA,,,,https://www.facebook.com/MariaPadillaRom
+Diputado Local DTTO. 3 (Tepatitlán),Abel Hernández Marquez,PAN,,https://www.abelhdez.com/,,https://www.facebook.com/abelhdezm
+Diputado Local DTTO. 3 (Tepatitlán),Mariana González Padilla,PES,,,,
+Diputado Local DTTO. 3 (Tepatitlán),David Alfredo González Iñiguez,PRD,,,,https://www.facebook.com/davidgonzalezporel3
+Diputado Local DTTO. 3 (Tepatitlán),María Elena López Lozano,PRI,,,,
+Diputado Local DTTO. 3 (Tepatitlán),Jovita Lozano Guerra,PT,,,,https://www.facebook.com/jovitalozanoguerra
+Diputado Local DTTO. 3 (Tepatitlán),Jorge Alberto Aceves Martín del Campo,PVEM,,,,
+Diputado Local DTTO. 3 (Tepatitlán),Brenda Gabriela Patrón Jiménez,RSP,,,,
+Diputado Local DTTO. 3 (Tepatitlán),Salvador Muñoz Gutiérrez,SOMOS,,,,
+Diputado Local DTTO. 4 (Zapopan),Claudia Cecilia Gallardo Macías,FUERZA MÉXICO,,,,https://www.facebook.com/ClaudiaGallardoOficial
+Diputado Local DTTO. 4 (Zapopan),Erick Alejandro Ochoa Lozano,FUTURO,,https://linktr.ee/ErickOchoaL,https://twitter.com/ErickOchoaL?s=20,https://www.facebook.com/ErickOchoaL
+Diputado Local DTTO. 4 (Zapopan),Edgar Enrique Velázquez González,HAGAMOS,,enriquevelazquez.mx,https://twitter.com/EnriqueV01?s=20,https://www.facebook.com/EVelazquez01
+Diputado Local DTTO. 4 (Zapopan),Miguel Ángel Ixtláhuac Baumbach,MC,,,https://twitter.com/ixtlahuacmiguel?s=20,https://www.facebook.com/ixtlahuacmiguel
+Diputado Local DTTO. 4 (Zapopan),Blanca Olivia Vargas Mendoza,MORENA,,,https://twitter.com/BlancaVargasM_?s=20,https://www.facebook.com/BlancaOliviaVargasMendoza
+Diputado Local DTTO. 4 (Zapopan),Lis Karina Anaya Pérez,PAN,,,,https://www.facebook.com/KarinaAnayaD4
+Diputado Local DTTO. 4 (Zapopan),Adolfo Alberto Alvarado Pineda,PES,,,,
+Diputado Local DTTO. 4 (Zapopan),Gilberto Sandoval Villagrana,PRD,,,,https://www.facebook.com/Gilberto-Sandoval-Villagrana-106335448218855
+Diputado Local DTTO. 4 (Zapopan),German Sevilla Santana,PRI,,,,https://www.facebook.com/juridico.sevilla
+Diputado Local DTTO. 4 (Zapopan),Rafael García Aguilar,PT,,,,https://www.facebook.com/Rafa.GarciaAg
+Diputado Local DTTO. 4 (Zapopan),Sandra Araceli Aguirre Mombela,PVEM,,,,https://www.facebook.com/sandra.aguirremombela.7
+Diputado Local DTTO. 4 (Zapopan),Milagros Teresita Franco Rivera,RSP,,,,https://www.facebook.com/Mili.Franco.Zapopan
+Diputado Local DTTO. 4 (Zapopan),Jesus Antonio Rodríguez Ruelas,SOMOS,,,,https://www.facebook.com/To%C3%B1o-Ruelas-108426974664348
+Diputado Local DTTO. 5 (Puerto Vallarta),María Liliana Ávila Aguiniga,FUERZA MÉXICO,,,,
+Diputado Local DTTO. 5 (Puerto Vallarta),Nora Guadalupe Dueñas Alvarado,FUTURO,,,,https://www.facebook.com/HayFuturoconNoraDuenas
+Diputado Local DTTO. 5 (Puerto Vallarta),Macedonio León Rodríguez Ávalos,HAGAMOS,,http://hagamosconmacedonioleon.info/,,https://www.facebook.com/dr.macedonioleon
+Diputado Local DTTO. 5 (Puerto Vallarta),Arturo Dávalos Peña,MC,,,https://twitter.com/ArturoDavalos?s=20,https://www.facebook.com/IngDavalos
+Diputado Local DTTO. 5 (Puerto Vallarta),Yussara Elizabeth Canales González,MORENA,,,,https://www.facebook.com/YussaraCanalesG
+Diputado Local DTTO. 5 (Puerto Vallarta),Marcela Navarrete Rodríguez,PAN,,,,https://www.facebook.com/MarcelaNavarretePAN
+Diputado Local DTTO. 5 (Puerto Vallarta),Andrea Celina Morales González,PES,,,,https://www.facebook.com/AndreaMoralesPES
+Diputado Local DTTO. 5 (Puerto Vallarta),Milca Rodríguez Rodríguez,PRD,,,,
+Diputado Local DTTO. 5 (Puerto Vallarta),Ulises Sánchez Palomera,PRI,,,https://twitter.com/UlisesSanchezD5?s=20,https://www.facebook.com/UlisesSanchezD5
+Diputado Local DTTO. 5 (Puerto Vallarta),Carmina Palacios Ibarra,PT,,,,https://www.facebook.com/RegidoraCarmina
+Diputado Local DTTO. 5 (Puerto Vallarta),José Francisco Sánchez Peña,PVEM,,"
+https://www.doctorpacosanchez.com/",,https://www.facebook.com/doctorpacosanchez
+Diputado Local DTTO. 5 (Puerto Vallarta),Ana María del Carmen Landecho Reyes,RSP,,,,
+Diputado Local DTTO. 5 (Puerto Vallarta),Juan Mauricio Recamier Vivanco,SOMOS,,,,https://www.facebook.com/Mauricio-Recamier-100763425459163
+Diputado Local DTTO. 6 (Zapopan),Beatriz Carranza Gómez,FUERZA MÉXICO,,,,
+Diputado Local DTTO. 6 (Zapopan),Lucía Almaraz Cázarez,FUTURO,,,https://twitter.com/DraLuciaAlmaraz?s=20,https://www.facebook.com/DraLuciaAlmaraz
+Diputado Local DTTO. 6 (Zapopan),Nallely Guadalupe Robles Ortiz,HAGAMOS,,,,https://www.facebook.com/NalleRoblesOrtiz
+Diputado Local DTTO. 6 (Zapopan),Laura Gabriela Cardenas Rodríguez,MC,,https://gabrielacardenas.mx/,https://twitter.com/GabyCardenas?s=20,https://www.facebook.com/GabyCardenas.Zap
+Diputado Local DTTO. 6 (Zapopan),Juncal Solano Florez,MORENA,,,https://twitter.com/juncalssolano?s=20,https://www.facebook.com/JuncalSSolano
+Diputado Local DTTO. 6 (Zapopan),José de Jésus Arambul Solorio,PAN,,,,https://www.facebook.com/Jes%C3%BAs-Arambul-1732436720366485
+Diputado Local DTTO. 6 (Zapopan),Sergio Oswaldo Díaz Sánchez,PES,,,,https://www.facebook.com/Sergio-Oswaldo-D%C3%ADaz-S%C3%A1nchez-103178138558243
+Diputado Local DTTO. 6 (Zapopan),Edgar Ariel Rodríguez Cervantes,PRD,,,,
+Diputado Local DTTO. 6 (Zapopan),Itzi Yunue Lozano Valencia,PRI,,,https://twitter.com/itzilozano?s=20,https://www.facebook.com/ItziLozanoV
+Diputado Local DTTO. 6 (Zapopan),Carlos Emilio Laso Villalobos,PT,,,,
+Diputado Local DTTO. 6 (Zapopan),Alejandro Miramontes Ramos,PVEM,,,,
+Diputado Local DTTO. 6 (Zapopan),Felipe de Jesus Gonzalez Hernandez,RSP,,"
+https://felipegonzalez.org.mx/
+",,https://www.facebook.com/dartodopormexico
+Diputado Local DTTO. 6 (Zapopan),Gabriela Lizette González Gómez,SOMOS,,,,
+Diputado Local DTTO. 7 (Tonalá y El Salto),Xóchitl Mendoza Hernández,FUERZA MÉXICO,,,,https://www.facebook.com/Fuerza-X%C3%B3chitl-Mendoza-107619331435005
+Diputado Local DTTO. 7 (Tonalá y El Salto),Jhazeel Medrano Montaño,FUTURO,,,,https://www.facebook.com/jazmedranno
+Diputado Local DTTO. 7 (Tonalá y El Salto),Samir Sarwerzide de la Torre Leyva,HAGAMOS,,"https://samirdelatorre.com/
+",,https://www.facebook.com/DeLaTorreSamir
+Diputado Local DTTO. 7 (Tonalá y El Salto),Magaly Figueroa López,MC,,"https://magalyfigueroa.com/
+",https://twitter.com/MagalyFiguer0a?s=20,https://www.facebook.com/MagalyFiguer
+Diputado Local DTTO. 7 (Tonalá y El Salto),Claudia García Hernández,MORENA,,,https://twitter.com/ClauGarcia_Hdez?s=20,https://www.facebook.com/ClaudiaGarciaTonala
+Diputado Local DTTO. 7 (Tonalá y El Salto),Martha Patricia Bernal Delgado,PAN,,,,https://www.facebook.com/MarthaBernalDelgado
+Diputado Local DTTO. 7 (Tonalá y El Salto),Arturo Ponce Quintero,PES,,,,https://www.facebook.com/groups/680491615391384/user/100002860591351
+Diputado Local DTTO. 7 (Tonalá y El Salto),Érika Aguilar,PRD,,,,https://www.facebook.com/ErikaAguilarOficialTonala
+Diputado Local DTTO. 7 (Tonalá y El Salto),Marcos Arana Barba,PRI,,"
+http://www.marcosarana.com/",https://twitter.com/aranamarcos?s=20,https://www.facebook.com/marcosaranabarba
+Diputado Local DTTO. 7 (Tonalá y El Salto),Mario Alberto Reyna Bustos,PT,,,,https://www.facebook.com/marioalberto.reynabustos
+Diputado Local DTTO. 7 (Tonalá y El Salto),Ma Guadalupe Hernández Martínez,PVEM,,,,https://www.facebook.com/LupitaPorElVerde
+Diputado Local DTTO. 7 (Tonalá y El Salto),Karen Alejandra Limón Vargas,RSP,,,,https://www.facebook.com/Karen-Lim%C3%B3n-102295401877584
+Diputado Local DTTO. 7 (Tonalá y El Salto),Ismael Miranda Ornelas,SOMOS,,,,https://www.facebook.com/isamel.mirandaornelas
+Diputado Local DTTO. 8 (Guadalajara),Héctor Fabián Hernández Dávalos,FUERZA MÉXICO,,,https://twitter.com/HFabianHD?s=20,https://www.facebook.com/HFabianHD
+Diputado Local DTTO. 8 (Guadalajara),Lourdes Toussaint López,FUTURO,,https://linktr.ee/Lulatoussaint,https://twitter.com/lulatoussaint?s=20,https://www.facebook.com/lulatoussaint8
+Diputado Local DTTO. 8 (Guadalajara),Abril Alcalá Padilla,HAGAMOS,,,https://twitter.com/Abril_AlcalaP?s=20,https://www.facebook.com/AbrilAlcala
+Diputado Local DTTO. 8 (Guadalajara),Claudia Gabriela Salas Rodríguez,MC,,,https://twitter.com/ClaudiaSalasGDL?s=20,https://www.facebook.com/ClaudiaSalasGDL
+Diputado Local DTTO. 8 (Guadalajara),Luis Enrique Galván Salcedo,MORENA,,,,https://www.facebook.com/LuisGalvanMX
+Diputado Local DTTO. 8 (Guadalajara),Annia Alicia García García,PAN,,,https://twitter.com/Annia_Garcia?s=20,https://www.facebook.com/AnniaGarciaG
+Diputado Local DTTO. 8 (Guadalajara),Juan Manuel Aceves González,PES,,,,
+Diputado Local DTTO. 8 (Guadalajara),Blanca Estela García Suárez,PRD,,,,
+Diputado Local DTTO. 8 (Guadalajara),Daniela Montserrat Hernández Ramírez,PRI,,,,
+Diputado Local DTTO. 8 (Guadalajara),Ernesto Ramón Ruiz Zamora,PT,,,https://twitter.com/errzd8?s=20,https://www.facebook.com/errzd8
+Diputado Local DTTO. 8 (Guadalajara),Brenda Concepción César Rodríguez,PVEM,,,,
+Diputado Local DTTO. 8 (Guadalajara),Marcia Catalina Rodríguez Magallanes,RSP,,,,
+Diputado Local DTTO. 8 (Guadalajara),Alejandro Estevez Cortés,SOMOS,,https://www.alejandroestevez.com/,https://twitter.com/AlejandroEstv16?s=20,https://www.facebook.com/8estevez
+Diputado Local DTTO. 8 (Guadalajara),Maximiliano Ramos,INDEPENDIENTE,,,https://twitter.com/SoyMaxRamos?s=20,https://www.facebook.com/soyMaxRamos
+Diputado Local DTTO. 9 (Guadalajara),Miguel Ángel Nava Amezquita,FUERZA MÉXICO,,,,
+Diputado Local DTTO. 9 (Guadalajara),Elanie Margaret Torres Fuentes,FUTURO,,,https://twitter.com/torreselanie?s=20,https://www.facebook.com/elaniie
+Diputado Local DTTO. 9 (Guadalajara),Mara Nadiezhda Robles Villaseñor,HAGAMOS,,,https://twitter.com/MaraRoblesV?s=20,https://www.facebook.com/MaraRoblesV
+Diputado Local DTTO. 9 (Guadalajara),Leticia Fabiola Cuan Ramírez,MC,,,https://twitter.com/FabiolaCuan?s=20,https://www.facebook.com/fabiolacuan
+Diputado Local DTTO. 9 (Guadalajara),Angela Gomez Ponce,MORENA,,,,https://www.facebook.com/AngelaGomezD9
+Diputado Local DTTO. 9 (Guadalajara),María Fernanda Guzmán Esquivel,PAN,,,https://twitter.com/MaFernanda_GE?s=20,https://www.facebook.com/FernadaGuzmanDtto9
+Diputado Local DTTO. 9 (Guadalajara),Norma Elizabeth Martínez Enriquez,PES,,,,https://www.facebook.com/Elizabeth-Mart%C3%ADnez-Enr%C3%ADquez-104403565010992
+Diputado Local DTTO. 9 (Guadalajara),Mara Belinda Valle Zúñiga,PRD,,,,https://www.facebook.com/BelindaValle27
+Diputado Local DTTO. 9 (Guadalajara),Carlos Alberto Zúñiga Aguilera,PRI,,,,
+Diputado Local DTTO. 9 (Guadalajara),Daniel Esparza Vizcarra,PT,,,,https://www.facebook.com/profdanielesparzadtto9/
+Diputado Local DTTO. 9 (Guadalajara),Cesar Hugo Martínez Nuño,PVEM,,,,
+Diputado Local DTTO. 9 (Guadalajara),Oscar Arturo Herrera Estrada,RSP,,,https://twitter.com/OscarArturoHE?s=20,https://www.facebook.com/OscarArturoHerreraEs
+Diputado Local DTTO. 9 (Guadalajara),Jesus Israel Díaz Navarro,SOMOS,,,,
+Diputado Local DTTO. 9 (Guadalajara),Jessicka Alejandra Castillo M,INDEPENDIENTE,,,,
+Diputado Local DTTO. 10 (Zapopan),Julio Leonardo Escalona Rodríguez,FUERZA MÉXICO,,,,https://www.facebook.com/julio.escalonarodriguez
+Diputado Local DTTO. 10 (Zapopan),Susana Ochoa Chavira,FUTURO,,,https://twitter.com/Susanaochoach?s=20,https://www.facebook.com/Susanaochoach
+Diputado Local DTTO. 10 (Zapopan),Denise de Font Reaulx Rojas,HAGAMOS,,,https://twitter.com/yovoycondenix?s=20,https://www.facebook.com/yovoycondenix
+Diputado Local DTTO. 10 (Zapopan),Monica Paola Magaña Mendoza,MC,,,https://twitter.com/MonicaMgn?s=20,https://www.facebook.com/MonicaMaganaM
+Diputado Local DTTO. 10 (Zapopan),Guillermo Villarreal Aldrete,MORENA,,,https://twitter.com/MemoVillarreal?s=20,https://www.facebook.com/gmovillarreal
+Diputado Local DTTO. 10 (Zapopan),Rosa Icela Díaz Gurrola,PAN,,,https://twitter.com/icelapan?s=20,https://www.facebook.com/RosaIcelaDiazG
+Diputado Local DTTO. 10 (Zapopan),Joshua Michel Richardson Richardson,PES,,,https://twitter.com/JMR0098?s=20,https://www.facebook.com/joshuamichael.richardson.9
+Diputado Local DTTO. 10 (Zapopan),Eduardo Emmanuel Mejía Benitez,PRD,,,,https://www.facebook.com/emm.mejia29
+Diputado Local DTTO. 10 (Zapopan),Alondra Getsemany Fausto de León,PRI,,,https://twitter.com/alondra_fausto?s=20,https://www.facebook.com/Alondra-Fausto-114400357410789
+Diputado Local DTTO. 10 (Zapopan),Eva Margarita Martínez Osorio,PT,,,,https://www.facebook.com/margarita.martinezD10
+Diputado Local DTTO. 10 (Zapopan),Carlos Alberto Gallego Neri,PVEM,,,,
+Diputado Local DTTO. 10 (Zapopan),Francisco Constantino Jiménez Villaseñor,RSP,,,https://twitter.com/Consthantino?s=20,https://www.facebook.com/profile.php?id=100044172052524
+Diputado Local DTTO. 10 (Zapopan),Alan Michel Orozco Verdín,SOMOS,,,,https://www.facebook.com/Alan-Orozco-112297867620790
+Diputado Local DTTO. 11 (Guadalajara),Martín Ceja Zepeda,FUERZA MÉXICO,,,,https://www.facebook.com/martin.cejazepeda
+Diputado Local DTTO. 11 (Guadalajara),Javier Gallo Vázquez,FUTURO,,,https://twitter.com/JavierGalloVzq?s=20,https://www.facebook.com/JavierGalloVzq
+Diputado Local DTTO. 11 (Guadalajara),Julio César Hernández Pérez,HAGAMOS,,,"
+http://www.twitter.com/juliocfeu",https://www.facebook.com/JulioHernandezPere
+Diputado Local DTTO. 11 (Guadalajara),Rocío Aguilar Tejada,MC,,,https://twitter.com/RocioAguilarTe1?s=20,https://www.facebook.com/RocioAguilarTejada
+Diputado Local DTTO. 11 (Guadalajara),Maher Mizraim Alonso Hernández,MORENA,,,https://twitter.com/mizraima?s=20,https://www.facebook.com/MizraimAlonso
+Diputado Local DTTO. 11 (Guadalajara),Jaime Cedillo Bolivar,PAN,,,https://twitter.com/jaimecedillo?s=20,https://www.facebook.com/JaimeCedilloB
+Diputado Local DTTO. 11 (Guadalajara),Rosalio Arredondo Chavez,PES,,,,https://www.facebook.com/chalio.chavez
+Diputado Local DTTO. 11 (Guadalajara),Julio César Estrada Bautista,PRD,,,,
+Diputado Local DTTO. 11 (Guadalajara),Mairel Bueno Rocha,PRI,,,,https://www.facebook.com/coordinaciondevinculacion.dejefasdefamilia
+Diputado Local DTTO. 11 (Guadalajara),María Guadalupe Vázquez Chávez,PT,,,,
+Diputado Local DTTO. 11 (Guadalajara),Elba Raquel Gutiérrez Rodríguez,PVEM,,,,
+Diputado Local DTTO. 11 (Guadalajara),Martín López Cedillo,RSP,,https://martindist11.com.mx/,https://twitter.com/martinlopc?s=20,https://www.facebook.com/martinlopc
+Diputado Local DTTO. 11 (Guadalajara),Karla Jacqueline Granados Mendoza,SOMOS,,,,
+Diputado Local DTTO. 12 (Tlajomulco),Gerardo Martínez Aportela,FUERZA MÉXICO,,,https://twitter.com/GAPORTELAM?s=20,https://www.facebook.com/GAPORTELAM
+Diputado Local DTTO. 12 (Tlajomulco),Emmanuel de Jesus Arriero Gutiérrez,FUTURO,,,https://twitter.com/ManuArriero?s=20,https://www.facebook.com/ManuTlajomulco
+Diputado Local DTTO. 12 (Tlajomulco),Samuel Casteñeda Vallejo,HAGAMOS,,,,https://www.facebook.com/samuelcastanedahagamos
+Diputado Local DTTO. 12 (Tlajomulco),Gerardo Quirino Velázquez Chávez,MC,,,https://twitter.com/GerardoQuirinoV?s=20,https://www.facebook.com/GerardoQuirino.V
+Diputado Local DTTO. 12 (Tlajomulco),Ricardo Hernández Barbosa,MORENA,,https://ricardobarbosa.com.mx/,,https://www.facebook.com/BarbosaTlajo
+Diputado Local DTTO. 12 (Tlajomulco),Celina López Rodríguez,PAN,,http://www.CelinaLopez.com/,,https://www.facebook.com/celinalopezr
+Diputado Local DTTO. 12 (Tlajomulco),Claudia García Ledezma,PES,,,,
+Diputado Local DTTO. 12 (Tlajomulco),Aria Magdalena Contreras Ramírez,PRD,,,,
+Diputado Local DTTO. 12 (Tlajomulco),Guillermo Lara Miranda,PRI,,,,https://www.facebook.com/Guillermo-Lara-102492835188099
+Diputado Local DTTO. 12 (Tlajomulco),Adriana Noemí Luna Pérez,PT,,,,
+Diputado Local DTTO. 12 (Tlajomulco),María del Carmen Vázquez Amador,PVEM,,,,https://www.facebook.com/ConapeJalisco2
+Diputado Local DTTO. 12 (Tlajomulco),Kevin Jhoan Valenzuela Sillas,RSP,,,,
+Diputado Local DTTO. 12 (Tlajomulco),Andres Guadalupe Gutiérrez Larios,SOMOS,,,,
+"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Ana Karina Cosío Vidaurri Martínez,FUERZA MÉXICO,,,,https://www.facebook.com/Karina-Cos%C3%ADo-104986831688714
+"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",María José Zazueta Gaspar,FUTURO,,https://linktr.ee/mackozazueta,https://twitter.com/mackozazueta?s=20,https://www.facebook.com/zazuetamacko
+"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Alejandra Guadalupe Rodríguez Infante,HAGAMOS,,,https://twitter.com/alerinfante?s=20,https://www.facebook.com/alerinfante
+"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Lourdes Celenia Contreras González,MC,,,,https://www.facebook.com/ContrerasCelenia
+"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",José Hiram Torres Salcedo,MORENA,,,https://twitter.com/Hiramtorres?s=20,https://www.facebook.com/HiramTorresS
+"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Ever Delgado Silva,PAN,,http://everdelgado.com/,,https://www.facebook.com/EverDelgadoS
+"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Rosaura Castro González,PES,,,,
+"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Jorge Rodríguez Machuca,PRD,,,,
+"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Angélica Guadalupe Torres Gutiérrez,PRI,,"http://angelicatorres.com.mx/
+",,https://www.facebook.com/AT13Tlaquepaque
+"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",José Miguel Villa López,PT,,,,
+"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Agustín Jaime García Domínguez,PVEM,,,,
+"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Carlos Gerardo Martínez Rodarte,RSP,,,,
+"Diputado Local DTTO. 13 (GDL, Tlaquepaque)",Quetzaly Llelena González Alvarado,SOMOS,,,,
+Diputado Local DTTO. 14 (Guadalajara),Marisol López García,FUERZA MÉXICO,,,,https://www.facebook.com/Marisol-L%C3%B3pez-100651038809402
+Diputado Local DTTO. 14 (Guadalajara),Mariana Casillas Guerrero,FUTURO,,,https://twitter.com/MarianaCasGe?s=20,https://www.facebook.com/MarianaCasGe
+Diputado Local DTTO. 14 (Guadalajara),Valeria Guadalupe Ávila Gutiérrez,HAGAMOS,,,https://twitter.com/valeriaavila93_?s=20,https://www.facebook.com/Valeriaavgu
+Diputado Local DTTO. 14 (Guadalajara),Priscilla Franco Barba,MC,,,https://twitter.com/PrisFrancoB?s=20,https://www.facebook.com/PrisFrancoB
+Diputado Local DTTO. 14 (Guadalajara),Ricardo de Jésus de la Torre Briseño,MORENA,,,,https://www.facebook.com/ricardovivirparaservir
+Diputado Local DTTO. 14 (Guadalajara),Ma Guadalupe Gómez Durán,PAN,,,,https://www.facebook.com/LupitaGomezDto14
+Diputado Local DTTO. 14 (Guadalajara),Carmelita Vázquez Gildo,PES,,,,
+Diputado Local DTTO. 14 (Guadalajara),Fabiola Macías Mercado,PRD,,,,
+Diputado Local DTTO. 14 (Guadalajara),Raúl Alejandro Juárez Juárez,PRI,,,,
+Diputado Local DTTO. 14 (Guadalajara),Susana Candelario Melin,PT,,,,
+Diputado Local DTTO. 14 (Guadalajara),Fabián Sebastián Vázquez Amador,PVEM,,,,https://www.facebook.com/FabianSebastianGdl14
+Diputado Local DTTO. 14 (Guadalajara),Areli Jacqueline Flores Martínez,RSP,,,,
+Diputado Local DTTO. 14 (Guadalajara),Atzhiri Lizeth Castillo Ortiz,SOMOS,,,,
+Diputado Local DTTO. 14 (Guadalajara),Ricardo López García,INDEPENDIENTE,,,https://twitter.com/RicardoLpezGa14?s=20,https://www.facebook.com/Ricardo-L%C3%B3pez-Garc%C3%ADa-107789554604663
+Diputado Local DTTO. 15,Alejandra Ivette Loza Puga,FUERZA MÉXICO,,,,
+Diputado Local DTTO. 15,Eva Alejandra Becerra Carranza,FUTURO,,,,https://www.facebook.com/alejandra.becerracarranza
+Diputado Local DTTO. 15,Patricia Elena Retamoza Vega,HAGAMOS,,,,https://www.facebook.com/PattyRetamoza
+Diputado Local DTTO. 15,Juan Luis Aguilar García,MC,,,,https://www.facebook.com/juanluis.aguilargarcia.7
+Diputado Local DTTO. 15,Noemí Viridiana Murillo López,MORENA,,,,https://www.facebook.com/ViriMurilloL
+Diputado Local DTTO. 15,María del Refugio Cervantes Valdivia,PAN,,,,https://www.facebook.com/kukitacervantesv
+Diputado Local DTTO. 15,Salvador Cervantes Salcedo,PES,,,,
+Diputado Local DTTO. 15,Zuhuykac Mejía Vázquez,PRD,,,,
+Diputado Local DTTO. 15,Rodolfo Ramón Acuña Barba,PRI,,,,https://www.facebook.com/rodolfo.acuna.10
+Diputado Local DTTO. 15,Sarvia Gómez Reyes,PT,,,https://twitter.com/gomez_sarvia?s=20,https://www.facebook.com/Sarvia-G%C3%B3mez-110245060749579
+Diputado Local DTTO. 15,María Esther Ramírez Flores,PVEM,,,,
+Diputado Local DTTO. 15,Jesús Fonseca Pérez,RSP,,,,https://www.facebook.com/Jesus-Fonseca-Perez-106759454847023
+Diputado Local DTTO. 15,Gustavo Edmundo Estrada Jaime,SOMOS,,,,https://www.facebook.com/gustavoedmundo.estradajaime
+Diputado Local DTTO. 16 (Tlaquepaque),Rosa María Gutiérrez Salcedo,FUERZA MÉXICO,,,,
+Diputado Local DTTO. 16 (Tlaquepaque),Daniela Elizabeth Chávez Estrada,FUTURO,,http://www.danielachavez.mx/,https://twitter.com/DaniChavezE?s=20,https://www.facebook.com/danielachavezes
+Diputado Local DTTO. 16 (Tlaquepaque),Cristina Patricia Carrasco Acosta,HAGAMOS,,,https://twitter.com/Carrasco_Cris8?s=20,https://www.facebook.com/cristinacarrasco08
+Diputado Local DTTO. 16 (Tlaquepaque),Marco Antonio Fuentes Ontiveros,MC,,,https://twitter.com/MarcoFuentesUno?s=20,https://www.facebook.com/MarcoFuentesUno
+Diputado Local DTTO. 16 (Tlaquepaque),Oscar Vázquez Llamas,MORENA,,,https://twitter.com/vasques4T?s=20,https://www.facebook.com/vasques4T
+Diputado Local DTTO. 16 (Tlaquepaque),José Luis Figueroa Meza,PAN,,,https://twitter.com/FigueroaJL16?s=20,https://www.facebook.com/FigueroaM16
+Diputado Local DTTO. 16 (Tlaquepaque),Mario Lozano Franco,PES,,,,https://www.facebook.com/profile.php?id=100065301084899
+Diputado Local DTTO. 16 (Tlaquepaque),Claudia Galán Martínez,PRD,,,,https://www.facebook.com/mvz_galan-358739268431004
+Diputado Local DTTO. 16 (Tlaquepaque),Luis Arturo Morones Vargas,PRI,,,,
+Diputado Local DTTO. 16 (Tlaquepaque),Noelia Castillo Zúñiga,PT,,,,
+Diputado Local DTTO. 16 (Tlaquepaque),Deniss Fabiola Franco González,PVEM,,,,https://www.facebook.com/deniss.franco.verde
+Diputado Local DTTO. 16 (Tlaquepaque),Luis Alfonso Magaña del Toro,RSP,,,,
+Diputado Local DTTO. 16 (Tlaquepaque),Jennifer Verónica Cueto García,SOMOS,,,,https://www.facebook.com/Veronica-Cueto-105933698252119
+"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",Darío Torres Herrera,FUERZA MÉXICO,,,,https://www.facebook.com/Dario-Torres-377507496393881
+"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",Luis Enrique Gudiño Michel,FUTURO,,,https://twitter.com/GudinoFuturo?s=20,https://www.facebook.com/LuisEnriqueG.Futuro
+"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",Jorge Bernal Lara,HAGAMOS,,,,https://www.facebook.com/JorgeBernalD17
+"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",María Dolores López Jara,MC,,,https://twitter.com/lolislopezjara?s=20,https://www.facebook.com/lolislopezjara
+"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",Julia Arlaeth Valencia Pérez,MORENA,,,,https://www.facebook.com/JuliaValenciaa
+"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",Ma Felicitas Aguilar Ibarra,PAN,,,,https://www.facebook.com/FelicitasAguilarIb
+"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",Yessica Gil Amador,PES,,,,
+"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",Claudia Rocío Durán Rubio,PRD,,,,
+"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",Alberto Arreola Castañeda,PRI,,,,https://www.facebook.com/alberto.arreolacastaneda
+"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",María Guadalupe Ruíz Macías,PT,,,,
+"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",Erika Lizbeth Ramírez Pérez,PVEM,,,,https://www.facebook.com/erikitaramire
+"Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",Blanca Margarita Mata Ponce,RSP,,,,
+Diputado Local DTTO. 18,María del Rosario Delgado Camberos,FUERZA MÉXICO,,,,
+Diputado Local DTTO. 18,Jorge Sebastián López Guitrón,FUTURO,,,,https://www.facebook.com/Jorge-Sebastian-Lopez-Guitron-Kichis-103164455238284
+Diputado Local DTTO. 18,Monica Almeida López,HAGAMOS,,,https://twitter.com/MonicaAlmeidalo?s=20,https://www.facebook.com/MonicaAlmeidaL
+Diputado Local DTTO. 18,Fernando Martínez Guerrero,MC,,,,https://www.facebook.com/fernando.martinezguerrero.5
+Diputado Local DTTO. 18,David Michel Camarena,MORENA,,,,https://www.facebook.com/DavidMichelCamarena
+Diputado Local DTTO. 18,Irma de Anda Licea,PAN,,https://www.facebook.com/IrmadeAnda.org,https://twitter.com/irma_de_anda?s=20,https://www.facebook.com/IrmadeAnda.org
+Diputado Local DTTO. 18,Citlalli Anahí López Pinzón,PES,,,,
+Diputado Local DTTO. 18,Abraham Vallín Gutiérrez,PRD,,,,
+Diputado Local DTTO. 18,Ana Angelita Degollado González,PRI,,,,https://www.facebook.com/DraAnaDegollado
+Diputado Local DTTO. 18,Juan Ávila Cuenca,PT,,,,https://www.facebook.com/CandidatoDiputadoLocalDistrito18
+Diputado Local DTTO. 18,Francisco Romero Álvarez,PVEM,,,,
+Diputado Local DTTO. 18,Olivia Galvez Saldaña,RSP,,,,https://www.facebook.com/oliviagalvez.d18
+Diputado Local DTTO. 18,Cecilia Bayardo Prieto,SOMOS,,,,
+Diputado Local DTTO. 19 (Zapotlán el Grande),Juan José Torres Cervantes,FUERZA MÉXICO,,,,https://www.facebook.com/profile.php?id=1379464591
+Diputado Local DTTO. 19 (Zapotlán el Grande),Daniela Alejandrina López López,FUTURO,,,https://twitter.com/AlejandrinaLp10?s=20,https://www.facebook.com/AlejandrinaLpz
+Diputado Local DTTO. 19 (Zapotlán el Grande),Francisco Javier Alvarez Chávez,HAGAMOS,,,https://twitter.com/GueroAlvarezCh?s=20,https://www.facebook.com/GueroAlvarezCh/
+Diputado Local DTTO. 19 (Zapotlán el Grande),Higinio del Toro Pérez,MC,,,https://twitter.com/higiniodeltoro?s=20,https://www.facebook.com/higiniodeltoro0
+Diputado Local DTTO. 19 (Zapotlán el Grande),Carlos Ignacio Toledo Vizcaíno,MORENA,,,,https://www.facebook.com/CarTolViz
+Diputado Local DTTO. 19 (Zapotlán el Grande),Noé Saúl Ramos García,PAN,,,https://twitter.com/NoeSaulRamosGa1?s=20,https://www.facebook.com/noesramosgarcia
+Diputado Local DTTO. 19 (Zapotlán el Grande),Karla Ivon Montes Cervantes,PES,,,,
+Diputado Local DTTO. 19 (Zapotlán el Grande),Francisco Javier Hernández López,PRD,,,,https://www.facebook.com/fcojhl
+Diputado Local DTTO. 19 (Zapotlán el Grande),Ana Isabel Oseguera Cortés,PRI,,,,https://www.facebook.com/AnaIsabelOcegueraC
+Diputado Local DTTO. 19 (Zapotlán el Grande),Dora Luz Navarro López,PT,,,,
+Diputado Local DTTO. 19 (Zapotlán el Grande),Rosalío Ramírez Evangelista,PVEM,,,,
+Diputado Local DTTO. 19 (Zapotlán el Grande),Elia Gómez Ramirez,RSP,,,,
+Diputado Local DTTO. 19 (Zapotlán el Grande),José Akenai Trinidad García,SOMOS,,,,
+Diputado Local DTTO. 20 (Tonalá),Aurelio González López,FUERZA MÉXICO,,,,https://www.facebook.com/aurelio.gonzalezlopez
+Diputado Local DTTO. 20 (Tonalá),Arquímides Andrés Flores López,FUTURO,,,https://twitter.com/arquimidesMX?s=20,https://www.facebook.com/arquimidesMX
+Diputado Local DTTO. 20 (Tonalá),Joel Alvarez Lomelí,HAGAMOS,,,,https://www.facebook.com/Joelalvarezchicatano
+Diputado Local DTTO. 20 (Tonalá),Estefania Padilla Martínez,MC,,,https://twitter.com/Estfaniapadilla?s=20,https://www.facebook.com/soyfanipadilla
+Diputado Local DTTO. 20 (Tonalá),Gabriel Pérez Pérez,MORENA,,,,https://www.facebook.com/profile.php?id=100022070412359
+Diputado Local DTTO. 20 (Tonalá),Juan José Hernández Alvarez,PAN,,,,
+Diputado Local DTTO. 20 (Tonalá),Vicente Fernández Abarca,PES,,,,
+Diputado Local DTTO. 20 (Tonalá),Silvia Sajaira Rivas Sánchez,PRD,,,,
+Diputado Local DTTO. 20 (Tonalá),Marisol Casián Silva,PRI,,,,https://www.facebook.com/Marisol-Casian-401661499854353
+Diputado Local DTTO. 20 (Tonalá),María Luiza Martínez Almaraz,PT,,,,https://www.facebook.com/LuizaConZ
+Diputado Local DTTO. 20 (Tonalá),Armando Amante Martínez,PVEM,,,,https://www.facebook.com/ArmandoPorElVerde
+Diputado Local DTTO. 20 (Tonalá),Hugo Arturo Aguilar Chávez,RSP,,,,
+Diputado Local DTTO. 20 (Tonalá),Norma Lorena Ramírez Mendoza,SOMOS,,,,
+Diputado Federal DTTO. 1,CELIA GONZALEZ PIZ,FUERZA MÉXICO,,,,https://www.facebook.com/celia.gonzalezpiz
+Diputado Federal DTTO. 1,JUAN GERARDO RUIZ DELGADO,MC,,,,https://www.facebook.com/JGerardoRuizD
+Diputado Federal DTTO. 1,MARIA ISABEL DELGADO CORNEJO,MORENA - PT - PVEM,,,,https://www.facebook.com/Mar%C3%ADa-Isabel-Delgado-Cornejo-102334328626079
+Diputado Federal DTTO. 1,GUSTAVO MACIAS ZAMBRANO,PAN - PRI- PRD,,,https://twitter.com/gustavomaciasz?s=20,https://www.facebook.com/gustavomaciasz
+Diputado Federal DTTO. 1,MARCELA OROZCO GOMEZ,PES,,,,https://www.facebook.com/orozcomarcelatequila
+Diputado Federal DTTO. 1,EROS PADILLA JIMENEZ,RSP,,,,https://www.facebook.com/diputadofederalerospadilla
+Diputado Federal DTTO. 2,MARCELA ADRIANA MARTINEZ VALDIVIA,FUERZA MÉXICO,,,,https://www.facebook.com/Marcela-Adriana-Mart%C3%ADnez-Valdivia-103963265134246
+Diputado Federal DTTO. 2,EDGAR ALFREDO GONZALEZ CHAVEZ,MC,,,https://twitter.com/EdgarGonzalezMC?s=20,https://www.facebook.com/EdgarGonzalezEML
+Diputado Federal DTTO. 2,OLIVIA GUILLEN PADILLA,MORENA,,,,https://www.facebook.com/OliviaGuillenP
+Diputado Federal DTTO. 2,MARTHA ESTELA ROMO CUELLAR,PAN - PRI-PRD,,,https://twitter.com/MarthaRomoC?s=20,https://www.facebook.com/MarthaRomoC
+Diputado Federal DTTO. 2,EVELIA HERNANDEZ PARADA,PES,,,,
+Diputado Federal DTTO. 2,SERGIO PEREZ GONZALEZ,PT,,,,
+Diputado Federal DTTO. 2,YARITZA LOPEZ MEDINA,PVEM,,,,
+Diputado Federal DTTO. 2,EPIFANIA SOCORRO VAZQUEZ FIGUEROA,RSP,,,,
+Diputado Federal DTTO. 3,JOSE LUIS VALLE MAGAÑA,FUERZA MÉXICO,,,,
+Diputado Federal DTTO. 3,HECTOR HUGO BRAVO HERNANDEZ,MC,,,https://twitter.com/DrHugoBravo?s=20,https://www.facebook.com/drhugobravo
+Diputado Federal DTTO. 3,RODRIGO MERCADO IBARRA,MORENA,,,,https://www.facebook.com/Lic-Rodrigo-Mercado-Ibarra-102342555077480
+Diputado Federal DTTO. 3,DESIDERIO TINAJERO ROBLES,PAN - PRI- PRD,,,https://twitter.com/drdesideriotr?s=20,https://www.facebook.com/Drdesideriotr
+Diputado Federal DTTO. 3,MARIA DOLORES JIMENEZ ORNELAS,PES,,,,
+Diputado Federal DTTO. 3,EDUARDO GONZALEZ RUBIO GUERRERO,PT,,,,https://www.facebook.com/groups/463121751027799/user/1729970832
+Diputado Federal DTTO. 3,ESCARLETH MARIEL ARECHIGA GUTIERREZ,PVEM,,,,
+Diputado Federal DTTO. 3,"JOSE LUIS RODRIGUEZ GARCIA
+",RSP,,,,https://www.facebook.com/PepeRodriguezG/
+Diputado Federal DTTO. 4,LETICIA SANTOSCOY OTERO,FUERZA MÉXICO,,,,https://www.facebook.com/letty.salvaje
+Diputado Federal DTTO. 4,TAYGETE IRISAY RODRIGUEZ GONZALEZ,MC,,,https://twitter.com/IrisayRodriguez?s=20,https://www.facebook.com/IrisayRodriguezG
+Diputado Federal DTTO. 4,RAUL ALVAREZ VILLASEÑOR,MORENA - PT- PVEM,,,https://twitter.com/Raulalvarez87?s=20,https://www.facebook.com/RaulAlvarezVilllasenor
+Diputado Federal DTTO. 4,"EDGAR LEOPOLDO CORTES MONTES DE OCA
+",PAN - PRI - PRD,,,https://twitter.com/soypolocortes?s=20,https://www.facebook.com/soypolocortes/
+Diputado Federal DTTO. 4,SOFIA CARDENAS PINEDA,PES,,,,https://www.facebook.com/Sof%C3%ADa-C%C3%A1rdenas-Pineda-100602872147946
+Diputado Federal DTTO. 4,"PABLO ALFONSO CORTES HERNANDEZ
+",RSP,,,,
+Diputado Federal DTTO. 5,ALFREDO SANCHEZ RODARTE,FUERZA MÉXICO,,,,https://www.facebook.com/alfredosanchezrodarte
+Diputado Federal DTTO. 5,JAIME ALVAREZ ZAYAS,MC,,,https://twitter.com/DrJaimeZayas?s=20,https://www.facebook.com/DrJaimeZayas
+Diputado Federal DTTO. 5,BRUNO BLANCAS MERCADO,MORENA - PT- PVEM,,,https://twitter.com/bruno_blancas?s=20,https://www.facebook.com/BrunoBlancasMercado
+Diputado Federal DTTO. 5,CARLOS GERARD GUZMAN,PAN - PRI - PRD,,,https://twitter.com/Carlos_Gerard?s=20,https://www.facebook.com/carlosgerardD5
+Diputado Federal DTTO. 5,LUIS ROBERTO GONZÁLEZ GUTIÉRREZ,PES,,,https://twitter.com/RobertoGlezpv?s=20,https://www.facebook.com/RobertoGonzalezpv
+Diputado Federal DTTO. 5,ARACELI SANCHEZ MEDINA,RSP,,,,
+Diputado Federal DTTO. 6,DORA ALICIA AVILA ARROYO,FUERZA MÉXICO,,,,
+Diputado Federal DTTO. 6,MANUEL JESUS HERRERA VEGA,MC,,,https://twitter.com/ManuelHerreraV?s=20,https://www.facebook.com/ManuelHerreraV.mx
+Diputado Federal DTTO. 6,"MONTSERRAT TOSTADO MALACON
+",MORENA - PT- PVEM,,,,https://www.facebook.com/Montserrat-Tostado-101214548753457
+Diputado Federal DTTO. 6,ADRIANA BUENROSTRO VAZQUEZ,PAN - PRI - PRD,,,https://twitter.com/Adybuenrostro?s=20,https://www.facebook.com/Adriana-Buenrostro-V%C3%A1zquez-113957130736548
+Diputado Federal DTTO. 6,ARACELI GUADALUPE PARTIDA VAZQUEZ,PES,,,,https://www.facebook.com/Araceli-P-V%C3%A1zquez-148746059160351
+Diputado Federal DTTO. 6,LUIS ALBERTO RAMOS RIVERA,RSP,,,,
+Diputado Federal DTTO. 7,ICELA ARELLANO GUZMAN,FUERZA MÉXICO,,,,https://www.facebook.com/icelafmx
+Diputado Federal DTTO. 7,ANGEL ENRIQUE GUZMAN LOZA,MC,,,https://twitter.com/ENRIQUEGUZ?s=20,https://www.facebook.com/EnriqueGuzmanL
+Diputado Federal DTTO. 7,ALBERTO VILLA VILLEGAS,MORENA - PT- PVEM,,,https://twitter.com/BetoVillaMx?s=20,https://www.facebook.com/BetoVillaVillegas
+Diputado Federal DTTO. 7,"LAURA BERENICE FIGUEROA BENITEZ
+",PAN - PRI-PRD,,,,https://www.facebook.com/Laura-Figueroa-105447028215049
+Diputado Federal DTTO. 7,CARLOS ALBERTO IBARRA HERNANDEZ,PES,,,,
+Diputado Federal DTTO. 7,BRENDA FLORES SANCHEZ,RSP,,,,https://www.facebook.com/BrendaFloresRSP
+Diputado Federal DTTO. 8,"MARIA DE LOS ANGELES TORRES RUIZ
+",FUERZA MÉXICO,,,,
+Diputado Federal DTTO. 8,"JOSE MAURO GARZA MARIN
+",MC,,,https://twitter.com/MauroGarzaMarin?s=20,https://www.facebook.com/MauroGarzaMarin
+Diputado Federal DTTO. 8,"MARIA YESENIA GALVAN BELTRAN
+",MORENA - PT- PVEM,,,https://twitter.com/yeseniagdl?s=20,https://www.facebook.com/yeseniagalvanb
+Diputado Federal DTTO. 8,"CLAUDIA IMELDA SALDAÑA ASCENCIO
+",PAN - PRI - PRD,,,https://twitter.com/Claudiasa12A?s=20,https://www.facebook.com/Claudia-Salda%C3%B1a-Ascencio-103801708421409
+Diputado Federal DTTO. 8,"ZONIA JUDITH MERINO GARCIA DE ALBA
+",PES,,,,https://www.facebook.com/Zonia-Merino-Garcia-de-Alba-459366687774804
+Diputado Federal DTTO. 8,VICTOR MANUEL RAMIREZ DOMINGUEZ,RSP,,,,https://www.facebook.com/Victor.Ramirez.Rsp
+Diputado Federal DTTO. 9,ADELA VAZQUEZ LARIOS,FUERZA MÉXICO,,,,https://www.facebook.com/Adela-Vazquez-Larios-102814385023692
+Diputado Federal DTTO. 9,CARMEN JULIA PRUDENCIO GONZALEZ,MC,,,https://twitter.com/carmenjuliagdl?s=20,https://www.facebook.com/carmenjuliagdl
+Diputado Federal DTTO. 9,"MARIA DEL ROCIO CORONA NAKAMURA
+",MORENA - PT- PVEM,,,https://twitter.com/RocioCoronaNkm?s=20,https://www.facebook.com/RocioCoronaNkm
+Diputado Federal DTTO. 9,"ERIKA NATALIA JUAREZ MIRANDA
+",PAN - PRI - PRD,,,https://twitter.com/juarezmiranda?s=20,https://www.facebook.com/NataliaJuarezMiranda
+Diputado Federal DTTO. 9,"LETICIA ISABEL ULLOA DIAZ
+",PES,,,,
+Diputado Federal DTTO. 9,"MARIA DEL CARMEN CAUDEL HERRERA
+",RSP,,,https://twitter.com/MaricarmenCaud3?s=20,https://www.facebook.com/Maricarmencaude
+Diputado Federal DTTO. 9,CHRISTOPHER ARTURO RODRIGUEZ HERNANDEZ,INDEPENDIENTE,,,,https://www.facebook.com/chrisrodriguezindependiente
+Diputado Federal DTTO. 10,JULIO NELSON GARCIA SANCHEZ,FUERZA MÉXICO,,,,
+Diputado Federal DTTO. 10,HORACIO FERNANDEZ CASTILLO,MC,,,https://twitter.com/Horaciofdzc?s=20,https://www.facebook.com/Horaciofernandezcastillo
+Diputado Federal DTTO. 10,AMINADAB MONTEJANO CARMONA,PT - PVEM - MORENA,,,https://twitter.com/AmiMontejano?s=20,https://www.facebook.com/aminadabmontejano
+Diputado Federal DTTO. 10,"FRANCISCO JAVIER RAMIREZ ACUÑA
+",PAN,,,https://twitter.com/framirezad10?s=20,https://www.facebook.com/framirezad10/
+Diputado Federal DTTO. 10,"JOSE CUAUHTEMOC MONTES LEAÑO
+",PES,,,,https://www.facebook.com/Jos%C3%A9-Cuauht%C3%A9moc-Montes-TEMOC-108622731310820
+Diputado Federal DTTO. 10,"GUADALUPE JASAAI NOCHEBUENA BECERRA
+",RSP,,,,https://www.facebook.com/Jasaai-Nochebuena-102265795195712
+Diputado Federal DTTO. 11,ANA CELINA VAZQUEZ RODRIGUEZ,FUERZA MÉXICO,,,,
+Diputado Federal DTTO. 11,MA EDITH MUJICA CHAVEZ,MC,,,https://twitter.com/JefaEdithMujica?s=20,https://www.facebook.com/JefaEdithMujica
+Diputado Federal DTTO. 11,CLAUDIA DELGADILLO GONZALEZ,PT - PVEM - MORENA,,,https://twitter.com/ClaudDelgadillo?s=20,https://www.facebook.com/ClaudDelgadillo
+Diputado Federal DTTO. 11,JORGE ARANA ARANA,PAN - PRI - PRD,,,https://twitter.com/JorgeAranaArana?s=20,https://www.facebook.com/JorgeAranaArana.si
+Diputado Federal DTTO. 11,ADOLFO BAUTISTA HERRERA,PES,,,https://twitter.com/bofo_100_?s=20,https://www.facebook.com/ElBofoBautista
+Diputado Federal DTTO. 11,DOLORES PATRICIA ALVARADO CORONA,RSP,,,,
+Diputado Federal DTTO. 12,GRACIELA MICHELLE LOZANO LOPEZ,FUERZA MÉXICO,,,,
+Diputado Federal DTTO. 12,MARIA ASENCION ALVAREZ SOLIS,MC,,,https://twitter.com/MariaAsencionAl?s=20,https://www.facebook.com/MariaAsencionAlvarez
+Diputado Federal DTTO. 12,VERONICA RAMOS CRUZ,PT - PVEM - MORENA,,,https://twitter.com/VeronicaRamosD?s=20,https://www.facebook.com/RamosCruzVeronica
+Diputado Federal DTTO. 12,ANA LAURA CHAVEZ VELARDE,PAN - PRI - PRD,,,https://twitter.com/ana_chvez?s=20,https://www.facebook.com/anachvzvlrd
+Diputado Federal DTTO. 12,"NORMA ERENDIRA YAÑEZ CHAVEZ
+",PES,,,,https://www.facebook.com/eretlajomulco
+Diputado Federal DTTO. 12,"JULIA ADRIANA LOPEZ HERNANDEZ
+",RSP,,,,
+Diputado Federal DTTO. 13,TESSA SOFIA AMBRIZ MURGUIA,FUERZA MÉXICO,,,https://twitter.com/TessambriZ?s=20,https://www.facebook.com/FuerzaTessaAmbriz
+Diputado Federal DTTO. 13,"SERGIO BARRERA SEPULVEDA
+",MC,,,https://twitter.com/ChecoBarrera?s=20,https://www.facebook.com/ChecoBarreraSepulveda
+Diputado Federal DTTO. 13,KATIA ALEJANDRA CASTILLO LOZANO,PT - PVEM  - MORENA,,,https://twitter.com/katiacastillol?s=20,https://www.facebook.com/KatiaCastilloLozano
+Diputado Federal DTTO. 13,"CARLOS BERNARDO GUZMAN CERVANTES
+",PAN - PRI - PRD,,,,https://www.facebook.com/BernaGuzman13
+Diputado Federal DTTO. 13,"MARIA CRISTINA PILOÑA RIVERA
+",PES,,,https://twitter.com/pilonna?s=20,https://www.facebook.com/cristina.pilona
+Diputado Federal DTTO. 13,ADAN JAIME ALCANTAR GONZALEZ,RSP,,,https://twitter.com/Adan_Alcantar_?s=20,https://www.facebook.com/AdanJaimeAlcantarG
+Diputado Federal DTTO. 14,ANA MARIA AMADOR BARRAGAN,FUERZA MÉXICO,,,,https://www.facebook.com/AnaAmador6
+Diputado Federal DTTO. 14,MARIA LETICIA CHAVEZ PEREZ,MC,,,https://twitter.com/LetyChavez_D14?s=20,https://www.facebook.com/LetyChavezDistrito14
+Diputado Federal DTTO. 14,ENRIQUE AUBRY DE CASTRO PALOMINO,PT - PVEM - MORENA,,,https://twitter.com/EnriqueAubry?s=20,https://www.facebook.com/EnriqueAubry
+Diputado Federal DTTO. 14,LEOBARDO ALCALA PADILLA,PAN - PRI - PRD,,,https://twitter.com/Leobardo_Alcala?s=20,https://www.facebook.com/Dr.LeobardoAlcala
+Diputado Federal DTTO. 14,"NELISAIRA QUIROZ LAMAS
+",PES,,,https://twitter.com/quiroz_neli?s=20,https://www.facebook.com/profile.php?id=100063627164032
+Diputado Federal DTTO. 14,"MIGUEL ANGEL HORTA TOVAR
+",RSP,,,,https://www.facebook.com/MikeHortaTovar
+Diputado Federal DTTO. 15,"IGNACIO OROZCO VILLAGOMEZ
+",FUERZA MÉXICO,,,,
+Diputado Federal DTTO. 15,PAULO GABRIEL HERNANDEZ HERNANDEZ,MC,,,https://twitter.com/PauloZague?s=20,https://www.facebook.com/PauloGabrielZague
+Diputado Federal DTTO. 15,JUAN BARAJAS GODINEZ,PT - PVEM - MORENA,,,,https://www.facebook.com/jubago54
+Diputado Federal DTTO. 15,ANA LAURA SANCHEZ VELAZQUEZ,PAN - PRI - PRD,,,,https://www.facebook.com/LauraSanchezDXV
+Diputado Federal DTTO. 15,"ALEJANDRO NAVARRO LOMELI
+",PES,,,,https://www.facebook.com/Alejandro-Navarro-Lomel%C3%AD-101265122080312
+Diputado Federal DTTO. 15,MARTIN ALVAREZ CERVANTES,RSP,,,,https://www.facebook.com/martinlachiva.alvarezcervantes
+Diputado Federal DTTO. 16,NORMA BECERRA MORENO,FUERZA MÉXICO,,,,https://www.facebook.com/Norma-Becerra-Moreno-107883574739260
+Diputado Federal DTTO. 16,"JOAQUIN ANTONIO PORTILLA WOLFF
+",MC,,,https://twitter.com/portillajoaquin?s=20,https://www.facebook.com/JoaquinPortillaOficial
+Diputado Federal DTTO. 16,"LAURA IMELDA PEREZ SEGURA
+",PT - PVEM - MORENA,,,https://twitter.com/LauraImelPerezS?s=20,https://www.facebook.com/LauraImelPerezS
+Diputado Federal DTTO. 16,"VERONICA BEATRIZ JUAREZ PIÑA
+",PAN,,,https://twitter.com/juarezvero?s=20,https://www.facebook.com/VeronicaBeatrizJuarezPina
+Diputado Federal DTTO. 16,DARIO FERNANDO GARCIA GALINDO,PES,,,,
+Diputado Federal DTTO. 16,"TERESA DE JESUS OWENS PAREDES
+",RSP,,,,https://www.facebook.com/TeresaOwens21
+Diputado Federal DTTO. 17,EMA SANDOVAL LOPEZ,FUERZA MÉXICO,,,,
+Diputado Federal DTTO. 17,"JUAN MARTIN ESPINOZA CARDENAS
+",MC,,,https://twitter.com/MartinEsp_17?s=20,https://www.facebook.com/JuanMartinEspinozaOficial
+Diputado Federal DTTO. 17,ANTONIO DE JESUS RAMIREZ RAMOS,PT - PVEM - MORENA,,,,https://www.facebook.com/antonio.ramirez.ramos.s
+Diputado Federal DTTO. 17,"HECTOR PADILLA GUTIERREZ
+",PAN - PRI - PRD,,,https://twitter.com/Hector_PadillaG?s=20,https://www.facebook.com/HectorPadG
+Diputado Federal DTTO. 17,MARTIN GONZALEZ OROPEZA,PES,,,,https://www.facebook.com/martin.gonzalezoropeza
+Diputado Federal DTTO. 17,"
+MARTHA ESTHER HERNANDEZ ESCAMILLA
+",RSP,,,,
+Diputado Federal DTTO. 18,OSCAR SEDANO DE LA ROSA,FUERZA MÉXICO,,,,https://www.facebook.com/OscarSedano01
+Diputado Federal DTTO. 18,"MARICELA PAEZ GUTIERREZ
+",MC,,,https://twitter.com/MaryPaezJal?s=20,https://www.facebook.com/MaryPaezJal
+Diputado Federal DTTO. 18,ISMAEL HERNANDEZ ACOSTA,PT - PVEM - MORENA,,,,https://www.facebook.com/Ismael-Hernandez-Acosta-111778341011221
+Diputado Federal DTTO. 18,"JOSE GUADALUPE FLETES ARAIZA
+",PAN - PRI - PRD,,,https://twitter.com/lupillo_fletes?s=20,https://www.facebook.com/lupillofletesoficial
+Diputado Federal DTTO. 18,HOMERO ESPINOZA DIAZ,PES,,,,https://www.facebook.com/PES-Candidato-a-Diputado-Federal-Por-el-Distrito-18-Homero-Espinoza-Diaz-110205024507738
+Diputado Federal DTTO. 18,"CLARISSA ROSALBA BENITEZ GARCIA
+",RSP,,,,https://www.facebook.com/ClarissaBenitez.D18
+Diputado Federal DTTO. 19,"MARTHA GABRIELA ACOSTA ZUBIETA
+",FUERZA MÉXICO,,,,https://www.facebook.com/GabyAcostaZubieta
+Diputado Federal DTTO. 19,"J JESUS GUERRERO ZUÑIGA
+",MC,,,https://twitter.com/PepeGuerreroZu?s=20,https://www.facebook.com/PepeGuerreroZu
+Diputado Federal DTTO. 19,LUZ ADRIANA CANDELARIO FIGUEROA,PT - PVEM - MORENA,,,,https://www.facebook.com/Adriana-Candelario-129605344564248
+Diputado Federal DTTO. 19,"ANDRES SALVADOR RAMOS CANO
+",PAN - PRI - PRD,,,https://twitter.com/AndresSRamosC?s=20,https://www.facebook.com/AndresSRamosC
+Diputado Federal DTTO. 19,ROMAN ARELLANO GONZALEZ,PES,,,,
+Diputado Federal DTTO. 19,"CUITLAHUAC FERNANDO SANTILLAN OCAMPO
+",RSP,,,,https://www.facebook.com/CuitlahuacSantillanO
+Diputado Federal DTTO. 20,"JOSE DE JESUS VEGA GONZALEZ
+",FUERZA MÉXICO,,,,
+Diputado Federal DTTO. 20,EDGAR ISRAEL OROZCO MONTES,MC,,,https://twitter.com/ISRAELOROZCO_?s=20,https://www.facebook.com/IsraelOrozcoM
+Diputado Federal DTTO. 20,JOSE LUIS SANCHEZ GONZALEZ,PT - PVEM - MORENA,,,,https://www.facebook.com/JoseLuisSanchezGDL
+Diputado Federal DTTO. 20,"MARIA DEL REFUGIO CAMARENA JAUREGUI
+",PAN - PRI - PRD,,,https://twitter.com/Cuquis_Camarena?s=20,https://www.facebook.com/LicCamarenaOficial
+Diputado Federal DTTO. 20,JULIO CESAR GONZALEZ PADILLA,PES,,,,
+Diputado Federal DTTO. 20,"MARIA DE LOS ANGELES BONAVIA CASTRO
+",RSP,,,,
