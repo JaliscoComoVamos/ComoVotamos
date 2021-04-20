@@ -9,10 +9,10 @@ map_page: true
 </form>
 
 <div class="row" style="width: 100%; margin:0 auto; margin-bottom: 10px">
-        <h2 class='text-center intro'>Ingresa tu dirección o haz clic en el mapa para conocer a las personas electas que te representarán en los diferentes órdenes de gobierno cuando empiezan las nuevas administraciones.<br></h2>
+        <h2 class='text-center intro'>Ingresa tu dirección o haz clic en el mapa para conocer a las personas que te representarán en los diferentes órdenes de gobierno cuando empiecen las nuevas administraciones.<br></h2>
 </div>
 <div id='map'></div>
-<div class='text-center' id='map-error' 
+<div class='text-center' id='map-error'
     style='width: 70%; margin:0 auto; font-size: 20px; display: none; background: #F9D333; color: #000000'>
    <br><b>ERROR: ¡No se puede mostrar el mapa! Parece que tu navegador o tu tarjeta gráfica no es compatible con <a href="https://www.khronos.org/webgl/" style="color: #0000FF">WebGL</a>. Descubre cómo arreglarlo <a href="http://get.webgl.org/" style="color: #0000FF">aquí</a>.</b><br>&nbsp;
 </div>
@@ -25,40 +25,40 @@ map_page: true
         </div>
         <div id='response-container' style="display:none;">
             <div style="color:#3F626B; font-size: 18px;">
-                <p class='text-center'><br><b>Esta ubicación pertenece al Distrito Electoral Federal y Local de Jalisco número <span id="mi_distrito_placeholder">__</span> y el municipio de 
+                <p class='text-center'><br><b>Esta ubicación pertenece al Distrito Electoral Federal y Local de Jalisco número <span id="mi_distrito_placeholder">__</span> y el municipio de
                 <span id="mi_municipio_placeholder">__</span>.<br><br></b></p>
             </div>
             <div class='row filter_level' style='width: 86%; margin:0 auto;'>
                 <p class='text-center' style="font-size: 19px; color: #555"><b>Mostrar candidatos a:</b><br>
                 <label><input checked="checked" id="show_alcalde_results" onchange="showResults()" type="checkbox" value="alcalde">
-                Alcalde</label> 
+                Alcalde</label>
                 <label><input checked="checked" id="show_dl_results" onchange="showResults()"
-                type="checkbox" value="dl"> Diputado Local</label> 
+                type="checkbox" value="dl"> Diputado Local</label>
                 <label><input checked="checked" id=
                 "show_gobernador_results" onchange="showResults()" type="checkbox" value="gobernador">
-                Gobernador</label> 
+                Gobernador</label>
                 <label><input checked="checked" id=
                 "show_df_results" onchange="showResults()" type="checkbox" value="df"> Diputado Federal</label>
                 <label><input checked="checked" id="show_senador_results" onchange="showResults()" type=
-                "checkbox" value="senador"> Senador</label> 
+                "checkbox" value="senador"> Senador</label>
                 <label><input checked="checked" id="show_presidente_results" onchange=
                 "showResults()" type="checkbox" value="presidente"> Presidente</label><br></p>
             </div>
             <div style='width: 95%; margin:0 auto;'>
                 <p class="lead2 text-center" id='results-nav' style="color:#3d626b;">
-                <br><b>Candidaturas locales: &nbsp;</b> 
+                <br><b>Candidaturas locales: &nbsp;</b>
                 <span id='alcalde-nav' style="display:none;"> <a href="#alcalde-global-container" id=
-                "alcalde-name-nav">Presidencia Municipal</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span> 
+                "alcalde-name-nav">Presidencia Municipal</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span>
                 <span id=
                 'dl-nav'><a href="#dl-name" id="dl-name-nav">Diputación Local</a>
-                &nbsp;&nbsp;&nbsp;&nbsp;|</span> 
+                &nbsp;&nbsp;&nbsp;&nbsp;|</span>
                 <span id='gobernador-nav'><a href="#gobernador-name" id="gobernador-name-nav">Gobernador de
                 Jalisco</a></span><br>
-                <b>Candidaturas federales: &nbsp;</b> 
+                <b>Candidaturas federales: &nbsp;</b>
                 <span id='df-nav'> <a href="#df-name" id="df-name-nav">Diputación Federal</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span>
                 <span id='senador-nav'><a href="#senador-name" id=
                 "senador-name-nav">Senaduría</a> &nbsp;&nbsp;&nbsp;&nbsp;|</span>
-                <span id='presidente-nav'><a href="#presidente-name" 
+                <span id='presidente-nav'><a href="#presidente-name"
                 id="presidente-name-nav">Presidencia de la República</a></span></p>
             </div>
 
@@ -66,7 +66,7 @@ map_page: true
                 <div class='text-center' id='alcalde-container-not-found' style='display: none;'><br>
                     <h3 class='text-center' id="alcalde-name-not-found">Presidencia Municipal</h3>
                     <p><b>No encontramos ningún candidato a presidente municipal para esta ubicación.</b> </p><p style="text-align: left" class="small">
-                        Actualmente tenemos la lista completa de candidatos a presidente municipal en Autlán, Chapala, El Grullo, El Salto, Guadalajara, Hostotipaquillo, Ixtlahuacán de los Membrillos, La Barca, La Huerta, Lagos de Moreno, Ocotlán, Puerto Vallarta, San Juan de los Lagos, Tala, Tecolotlán, Tepatitlán, Tequila, Tlajomulco, Tlaquepaque, Tonalá, Tototlán, Unión de Tula, Zapopan, Zapotlanejo y Zapotlán el Grande.</p> <p class="small" style="text-align: left">Si deseas que agreguemos información para otro municipio, <a href="{{ '/contacto' | relative_url }}">envíanos una solicitud</a> y haremos todo lo posible para actualizar nuestra base de datos. Igual, si tu dirección pertenece a uno de los municipios mencionados, nos ayudaría si <a href="{{ '/contacto' | relative_url }}">nos avisaras del error</a> para arreglarlo. ¡Gracias!</p> 
+                        Actualmente tenemos la lista completa de candidatos a presidente municipal en Autlán, Chapala, El Grullo, El Salto, Guadalajara, Hostotipaquillo, Ixtlahuacán de los Membrillos, La Barca, La Huerta, Lagos de Moreno, Ocotlán, Puerto Vallarta, San Juan de los Lagos, Tala, Tecolotlán, Tepatitlán, Tequila, Tlajomulco, Tlaquepaque, Tonalá, Tototlán, Unión de Tula, Zapopan, Zapotlanejo y Zapotlán el Grande.</p> <p class="small" style="text-align: left">Si deseas que agreguemos información para otro municipio, <a href="{{ '/contacto' | relative_url }}">envíanos una solicitud</a> y haremos todo lo posible para actualizar nuestra base de datos. Igual, si tu dirección pertenece a uno de los municipios mencionados, nos ayudaría si <a href="{{ '/contacto' | relative_url }}">nos avisaras del error</a> para arreglarlo. ¡Gracias!</p>
                 </div>
                 <div id='alcalde-container'>
                     <h3 class='text-center' id="alcalde-name">Presidencia Municipal de <span id="mi_municipio_placeholder_3">__</span></h3>
@@ -213,8 +213,8 @@ map_page: true
             <p>Después de la elección, aquí también podrás consultar <a href="{{ '/resultados#ver' | relative_url }}">los resultados</a> de las elecciones.</p>
 
             <p style="font-size: 18px"><a href="{{ '/informacion' | relative_url }}">Más información
-            sobre este proyecto y el proceso electoral &raquo;</a></p><br> 
-            
+            sobre este proyecto y el proceso electoral &raquo;</a></p><br>
+
         </div>
     </div><br><br>
     <div class='col-md-3 hidden-xs hidden-sm'><img alt='Jalisco' src="{{ '/images/jalisco.png' | relative_url }}" style='height: 300px; width: 329px;' title='Jalisco'></div>
@@ -242,7 +242,7 @@ $.getJSON("data/lista_municipios.json", function(data) {
 
 $(function() {
       results_level = ['alclade', 'dl', 'df', 'senador', 'gobernador', 'presidente'];
-      
+
       // set levels of government checkboxes
       if (results_level.indexOf("alcalde") >= 0)
         $('#show_alcalde_results').prop('checked', true);
@@ -278,7 +278,7 @@ $(function() {
 
 
 // Check that WebGL was able to load, if not, throw error
-try { 
+try {
     mapboxgl.accessToken = 'pk.eyJ1IjoiZm9zc3ZpY2siLCJhIjoiY2l1dHpvZjMyMDF5NTJ5b2U4dml3OXl4NSJ9.nfzJubKqRYD5mfehv_qMxg';
     var map = new mapboxgl.Map({
         container: 'map',
@@ -326,7 +326,7 @@ map.on('load', function() {
             data.features.forEach(function(feature) {
                 // turf.inside is a method to check whether a point is inside a polygon
                 if (turf.inside(pt, feature)) {
-                    if (/\d/.test(feature.properties.Name.slice())) { 
+                    if (/\d/.test(feature.properties.Name.slice())) {
                         mi_distrito = feature.properties.Name.slice().replace(/\D/g, '')
                     } else {
                         mi_municipio = feature.properties.Name.slice()
@@ -348,7 +348,7 @@ map.on('load', function() {
                 center: pt.geometry.coordinates,
                 zoom: 13.5,
                 speed: 10
-            });      
+            });
         });
         map.addSource('jalisco', {
             type: 'geojson',
