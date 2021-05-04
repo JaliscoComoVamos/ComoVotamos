@@ -208,12 +208,12 @@
   },
   {
     "Candidatura": "Autlán de Navarro",
-    "Nombre": "Haidyd Arreola López",
+    "Nombre": "Fausto Mancilla Martínez",
     "Partido": "MORENA",
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "https://www.facebook.com/FaustoMancillaM"
   },
   {
     "Candidatura": "Autlán de Navarro",
@@ -982,6 +982,15 @@
   },
   {
     "Candidatura": "Lagos de Moreno",
+    "Nombre": "Nancy Viridiana Herrera Hernández",
+    "Partido": "MORENA",
+    "electo": "",
+    "url": "",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/Nancy-Viridiana-Herrera-Hernandez-100617845462345"
+  },
+  {
+    "Candidatura": "Lagos de Moreno",
     "Nombre": "José de Jesús Hurtado Torres",
     "Partido": "PAN",
     "electo": "",
@@ -1141,6 +1150,15 @@
     "url": "",
     "twitter": "",
     "facebook": "https://www.facebook.com/LupitaGuerreroGC"
+  },
+  {
+    "Candidatura": "Puerto Vallarta",
+    "Nombre": "Luis Alberto Michel Rodríguez",
+    "Partido": "MORENA",
+    "electo": "",
+    "url": "",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/SoyLuisMichel"
   },
   {
     "Candidatura": "Puerto Vallarta",
@@ -1960,6 +1978,15 @@
     "url": "",
     "twitter": "",
     "facebook": "https://www.facebook.com/RicardoMoralesZapotlanejo"
+  },
+  {
+    "Candidatura": "Zapotlanejo",
+    "Nombre": "Gonzalo Álvarez Barragán",
+    "Partido": "MORENA",
+    "electo": "",
+    "url": "",
+    "twitter": "https://twitter.com/GonzaloAB_Mx?s=20",
+    "facebook": "https://www.facebook.com/GonzaloAlvarezMX"
   },
   {
     "Candidatura": "Zapotlanejo",
