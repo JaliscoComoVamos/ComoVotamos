@@ -1,5 +1,15 @@
 [
   {
+    "Candidatura": "Gobernador",
+    "Nombre": "Gobernadora Plus",
+    "Partido": "Partido plus",
+    "electo": "",
+    "url": "www.google.com",
+    "twitter": "",
+    "facebook": "",
+    "Antecedentes": "Partido antecedente"
+  },
+  {
     "Candidatura": "Acatlán de Juárez",
     "Nombre": "Alejandro Alvarado Toscano",
     "Partido": "FUERZA MÉXICO",
@@ -7,6 +17,7 @@
     "url": "",
     "twitter": "",
     "facebook": "http://www.facebook.com/AlexAlvarado2021",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Acatlán de Juárez",
@@ -15,7 +26,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/erickmedinasiordia"
+    "facebook": "https://www.facebook.com/erickmedinasiordia",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Acatlán de Juárez",
@@ -24,7 +36,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Acatlán de Juárez",
@@ -33,7 +46,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Acatlán de Juárez",
@@ -42,7 +56,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Acatlán de Juárez",
@@ -51,7 +66,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Acatlán de Juárez",
@@ -60,7 +76,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Acatlán de Juárez",
@@ -69,7 +86,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/gloriaelizabeth.gonzalezdavaloas?fref=mentions"
+    "facebook": "https://www.facebook.com/gloriaelizabeth.gonzalezdavaloas?fref=mentions",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Acatlán de Juárez",
@@ -78,7 +96,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ameca",
@@ -87,7 +106,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ameca",
@@ -96,7 +116,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ameca",
@@ -105,7 +126,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/VickyMariscalAmeca/"
+    "facebook": "https://www.facebook.com/VickyMariscalAmeca/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ameca",
@@ -114,7 +136,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/juanvalentin.serranojimenez/"
+    "facebook": "https://www.facebook.com/juanvalentin.serranojimenez/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ameca",
@@ -123,7 +146,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/franciscomarinmorena/"
+    "facebook": "https://www.facebook.com/franciscomarinmorena/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ameca",
@@ -132,7 +156,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/AnuarTaveraAN/"
+    "facebook": "https://www.facebook.com/AnuarTaveraAN/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ameca",
@@ -141,7 +166,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ameca",
@@ -150,7 +176,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ameca",
@@ -159,7 +186,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Luis-Arturo-Meza-Andal%C3%B3n-100211905281375"
+    "facebook": "https://www.facebook.com/Luis-Arturo-Meza-Andal%C3%B3n-100211905281375",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ameca",
@@ -168,7 +196,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/EdilbertoEnriquezP"
+    "facebook": "https://www.facebook.com/EdilbertoEnriquezP",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
@@ -177,7 +206,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/FelipeFlores0"
+    "facebook": "https://www.facebook.com/FelipeFlores0",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
@@ -186,7 +216,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/DaniellaRamirezG"
+    "facebook": "https://www.facebook.com/DaniellaRamirezG",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
@@ -195,7 +226,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/profile.php?id=100057733534524"
+    "facebook": "https://www.facebook.com/profile.php?id=100057733534524",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
@@ -204,7 +236,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/nicolas.ayaladelreal"
+    "facebook": "https://www.facebook.com/nicolas.ayaladelreal",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
@@ -213,7 +246,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/FaustoMancillaM"
+    "facebook": "https://www.facebook.com/FaustoMancillaM",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
@@ -222,7 +256,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
@@ -231,7 +266,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
@@ -240,7 +276,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/profile.php?id=100065494814845"
+    "facebook": "https://www.facebook.com/profile.php?id=100065494814845",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
@@ -249,7 +286,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/GustavoRoblesM?s=20",
-    "facebook": "https://www.facebook.com/GustavoRoblesM"
+    "facebook": "https://www.facebook.com/GustavoRoblesM",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
@@ -258,7 +296,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/marthaelena.lopezvelazquez"
+    "facebook": "https://www.facebook.com/marthaelena.lopezvelazquez",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
@@ -267,7 +306,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/luispreciadoz"
+    "facebook": "https://www.facebook.com/luispreciadoz",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
@@ -276,7 +316,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/OscarZepedaAut?s=20",
-    "facebook": "https://www.facebook.com/oscarzepedaautlan"
+    "facebook": "https://www.facebook.com/oscarzepedaautlan",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Autlán de Navarro",
@@ -285,7 +326,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Sergio-Capacete-El-Bola-105457854916530"
+    "facebook": "https://www.facebook.com/Sergio-Capacete-El-Bola-105457854916530",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ayotlán",
@@ -294,7 +336,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ayotlán",
@@ -303,7 +346,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ayotlán",
@@ -312,7 +356,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Rodolfo-Hern%C3%A1ndez-Sanchez-108483960880032"
+    "facebook": "https://www.facebook.com/Rodolfo-Hern%C3%A1ndez-Sanchez-108483960880032",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ayotlán",
@@ -321,7 +366,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/pedroperezObradorista"
+    "facebook": "https://www.facebook.com/pedroperezObradorista",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ayotlán",
@@ -330,7 +376,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ayotlán",
@@ -339,7 +386,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/profile.php?id=100016093151787"
+    "facebook": "https://www.facebook.com/profile.php?id=100016093151787",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ayotlán",
@@ -348,7 +396,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/AgustinZunigaBanda"
+    "facebook": "https://www.facebook.com/AgustinZunigaBanda",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ayotlán",
@@ -357,7 +406,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ayotlán",
@@ -366,7 +416,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ayotlán",
@@ -375,7 +426,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Guillermo-Rodr%C3%ADguez-100356975405292"
+    "facebook": "https://www.facebook.com/Guillermo-Rodr%C3%ADguez-100356975405292",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Colotlán",
@@ -384,7 +436,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Anabel-Robles-106340994882012"
+    "facebook": "https://www.facebook.com/Anabel-Robles-106340994882012",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Colotlán",
@@ -393,7 +446,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Dr.PepeQuezada"
+    "facebook": "https://www.facebook.com/Dr.PepeQuezada",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Colotlán",
@@ -402,7 +456,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/manuel.valdovinosenriquez"
+    "facebook": "https://www.facebook.com/manuel.valdovinosenriquez",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Colotlán",
@@ -411,7 +466,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/profile.php?id=100005638848632"
+    "facebook": "https://www.facebook.com/profile.php?id=100005638848632",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Colotlán",
@@ -420,7 +476,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Colotlán",
@@ -429,7 +486,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/norma.huizarmarquez"
+    "facebook": "https://www.facebook.com/norma.huizarmarquez",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Colotlán",
@@ -438,7 +496,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Felipe-Ibarra-100521715513767"
+    "facebook": "https://www.facebook.com/Felipe-Ibarra-100521715513767",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Colotlán",
@@ -447,7 +506,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/francisco.gandaracardenas"
+    "facebook": "https://www.facebook.com/francisco.gandaracardenas",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Grullo",
@@ -456,7 +516,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Grullo",
@@ -465,7 +526,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/alejandro.zamoraosorio"
+    "facebook": "https://www.facebook.com/alejandro.zamoraosorio",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Grullo",
@@ -474,7 +536,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/milton.cardenas.399"
+    "facebook": "https://www.facebook.com/milton.cardenas.399",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Grullo",
@@ -483,7 +546,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Grullo",
@@ -492,7 +556,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/droscarjimva"
+    "facebook": "https://www.facebook.com/droscarjimva",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Grullo",
@@ -501,7 +566,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/jazeury.glez"
+    "facebook": "https://www.facebook.com/jazeury.glez",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Grullo",
@@ -510,7 +576,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/sandra.torreschavez.1"
+    "facebook": "https://www.facebook.com/sandra.torreschavez.1",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Grullo",
@@ -519,7 +586,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Pablo-G%C3%B3mez-Alcal%C3%A1-101322524657775"
+    "facebook": "https://www.facebook.com/Pablo-G%C3%B3mez-Alcal%C3%A1-101322524657775",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Salto",
@@ -528,7 +596,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/araceli.orozcolopez.9"
+    "facebook": "https://www.facebook.com/araceli.orozcolopez.9",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Salto",
@@ -537,7 +606,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/judyrodriguezg"
+    "facebook": "https://www.facebook.com/judyrodriguezg",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Salto",
@@ -546,7 +616,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/JosePerezElSalto"
+    "facebook": "https://www.facebook.com/JosePerezElSalto",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Salto",
@@ -555,7 +626,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/RSantillanCts?s=20",
-    "facebook": "https://www.facebook.com/RSantillanC/"
+    "facebook": "https://www.facebook.com/RSantillanC/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Salto",
@@ -564,7 +636,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/mfariasvillafan"
+    "facebook": "https://www.facebook.com/mfariasvillafan",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Salto",
@@ -573,7 +646,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/adrianalejandro.floresvelez"
+    "facebook": "https://www.facebook.com/adrianalejandro.floresvelez",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Salto",
@@ -582,7 +656,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/profile.php?id=100012582040598"
+    "facebook": "https://www.facebook.com/profile.php?id=100012582040598",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Salto",
@@ -591,7 +666,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/DiegoHernandezSepulved"
+    "facebook": "https://www.facebook.com/DiegoHernandezSepulved",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Salto",
@@ -600,7 +676,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/joel_glezdiaz?s=20",
-    "facebook": "https://www.facebook.com/joel.gonzalezdiaz.35"
+    "facebook": "https://www.facebook.com/joel.gonzalezdiaz.35",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Salto",
@@ -609,7 +686,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/CarolRRamire"
+    "facebook": "https://www.facebook.com/CarolRRamire",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Salto",
@@ -618,7 +696,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "El Salto",
@@ -627,7 +706,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/christianferlop?s=20",
-    "facebook": "https://www.facebook.com/ChristianFernando.Oficial.page"
+    "facebook": "https://www.facebook.com/ChristianFernando.Oficial.page",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Guadalajara",
@@ -636,7 +716,8 @@
     "electo": "",
     "url": "http://www.gustavofloresdelgadillo.com/",
     "twitter": "https://twitter.com/gustavofloresd?s=20",
-    "facebook": "https://www.facebook.com/GustavoFloresDelgadillo/"
+    "facebook": "https://www.facebook.com/GustavoFloresDelgadillo/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Guadalajara",
@@ -645,7 +726,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/DoPerezLazcarro?s=20",
-    "facebook": "https://www.facebook.com/dolores.perezlazcarro"
+    "facebook": "https://www.facebook.com/dolores.perezlazcarro",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Guadalajara",
@@ -654,17 +736,18 @@
     "electo": "",
     "url": "http://tonatiuhguadalajara.mx/",
     "twitter": "https://twitter.com/tonatiuhbp?s=20",
-    "facebook": "https://www.facebook.com/tonatiuhbravop"
+    "facebook": "https://www.facebook.com/tonatiuhbravop",
+    "Antecedentes": ""
   },
   {
-    "Candidatura": "Gobernador",
+    "Candidatura": "Guadalajara",
     "Nombre": "Jesús Pablo Lemus Navarro",
     "Partido": "MC",
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/PabloLemusN?s=20",
     "facebook": "https://www.facebook.com/PabloLemusN",
-    "antecedentes": "XYZ"
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Guadalajara",
@@ -673,7 +756,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/DrCarlosLomeli?s=20",
-    "facebook": "https://www.facebook.com/DrCarlosLomeli/"
+    "facebook": "https://www.facebook.com/DrCarlosLomeli/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Guadalajara",
@@ -682,7 +766,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/FernandoGarzaM?s=20",
-    "facebook": "https://www.facebook.com/FernandoGarzaM/"
+    "facebook": "https://www.facebook.com/FernandoGarzaM/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Guadalajara",
@@ -691,7 +776,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/draxochitl.mariachi"
+    "facebook": "https://www.facebook.com/draxochitl.mariachi",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Guadalajara",
@@ -700,7 +786,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/jerrylecuz?s=20",
-    "facebook": "https://www.facebook.com/GerardoLecuz"
+    "facebook": "https://www.facebook.com/GerardoLecuz",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Guadalajara",
@@ -709,7 +796,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/SofiaGarciaGDL?s=20",
-    "facebook": "https://www.facebook.com/sofiagarciamos"
+    "facebook": "https://www.facebook.com/sofiagarciamos",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Guadalajara",
@@ -718,7 +806,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Guadalajara",
@@ -727,7 +816,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/profile.php?id=100002526154909"
+    "facebook": "https://www.facebook.com/profile.php?id=100002526154909",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Guadalajara",
@@ -736,7 +826,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/rivasviridiana"
+    "facebook": "https://www.facebook.com/rivasviridiana",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Guadalajara",
@@ -745,7 +836,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/dianapalaciosof?s=20",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Guadalajara",
@@ -754,7 +846,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/FranciscoCastilloGdl"
+    "facebook": "https://www.facebook.com/FranciscoCastilloGdl",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
@@ -763,7 +856,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Erick-Alberto-Duarte-Molina-103392661764611"
+    "facebook": "https://www.facebook.com/Erick-Alberto-Duarte-Molina-103392661764611",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
@@ -772,7 +866,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/JanetGra?s=20",
-    "facebook": "https://www.facebook.com/Maestra-Janet-101313668442542/"
+    "facebook": "https://www.facebook.com/Maestra-Janet-101313668442542/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
@@ -781,7 +876,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/BereFloresBarajas"
+    "facebook": "https://www.facebook.com/BereFloresBarajas",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
@@ -790,7 +886,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/OtiDiazIxt"
+    "facebook": "https://www.facebook.com/OtiDiazIxt",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
@@ -799,7 +896,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/reyroga21?s=20",
-    "facebook": "https://www.facebook.com/Reymundo-ROMO-101636748112748"
+    "facebook": "https://www.facebook.com/Reymundo-ROMO-101636748112748",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
@@ -808,7 +906,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/JoseRodrigoGarciaZaragoza"
+    "facebook": "https://www.facebook.com/JoseRodrigoGarciaZaragoza",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
@@ -817,7 +916,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
@@ -826,7 +926,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
@@ -835,7 +936,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Heri_Garcia_Ixt?s=20",
-    "facebook": "https://www.facebook.com/Heriberto-Garc%C3%ADa-106391421455568"
+    "facebook": "https://www.facebook.com/Heriberto-Garc%C3%ADa-106391421455568",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
@@ -844,7 +946,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/mara.martinezcontreras"
+    "facebook": "https://www.facebook.com/mara.martinezcontreras",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Ixtlahuacán de los Membrillos",
@@ -853,7 +956,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Juanacatlán",
@@ -862,7 +966,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Juanacatlán",
@@ -871,7 +976,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Adry-Cervantes-108326494684047/"
+    "facebook": "https://www.facebook.com/Adry-Cervantes-108326494684047/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Juanacatlán",
@@ -880,7 +986,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/anngelicabarba?s=20",
-    "facebook": "https://www.facebook.com/annybarbam"
+    "facebook": "https://www.facebook.com/annybarbam",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Juanacatlán",
@@ -889,7 +996,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/SusyMelendezV"
+    "facebook": "https://www.facebook.com/SusyMelendezV",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Juanacatlán",
@@ -898,7 +1006,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/GleidyMarquezM"
+    "facebook": "https://www.facebook.com/GleidyMarquezM",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Juanacatlán",
@@ -907,7 +1016,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/pacodelacerdas?s=20",
-    "facebook": "https://www.facebook.com/FranciscoDeLaCerdaPAN"
+    "facebook": "https://www.facebook.com/FranciscoDeLaCerdaPAN",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Juanacatlán",
@@ -916,7 +1026,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Juanacatlán",
@@ -925,7 +1036,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/BlancaNavarropri"
+    "facebook": "https://www.facebook.com/BlancaNavarropri",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Juanacatlán",
@@ -934,7 +1046,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/AnaVergaraJuanacatlan"
+    "facebook": "https://www.facebook.com/AnaVergaraJuanacatlan",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Juanacatlán",
@@ -943,7 +1056,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Belen-Estrada-Para-Presidente-110587024463944"
+    "facebook": "https://www.facebook.com/Belen-Estrada-Para-Presidente-110587024463944",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
@@ -952,7 +1066,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/profile.php?id=1321087141"
+    "facebook": "https://www.facebook.com/profile.php?id=1321087141",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
@@ -961,7 +1076,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/martha.alba.futuro"
+    "facebook": "https://www.facebook.com/martha.alba.futuro",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
@@ -970,7 +1086,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/MarcoGlezLagos"
+    "facebook": "https://www.facebook.com/MarcoGlezLagos",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
@@ -979,7 +1096,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/tecutligomezmc"
+    "facebook": "https://www.facebook.com/tecutligomezmc",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
@@ -988,7 +1106,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Nancy-Viridiana-Herrera-Hernandez-100617845462345"
+    "facebook": "https://www.facebook.com/Nancy-Viridiana-Herrera-Hernandez-100617845462345",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
@@ -997,7 +1116,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/ChuyHurtadoT"
+    "facebook": "https://www.facebook.com/ChuyHurtadoT",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
@@ -1006,7 +1126,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
@@ -1015,7 +1136,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/ClaritaMartinezOficial"
+    "facebook": "https://www.facebook.com/ClaritaMartinezOficial",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
@@ -1024,7 +1146,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
@@ -1033,7 +1156,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Lagos de Moreno",
@@ -1042,7 +1166,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/brenda.rodriguezescobedo.1"
+    "facebook": "https://www.facebook.com/brenda.rodriguezescobedo.1",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Mascota",
@@ -1051,7 +1176,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Mascota",
@@ -1060,7 +1186,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/carmenarredondohagamos"
+    "facebook": "https://www.facebook.com/carmenarredondohagamos",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Mascota",
@@ -1069,7 +1196,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/DraSaraMC"
+    "facebook": "https://www.facebook.com/DraSaraMC",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Mascota",
@@ -1078,7 +1206,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/trmascota"
+    "facebook": "https://www.facebook.com/trmascota",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Mascota",
@@ -1087,7 +1216,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/TerePulidoR"
+    "facebook": "https://www.facebook.com/TerePulidoR",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Mascota",
@@ -1096,7 +1226,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Mascota",
@@ -1105,7 +1236,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/RobertoQuintero2021"
+    "facebook": "https://www.facebook.com/RobertoQuintero2021",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Mascota",
@@ -1114,7 +1246,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Mtra-Dolores-Le%C3%B3n-110388531113908"
+    "facebook": "https://www.facebook.com/Mtra-Dolores-Le%C3%B3n-110388531113908",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
@@ -1123,7 +1256,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/andrea.pelayozepeda"
+    "facebook": "https://www.facebook.com/andrea.pelayozepeda",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
@@ -1132,7 +1266,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MiriamMiramon10?s=20",
-    "facebook": "https://www.facebook.com/miriammiramontes2"
+    "facebook": "https://www.facebook.com/miriammiramontes2",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
@@ -1141,7 +1276,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MARINADLSA?s=20",
-    "facebook": "https://www.facebook.com/marinadlsa"
+    "facebook": "https://www.facebook.com/marinadlsa",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
@@ -1150,7 +1286,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/LupitaGuerreroGC"
+    "facebook": "https://www.facebook.com/LupitaGuerreroGC",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
@@ -1159,7 +1296,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/SoyLuisMichel"
+    "facebook": "https://www.facebook.com/SoyLuisMichel",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
@@ -1168,7 +1306,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/idalia_gonzalez?s=20",
-    "facebook": "https://www.facebook.com/IdaliaGonzalezDeLeon"
+    "facebook": "https://www.facebook.com/IdaliaGonzalezDeLeon",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
@@ -1177,7 +1316,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/RockySantanaM?s=20",
-    "facebook": "https://www.facebook.com/RockySantanaM"
+    "facebook": "https://www.facebook.com/RockySantanaM",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
@@ -1186,7 +1326,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/otoniel.barragan.9"
+    "facebook": "https://www.facebook.com/otoniel.barragan.9",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
@@ -1195,7 +1336,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Paola-Topete-101867738682594"
+    "facebook": "https://www.facebook.com/Paola-Topete-101867738682594",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
@@ -1204,7 +1346,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/corina.naranjotrujillo"
+    "facebook": "https://www.facebook.com/corina.naranjotrujillo",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Puerto Vallarta",
@@ -1213,7 +1356,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/TitoYerenaRSP/"
+    "facebook": "https://www.facebook.com/TitoYerenaRSP/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tamazula de Gordiano",
@@ -1222,7 +1366,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/profile.php?id=100061314104404"
+    "facebook": "https://www.facebook.com/profile.php?id=100061314104404",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tamazula de Gordiano",
@@ -1231,7 +1376,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tamazula de Gordiano",
@@ -1240,7 +1386,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tamazula de Gordiano",
@@ -1249,7 +1396,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tamazula de Gordiano",
@@ -1258,7 +1406,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Lupita-Munguia-101510835388770"
+    "facebook": "https://www.facebook.com/Lupita-Munguia-101510835388770",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tamazula de Gordiano",
@@ -1267,7 +1416,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/modebetancourt1"
+    "facebook": "https://www.facebook.com/modebetancourt1",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tamazula de Gordiano",
@@ -1276,7 +1426,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/tamazulainformaprimx"
+    "facebook": "https://www.facebook.com/tamazulainformaprimx",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tamazula de Gordiano",
@@ -1285,7 +1436,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
@@ -1294,7 +1446,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Javier-PARRA-Marquez-103673868562047"
+    "facebook": "https://www.facebook.com/Javier-PARRA-Marquez-103673868562047",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
@@ -1303,7 +1456,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Aileen-Jaramillo-108706111310073"
+    "facebook": "https://www.facebook.com/Aileen-Jaramillo-108706111310073",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
@@ -1312,7 +1466,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/PanchoAcevesA?s=20",
-    "facebook": "https://www.facebook.com/PanchoAcevesA"
+    "facebook": "https://www.facebook.com/PanchoAcevesA",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
@@ -1321,7 +1476,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/RosaAdrianaPresidenta"
+    "facebook": "https://www.facebook.com/RosaAdrianaPresidenta",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
@@ -1330,7 +1486,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/SusanaJaimeMer1?s=20",
-    "facebook": "https://www.facebook.com/candidatasusanajaime"
+    "facebook": "https://www.facebook.com/candidatasusanajaime",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
@@ -1339,7 +1496,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MAngelEsquivias?s=20",
-    "facebook": "https://www.facebook.com/AngelEsquiviasOficial"
+    "facebook": "https://www.facebook.com/AngelEsquiviasOficial",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
@@ -1348,7 +1506,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
@@ -1357,7 +1516,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
@@ -1366,7 +1526,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/GerardoPerezTepa"
+    "facebook": "https://www.facebook.com/GerardoPerezTepa",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
@@ -1375,7 +1536,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/antoniobecerratepa"
+    "facebook": "https://www.facebook.com/antoniobecerratepa",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
@@ -1384,7 +1546,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/gabriela.jimenez.77128"
+    "facebook": "https://www.facebook.com/gabriela.jimenez.77128",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tepatitlán de Morelos",
@@ -1393,7 +1556,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/RamonGlez_Tepa?s=20",
-    "facebook": "https://www.facebook.com/ramon.gonzalezgonzalez.988"
+    "facebook": "https://www.facebook.com/ramon.gonzalezgonzalez.988",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
@@ -1402,7 +1566,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/joseeduardo.ayalafernandez.73"
+    "facebook": "https://www.facebook.com/joseeduardo.ayalafernandez.73",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
@@ -1411,7 +1576,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/TaniaRomeroL?s=20",
-    "facebook": "https://www.facebook.com/TaniaRomL"
+    "facebook": "https://www.facebook.com/TaniaRomL",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
@@ -1420,7 +1586,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
@@ -1429,7 +1596,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/SalvadorZamoraZ?s=20",
-    "facebook": "https://www.facebook.com/SalvadorZamoraZ"
+    "facebook": "https://www.facebook.com/SalvadorZamoraZ",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
@@ -1438,7 +1606,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
@@ -1447,7 +1616,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Misael.Mercadoo"
+    "facebook": "https://www.facebook.com/Misael.Mercadoo",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
@@ -1456,7 +1626,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
@@ -1465,7 +1636,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/sara.galan.585"
+    "facebook": "https://www.facebook.com/sara.galan.585",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
@@ -1474,7 +1646,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/JALISCOPT?s=20",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
@@ -1483,7 +1656,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlajomulco de Zúñiga",
@@ -1492,7 +1666,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/josereyes.ayalaestrada"
+    "facebook": "https://www.facebook.com/josereyes.ayalaestrada",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlaquepaque",
@@ -1501,7 +1676,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/JorgeMontoyaOr3?s=20",
-    "facebook": "https://www.facebook.com/jorgemontoyafuturo"
+    "facebook": "https://www.facebook.com/jorgemontoyafuturo",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlaquepaque",
@@ -1510,7 +1686,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/AnaTlaquepaque?s=20",
-    "facebook": "https://www.facebook.com/AnaSilviaTlaquepaque"
+    "facebook": "https://www.facebook.com/AnaSilviaTlaquepaque",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlaquepaque",
@@ -1519,7 +1696,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/CitlalliAmaya?s=20",
-    "facebook": "https://www.facebook.com/amayacitlalli"
+    "facebook": "https://www.facebook.com/amayacitlalli",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlaquepaque",
@@ -1528,7 +1706,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/BetoMaldonado_?s=20",
-    "facebook": "https://www.facebook.com/AlbertoMaldonadoTLA"
+    "facebook": "https://www.facebook.com/AlbertoMaldonadoTLA",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlaquepaque",
@@ -1537,7 +1716,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Chayito_MX?s=20",
-    "facebook": "https://www.facebook.com/Chayito.MX"
+    "facebook": "https://www.facebook.com/Chayito.MX",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlaquepaque",
@@ -1546,7 +1726,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/josealberto.casasreynoso"
+    "facebook": "https://www.facebook.com/josealberto.casasreynoso",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlaquepaque",
@@ -1555,7 +1736,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MiriamWiedfeldt?s=20",
-    "facebook": "https://m.facebook.com/miriam.wiedfeldt"
+    "facebook": "https://m.facebook.com/miriam.wiedfeldt",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlaquepaque",
@@ -1564,7 +1746,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/doctorralbarran?s=20",
-    "facebook": "https://www.facebook.com/roberto.albarranmagana"
+    "facebook": "https://www.facebook.com/roberto.albarranmagana",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlaquepaque",
@@ -1573,7 +1756,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/profile.php?id=100009477547737"
+    "facebook": "https://www.facebook.com/profile.php?id=100009477547737",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlaquepaque",
@@ -1582,7 +1766,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tlaquepaque",
@@ -1591,7 +1776,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tonalá",
@@ -1600,7 +1786,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tonalá",
@@ -1609,7 +1796,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/kikediaztonala?s=20",
-    "facebook": "https://www.facebook.com/kikediazcorazontonalteca"
+    "facebook": "https://www.facebook.com/kikediazcorazontonalteca",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tonalá",
@@ -1618,7 +1806,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/SoyJCVillarreal?s=20",
-    "facebook": "https://www.facebook.com/SoyJCVillarreal"
+    "facebook": "https://www.facebook.com/SoyJCVillarreal",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tonalá",
@@ -1627,7 +1816,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/PriscilaGlezMC?s=20",
-    "facebook": "https://www.facebook.com/PriscilaGlezMC"
+    "facebook": "https://www.facebook.com/PriscilaGlezMC",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tonalá",
@@ -1636,7 +1826,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/SergioChavez_D?s=20",
-    "facebook": "https://www.facebook.com/SergioChavezD"
+    "facebook": "https://www.facebook.com/SergioChavezD",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tonalá",
@@ -1645,7 +1836,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Rocio.cervantes.t"
+    "facebook": "https://www.facebook.com/Rocio.cervantes.t",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tonalá",
@@ -1654,7 +1846,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tonalá",
@@ -1663,7 +1856,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tonalá",
@@ -1672,7 +1866,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/OswaldoBanales?s=20",
-    "facebook": "https://t.co/a3Da98dMpK?amp=1"
+    "facebook": "https://t.co/a3Da98dMpK?amp=1",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tonalá",
@@ -1681,7 +1876,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/JALISCOPT?s=20",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tonalá",
@@ -1690,7 +1886,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/manuel.deluna.1023"
+    "facebook": "https://www.facebook.com/manuel.deluna.1023",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tonalá",
@@ -1699,7 +1896,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/juanesteban.rodriguez.98284566"
+    "facebook": "https://www.facebook.com/juanesteban.rodriguez.98284566",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tonalá",
@@ -1708,7 +1906,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Tonalá",
@@ -1717,7 +1916,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/LuisAngelTonala?s=20",
-    "facebook": "https://www.facebook.com/LuisAngelTonala"
+    "facebook": "https://www.facebook.com/LuisAngelTonala",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapopan",
@@ -1726,7 +1926,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/betty.gomez.3382"
+    "facebook": "https://www.facebook.com/betty.gomez.3382",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapopan",
@@ -1735,7 +1936,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/pkumamoto?s=20",
-    "facebook": "https://www.facebook.com/PedroKumamoto"
+    "facebook": "https://www.facebook.com/PedroKumamoto",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapopan",
@@ -1744,7 +1946,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MariaGomezRue?s=20",
-    "facebook": "https://www.facebook.com/MariaGomezRue"
+    "facebook": "https://www.facebook.com/MariaGomezRue",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapopan",
@@ -1753,7 +1956,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/juanjosefrangie?s=20",
-    "facebook": "https://www.facebook.com/juanjosefrangie"
+    "facebook": "https://www.facebook.com/juanjosefrangie",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapopan",
@@ -1762,7 +1966,8 @@
     "electo": "",
     "url": "http://albertouribe.mx/",
     "twitter": "https://twitter.com/AlbertoUribeC?s=20",
-    "facebook": "https://www.facebook.com/AlbertoUribeCamacho"
+    "facebook": "https://www.facebook.com/AlbertoUribeCamacho",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapopan",
@@ -1771,7 +1976,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/omarborboab?s=20",
-    "facebook": "https://www.facebook.com/omarborboaoficial"
+    "facebook": "https://www.facebook.com/omarborboaoficial",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapopan",
@@ -1780,7 +1986,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/RamonReyesG"
+    "facebook": "https://www.facebook.com/RamonReyesG",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapopan",
@@ -1789,7 +1996,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapopan",
@@ -1798,7 +2006,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/sarahi_vite?s=20",
-    "facebook": "https://www.facebook.com/sarahi.cortesvite.9"
+    "facebook": "https://www.facebook.com/sarahi.cortesvite.9",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapopan",
@@ -1807,7 +2016,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapopan",
@@ -1816,7 +2026,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/salvadorcosio1?s=20",
-    "facebook": "https://www.facebook.com/SalvadorCosioGaona"
+    "facebook": "https://www.facebook.com/SalvadorCosioGaona",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapopan",
@@ -1825,7 +2036,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapopan",
@@ -1834,7 +2046,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
@@ -1843,7 +2056,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/NelidaTorresFuerzaMexico"
+    "facebook": "https://www.facebook.com/NelidaTorresFuerzaMexico",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
@@ -1852,7 +2066,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/robertochavezdt?s=20",
-    "facebook": "https://www.facebook.com/RobertoChavezdt"
+    "facebook": "https://www.facebook.com/RobertoChavezdt",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
@@ -1861,7 +2076,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/M%C3%B3nica-Reynoso-108787341303492"
+    "facebook": "https://www.facebook.com/M%C3%B3nica-Reynoso-108787341303492",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
@@ -1870,7 +2086,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/lauraelenamartinezr"
+    "facebook": "https://www.facebook.com/lauraelenamartinezr",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
@@ -1879,7 +2096,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/saramorenoram"
+    "facebook": "https://www.facebook.com/saramorenoram",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
@@ -1888,7 +2106,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
@@ -1897,7 +2116,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/joelsalvador_?s=20",
-    "facebook": "https://www.facebook.com/JoelSalvadorB"
+    "facebook": "https://www.facebook.com/JoelSalvadorB",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
@@ -1906,7 +2126,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/alexbarragan76?s=20",
-    "facebook": "https://www.facebook.com/alejandroZapotlan"
+    "facebook": "https://www.facebook.com/alejandroZapotlan",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
@@ -1915,7 +2136,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/EvaZepedapartidoVerde"
+    "facebook": "https://www.facebook.com/EvaZepedapartidoVerde",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
@@ -1924,7 +2146,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
@@ -1933,7 +2156,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Alvago.unidos.por.zapotlan"
+    "facebook": "https://www.facebook.com/Alvago.unidos.por.zapotlan",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlán el Grande",
@@ -1942,7 +2166,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/LicPrimitivoPimentelReyes"
+    "facebook": "https://www.facebook.com/LicPrimitivoPimentelReyes",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlanejo",
@@ -1951,7 +2176,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/mayoral2021"
+    "facebook": "https://www.facebook.com/mayoral2021",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlanejo",
@@ -1960,7 +2186,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/profesorcarloscervantes"
+    "facebook": "https://www.facebook.com/profesorcarloscervantes",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlanejo",
@@ -1969,7 +2196,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/RicardoMoralesZapotlanejo"
+    "facebook": "https://www.facebook.com/RicardoMoralesZapotlanejo",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlanejo",
@@ -1978,7 +2206,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/GonzaloAB_Mx?s=20",
-    "facebook": "https://www.facebook.com/GonzaloAlvarezMX"
+    "facebook": "https://www.facebook.com/GonzaloAlvarezMX",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlanejo",
@@ -1987,7 +2216,8 @@
     "electo": "",
     "url": "joseluismunguiatv.com",
     "twitter": "https://twitter.com/JoseLuisMunguia?s=20",
-    "facebook": "https://www.facebook.com/joseluis.munguiacardona"
+    "facebook": "https://www.facebook.com/joseluis.munguiacardona",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlanejo",
@@ -1996,7 +2226,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://www.facebook.com/Alberto-Palomera-101626782037250",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlanejo",
@@ -2005,7 +2236,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlanejo",
@@ -2014,7 +2246,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://www.facebook.com/AlexOrozcoHernandez",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Zapotlanejo",
@@ -2023,7 +2256,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://www.facebook.com/mariadolores.torresperez.90",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
@@ -2032,7 +2266,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
@@ -2041,7 +2276,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
@@ -2050,7 +2286,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/VicVallarta"
+    "facebook": "https://www.facebook.com/VicVallarta",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
@@ -2059,7 +2296,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/LaloRonR?s=20",
-    "facebook": "https://www.facebook.com/LaloRonR"
+    "facebook": "https://www.facebook.com/LaloRonR",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
@@ -2068,7 +2306,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Mtra.PatyContreras"
+    "facebook": "https://www.facebook.com/Mtra.PatyContreras",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
@@ -2077,7 +2316,8 @@
     "electo": "",
     "url": "https://aldogamboa.com.mx/",
     "twitter": "",
-    "facebook": "https://www.facebook.com/aldogamboag"
+    "facebook": "https://www.facebook.com/aldogamboag",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
@@ -2086,7 +2326,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Alberto-Aguirre-Alvarez-103675538507778"
+    "facebook": "https://www.facebook.com/Alberto-Aguirre-Alvarez-103675538507778",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
@@ -2095,7 +2336,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Tonatiuh-Ledezma-Caldera-109024861291834"
+    "facebook": "https://www.facebook.com/Tonatiuh-Ledezma-Caldera-109024861291834",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
@@ -2104,7 +2346,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/FabyPulido_?s=20",
-    "facebook": "https://www.facebook.com/FPulidoFranco"
+    "facebook": "https://www.facebook.com/FPulidoFranco",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
@@ -2113,7 +2356,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/armandoperez.74"
+    "facebook": "https://www.facebook.com/armandoperez.74",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
@@ -2122,7 +2366,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
@@ -2131,7 +2376,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Sergio-Pacheco-Zepeda-104526188376204"
+    "facebook": "https://www.facebook.com/Sergio-Pacheco-Zepeda-104526188376204",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 1",
@@ -2140,7 +2386,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
@@ -2149,7 +2396,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Kary-Gallardo-104561488318743"
+    "facebook": "https://www.facebook.com/Kary-Gallardo-104561488318743",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
@@ -2158,7 +2406,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/RosarioMoraOficial"
+    "facebook": "https://www.facebook.com/RosarioMoraOficial",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
@@ -2167,7 +2416,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Yanuaria.deAlba02"
+    "facebook": "https://www.facebook.com/Yanuaria.deAlba02",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
@@ -2176,7 +2426,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/MarcelaPadillaDeAnda"
+    "facebook": "https://www.facebook.com/MarcelaPadillaDeAnda",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
@@ -2185,7 +2436,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
@@ -2194,7 +2446,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/JulioHurtadoLuna"
+    "facebook": "https://www.facebook.com/JulioHurtadoLuna",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
@@ -2203,7 +2456,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/juliaerendida.romopadilla"
+    "facebook": "https://www.facebook.com/juliaerendida.romopadilla",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
@@ -2212,7 +2466,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
@@ -2221,7 +2476,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/OswaldoG.Alonzo"
+    "facebook": "https://www.facebook.com/OswaldoG.Alonzo",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
@@ -2230,7 +2486,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/RocioLopezAlba.Politica"
+    "facebook": "https://www.facebook.com/RocioLopezAlba.Politica",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
@@ -2239,7 +2496,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/aliciaguzmanco"
+    "facebook": "https://www.facebook.com/aliciaguzmanco",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 2",
@@ -2248,7 +2506,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/deisy.trancosoperez"
+    "facebook": "https://www.facebook.com/deisy.trancosoperez",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
@@ -2257,7 +2516,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
@@ -2266,7 +2526,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/juandedios.ruvalcaba"
+    "facebook": "https://www.facebook.com/juandedios.ruvalcaba",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
@@ -2275,7 +2536,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/francisco.romeromena"
+    "facebook": "https://www.facebook.com/francisco.romeromena",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
@@ -2284,7 +2546,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Alfredo-Padilla-Guti%C3%A9rrez-363547117792970"
+    "facebook": "https://www.facebook.com/Alfredo-Padilla-Guti%C3%A9rrez-363547117792970",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
@@ -2293,7 +2556,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/MariaPadillaRom"
+    "facebook": "https://www.facebook.com/MariaPadillaRom",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
@@ -2302,7 +2566,8 @@
     "electo": "",
     "url": "https://www.abelhdez.com/",
     "twitter": "",
-    "facebook": "https://www.facebook.com/abelhdezm"
+    "facebook": "https://www.facebook.com/abelhdezm",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
@@ -2311,7 +2576,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
@@ -2320,7 +2586,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/davidgonzalezporel3"
+    "facebook": "https://www.facebook.com/davidgonzalezporel3",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
@@ -2329,7 +2596,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
@@ -2338,7 +2606,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/jovitalozanoguerra"
+    "facebook": "https://www.facebook.com/jovitalozanoguerra",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
@@ -2347,7 +2616,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
@@ -2356,7 +2626,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 3 (Tepatitlán)",
@@ -2365,7 +2636,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
@@ -2374,7 +2646,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/ClaudiaGallardoOficial"
+    "facebook": "https://www.facebook.com/ClaudiaGallardoOficial",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
@@ -2383,7 +2656,8 @@
     "electo": "",
     "url": "https://linktr.ee/ErickOchoaL",
     "twitter": "https://twitter.com/ErickOchoaL?s=20",
-    "facebook": "https://www.facebook.com/ErickOchoaL"
+    "facebook": "https://www.facebook.com/ErickOchoaL",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
@@ -2392,16 +2666,18 @@
     "electo": "",
     "url": "enriquevelazquez.mx",
     "twitter": "https://twitter.com/EnriqueV01?s=20",
-    "facebook": "https://www.facebook.com/EVelazquez01"
+    "facebook": "https://www.facebook.com/EVelazquez01",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
-    "Nombre": "Alejandra Giadans Valenzuela",
+    "Nombre": "Alajandra Giadans Valenzuela",
     "Partido": "MC",
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/AleGiadans?s=20",
-    "facebook": "https://www.facebook.com/AlejandraGiadansV"
+    "facebook": "https://www.facebook.com/AlejandraGiadansV",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
@@ -2410,7 +2686,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/BlancaVargasM_?s=20",
-    "facebook": "https://www.facebook.com/BlancaOliviaVargasMendoza"
+    "facebook": "https://www.facebook.com/BlancaOliviaVargasMendoza",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
@@ -2419,7 +2696,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/KarinaAnayaD4"
+    "facebook": "https://www.facebook.com/KarinaAnayaD4",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
@@ -2428,7 +2706,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
@@ -2437,7 +2716,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Gilberto-Sandoval-Villagrana-106335448218855"
+    "facebook": "https://www.facebook.com/Gilberto-Sandoval-Villagrana-106335448218855",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
@@ -2446,7 +2726,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/juridico.sevilla"
+    "facebook": "https://www.facebook.com/juridico.sevilla",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
@@ -2455,7 +2736,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Rafa.GarciaAg"
+    "facebook": "https://www.facebook.com/Rafa.GarciaAg",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
@@ -2464,7 +2746,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/sandra.aguirremombela.7"
+    "facebook": "https://www.facebook.com/sandra.aguirremombela.7",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
@@ -2473,7 +2756,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Mili.Franco.Zapopan"
+    "facebook": "https://www.facebook.com/Mili.Franco.Zapopan",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 4 (Zapopan)",
@@ -2482,7 +2766,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/To%C3%B1o-Ruelas-108426974664348"
+    "facebook": "https://www.facebook.com/To%C3%B1o-Ruelas-108426974664348",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
@@ -2491,7 +2776,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
@@ -2500,7 +2786,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/HayFuturoconNoraDuenas"
+    "facebook": "https://www.facebook.com/HayFuturoconNoraDuenas",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
@@ -2509,7 +2796,8 @@
     "electo": "",
     "url": "http://hagamosconmacedonioleon.info/",
     "twitter": "",
-    "facebook": "https://www.facebook.com/dr.macedonioleon"
+    "facebook": "https://www.facebook.com/dr.macedonioleon",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
@@ -2518,7 +2806,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/ArturoDavalos?s=20",
-    "facebook": "https://www.facebook.com/IngDavalos"
+    "facebook": "https://www.facebook.com/IngDavalos",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
@@ -2527,7 +2816,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/YussaraCanalesG"
+    "facebook": "https://www.facebook.com/YussaraCanalesG",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
@@ -2536,7 +2826,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/MarcelaNavarretePAN"
+    "facebook": "https://www.facebook.com/MarcelaNavarretePAN",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
@@ -2545,7 +2836,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/AndreaMoralesPES"
+    "facebook": "https://www.facebook.com/AndreaMoralesPES",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
@@ -2554,7 +2846,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
@@ -2563,7 +2856,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/UlisesSanchezD5?s=20",
-    "facebook": "https://www.facebook.com/UlisesSanchezD5"
+    "facebook": "https://www.facebook.com/UlisesSanchezD5",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
@@ -2572,7 +2866,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/RegidoraCarmina"
+    "facebook": "https://www.facebook.com/RegidoraCarmina",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
@@ -2581,7 +2876,8 @@
     "electo": "",
     "url": "https://www.doctorpacosanchez.com/",
     "twitter": "",
-    "facebook": "https://www.facebook.com/doctorpacosanchez"
+    "facebook": "https://www.facebook.com/doctorpacosanchez",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
@@ -2590,7 +2886,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 5 (Puerto Vallarta)",
@@ -2599,7 +2896,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Mauricio-Recamier-100763425459163"
+    "facebook": "https://www.facebook.com/Mauricio-Recamier-100763425459163",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
@@ -2608,7 +2906,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
@@ -2617,7 +2916,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/DraLuciaAlmaraz?s=20",
-    "facebook": "https://www.facebook.com/DraLuciaAlmaraz"
+    "facebook": "https://www.facebook.com/DraLuciaAlmaraz",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
@@ -2626,7 +2926,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/NalleRoblesOrtiz"
+    "facebook": "https://www.facebook.com/NalleRoblesOrtiz",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
@@ -2635,7 +2936,8 @@
     "electo": "",
     "url": "https://gabrielacardenas.mx/",
     "twitter": "https://twitter.com/GabyCardenas?s=20",
-    "facebook": "https://www.facebook.com/GabyCardenas.Zap"
+    "facebook": "https://www.facebook.com/GabyCardenas.Zap",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
@@ -2644,7 +2946,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/juncalssolano?s=20",
-    "facebook": "https://www.facebook.com/JuncalSSolano"
+    "facebook": "https://www.facebook.com/JuncalSSolano",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
@@ -2653,7 +2956,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Jes%C3%BAs-Arambul-1732436720366485"
+    "facebook": "https://www.facebook.com/Jes%C3%BAs-Arambul-1732436720366485",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
@@ -2662,7 +2966,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Sergio-Oswaldo-D%C3%ADaz-S%C3%A1nchez-103178138558243"
+    "facebook": "https://www.facebook.com/Sergio-Oswaldo-D%C3%ADaz-S%C3%A1nchez-103178138558243",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
@@ -2671,7 +2976,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
@@ -2680,7 +2986,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/itzilozano?s=20",
-    "facebook": "https://www.facebook.com/ItziLozanoV"
+    "facebook": "https://www.facebook.com/ItziLozanoV",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
@@ -2689,7 +2996,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
@@ -2698,7 +3006,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
@@ -2707,7 +3016,8 @@
     "electo": "",
     "url": "https://felipegonzalez.org.mx/",
     "twitter": "",
-    "facebook": "https://www.facebook.com/dartodopormexico"
+    "facebook": "https://www.facebook.com/dartodopormexico",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 6 (Zapopan)",
@@ -2716,7 +3026,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
@@ -2725,7 +3036,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Fuerza-X%C3%B3chitl-Mendoza-107619331435005"
+    "facebook": "https://www.facebook.com/Fuerza-X%C3%B3chitl-Mendoza-107619331435005",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
@@ -2734,7 +3046,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/jazmedranno"
+    "facebook": "https://www.facebook.com/jazmedranno",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
@@ -2743,7 +3056,8 @@
     "electo": "",
     "url": "https://samirdelatorre.com/",
     "twitter": "",
-    "facebook": "https://www.facebook.com/DeLaTorreSamir"
+    "facebook": "https://www.facebook.com/DeLaTorreSamir",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
@@ -2752,7 +3066,8 @@
     "electo": "",
     "url": "https://magalyfigueroa.com/",
     "twitter": "https://twitter.com/MagalyFiguer0a?s=20",
-    "facebook": "https://www.facebook.com/MagalyFiguer"
+    "facebook": "https://www.facebook.com/MagalyFiguer",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
@@ -2761,7 +3076,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/ClauGarcia_Hdez?s=20",
-    "facebook": "https://www.facebook.com/ClaudiaGarciaTonala"
+    "facebook": "https://www.facebook.com/ClaudiaGarciaTonala",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
@@ -2770,16 +3086,18 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/MarthaBernalDelgado"
+    "facebook": "https://www.facebook.com/MarthaBernalDelgado",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
-    "Nombre": "Arturo Ponce Quintero",
+    "Nombre": "Juan Manuel Ávia Castro",
     "Partido": "PES",
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/groups/680491615391384/user/100002860591351"
+    "facebook": "https://www.facebook.com/groups/680491615391384/user/100002860591351",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
@@ -2788,7 +3106,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/ErikaAguilarOficialTonala"
+    "facebook": "https://www.facebook.com/ErikaAguilarOficialTonala",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
@@ -2797,7 +3116,8 @@
     "electo": "",
     "url": "http://www.marcosarana.com/",
     "twitter": "https://twitter.com/aranamarcos?s=20",
-    "facebook": "https://www.facebook.com/marcosaranabarba"
+    "facebook": "https://www.facebook.com/marcosaranabarba",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
@@ -2806,7 +3126,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/marioalberto.reynabustos"
+    "facebook": "https://www.facebook.com/marioalberto.reynabustos",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
@@ -2815,7 +3136,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/LupitaPorElVerde"
+    "facebook": "https://www.facebook.com/LupitaPorElVerde",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
@@ -2824,7 +3146,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Karen-Lim%C3%B3n-102295401877584"
+    "facebook": "https://www.facebook.com/Karen-Lim%C3%B3n-102295401877584",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 7 (Tonalá y El Salto)",
@@ -2833,7 +3156,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/isamel.mirandaornelas"
+    "facebook": "https://www.facebook.com/isamel.mirandaornelas",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
@@ -2842,7 +3166,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/HFabianHD?s=20",
-    "facebook": "https://www.facebook.com/HFabianHD"
+    "facebook": "https://www.facebook.com/HFabianHD",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
@@ -2851,7 +3176,8 @@
     "electo": "",
     "url": "https://linktr.ee/Lulatoussaint",
     "twitter": "https://twitter.com/lulatoussaint?s=20",
-    "facebook": "https://www.facebook.com/lulatoussaint8"
+    "facebook": "https://www.facebook.com/lulatoussaint8",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
@@ -2860,7 +3186,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Abril_AlcalaP?s=20",
-    "facebook": "https://www.facebook.com/AbrilAlcala"
+    "facebook": "https://www.facebook.com/AbrilAlcala",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
@@ -2869,7 +3196,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/ClaudiaSalasGDL?s=20",
-    "facebook": "https://www.facebook.com/ClaudiaSalasGDL"
+    "facebook": "https://www.facebook.com/ClaudiaSalasGDL",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
@@ -2878,7 +3206,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/LuisGalvanMX"
+    "facebook": "https://www.facebook.com/LuisGalvanMX",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
@@ -2887,7 +3216,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Annia_Garcia?s=20",
-    "facebook": "https://www.facebook.com/AnniaGarciaG"
+    "facebook": "https://www.facebook.com/AnniaGarciaG",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
@@ -2896,7 +3226,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
@@ -2905,7 +3236,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
@@ -2914,7 +3246,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
@@ -2923,7 +3256,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/errzd8?s=20",
-    "facebook": "https://www.facebook.com/errzd8"
+    "facebook": "https://www.facebook.com/errzd8",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
@@ -2932,7 +3266,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
@@ -2941,7 +3276,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
@@ -2950,7 +3286,8 @@
     "electo": "",
     "url": "https://www.alejandroestevez.com/",
     "twitter": "https://twitter.com/AlejandroEstv16?s=20",
-    "facebook": "https://www.facebook.com/8estevez"
+    "facebook": "https://www.facebook.com/8estevez",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 8 (Guadalajara)",
@@ -2959,7 +3296,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/SoyMaxRamos?s=20",
-    "facebook": "https://www.facebook.com/soyMaxRamos"
+    "facebook": "https://www.facebook.com/soyMaxRamos",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
@@ -2968,7 +3306,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
@@ -2977,7 +3316,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/torreselanie?s=20",
-    "facebook": "https://www.facebook.com/elaniie"
+    "facebook": "https://www.facebook.com/elaniie",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
@@ -2986,7 +3326,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MaraRoblesV?s=20",
-    "facebook": "https://www.facebook.com/MaraRoblesV"
+    "facebook": "https://www.facebook.com/MaraRoblesV",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
@@ -2995,7 +3336,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/FabiolaCuan?s=20",
-    "facebook": "https://www.facebook.com/fabiolacuan"
+    "facebook": "https://www.facebook.com/fabiolacuan",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
@@ -3004,7 +3346,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/AngelaGomezD9"
+    "facebook": "https://www.facebook.com/AngelaGomezD9",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
@@ -3013,7 +3356,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MaFernanda_GE?s=20",
-    "facebook": "https://www.facebook.com/FernadaGuzmanDtto9"
+    "facebook": "https://www.facebook.com/FernadaGuzmanDtto9",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
@@ -3022,7 +3366,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Elizabeth-Mart%C3%ADnez-Enr%C3%ADquez-104403565010992"
+    "facebook": "https://www.facebook.com/Elizabeth-Mart%C3%ADnez-Enr%C3%ADquez-104403565010992",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
@@ -3031,7 +3376,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/BelindaValle27"
+    "facebook": "https://www.facebook.com/BelindaValle27",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
@@ -3040,7 +3386,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
@@ -3049,7 +3396,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/profdanielesparzadtto9/"
+    "facebook": "https://www.facebook.com/profdanielesparzadtto9/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
@@ -3058,7 +3406,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
@@ -3067,7 +3416,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/OscarArturoHE?s=20",
-    "facebook": "https://www.facebook.com/OscarArturoHerreraEs"
+    "facebook": "https://www.facebook.com/OscarArturoHerreraEs",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
@@ -3076,7 +3426,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 9 (Guadalajara)",
@@ -3085,7 +3436,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
@@ -3094,7 +3446,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/julio.escalonarodriguez"
+    "facebook": "https://www.facebook.com/julio.escalonarodriguez",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
@@ -3103,7 +3456,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Susanaochoach?s=20",
-    "facebook": "https://www.facebook.com/Susanaochoach"
+    "facebook": "https://www.facebook.com/Susanaochoach",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
@@ -3112,7 +3466,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/yovoycondenix?s=20",
-    "facebook": "https://www.facebook.com/yovoycondenix"
+    "facebook": "https://www.facebook.com/yovoycondenix",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
@@ -3121,7 +3476,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MonicaMgn?s=20",
-    "facebook": "https://www.facebook.com/MonicaMaganaM"
+    "facebook": "https://www.facebook.com/MonicaMaganaM",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
@@ -3130,7 +3486,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MemoVillarreal?s=20",
-    "facebook": "https://www.facebook.com/gmovillarreal"
+    "facebook": "https://www.facebook.com/gmovillarreal",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
@@ -3139,7 +3496,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/icelapan?s=20",
-    "facebook": "https://www.facebook.com/RosaIcelaDiazG"
+    "facebook": "https://www.facebook.com/RosaIcelaDiazG",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
@@ -3148,7 +3506,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/JMR0098?s=20",
-    "facebook": "https://www.facebook.com/joshuamichael.richardson.9"
+    "facebook": "https://www.facebook.com/joshuamichael.richardson.9",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
@@ -3157,7 +3516,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/emm.mejia29"
+    "facebook": "https://www.facebook.com/emm.mejia29",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
@@ -3166,7 +3526,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/alondra_fausto?s=20",
-    "facebook": "https://www.facebook.com/Alondra-Fausto-114400357410789"
+    "facebook": "https://www.facebook.com/Alondra-Fausto-114400357410789",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
@@ -3175,7 +3536,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/margarita.martinezD10"
+    "facebook": "https://www.facebook.com/margarita.martinezD10",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
@@ -3184,7 +3546,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
@@ -3193,7 +3556,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Consthantino?s=20",
-    "facebook": "https://www.facebook.com/profile.php?id=100044172052524"
+    "facebook": "https://www.facebook.com/profile.php?id=100044172052524",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 10 (Zapopan)",
@@ -3202,7 +3566,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Alan-Orozco-112297867620790"
+    "facebook": "https://www.facebook.com/Alan-Orozco-112297867620790",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
@@ -3211,7 +3576,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/martin.cejazepeda"
+    "facebook": "https://www.facebook.com/martin.cejazepeda",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
@@ -3220,7 +3586,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/JavierGalloVzq?s=20",
-    "facebook": "https://www.facebook.com/JavierGalloVzq"
+    "facebook": "https://www.facebook.com/JavierGalloVzq",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
@@ -3229,7 +3596,8 @@
     "electo": "",
     "url": "",
     "twitter": "http://www.twitter.com/juliocfeu",
-    "facebook": "https://www.facebook.com/JulioHernandezPere"
+    "facebook": "https://www.facebook.com/JulioHernandezPere",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
@@ -3238,7 +3606,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/RocioAguilarTe1?s=20",
-    "facebook": "https://www.facebook.com/RocioAguilarTejada"
+    "facebook": "https://www.facebook.com/RocioAguilarTejada",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
@@ -3247,7 +3616,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/mizraima?s=20",
-    "facebook": "https://www.facebook.com/MizraimAlonso"
+    "facebook": "https://www.facebook.com/MizraimAlonso",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
@@ -3256,7 +3626,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/jaimecedillo?s=20",
-    "facebook": "https://www.facebook.com/JaimeCedilloB"
+    "facebook": "https://www.facebook.com/JaimeCedilloB",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
@@ -3265,7 +3636,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/chalio.chavez"
+    "facebook": "https://www.facebook.com/chalio.chavez",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
@@ -3274,7 +3646,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
@@ -3283,7 +3656,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/coordinaciondevinculacion.dejefasdefamilia"
+    "facebook": "https://www.facebook.com/coordinaciondevinculacion.dejefasdefamilia",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
@@ -3292,7 +3666,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
@@ -3301,7 +3676,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
@@ -3310,7 +3686,8 @@
     "electo": "",
     "url": "https://martindist11.com.mx/",
     "twitter": "https://twitter.com/martinlopc?s=20",
-    "facebook": "https://www.facebook.com/martinlopc"
+    "facebook": "https://www.facebook.com/martinlopc",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 11 (Guadalajara)",
@@ -3319,7 +3696,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
@@ -3328,7 +3706,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/GAPORTELAM?s=20",
-    "facebook": "https://www.facebook.com/GAPORTELAM"
+    "facebook": "https://www.facebook.com/GAPORTELAM",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
@@ -3337,7 +3716,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/ManuArriero?s=20",
-    "facebook": "https://www.facebook.com/ManuTlajomulco"
+    "facebook": "https://www.facebook.com/ManuTlajomulco",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
@@ -3346,7 +3726,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/samuelcastanedahagamos"
+    "facebook": "https://www.facebook.com/samuelcastanedahagamos",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
@@ -3355,7 +3736,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/GerardoQuirinoV?s=20",
-    "facebook": "https://www.facebook.com/GerardoQuirino.V"
+    "facebook": "https://www.facebook.com/GerardoQuirino.V",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
@@ -3364,7 +3746,8 @@
     "electo": "",
     "url": "https://ricardobarbosa.com.mx/",
     "twitter": "",
-    "facebook": "https://www.facebook.com/BarbosaTlajo"
+    "facebook": "https://www.facebook.com/BarbosaTlajo",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
@@ -3373,7 +3756,8 @@
     "electo": "",
     "url": "http://www.CelinaLopez.com/",
     "twitter": "",
-    "facebook": "https://www.facebook.com/celinalopezr"
+    "facebook": "https://www.facebook.com/celinalopezr",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
@@ -3382,7 +3766,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
@@ -3391,7 +3776,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
@@ -3400,7 +3786,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Guillermo-Lara-102492835188099"
+    "facebook": "https://www.facebook.com/Guillermo-Lara-102492835188099",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
@@ -3409,7 +3796,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
@@ -3418,7 +3806,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/ConapeJalisco2"
+    "facebook": "https://www.facebook.com/ConapeJalisco2",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
@@ -3427,7 +3816,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 12 (Tlajomulco)",
@@ -3436,7 +3826,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
@@ -3445,7 +3836,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Karina-Cos%C3%ADo-104986831688714"
+    "facebook": "https://www.facebook.com/Karina-Cos%C3%ADo-104986831688714",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
@@ -3454,7 +3846,8 @@
     "electo": "",
     "url": "https://linktr.ee/mackozazueta",
     "twitter": "https://twitter.com/mackozazueta?s=20",
-    "facebook": "https://www.facebook.com/zazuetamacko"
+    "facebook": "https://www.facebook.com/zazuetamacko",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
@@ -3463,7 +3856,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/alerinfante?s=20",
-    "facebook": "https://www.facebook.com/alerinfante"
+    "facebook": "https://www.facebook.com/alerinfante",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
@@ -3472,7 +3866,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/ContrerasCelenia"
+    "facebook": "https://www.facebook.com/ContrerasCelenia",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
@@ -3481,7 +3876,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Hiramtorres?s=20",
-    "facebook": "https://www.facebook.com/HiramTorresS"
+    "facebook": "https://www.facebook.com/HiramTorresS",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
@@ -3490,7 +3886,8 @@
     "electo": "",
     "url": "http://everdelgado.com/",
     "twitter": "",
-    "facebook": "https://www.facebook.com/EverDelgadoS"
+    "facebook": "https://www.facebook.com/EverDelgadoS",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
@@ -3499,7 +3896,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
@@ -3508,7 +3906,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
@@ -3517,7 +3916,8 @@
     "electo": "",
     "url": "http://angelicatorres.com.mx/",
     "twitter": "",
-    "facebook": "https://www.facebook.com/AT13Tlaquepaque"
+    "facebook": "https://www.facebook.com/AT13Tlaquepaque",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
@@ -3526,7 +3926,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
@@ -3535,7 +3936,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
@@ -3544,7 +3946,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 13 (GDL, Tlaquepaque)",
@@ -3553,7 +3956,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
@@ -3562,7 +3966,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Marisol-L%C3%B3pez-100651038809402"
+    "facebook": "https://www.facebook.com/Marisol-L%C3%B3pez-100651038809402",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
@@ -3571,7 +3976,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MarianaCasGe?s=20",
-    "facebook": "https://www.facebook.com/MarianaCasGe"
+    "facebook": "https://www.facebook.com/MarianaCasGe",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
@@ -3580,7 +3986,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/valeriaavila93_?s=20",
-    "facebook": "https://www.facebook.com/Valeriaavgu"
+    "facebook": "https://www.facebook.com/Valeriaavgu",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
@@ -3589,7 +3996,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/PrisFrancoB?s=20",
-    "facebook": "https://www.facebook.com/PrisFrancoB"
+    "facebook": "https://www.facebook.com/PrisFrancoB",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
@@ -3598,7 +4006,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/ricardovivirparaservir"
+    "facebook": "https://www.facebook.com/ricardovivirparaservir",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
@@ -3607,7 +4016,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/LupitaGomezDto14"
+    "facebook": "https://www.facebook.com/LupitaGomezDto14",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
@@ -3616,7 +4026,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
@@ -3625,7 +4036,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
@@ -3634,7 +4046,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/alexjuarezgdl?s=20",
-    "facebook": "https://www.facebook.com/alejandrojuarezgdl"
+    "facebook": "https://www.facebook.com/alejandrojuarezgdl",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
@@ -3643,7 +4056,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
@@ -3652,7 +4066,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/FabianSebastianGdl14"
+    "facebook": "https://www.facebook.com/FabianSebastianGdl14",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
@@ -3661,7 +4076,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
@@ -3670,7 +4086,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 14 (Guadalajara)",
@@ -3679,7 +4096,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/RicardoLpezGa14?s=20",
-    "facebook": "https://www.facebook.com/Ricardo-L%C3%B3pez-Garc%C3%ADa-107789554604663"
+    "facebook": "https://www.facebook.com/Ricardo-L%C3%B3pez-Garc%C3%ADa-107789554604663",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
@@ -3688,7 +4106,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
@@ -3697,7 +4116,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/alejandra.becerracarranza"
+    "facebook": "https://www.facebook.com/alejandra.becerracarranza",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
@@ -3706,7 +4126,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/PattyRetamoza"
+    "facebook": "https://www.facebook.com/PattyRetamoza",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
@@ -3715,7 +4136,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/juanluis.aguilargarcia.7"
+    "facebook": "https://www.facebook.com/juanluis.aguilargarcia.7",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
@@ -3724,7 +4146,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/ViriMurilloL"
+    "facebook": "https://www.facebook.com/ViriMurilloL",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
@@ -3733,7 +4156,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/kukitacervantesv"
+    "facebook": "https://www.facebook.com/kukitacervantesv",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
@@ -3742,7 +4166,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
@@ -3751,7 +4176,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
@@ -3760,7 +4186,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/rodolfo.acuna.10"
+    "facebook": "https://www.facebook.com/rodolfo.acuna.10",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
@@ -3769,7 +4196,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/gomez_sarvia?s=20",
-    "facebook": "https://www.facebook.com/Sarvia-G%C3%B3mez-110245060749579"
+    "facebook": "https://www.facebook.com/Sarvia-G%C3%B3mez-110245060749579",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
@@ -3778,7 +4206,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
@@ -3787,7 +4216,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Jesus-Fonseca-Perez-106759454847023"
+    "facebook": "https://www.facebook.com/Jesus-Fonseca-Perez-106759454847023",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 15",
@@ -3796,7 +4226,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/gustavoedmundo.estradajaime"
+    "facebook": "https://www.facebook.com/gustavoedmundo.estradajaime",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
@@ -3805,7 +4236,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
@@ -3814,7 +4246,8 @@
     "electo": "",
     "url": "http://www.danielachavez.mx/",
     "twitter": "https://twitter.com/DaniChavezE?s=20",
-    "facebook": "https://www.facebook.com/danielachavezes"
+    "facebook": "https://www.facebook.com/danielachavezes",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
@@ -3823,7 +4256,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Carrasco_Cris8?s=20",
-    "facebook": "https://www.facebook.com/cristinacarrasco08"
+    "facebook": "https://www.facebook.com/cristinacarrasco08",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
@@ -3832,7 +4266,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MarcoFuentesUno?s=20",
-    "facebook": "https://www.facebook.com/MarcoFuentesUno"
+    "facebook": "https://www.facebook.com/MarcoFuentesUno",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
@@ -3841,7 +4276,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/vasques4T?s=20",
-    "facebook": "https://www.facebook.com/vasques4T"
+    "facebook": "https://www.facebook.com/vasques4T",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
@@ -3850,7 +4286,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/FigueroaJL16?s=20",
-    "facebook": "https://www.facebook.com/FigueroaM16"
+    "facebook": "https://www.facebook.com/FigueroaM16",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
@@ -3859,7 +4296,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/profile.php?id=100065301084899"
+    "facebook": "https://www.facebook.com/profile.php?id=100065301084899",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
@@ -3868,7 +4306,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/mvz_galan-358739268431004"
+    "facebook": "https://www.facebook.com/mvz_galan-358739268431004",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
@@ -3877,7 +4316,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
@@ -3886,7 +4326,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
@@ -3895,7 +4336,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/deniss.franco.verde"
+    "facebook": "https://www.facebook.com/deniss.franco.verde",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
@@ -3904,7 +4346,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 16 (Tlaquepaque)",
@@ -3913,7 +4356,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Veronica-Cueto-105933698252119"
+    "facebook": "https://www.facebook.com/Veronica-Cueto-105933698252119",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
@@ -3922,7 +4366,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Dario-Torres-377507496393881"
+    "facebook": "https://www.facebook.com/Dario-Torres-377507496393881",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
@@ -3931,7 +4376,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/GudinoFuturo?s=20",
-    "facebook": "https://www.facebook.com/LuisEnriqueG.Futuro"
+    "facebook": "https://www.facebook.com/LuisEnriqueG.Futuro",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
@@ -3940,7 +4386,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/JorgeBernalD17"
+    "facebook": "https://www.facebook.com/JorgeBernalD17",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
@@ -3949,7 +4396,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/lolislopezjara?s=20",
-    "facebook": "https://www.facebook.com/lolislopezjara"
+    "facebook": "https://www.facebook.com/lolislopezjara",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
@@ -3958,7 +4406,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/JuliaValenciaa"
+    "facebook": "https://www.facebook.com/JuliaValenciaa",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
@@ -3967,7 +4416,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/FelicitasAguilarIb"
+    "facebook": "https://www.facebook.com/FelicitasAguilarIb",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
@@ -3976,7 +4426,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
@@ -3985,7 +4436,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
@@ -3994,7 +4446,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/alberto.arreolacastaneda"
+    "facebook": "https://www.facebook.com/alberto.arreolacastaneda",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
@@ -4003,7 +4456,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
@@ -4012,7 +4466,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/erikitaramire"
+    "facebook": "https://www.facebook.com/erikitaramire",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 17 (Zapotlanejo, Juanacatlán, Jocotepec)",
@@ -4021,7 +4476,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
@@ -4030,7 +4486,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
@@ -4039,7 +4496,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Jorge-Sebastian-Lopez-Guitron-Kichis-103164455238284"
+    "facebook": "https://www.facebook.com/Jorge-Sebastian-Lopez-Guitron-Kichis-103164455238284",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
@@ -4048,7 +4506,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MonicaAlmeidalo?s=20",
-    "facebook": "https://www.facebook.com/MonicaAlmeidaL"
+    "facebook": "https://www.facebook.com/MonicaAlmeidaL",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
@@ -4057,7 +4516,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/fernando.martinezguerrero.5"
+    "facebook": "https://www.facebook.com/fernando.martinezguerrero.5",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
@@ -4066,7 +4526,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/DavidMichelCamarena"
+    "facebook": "https://www.facebook.com/DavidMichelCamarena",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
@@ -4075,7 +4536,8 @@
     "electo": "",
     "url": "https://www.facebook.com/IrmadeAnda.org",
     "twitter": "https://twitter.com/irma_de_anda?s=20",
-    "facebook": "https://www.facebook.com/IrmadeAnda.org"
+    "facebook": "https://www.facebook.com/IrmadeAnda.org",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
@@ -4084,7 +4546,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
@@ -4093,7 +4556,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
@@ -4102,7 +4566,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/DraAnaDegollado"
+    "facebook": "https://www.facebook.com/DraAnaDegollado",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
@@ -4111,7 +4576,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/CandidatoDiputadoLocalDistrito18"
+    "facebook": "https://www.facebook.com/CandidatoDiputadoLocalDistrito18",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
@@ -4120,7 +4586,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
@@ -4129,7 +4596,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/oliviagalvez.d18"
+    "facebook": "https://www.facebook.com/oliviagalvez.d18",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 18",
@@ -4138,7 +4606,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
@@ -4147,7 +4616,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/profile.php?id=1379464591"
+    "facebook": "https://www.facebook.com/profile.php?id=1379464591",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
@@ -4156,7 +4626,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/AlejandrinaLp10?s=20",
-    "facebook": "https://www.facebook.com/AlejandrinaLpz"
+    "facebook": "https://www.facebook.com/AlejandrinaLpz",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
@@ -4165,7 +4636,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/GueroAlvarezCh?s=20",
-    "facebook": "https://www.facebook.com/GueroAlvarezCh/"
+    "facebook": "https://www.facebook.com/GueroAlvarezCh/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
@@ -4174,7 +4646,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/higiniodeltoro?s=20",
-    "facebook": "https://www.facebook.com/higiniodeltoro0"
+    "facebook": "https://www.facebook.com/higiniodeltoro0",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
@@ -4183,7 +4656,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/CarTolViz"
+    "facebook": "https://www.facebook.com/CarTolViz",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
@@ -4192,7 +4666,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/NoeSaulRamosGa1?s=20",
-    "facebook": "https://www.facebook.com/noesramosgarcia"
+    "facebook": "https://www.facebook.com/noesramosgarcia",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
@@ -4201,7 +4676,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
@@ -4210,7 +4686,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/fcojhl"
+    "facebook": "https://www.facebook.com/fcojhl",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
@@ -4219,7 +4696,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/AnaIsabelOcegueraC"
+    "facebook": "https://www.facebook.com/AnaIsabelOcegueraC",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
@@ -4228,7 +4706,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
@@ -4237,7 +4716,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
@@ -4246,7 +4726,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 19 (Zapotlán el Grande)",
@@ -4255,7 +4736,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
@@ -4264,7 +4746,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/aurelio.gonzalezlopez"
+    "facebook": "https://www.facebook.com/aurelio.gonzalezlopez",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
@@ -4273,7 +4756,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/arquimidesMX?s=20",
-    "facebook": "https://www.facebook.com/arquimidesMX"
+    "facebook": "https://www.facebook.com/arquimidesMX",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
@@ -4282,7 +4766,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Joelalvarezchicatano"
+    "facebook": "https://www.facebook.com/Joelalvarezchicatano",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
@@ -4291,7 +4776,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Estfaniapadilla?s=20",
-    "facebook": "https://www.facebook.com/soyfanipadilla"
+    "facebook": "https://www.facebook.com/soyfanipadilla",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
@@ -4300,7 +4786,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/profile.php?id=100022070412359"
+    "facebook": "https://www.facebook.com/profile.php?id=100022070412359",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
@@ -4309,7 +4796,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
@@ -4318,7 +4806,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
@@ -4327,7 +4816,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
@@ -4336,7 +4826,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Marisol-Casian-401661499854353"
+    "facebook": "https://www.facebook.com/Marisol-Casian-401661499854353",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
@@ -4345,7 +4836,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/LuizaConZ"
+    "facebook": "https://www.facebook.com/LuizaConZ",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
@@ -4354,7 +4846,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/ArmandoPorElVerde"
+    "facebook": "https://www.facebook.com/ArmandoPorElVerde",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
@@ -4363,7 +4856,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Local DTTO. 20 (Tonalá)",
@@ -4372,7 +4866,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 1",
@@ -4381,7 +4876,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/celia.gonzalezpiz"
+    "facebook": "https://www.facebook.com/celia.gonzalezpiz",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 1",
@@ -4390,7 +4886,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/JGerardoRuizD"
+    "facebook": "https://www.facebook.com/JGerardoRuizD",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 1",
@@ -4399,7 +4896,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Mar%C3%ADa-Isabel-Delgado-Cornejo-102334328626079"
+    "facebook": "https://www.facebook.com/Mar%C3%ADa-Isabel-Delgado-Cornejo-102334328626079",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 1",
@@ -4408,7 +4906,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/gustavomaciasz?s=20",
-    "facebook": "https://www.facebook.com/gustavomaciasz"
+    "facebook": "https://www.facebook.com/gustavomaciasz",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 1",
@@ -4417,7 +4916,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/orozcomarcelatequila"
+    "facebook": "https://www.facebook.com/orozcomarcelatequila",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 1",
@@ -4426,7 +4926,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/diputadofederalerospadilla"
+    "facebook": "https://www.facebook.com/diputadofederalerospadilla",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 2",
@@ -4435,7 +4936,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Marcela-Adriana-Mart%C3%ADnez-Valdivia-103963265134246"
+    "facebook": "https://www.facebook.com/Marcela-Adriana-Mart%C3%ADnez-Valdivia-103963265134246",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 2",
@@ -4444,7 +4946,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/EdgarGonzalezMC?s=20",
-    "facebook": "https://www.facebook.com/EdgarGonzalezEML"
+    "facebook": "https://www.facebook.com/EdgarGonzalezEML",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 2",
@@ -4453,7 +4956,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/OliviaGuillenP"
+    "facebook": "https://www.facebook.com/OliviaGuillenP",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 2",
@@ -4462,7 +4966,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MarthaRomoC?s=20",
-    "facebook": "https://www.facebook.com/MarthaRomoC"
+    "facebook": "https://www.facebook.com/MarthaRomoC",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 2",
@@ -4471,7 +4976,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 2",
@@ -4480,7 +4986,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 2",
@@ -4489,7 +4996,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 2",
@@ -4498,7 +5006,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
@@ -4507,7 +5016,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
@@ -4516,7 +5026,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/DrHugoBravo?s=20",
-    "facebook": "https://www.facebook.com/drhugobravo"
+    "facebook": "https://www.facebook.com/drhugobravo",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
@@ -4525,7 +5036,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Lic-Rodrigo-Mercado-Ibarra-102342555077480"
+    "facebook": "https://www.facebook.com/Lic-Rodrigo-Mercado-Ibarra-102342555077480",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
@@ -4534,7 +5046,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/drdesideriotr?s=20",
-    "facebook": "https://www.facebook.com/Drdesideriotr"
+    "facebook": "https://www.facebook.com/Drdesideriotr",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
@@ -4543,7 +5056,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
@@ -4552,7 +5066,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/groups/463121751027799/user/1729970832"
+    "facebook": "https://www.facebook.com/groups/463121751027799/user/1729970832",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
@@ -4561,7 +5076,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 3",
@@ -4570,7 +5086,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/PepeRodriguezG/"
+    "facebook": "https://www.facebook.com/PepeRodriguezG/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
@@ -4579,7 +5096,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/letty.salvaje"
+    "facebook": "https://www.facebook.com/letty.salvaje",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
@@ -4588,7 +5106,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/IrisayRodriguez?s=20",
-    "facebook": "https://www.facebook.com/IrisayRodriguezG"
+    "facebook": "https://www.facebook.com/IrisayRodriguezG",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
@@ -4597,7 +5116,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Raulalvarez87?s=20",
-    "facebook": "https://www.facebook.com/RaulAlvarezVilllasenor"
+    "facebook": "https://www.facebook.com/RaulAlvarezVilllasenor",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
@@ -4606,7 +5126,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/soypolocortes?s=20",
-    "facebook": "https://www.facebook.com/soypolocortes/"
+    "facebook": "https://www.facebook.com/soypolocortes/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
@@ -4615,7 +5136,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Sof%C3%ADa-C%C3%A1rdenas-Pineda-100602872147946"
+    "facebook": "https://www.facebook.com/Sof%C3%ADa-C%C3%A1rdenas-Pineda-100602872147946",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 4",
@@ -4624,7 +5146,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
@@ -4633,7 +5156,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/alfredosanchezrodarte"
+    "facebook": "https://www.facebook.com/alfredosanchezrodarte",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
@@ -4642,7 +5166,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/DrJaimeZayas?s=20",
-    "facebook": "https://www.facebook.com/DrJaimeZayas"
+    "facebook": "https://www.facebook.com/DrJaimeZayas",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
@@ -4651,7 +5176,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/bruno_blancas?s=20",
-    "facebook": "https://www.facebook.com/BrunoBlancasMercado"
+    "facebook": "https://www.facebook.com/BrunoBlancasMercado",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
@@ -4660,7 +5186,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Carlos_Gerard?s=20",
-    "facebook": "https://www.facebook.com/carlosgerardD5"
+    "facebook": "https://www.facebook.com/carlosgerardD5",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
@@ -4669,7 +5196,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/RobertoGlezpv?s=20",
-    "facebook": "https://www.facebook.com/RobertoGonzalezpv"
+    "facebook": "https://www.facebook.com/RobertoGonzalezpv",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 5",
@@ -4678,7 +5206,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
@@ -4687,7 +5216,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
@@ -4696,7 +5226,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/ManuelHerreraV?s=20",
-    "facebook": "https://www.facebook.com/ManuelHerreraV.mx"
+    "facebook": "https://www.facebook.com/ManuelHerreraV.mx",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
@@ -4705,7 +5236,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Montserrat-Tostado-101214548753457"
+    "facebook": "https://www.facebook.com/Montserrat-Tostado-101214548753457",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
@@ -4714,7 +5246,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Adybuenrostro?s=20",
-    "facebook": "https://www.facebook.com/Adriana-Buenrostro-V%C3%A1zquez-113957130736548"
+    "facebook": "https://www.facebook.com/Adriana-Buenrostro-V%C3%A1zquez-113957130736548",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
@@ -4723,7 +5256,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Araceli-P-V%C3%A1zquez-148746059160351"
+    "facebook": "https://www.facebook.com/Araceli-P-V%C3%A1zquez-148746059160351",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 6",
@@ -4732,7 +5266,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
@@ -4741,7 +5276,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/icelafmx"
+    "facebook": "https://www.facebook.com/icelafmx",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
@@ -4750,7 +5286,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/ENRIQUEGUZ?s=20",
-    "facebook": "https://www.facebook.com/EnriqueGuzmanL"
+    "facebook": "https://www.facebook.com/EnriqueGuzmanL",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
@@ -4759,7 +5296,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/BetoVillaMx?s=20",
-    "facebook": "https://www.facebook.com/BetoVillaVillegas"
+    "facebook": "https://www.facebook.com/BetoVillaVillegas",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
@@ -4768,7 +5306,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Laura-Figueroa-105447028215049"
+    "facebook": "https://www.facebook.com/Laura-Figueroa-105447028215049",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
@@ -4777,7 +5316,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 7",
@@ -4786,7 +5326,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/BrendaFloresRSP"
+    "facebook": "https://www.facebook.com/BrendaFloresRSP",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
@@ -4795,7 +5336,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
@@ -4804,7 +5346,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MauroGarzaMarin?s=20",
-    "facebook": "https://www.facebook.com/MauroGarzaMarin"
+    "facebook": "https://www.facebook.com/MauroGarzaMarin",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
@@ -4813,7 +5356,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/yeseniagdl?s=20",
-    "facebook": "https://www.facebook.com/yeseniagalvanb"
+    "facebook": "https://www.facebook.com/yeseniagalvanb",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
@@ -4822,7 +5366,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Claudiasa12A?s=20",
-    "facebook": "https://www.facebook.com/Claudia-Salda%C3%B1a-Ascencio-103801708421409"
+    "facebook": "https://www.facebook.com/Claudia-Salda%C3%B1a-Ascencio-103801708421409",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
@@ -4831,7 +5376,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Zonia-Merino-Garcia-de-Alba-459366687774804"
+    "facebook": "https://www.facebook.com/Zonia-Merino-Garcia-de-Alba-459366687774804",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 8",
@@ -4840,7 +5386,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Victor.Ramirez.Rsp"
+    "facebook": "https://www.facebook.com/Victor.Ramirez.Rsp",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
@@ -4849,7 +5396,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Adela-Vazquez-Larios-102814385023692"
+    "facebook": "https://www.facebook.com/Adela-Vazquez-Larios-102814385023692",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
@@ -4858,7 +5406,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/carmenjuliagdl?s=20",
-    "facebook": "https://www.facebook.com/carmenjuliagdl"
+    "facebook": "https://www.facebook.com/carmenjuliagdl",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
@@ -4867,7 +5416,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/RocioCoronaNkm?s=20",
-    "facebook": "https://www.facebook.com/RocioCoronaNkm"
+    "facebook": "https://www.facebook.com/RocioCoronaNkm",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
@@ -4876,7 +5426,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/juarezmiranda?s=20",
-    "facebook": "https://www.facebook.com/NataliaJuarezMiranda"
+    "facebook": "https://www.facebook.com/NataliaJuarezMiranda",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
@@ -4885,7 +5436,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
@@ -4894,7 +5446,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MaricarmenCaud3?s=20",
-    "facebook": "https://www.facebook.com/Maricarmencaude"
+    "facebook": "https://www.facebook.com/Maricarmencaude",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 9",
@@ -4903,7 +5456,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/chrisrodriguezindependiente"
+    "facebook": "https://www.facebook.com/chrisrodriguezindependiente",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
@@ -4912,7 +5466,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
@@ -4921,7 +5476,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Horaciofdzc?s=20",
-    "facebook": "https://www.facebook.com/Horaciofernandezcastillo"
+    "facebook": "https://www.facebook.com/Horaciofernandezcastillo",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
@@ -4930,7 +5486,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/AmiMontejano?s=20",
-    "facebook": "https://www.facebook.com/aminadabmontejano"
+    "facebook": "https://www.facebook.com/aminadabmontejano",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
@@ -4939,7 +5496,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/framirezad10?s=20",
-    "facebook": "https://www.facebook.com/framirezad10/"
+    "facebook": "https://www.facebook.com/framirezad10/",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
@@ -4948,7 +5506,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Jos%C3%A9-Cuauht%C3%A9moc-Montes-TEMOC-108622731310820"
+    "facebook": "https://www.facebook.com/Jos%C3%A9-Cuauht%C3%A9moc-Montes-TEMOC-108622731310820",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 10",
@@ -4957,7 +5516,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Jasaai-Nochebuena-102265795195712"
+    "facebook": "https://www.facebook.com/Jasaai-Nochebuena-102265795195712",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
@@ -4966,7 +5526,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
@@ -4975,7 +5536,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/JefaEdithMujica?s=20",
-    "facebook": "https://www.facebook.com/JefaEdithMujica"
+    "facebook": "https://www.facebook.com/JefaEdithMujica",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
@@ -4984,7 +5546,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/ClaudDelgadillo?s=20",
-    "facebook": "https://www.facebook.com/ClaudDelgadillo"
+    "facebook": "https://www.facebook.com/ClaudDelgadillo",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
@@ -4993,7 +5556,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/JorgeAranaArana?s=20",
-    "facebook": "https://www.facebook.com/JorgeAranaArana.si"
+    "facebook": "https://www.facebook.com/JorgeAranaArana.si",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
@@ -5002,7 +5566,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/bofo_100_?s=20",
-    "facebook": "https://www.facebook.com/ElBofoBautista"
+    "facebook": "https://www.facebook.com/ElBofoBautista",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 11",
@@ -5011,7 +5576,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
@@ -5020,7 +5586,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
@@ -5029,7 +5596,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MariaAsencionAl?s=20",
-    "facebook": "https://www.facebook.com/MariaAsencionAlvarez"
+    "facebook": "https://www.facebook.com/MariaAsencionAlvarez",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
@@ -5038,7 +5606,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/VeronicaRamosD?s=20",
-    "facebook": "https://www.facebook.com/RamosCruzVeronica"
+    "facebook": "https://www.facebook.com/RamosCruzVeronica",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
@@ -5047,7 +5616,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/ana_chvez?s=20",
-    "facebook": "https://www.facebook.com/anachvzvlrd"
+    "facebook": "https://www.facebook.com/anachvzvlrd",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
@@ -5056,7 +5626,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/eretlajomulco"
+    "facebook": "https://www.facebook.com/eretlajomulco",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 12",
@@ -5065,7 +5636,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
@@ -5074,7 +5646,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/TessambriZ?s=20",
-    "facebook": "https://www.facebook.com/FuerzaTessaAmbriz"
+    "facebook": "https://www.facebook.com/FuerzaTessaAmbriz",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
@@ -5083,7 +5656,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/ChecoBarrera?s=20",
-    "facebook": "https://www.facebook.com/ChecoBarreraSepulveda"
+    "facebook": "https://www.facebook.com/ChecoBarreraSepulveda",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
@@ -5092,7 +5666,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/katiacastillol?s=20",
-    "facebook": "https://www.facebook.com/KatiaCastilloLozano"
+    "facebook": "https://www.facebook.com/KatiaCastilloLozano",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
@@ -5101,7 +5676,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/BernaGuzman13"
+    "facebook": "https://www.facebook.com/BernaGuzman13",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
@@ -5110,7 +5686,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/pilonna?s=20",
-    "facebook": "https://www.facebook.com/cristina.pilona"
+    "facebook": "https://www.facebook.com/cristina.pilona",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 13",
@@ -5119,7 +5696,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Adan_Alcantar_?s=20",
-    "facebook": "https://www.facebook.com/AdanJaimeAlcantarG"
+    "facebook": "https://www.facebook.com/AdanJaimeAlcantarG",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
@@ -5128,7 +5706,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/AnaAmador6"
+    "facebook": "https://www.facebook.com/AnaAmador6",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
@@ -5137,7 +5716,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/LetyChavez_D14?s=20",
-    "facebook": "https://www.facebook.com/LetyChavezDistrito14"
+    "facebook": "https://www.facebook.com/LetyChavezDistrito14",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
@@ -5146,7 +5726,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/EnriqueAubry?s=20",
-    "facebook": "https://www.facebook.com/EnriqueAubry"
+    "facebook": "https://www.facebook.com/EnriqueAubry",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
@@ -5155,7 +5736,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Leobardo_Alcala?s=20",
-    "facebook": "https://www.facebook.com/Dr.LeobardoAlcala"
+    "facebook": "https://www.facebook.com/Dr.LeobardoAlcala",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
@@ -5164,7 +5746,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/quiroz_neli?s=20",
-    "facebook": "https://www.facebook.com/profile.php?id=100063627164032"
+    "facebook": "https://www.facebook.com/profile.php?id=100063627164032",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 14",
@@ -5173,7 +5756,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/MikeHortaTovar"
+    "facebook": "https://www.facebook.com/MikeHortaTovar",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 15",
@@ -5182,7 +5766,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 15",
@@ -5191,7 +5776,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/PauloZague?s=20",
-    "facebook": "https://www.facebook.com/PauloGabrielZague"
+    "facebook": "https://www.facebook.com/PauloGabrielZague",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 15",
@@ -5200,7 +5786,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/jubago54"
+    "facebook": "https://www.facebook.com/jubago54",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 15",
@@ -5209,7 +5796,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/LauraSanchezDXV"
+    "facebook": "https://www.facebook.com/LauraSanchezDXV",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 15",
@@ -5218,7 +5806,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Alejandro-Navarro-Lomel%C3%AD-101265122080312"
+    "facebook": "https://www.facebook.com/Alejandro-Navarro-Lomel%C3%AD-101265122080312",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 15",
@@ -5227,7 +5816,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/martinlachiva.alvarezcervantes"
+    "facebook": "https://www.facebook.com/martinlachiva.alvarezcervantes",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
@@ -5236,7 +5826,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Norma-Becerra-Moreno-107883574739260"
+    "facebook": "https://www.facebook.com/Norma-Becerra-Moreno-107883574739260",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
@@ -5245,7 +5836,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/portillajoaquin?s=20",
-    "facebook": "https://www.facebook.com/JoaquinPortillaOficial"
+    "facebook": "https://www.facebook.com/JoaquinPortillaOficial",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
@@ -5254,7 +5846,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/LauraImelPerezS?s=20",
-    "facebook": "https://www.facebook.com/LauraImelPerezS"
+    "facebook": "https://www.facebook.com/LauraImelPerezS",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
@@ -5263,7 +5856,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/juarezvero?s=20",
-    "facebook": "https://www.facebook.com/VeronicaBeatrizJuarezPina"
+    "facebook": "https://www.facebook.com/VeronicaBeatrizJuarezPina",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
@@ -5272,7 +5866,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 16",
@@ -5281,7 +5876,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/TeresaOwens21"
+    "facebook": "https://www.facebook.com/TeresaOwens21",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
@@ -5290,7 +5886,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
@@ -5299,7 +5896,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MartinEsp_17?s=20",
-    "facebook": "https://www.facebook.com/JuanMartinEspinozaOficial"
+    "facebook": "https://www.facebook.com/JuanMartinEspinozaOficial",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
@@ -5308,7 +5906,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/antonio.ramirez.ramos.s"
+    "facebook": "https://www.facebook.com/antonio.ramirez.ramos.s",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
@@ -5317,7 +5916,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Hector_PadillaG?s=20",
-    "facebook": "https://www.facebook.com/HectorPadG"
+    "facebook": "https://www.facebook.com/HectorPadG",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
@@ -5326,7 +5926,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/martin.gonzalezoropeza"
+    "facebook": "https://www.facebook.com/martin.gonzalezoropeza",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 17",
@@ -5335,7 +5936,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 18",
@@ -5344,7 +5946,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/OscarSedano01"
+    "facebook": "https://www.facebook.com/OscarSedano01",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 18",
@@ -5353,7 +5956,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/MaryPaezJal?s=20",
-    "facebook": "https://www.facebook.com/MaryPaezJal"
+    "facebook": "https://www.facebook.com/MaryPaezJal",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 18",
@@ -5362,7 +5966,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Ismael-Hernandez-Acosta-111778341011221"
+    "facebook": "https://www.facebook.com/Ismael-Hernandez-Acosta-111778341011221",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 18",
@@ -5371,7 +5976,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/lupillo_fletes?s=20",
-    "facebook": "https://www.facebook.com/lupillofletesoficial"
+    "facebook": "https://www.facebook.com/lupillofletesoficial",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 18",
@@ -5380,7 +5986,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/PES-Candidato-a-Diputado-Federal-Por-el-Distrito-18-Homero-Espinoza-Diaz-110205024507738"
+    "facebook": "https://www.facebook.com/PES-Candidato-a-Diputado-Federal-Por-el-Distrito-18-Homero-Espinoza-Diaz-110205024507738",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 18",
@@ -5389,7 +5996,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/ClarissaBenitez.D18"
+    "facebook": "https://www.facebook.com/ClarissaBenitez.D18",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
@@ -5398,7 +6006,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/GabyAcostaZubieta"
+    "facebook": "https://www.facebook.com/GabyAcostaZubieta",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
@@ -5407,7 +6016,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/PepeGuerreroZu?s=20",
-    "facebook": "https://www.facebook.com/PepeGuerreroZu"
+    "facebook": "https://www.facebook.com/PepeGuerreroZu",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
@@ -5416,7 +6026,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/Adriana-Candelario-129605344564248"
+    "facebook": "https://www.facebook.com/Adriana-Candelario-129605344564248",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
@@ -5425,7 +6036,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/AndresSRamosC?s=20",
-    "facebook": "https://www.facebook.com/AndresSRamosC"
+    "facebook": "https://www.facebook.com/AndresSRamosC",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
@@ -5434,7 +6046,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 19",
@@ -5443,7 +6056,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/CuitlahuacSantillanO"
+    "facebook": "https://www.facebook.com/CuitlahuacSantillanO",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
@@ -5452,7 +6066,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
@@ -5461,7 +6076,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/ISRAELOROZCO_?s=20",
-    "facebook": "https://www.facebook.com/IsraelOrozcoM"
+    "facebook": "https://www.facebook.com/IsraelOrozcoM",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
@@ -5470,7 +6086,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": "https://www.facebook.com/JoseLuisSanchezGDL"
+    "facebook": "https://www.facebook.com/JoseLuisSanchezGDL",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
@@ -5479,7 +6096,8 @@
     "electo": "",
     "url": "",
     "twitter": "https://twitter.com/Cuquis_Camarena?s=20",
-    "facebook": "https://www.facebook.com/LicCamarenaOficial"
+    "facebook": "https://www.facebook.com/LicCamarenaOficial",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
@@ -5488,7 +6106,8 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   },
   {
     "Candidatura": "Diputado Federal DTTO. 20",
@@ -5497,6 +6116,7 @@
     "electo": "",
     "url": "",
     "twitter": "",
-    "facebook": ""
+    "facebook": "",
+    "Antecedentes": ""
   }
 ]
