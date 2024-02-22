@@ -123,7 +123,7 @@ function getCandidates() {
                     tableguts = tableguts + "<a href='" + data[i].facebook 
                     + "' target='_blank'><i class='fab fa-facebook'></i></a>"
                 };
-                tableguts = tableguts + "</td><td>" + data[i].antecedentes; 
+                tableguts = tableguts + "</td><td>" + data[i].Antecedentes; 
                 items.push(tableguts + "</td></tr>");
             };
         };
