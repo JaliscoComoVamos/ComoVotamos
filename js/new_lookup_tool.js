@@ -18,7 +18,8 @@ function getCandidates() {
                 if (data[i].facebook || 0 !== data[i].facebook.length) {
                     tableguts = tableguts + "<a href='" + data[i].facebook 
                     + "' target='_blank'><i class='fab fa-facebook'></i></a>"
-                };
+                };   
+                tableguts = tableguts + </td><td>" + data[i].antecedentes + 
                 items.push(tableguts + "</td></tr>");
             }
         };
