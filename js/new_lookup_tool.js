@@ -87,21 +87,26 @@ function getCandidates() {
         var items = [];
         for (i = 0; i < data.length; i++) {
             if (data[i].Candidatura === "Senador") {
-                var tableguts = "<tr><td><b>" + data[i].Nombre.split(' y ').join("</b><span style='color: #555'> y </span><b>") + "</b>";
-                if (data[i].electo || 0 !== data[i].electo.length) {
-                    tableguts = tableguts + "<br><span class='electo'>" + data[i].electo + "</span>"
-                };
-                tableguts = tableguts + "</td><td class='long'>" + data[i].Partido + "</td><td class='long'>";
-                if (data[i].facebook_senadores || 0 !== data[i].facebook_senadores.length) {
-                    var info = data[i].facebook_senadores.split(',');
-                    tableguts = tableguts + info[0] + ": <a href='" + info[1] + 
-                        "' target='_blank'><i class='fab fa-facebook'></i></a><br>" + 
-                        info[2] + ": <a href='" + info[3] + 
-                        "' target='_blank'><i class='fab fa-facebook'></i></a>"
-                };
-                tableguts = tableguts + "</td><td>" + data[i].Antecedentes; 
-                items.push(tableguts + "</td></tr>");
-            }
+              var tableguts = "<tr><td><b>" + data[i].Nombre + "</b>";
+              if (data[i].electo || 0 !== data[i].electo.length) {
+                  tableguts = tableguts + "&nbsp;&nbsp;<span class='electo'>" + data[i].electo + "</span>"
+              };
+              tableguts = tableguts + "</td><td class='long'>" + data[i].Partido + "</td><td>";
+              if (data[i].url || 0 !== data[i].url.length)  {
+                  tableguts = tableguts + "<a href='" + data[i].url
+                  + "' target='_blank'><i class='fas fa-globe'></i></a>&nbsp;&nbsp;"
+              };
+              if (data[i].twitter || 0 !== data[i].twitter.length) {
+                  tableguts = tableguts + "<a href='" + data[i].twitter
+                  + "' target='_blank'><i class='fab fa-twitter'></i></a>&nbsp;&nbsp;"
+              };
+              if (data[i].facebook || 0 !== data[i].facebook.length) {
+                  tableguts = tableguts + "<a href='" + data[i].facebook
+                  + "' target='_blank'><i class='fab fa-facebook'></i></a>"
+              };
+              tableguts = tableguts + "</td><td>" + data[i].Antecedentes;
+              items.push(tableguts + "</td></tr>");
+            };
         };
         $('#senador-results').find('tbody').append(items);
 
