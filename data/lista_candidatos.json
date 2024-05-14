@@ -59,10 +59,66 @@
     "facebook": "https://www.facebook.com/lauharo",
     "Antecedentes": ""
   },
-
-
-
-  
+  {
+    "Candidatura": "Senador",
+    "Nombre": "Francisco Javier Ramírez Acuña",
+    "Partido": "PAN, PRI, PRD",
+    "electo": "",
+    "url": "",
+    "twitter": "https://x.com/PacoRamirezAcu?s=20",
+    "facebook": "https://www.facebook.com/PacoRamirezA",
+    "Antecedentes": ""
+  },
+  {
+    "Candidatura": "Senador",
+    "Nombre": "María del Rocío Corona Nakamura",
+    "Partido": "MORENA, PT, PVEM",
+    "electo": "",
+    "url": "",
+    "twitter": "https://x.com/RocioCoronaNkm?s=20",
+    "facebook": "https://www.facebook.com/RocioCoronaNkm",
+    "Antecedentes": "PRI"
+  },
+  {
+    "Candidatura": "Senador",
+    "Nombre": "Mirza Flores Gómez",
+    "Partido": "MC",
+    "electo": "",
+    "url": "",
+    "twitter": "https://x.com/MirzaFloresG?s=20",
+    "facebook": "https://www.facebook.com/mirzafloresg",
+    "Antecedentes": ""
+  },
+  {
+    "Candidatura": "Senador",
+    "Nombre": "Alberto Esquer Gutiérrez",
+    "Partido": "MC",
+    "electo": "",
+    "url": "",
+    "twitter": "https://twitter.com/AlbertoEsquerG",
+    "facebook": "https://www.facebook.com/AlbertoEsquerG",
+    "Antecedentes": "PAN"
+  },
+  {
+    "Candidatura": "Senador",
+    "Nombre": "Natalia Juarez Miranda",
+    "Partido": "PAN, PRI, PRD",
+    "electo": "",
+    "url": "",
+    "twitter": "https://twitter.com/juarezmiranda",
+    "facebook": "https://www.facebook.com/ntalia.miranda",
+    "Antecedentes": "PRD"
+  },
+  {
+    "Candidatura": "Senador",
+    "Nombre": "Carlos Lomelí Bolaños",
+    "Partido": "MORENA, PT, PVEM",
+    "electo": "",
+    "url": "",
+    "twitter": "https://x.com/DrCarlosLomeli?s=20",
+    "facebook": "https://www.facebook.com/DrCarlosLomeli",
+    "Antecedentes": "MC\nPRD"
+  },
   {
     "Candidatura": "Acatlán de Juárez",
     "Nombre": "René Frías Luquín",
