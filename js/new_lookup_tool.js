@@ -97,7 +97,7 @@ function getCandidates() {
                     tableguts = tableguts + info[0] + ": <a href='" + info[1] + 
                         "' target='_blank'><i class='fab fa-facebook'></i></a><br>" + 
                         info[2] + ": <a href='" + info[3] + 
-                        "' target='_blank'><i class='fab fa-facebook'></i></a>";
+                        "' target='_blank'><i class='fab fa-facebook'></i></a>"
                 };
                 tableguts = tableguts + "</td><td>" + data[i].Antecedentes; 
                 items.push(tableguts + "</td></tr>");
