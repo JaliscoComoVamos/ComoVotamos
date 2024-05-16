@@ -308,7 +308,7 @@ var colors = ["#e6194b", "#e6194b", "#e6194b", "#ffe119", "#e6194b",
 var popups = [];
 
 map.on('load', function() {
-    d3.json('archivos_mapa/Municipios.geojson', function(data) {
+    d3.json('archivos_mapa/Jalisco_Como_Votamos_2024.geojson', function(data) {
         let geocoder2 = new MapboxGeocoder({
             accessToken: mapboxgl.accessToken,
             countries: 'mx',
