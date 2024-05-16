@@ -371,7 +371,7 @@ map.on('load', function() {
             }
         });
     });
-    d3.json('archivos_mapa/Municipios.geojson', function(data2) {
+    d3.json('archivos_mapa/Jalisco_Como_Votamos_2024.geojson', function(data2) {
         data2.features.forEach((distrito, index) => {
             map.addSource(distrito.properties.Name, {
                 type: 'geojson',
