@@ -371,7 +371,7 @@ map.on('load', function() {
             }
         });
     });
-    d3.json('archivos_mapa/Municipios y distritos 2024.geojson', function(data2) {
+    d3.json('archivos_mapa/Distritos 2024.geojson', function(data2) {
         data2.features.forEach((distrito, index) => {
             map.addSource(distrito.properties.Name, {
                 type: 'geojson',
