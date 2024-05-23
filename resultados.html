@@ -432,7 +432,7 @@ svg2.append('rect')
   .on('click', clicked_dist);
 
 var map2 = svg2.append('g');
-d3.json("{{ '/archivos_mapa/distritos_jalisco.geo.json' | relative_url }}", function(json) {
+d3.json("{{ '/archivos_mapa/Distritos 2024.geojson' | relative_url }}", function(json) {
   map2.selectAll("path")
     .data(json.features).enter()
     .append("path")
