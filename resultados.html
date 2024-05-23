@@ -407,7 +407,7 @@ svg.append('rect')
   .on('click', clicked);
 
 var map = svg.append('g');
-d3.json("{{ '/archivos_mapa/municipios_jalisco.geo.json' | relative_url }}", function(json) {
+d3.json("{{ '/archivos_mapa/Distritos 2024.geojson' | relative_url }}", function(json) {
   //draw map
   map.selectAll("path")
     .data(json.features).enter()
