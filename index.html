@@ -372,16 +372,16 @@ map.on('load', function() {
         });
     });
     d3.json('archivos_mapa/Distritos 2024.geojson', function(data2) {
-        data2.features.forEach((distrito_1, index) => {
-            map.addSource(distrito_1.properties.Name, {
+        data2.features.forEach((distrito, index) => {
+            map.addSource(distrito.properties.Name, {
                 type: 'geojson',
-                data: distrito_1
+                data: distrito
             });
             // just add this layer for the colors
             map.addLayer({
-                'id': distrito_1.properties.Name,
+                'id': distrito.properties.Name,
                 'type': 'fill',
-                'source': distrito_1.properties.Name,
+                'source': distrito.properties.Name,
                 'paint': {
                     'fill-color': colors[index],
                     'fill-opacity': .25
