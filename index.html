@@ -308,7 +308,7 @@ var colors = ["#911eb4", "#46f0f0", "#f032e6", "#3cb44b", "#fabebe",
 var popups = [];
 
 map.on('load', function() {
-    d3.json('archivos_mapa/3.geojson', function(data) {
+    d3.json('archivos_mapa/1.geojson', function(data) {
         let geocoder2 = new MapboxGeocoder({
             accessToken: mapboxgl.accessToken,
             countries: 'mx',
@@ -371,7 +371,7 @@ map.on('load', function() {
             }
         });
     });
-    d3.json('archivos_mapa/3.geojson', function(data2) {
+    d3.json('archivos_mapa/1.geojson', function(data2) {
         data2.features.forEach((distrito, index) => {
             map.addSource(distrito.properties.Name, {
                 type: 'geojson',
